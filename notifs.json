@@ -1,0 +1,9 @@
+{ 
+    "notifications": 
+        [
+            {
+                "new_walls": "80",
+                "general": "App updated to v2.0"
+            }
+        ]
+}
