@@ -1,63 +1,13 @@
 { 
 	"wallpapers": 
-	[
+		[
 			{
-				"author": "Chinmay",
-				"url": "http://i.imgur.com/85plXYx.png",
-				"name": "Wallpaper 1"
-			},
-			{
-				"author": "Chinmay",
-				"url": "http://i.imgur.com/dUJzxHb.png",
-				"name": "Wallpaper 2"
-			},
-			{
-				"author": "Chinmay",
-				"url": "http://i.imgur.com/ldJjG0R.png",
-				"name": "Wallpaper 3"
-			},
-			{
-				"author": "Chinmay",
-				"url": "http://i.imgur.com/l20tHIc.png",
-				"name": "Wallpaper 4"
-			},
-			{
-				"author": "Chinmay",
-				"url": "https://s-media-cache-ak0.pinimg.com/736x/25/99/06/259906d517d6440a60d0e426ced864f2.jpg",
-				"name": "Wallpaper 5"
-			},
-			{
-				"author": "Chinmay",
-				"url": "http://pic.youmobile.org/imgcdn/bkg_08_august.jpg",
-				"name": "Wallpaper 6"
-			},
-			{
-				"author": "Chinmay",
-				"url": "http://i.imgur.com/aZlqiAT.png",
-				"name": "Wallpaper 7"
-			},
-			{
-				"author": "Chinmay",
-				"url": "http://www.lirent.net/wp-content/uploads/2014/10/Android-Lollipop-wallpapers-p-800x500.png",
-				"name": "Wallpaper 8"
-			},
-			{
-				"author": "Chinmay",
-				"url": "http://i.imgur.com/Jwm663y.png",
-				"name": "Wallpaper 9"
-			},
-			{
-				"author": "Chinmay",
-				"url": "http://i.imgur.com/X5qqfPG.png",
-				"name": "Wallpaper 10"
-            },
-			{
-				"name": "Wallpaper 11",
+				"name": "ShotA",
 				"author": "Someone",
 				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg"
 			},
 			{
-				"name": "Wallpaper 12",
+				"name": "ShotB",
 				"author": "Someone",
 				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
 				"dimensions": "3200x2560"
@@ -65,59 +15,58 @@
 			{
 				"author": "Someone",
 				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-				"name": "Wallpaper 13",
+				"name": "ShotC",
 				"dimensions": "1280x720",
 				"copyright": "Credits to its creator"
 			},
 			{
-				"name": "Wallpaper 14",
+				"name": "Arrows",
 				"author": "Juan Manuel Saracho",
 				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/BlackAndWhite/Arrows.png",
 				"dimensions": "3200 x 2560",
 				"copyright": "Copyright Â© 2016 Juan Manuel Saracho. All rights reserved."
 			},
 			{
-				"name": "Wallpaper 15",
+				"name": "Cristals1",
 				"author": "Jahir Fiquitiva",
 				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/BlackAndWhite/Cristals1.png",
 				"dimensions": "3200 x 2560",
 				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
 			},
 			{
-				"name": "Wallpaper 16",
+				"name": "ColorfulPapers",
 				"author": "Jahir Fiquitiva",
 				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/MaterialDesignInspired/ColorfulPapers.png",
 				"dimensions": "3200 x 2560",
 				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
 			},
 			{
-				"name": "Wallpaper 17",
+				"name": "BarsLime",
 				"author": "Jahir Fiquitiva",
 				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/Minimal-Flat/BarsLime.png",
 				"dimensions": "3200 x 2560",
 				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
 			},
 			{
-				"name": "Wallpaper 18",
+				"name": "BarsPink",
 				"author": "Jahir Fiquitiva",
 				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/Minimal-Flat/BarsPink.png",
 				"dimensions": "3200 x 2560",
 				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
 			},
 			{
-				"name": "Wallpaper 19",
+				"name": "BouncePink",
 				"author": "Jahir Fiquitiva",
 				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/Minimal-Flat/BouncePink.png",
 				"dimensions": "3200 x 2560",
 				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
 			},
 			{
-				"name": "Wallpaper 20",
+				"name": "BounceYellow",
 				"author": "Jahir Fiquitiva",
 				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/Minimal-Flat/BounceYellow.png",
 				"dimensions": "3200 x 2560",
 				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
 			}
-	]
+		]
 }
-
