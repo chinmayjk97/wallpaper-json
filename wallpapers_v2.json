@@ -1,0 +1,72 @@
+{ 
+	"wallpapers": 
+		[
+			{
+				"name": "ShotA",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg"
+			},
+			{
+				"name": "ShotB",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+				"dimensions": "3200x2560"
+			},
+			{
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+				"name": "ShotC",
+				"dimensions": "1280x720",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Arrows",
+				"author": "Juan Manuel Saracho",
+				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/BlackAndWhite/Arrows.png",
+				"dimensions": "3200 x 2560",
+				"copyright": "Copyright Â© 2016 Juan Manuel Saracho. All rights reserved."
+			},
+			{
+				"name": "Cristals1",
+				"author": "Jahir Fiquitiva",
+				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/BlackAndWhite/Cristals1.png",
+				"dimensions": "3200 x 2560",
+				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
+			},
+			{
+				"name": "ColorfulPapers",
+				"author": "Jahir Fiquitiva",
+				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/MaterialDesignInspired/ColorfulPapers.png",
+				"dimensions": "3200 x 2560",
+				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
+			},
+			{
+				"name": "BarsLime",
+				"author": "Jahir Fiquitiva",
+				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/Minimal-Flat/BarsLime.png",
+				"dimensions": "3200 x 2560",
+				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
+			},
+			{
+				"name": "BarsPink",
+				"author": "Jahir Fiquitiva",
+				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/Minimal-Flat/BarsPink.png",
+				"dimensions": "3200 x 2560",
+				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
+			},
+			{
+				"name": "BouncePink",
+				"author": "Jahir Fiquitiva",
+				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/Minimal-Flat/BouncePink.png",
+				"dimensions": "3200 x 2560",
+				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
+			},
+			{
+				"name": "BounceYellow",
+				"author": "Jahir Fiquitiva",
+				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/Minimal-Flat/BounceYellow.png",
+				"dimensions": "3200 x 2560",
+				"copyright": "Copyright Ã‚Â© 2016 Jahir Fiquitiva. All rights reserved."
+			}
+		]
+}
