@@ -1,0 +1,40 @@
+{
+    "contacts": [
+        {
+                "id": "c200",
+                "book_name": "Ravi Tamada",
+                "book_url": "ravi@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "+91 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+        {
+                "id": "c201",
+                "book_name": "Johnny Depp",
+                "book_url": "johnny_depp@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "+91 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+        {
+                "id": "c2012",
+                "book_name": "Eminem",
+                "book_url": "eminem@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "+91 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        }
+    ]
+}
