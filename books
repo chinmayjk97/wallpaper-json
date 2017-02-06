@@ -1,17 +1,17 @@
 {
     "Books": [
         {
-                "book_edition": "7th Edition",
                 "book_name": "K D Tripathi",
                 "book_url": "www.facebook.com",
-                "book_size": 22 MB"
+                "book_edition": "7th Edition",
+                "book_size": "22 MB"
                 
         },
         {
-                "book_edition": "5th Edition",
                 "book_name": "Tortora",
                 "book_url": "www.youtube.com",
-                "book_size": 28 MB"
+                "book_edition": "5th Edition",
+                "book_size": "28 MB"
         }
     ]
 }
