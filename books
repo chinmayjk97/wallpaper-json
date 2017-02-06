@@ -4,58 +4,58 @@
                 "book_edition": "7th Edition",
                 "book_name": "K D Tripathi",
                 "book_url": "www.facebook.com",
-                "size": 22 MB"
+                "book_size": 22 MB"
                 
         },
         {
                 "book_edition": "5th Edition",
                 "book_name": "Tortora",
                 "book_url": "www.youtube.com",
-                "size": 28 MB"
+                "book_size": 28 MB"
         },
         {
                 "book_edition": "3rd Edition",
                 "book_name": "Eminem",
                 "book_url": "www.google.com",
-                "size": 25 MB"
+                "book_size": 25 MB"
         },
            {
                 "book_edition": "7th Edition",
                 "book_name": "K D Tripathi",
                 "book_url": "www.facebook.com",
-                "size": 22 MB"
+                "book_size": 22 MB"
                 
         },
         {
                 "book_edition": "5th Edition",
                 "book_name": "Tortora",
                 "book_url": "www.youtube.com",
-                "size": 28 MB"
+                "book_size": 28 MB"
         },
         {
                 "book_edition": "3rd Edition",
                 "book_name": "Eminem",
                 "book_url": "www.google.com",
-                "size": 25 MB"
+                "book_size": 25 MB"
         },
           {
                 "book_edition": "7th Edition",
                 "book_name": "K D Tripathi",
                 "book_url": "www.facebook.com",
-                "size": 22 MB"
+                "book_size": 22 MB"
                 
         },
         {
                 "book_edition": "5th Edition",
                 "book_name": "Tortora",
                 "book_url": "www.youtube.com",
-                "size": 28 MB"
+                "book_size": 28 MB"
         },
         {
                 "book_edition": "3rd Edition",
                 "book_name": "Eminem",
                 "book_url": "www.google.com",
-                "size": 25 MB"
+                "book_size": 25 MB"
         }
     ]
 }
