@@ -25,6 +25,12 @@
                 "book_url": "http://www.youtube.com",
                 "book_edition": "5th Edition",
                 "book_size": "28 MB"
+        },
+        {
+        "book_name": "Bahl & Tuli",
+                "book_url": "https://drive.google.com/open?id=0B6z9_azvPvHjcmJCNk5ic1Z4UEU",
+                "book_edition": "Multi-colour Edition",
+                "book_size": "28 MB"
         }
     ]
 }
