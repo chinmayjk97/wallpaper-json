@@ -1,34 +1,34 @@
 {
     "Books": [
         {
-                "book_name": "K D Tripathi",
-                "book_url": "http://www.facebook.com",
-                "book_edition": "7th Edition",
-                "book_size": "22 MB"
+                "book_name": "[Tortora] Principles of Anatomy and Physiology",
+                "book_url": "https://doc-04-ag-docs.googleusercontent.com/docs/securesc/mf34lsotpvniqi4c8fv56241mi9vj20b/6sqrpel1a8hv375i0itf5e11d3pn8hgi/1486634400000/04758552278839007374/04758552278839007374/0B6z9_azvPvHjZEw0Y1A3YVFFQmM?e=download",
+                "book_edition": "14th Edition",
+                "book_size": "88 MB"
                 
         },
         {
-                "book_name": "Tortora",
-                "book_url": "http://www.youtube.com",
-                "book_edition": "5th Edition",
-                "book_size": "28 MB"
+                "book_name": "[Ross & Wilson] Anatomy and Physiology in Health and Illness",
+                "book_url": "https://doc-0c-ag-docs.googleusercontent.com/docs/securesc/mf34lsotpvniqi4c8fv56241mi9vj20b/3a1uc29gr11gch3fa5cuct3mqnsnbu9n/1486634400000/04758552278839007374/04758552278839007374/0B6z9_azvPvHjUFVCTmsxaW5vVlE?e=download",
+                "book_edition": "12th Edition",
+                "book_size": "43 MB"
         },
         {
-                "book_name": "K D Tripathi",
-                "book_url": "http://www.facebook.com",
-                "book_edition": "7th Edition",
-                "book_size": "22 MB"
+                "book_name": "[E. D. Aulton] Pharmaceutics : the Science of Dosageform",
+                "book_url": "https://doc-0k-ag-docs.googleusercontent.com/docs/securesc/mf34lsotpvniqi4c8fv56241mi9vj20b/06v1bpl35n55cnes51umm0q6vrfufh29/1486641600000/04758552278839007374/04758552278839007374/0B6z9_azvPvHjTEQ4cndkZ1J6Qnc?e=download",
+                "book_edition": "2nd Edition",
+                "book_size": "69 MB"
                 
         },
         {
-                "book_name": "Tortora",
-                "book_url": "http://www.youtube.com",
-                "book_edition": "5th Edition",
-                "book_size": "28 MB"
+                "book_name": "[Kaushik & Kaushik] Perspective in EVS",
+                "book_url": "https://doc-14-ag-docs.googleusercontent.com/docs/securesc/mf34lsotpvniqi4c8fv56241mi9vj20b/fg6mk2a574rdpt3vps0f1ne0c8korpjc/1486634400000/04758552278839007374/04758552278839007374/0B6z9_azvPvHjUGg2TVduLU53Z00?e=download",
+                "book_edition": "2nd Edition",
+                "book_size": "7.2 MB"
         },
         {
-        "book_name": "Bahl & Tuli",
-                "book_url": "https://drive.google.com/open?id=0B6z9_azvPvHjcmJCNk5ic1Z4UEU",
+                "book_name": "[Bahl & Tuli] Essentials of Physical Chemistry",
+                "book_url": "https://doc-04-ag-docs.googleusercontent.com/docs/securesc/mf34lsotpvniqi4c8fv56241mi9vj20b/7i2dk8snkpcme998tc9mlra83g9c783i/1486634400000/04758552278839007374/04758552278839007374/0B6z9_azvPvHjcmJCNk5ic1Z4UEU?e=download",
                 "book_edition": "Multi-colour Edition",
                 "book_size": "28 MB"
         }
