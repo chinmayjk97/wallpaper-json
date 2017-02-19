@@ -1,0 +1,19 @@
+{
+    "Exams": [
+        {
+                "exam_sem": "Sem 1",
+                "exam_url": "http://www.facebook.com",
+                "exam_month": "April 2017",
+                "exam_type": "C.B.G.S",
+                "exam_size": "2 MB"
+                
+        },
+        {
+                "exam_sem": "Sem 2",
+                "exam_url": "http://www.facebook.com",
+                "exam_month": "April 2017",
+                "exam_type": "Choice based C.B.G.S",
+                "exam_size": "2 MB"
+        }
+    ]
+}
