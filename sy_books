@@ -26,10 +26,55 @@
                 "book_size": "24 MB"
         },
         {
+                "book_name": "[K D Tripathi] [7th Edition] Essentials of Medical Pharmacology",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNkJZOHpwNGFQb0U",
+                "book_edition": "7th Edition",
+                "book_size": "48 MB"
+        },
+        {
+                "book_name": "Pharmacology - Goodman & Gilman - Manual of Pharmacology and Therapeutics",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjX0h3SHdIMkkyN1U",
+                "book_edition": "12th Edition",
+                "book_size": "58 MB"
+        },
+        
+        
+        {
                 "book_name": "[Morrison & Boyd] [6th Edition]Organic Chemistry",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjc2VKVkd6Qi11MGM",
                 "book_edition": "6th Edition",
                 "book_size": "88 MB"
+        },
+        {
+                "book_name": "Organic Chemistry - Finar - Organic Chemistry - Vol 2",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjanZ4WWlrT1B5WjQ",
+                "book_edition": "3rd Edition",
+                "book_size": "23 MB"
+        },
+        {
+                "book_name": "Organic Chemistry - Solomon, Fryhle - Organic Chemistry",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjZGxyQVdxbkdsd2c",
+                "book_edition": "10th Edition",
+                "book_size": "85 MB"
+        },
+        
+        {
+                "book_name": "Analytical Chemistry - Beckette, Stanlake - Practical Pharmaceutical Chemistry Part II",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjME1qTUc2amNGNG8",
+                "book_edition": "4th Edition",
+                "book_size": "38 MB"
+        },
+        {
+                "book_name": "Analytical Chemistry - Skoog, Holler, Crouch - Principles of Instrumental Analysis",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeXpXQTFaWk1yS1E",
+                "book_edition": "6th Edition",
+                "book_size": "52 MB"
+        },
+        {
+                "book_name": "Analytical Chemistry - Watson - Pharmaceutical Analysis",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjSkg2bVh6UzFnTjQ",
+                "book_edition": "2000 Reprint Edition",
+                "book_size": "17 MB"
         },
         {
                 "book_name": "[E. D. Aulton] Pharmaceutics : the Science of Dosageform",
@@ -57,6 +102,13 @@
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeEhzUzdtcTMzdU0",
                 "book_edition": "20th Edition",
                 "book_size": "139 MB"
+                
+        },
+        {
+                "book_name": "Microbiology - Hugo, Russell - Pharmaceutical Microbiology.pdf",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHja1J6NnlkV3Jrem8",
+                "book_edition": "7th Edition",
+                "book_size": "4 MB"
                 
         },
         {
