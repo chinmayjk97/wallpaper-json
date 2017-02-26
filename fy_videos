@@ -1,18 +1,16 @@
-[
-    {
-        "title": "Dawn of the Planet of the Apes",
-        "thumb_url": "http://api.androidhive.info/json/movies/1.jpg",
-    },
-    {
-        "title": "District 9",
-        "thumb_url": "http://api.androidhive.info/json/movies/2.jpg",
-    },
-    {
-        "title": "Transformers: Age of Extinction",
-        "thumb_url": "http://api.androidhive.info/json/movies/3.jpg",
-    },
-    {
-        "title": "X-Men: Days of Future Past",
-        "thumb_url": "http://api.androidhive.info/json/movies/4.jpg",
-    }
-]
+{
+    "Videos": [
+        {
+                "title": "Dawn of the Planet of the Apes",
+                "thumb_url": "http://api.androidhive.info/json/movies/1.jpg"                
+        },
+        {
+                "title": "District 9",
+                "thumb_url": "http://api.androidhive.info/json/movies/2.jpg"                
+        },
+        {
+                "title": "X-Men: Days of Future Past",
+                "thumb_url": "http://api.androidhive.info/json/movies/3.jpg"                
+        }
+   ]
+}        
