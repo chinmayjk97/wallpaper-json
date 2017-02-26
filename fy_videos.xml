@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+    <video>
+        <title>Someone Like You</title>
+        <thumb_url>http://api.androidhive.info/music/images/adele.png</thumb_url>
+    </video>
+    <video>
+        <title>Space Bound</title>
+        <thumb_url>http://api.androidhive.info/music/images/eminem.png</thumb_url>
+    </video>
+</videos>
