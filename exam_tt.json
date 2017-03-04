@@ -2,16 +2,129 @@
     "Exams": [
         {
                 "exam_sem": "Sem 1",
-                "exam_url": "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjYkt3WGoyM1ZqbVU",
+                "exam_month": "March'17 - Revised ",
+                "exam_size": "20 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 1",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNWt2SzZnUEd6c2M",
                 "exam_month": "April'17 - C.B.G.S ",
-                "exam_size": "Coming Soon"
+                "exam_size": "18 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 1",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjb2NHRDRMeFdRa0U",
+                "exam_month": "April'17 - Choice Based Credit System ",
+                "exam_size": "18 KB"
                 
         },
         {
                 "exam_sem": "Sem 2",
-                "exam_url": "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
-                "exam_month": "April'17 - Choice based C.B.G.S",
-                "exam_size": "Coming Soon"
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjb1lHczF1RjZRTnM",
+                "exam_month": "March'17 - Revised ",
+                "exam_size": "14 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 2",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjMlpPUWdXaTFtR00",
+                "exam_month": "April'17 - C.B.G.S ",
+                "exam_size": "14 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 2",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjQzdDQjk2a3haNUE",
+                "exam_month": "April'17 - Choice Based Credit System ",
+                "exam_size": "20 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 3",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjOFBrXzZZbTVRNXc",
+                "exam_month": "April'17 - Revised ",
+                "exam_size": "20 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 3",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNEF4eVNpbURIZms",
+                "exam_month": "April'17 - C.B.G.S ",
+                "exam_size": "20 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 4",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjZENlbW1aWFBUWUk",
+                "exam_month": "April'17 - Revised ",
+                "exam_size": "20 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 4",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjV1JaZGZ1emtNOTg",
+                "exam_month": "April'17 - C.B.G.S ",
+                "exam_size": "14 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 5",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjaUhJYUdmY2RfcGM",
+                "exam_month": "April'17 - C.B.G.S ",
+                "exam_size": "14 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 5",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjQ0NBV0gxTFlSN0U",
+                "exam_month": "April'17 - Revised ",
+                "exam_size": "14 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 6",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjTHNpQWx3ZjNZVlU",
+                "exam_month": "April'17 - C.B.G.S ",
+                "exam_size": "14 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 6",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjOVpqaS1UMFJmSUk",
+                "exam_month": "April'17 - Revised ",
+                "exam_size": "14 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 7",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjT3ZKV254VUxSMDQ",
+                "exam_month": "April'17 - C.B.G.S ",
+                "exam_size": "14 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 7",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjTi1sUXVFUFFOTDg",
+                "exam_month": "April'17 - Revised ",
+                "exam_size": "14 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 8",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjVkE0QzF3eld5ekE",
+                "exam_month": "April'17 - C.B.G.S ",
+                "exam_size": "14 KB"
+                
+        },
+        {
+                "exam_sem": "Sem 8",
+                "exam_url": "https://drive.google.com/file/d/0B6z9_azvPvHjZFhYNDJBdGNwNzg",
+                "exam_month": "April'17 - Revised ",
+                "exam_size": "14 KB"
+                
         }
     ]
 }
