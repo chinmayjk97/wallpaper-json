@@ -2,18 +2,18 @@
     "Videos": [
         {
             "title": "Drugs Acting on CNS",
-	           "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
+	    "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
             "video_length": "22min30s"
         },
         {
             "title": "Drugs Acting on ANS",
-	           "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
+	    "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
             "video_length": "20:00"
         },
-	      	{
+	{
             "title": "Drugs Acting on PNS",
-	           "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
+	    "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
             "video_length": "00:58"
-	      	}
+	}
     ]
 }
