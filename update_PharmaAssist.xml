@@ -1,10 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.1</latestVersion>
+    <latestVersion>1.2</latestVersion>
     <url>https://tinyurl.com/PharmaAssist</url>
     <releaseNotes>
 - Revamped UI
 - Merged eBooks and Question paper Section
+- Added Videos Section
 - Bug fixes
     </releaseNotes>
   </update>
