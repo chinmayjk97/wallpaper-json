@@ -1,19 +1,39 @@
 {
     "Videos": [
         {
-            "title": "Drugs Acting on CNS",
-	    "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
-            "video_length": "22min30s"
+            "title": "Acids ",
+	    "url" : "https://youtu.be/XZNtsGJ8K34",
+            "video_length": "Video length: 2:41"
         },
         {
-            "title": "Drugs Acting on ANS",
-	    "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
-            "video_length": "20min33s"
+            "title": "Acid and Base : Buffers and Waters ",
+	    "url" : "https://youtu.be/k-PbcEg3xIw",
+            "video_length": "Video length: 8:10"
         },
 	{
-            "title": "Drugs Acting on PNS",
-	    "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
-            "video_length": "00:58"
-	}
+            "title": "Functional Group - Amines ",
+	    "url" : "https://youtu.be/zXw3raXps9E",
+            "video_length": "Video length: 6:33"
+	},
+	{
+            "title": "Functional Group - Aldehydes and Ketones ",
+	    "url" : "https://youtu.be/YjSwzKJfD5o",
+            "video_length": "Video length: 14:55"
+        },
+	{
+            "title": "Non - Aqueous Titrations ",
+	    "url" : "https://youtu.be/KCVc7AlVls8",
+            "video_length": "Video length: 3:06"
+        },
+	{
+            "title": "Drug Response Curve (DRC) of Acetylcholine ",
+	    "url" : "https://youtu.be/UMeOR9PO5cw",
+            "video_length": "Video length: 8:34"
+        },
+	{
+            "title": "Drugs Acting on ANS ",
+	    "url" : "https://youtu.be/_jQGimFFs4A",
+            "video_length": "Video length: 16:16"
+        }
     ]
 }
