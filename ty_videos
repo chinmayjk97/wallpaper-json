@@ -1,22 +1,19 @@
-[
+{
+    "Videos": [
         {
-                "title": "Dawn of the Planet of the Apes",
-                "thumb_url": "http://api.androidhive.info/json/movies/1.jpg"                
+            "title": "Drugs Acting on CNS",
+	    "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
+            "video_length": "22min30s"
         },
         {
-                "title": "District 9",
-                "thumb_url": "http://api.androidhive.info/json/movies/2.jpg"                
+            "title": "Drugs Acting on ANS",
+	    "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
+            "video_length": "22min30s"
         },
-        {
-                "title": "X-Men: Days of Future Past",
-                "thumb_url": "http://api.androidhive.info/json/movies/3.jpg"                
-        },
-        {
-                "title": "Dawn of the Planet of the Apes",
-                "thumb_url": "http://api.androidhive.info/json/movies/1.jpg"                
-        },
-        {
-                "title": "District 9",
-                "thumb_url": "http://api.androidhive.info/json/movies/2.jpg"                
-        }
-   ]
+	{
+            "title": "Drugs Acting on PNS",
+	    "url" : "https://www.youtube.com/channel/UCn60cZol_8XLvVkwanExIfw",
+            "video_length": "22min30s"
+	}
+    ]
+}
