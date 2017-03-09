@@ -1,5 +1,41 @@
 {
     "QPprs": [
+   	 {
+            "subject": "OC-1",
+            "month_year": "March 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeWJ5U2xmYTc3dDg/",
+            "size": "996 KB"
+        },
+	{
+            "subject": "OC-1",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbkQ4dWtrTlYzUEk/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "OC-1",
+            "month_year": "March 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjamxrYjI2NGtZUms/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "OC-1",
+            "month_year": "Dec 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjV3dfNW9NX0tFVnc/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "OC-1",
+            "month_year": "March 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbFRMaEJNbnAyM0k/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "OC-1",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSTY2Zm13Ujh3MTg/",
+            "size": "1 MB"
+        },
         {
             "subject": "OC-2",
             "month_year": "Apr 16",
@@ -60,6 +96,42 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjYWoxOFgyYUIxMkk",
             "size": "768 KB"
 		},
+	{
+            "subject": "DP",
+            "month_year": "Apr 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZDl1dnNTZTBtM0E/",
+            "size": "723 KB"
+        },
+	{
+            "subject": "DP",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbkNCbmRDWi1uTXM/",
+            "size": "917 KB"
+        },
+	{
+            "subject": "DP",
+            "month_year": "Apr 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTzJoZnN0U2czYjg/",
+            "size": "1017 KB"
+        },
+	{
+            "subject": "DP",
+            "month_year": "Dec 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTndJNWE3MmpJZVE/",
+            "size": "738 KB"
+        },
+	{
+            "subject": "DP",
+            "month_year": "March 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVmE4N29rQ0pDWU0/",
+            "size": "968 KB"
+        },
+	{
+            "subject": "DP",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQ2RDRjgzOF9MaUk/",
+            "size": "829 KB"
+        },
 		{
             "subject": "Pharmaceutics - 2",
             "month_year": "Apr 16",
@@ -84,6 +156,42 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWDVYMnl2TGN4akU",
             "size": "486 KB"
 		},
+	{
+            "subject": "Biochem-2",
+            "month_year": "Apr 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjOEh6WGFNT0NtRnM/",
+            "size": "730 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjMDJsNk9jVEFsaDA/",
+            "size": "555 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "March 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjOWFPc0lua19UUDg/",
+            "size": "624 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "Dec 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjV1NONzlpb3Byd3M/",
+            "size": "455 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "March 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjX3JsdFl0WW1aYlE/",
+            "size": "715 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVGJQSzhNWXRSZ2c/",
+            "size": "443 KB"
+        },
 		{
             "subject": "MicroBiology",
             "month_year": "Apr 16",
@@ -114,6 +222,36 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSHhqbUQ2ZmVFek0",
             "size": "644 KB"
 		},
+	{
+            "subject": "APP-3",
+            "month_year": "Apr 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVkwzRWVka1ZhYUk/",
+            "size": "909 KB"
+        },
+	{
+            "subject": "APP-3",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZXhrTGdGbEppZEU/",
+            "size": "911 KB"
+        },
+	{
+            "subject": "APP-3",
+            "month_year": "Apr 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZWhsLTBGeVg2bms/",
+            "size": "844 KB"
+        },
+	{
+            "subject": "APP-3",
+            "month_year": "Apr 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWHkxNlhrRVVhMG8/",
+            "size": "790 KB"
+        },
+	{
+            "subject": "APP-3",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjM2oyRFcyZ1ljZUk/",
+            "size": "759 KB"
+        },
 		{
             "subject": "Pharmacology",
             "month_year": "May 16",
@@ -144,6 +282,42 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbl9waS1fYzNlSGM",
             "size": "868 KB"
 		},
+	{
+            "subject": "Maths-1",
+            "month_year": "Apr 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWFc3dEY1N0lPOEk/",
+            "size": "997 KB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeFJfREZKR3NRMDg/",
+            "size": "912 KB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "March 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeW5NRS1kUFlsWG8/",
+            "size": "907 KB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "Dec 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRkZ0Q1k1cUVqMFU/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "Apr 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjT0JsMmZ0UlN1SkE/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSlVBSEJTZzg3RmM/",
+            "size": "1 MB"
+        },
 		{
             "subject": "Maths-2",
             "month_year": "May 16",
@@ -161,6 +335,36 @@
             "month_year": "May 14",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSWx1Z1ZROV9JRlE",
             "size": "2 MB"
-		}
+		},
+	{
+            "subject": "Pharm. Engg.",
+            "month_year": "Apr 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjLUV1aEtZYlg3TVk/",
+            "size": "639 KB"
+        },
+	{
+            "subject": "Pharm. Engg.",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcnBaMkxCNmVDU1k/",
+            "size": "730 KB"
+        },
+	{
+            "subject": "Pharm. Engg.",
+            "month_year": "Apr 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcnBaMkxCNmVDU1k/",
+            "size": "726 KB"
+        },
+	{
+            "subject": "Pharm. Engg.",
+            "month_year": "Dec 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjMlRsTldCNlhqVDQ/",
+            "size": "634 KB"
+        },
+	{
+            "subject": "Pharm. Engg.",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHja2s4SjlucWFRcDQ/",
+            "size": "463 KB"
+        }
     ]
 }
