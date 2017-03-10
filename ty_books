@@ -1,17 +1,10 @@
 {
     "Books": [
         {
-                "book_name": "K D Tripathi",
-                "book_url": "http://www.facebook.com",
-                "book_edition": "7th Edition",
-                "book_size": "22 MB"
-                
-        },
-        {
-                "book_name": "Tortora",
-                "book_url": "http://www.youtube.com",
-                "book_edition": "5th Edition",
-                "book_size": "28 MB"
+                "book_name": "Coming Soon...",
+                "book_url": "https://www.youtube.com/c/PharmaKnowledge",
+                "book_edition": "Coming Soon...",
+                "book_size": " "
         }
     ]
 }
