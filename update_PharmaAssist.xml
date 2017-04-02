@@ -1,12 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.3</latestVersion>
+    <latestVersion>1.4.1</latestVersion>
     <url>https://tinyurl.com/PharmaAssist</url>
     <releaseNotes>
-- Removed Login
-- Revamped UI
-- Merged eBooks and Question paper Section
-- Added Videos Section
+- Added Android N Quick Tiles
+- Added Runtime Permissions for Android M
+- Added Internet Required Dialog at App Start
+- Added Changelog
+- Reduced APK size
 - Bug fixes
     </releaseNotes>
   </update>
