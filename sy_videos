@@ -26,6 +26,11 @@
             "video_length": "Video length: 6:03"
         },
 	{
+            "title": "Precipitation Titration ",
+	    "url" : "https://youtu.be/0dudK49febQ",
+            "video_length": "Video length: 4:18"
+        },
+	{
             "title": "Polarography ",
 	    "url" : "https://youtu.be/CO7l4cGJ_MY",
             "video_length": "Video length: 5:26"
@@ -46,6 +51,11 @@
             "video_length": "Video length: 4:12"
         },
 	{
+            "title": "Liquid - Liquid Extraction ",
+	    "url" : "https://youtu.be/WUucjNF2cpo",
+            "video_length": "Video length: 7:48"
+        },
+	{
             "title": "Functional Group - Amines ",
 	    "url" : "https://youtu.be/zXw3raXps9E",
             "video_length": "Video length: 6:33"
@@ -54,6 +64,16 @@
             "title": "Functional Group - Aldehydes and Ketones ",
 	    "url" : "https://youtu.be/YjSwzKJfD5o",
             "video_length": "Video length: 14:55"
+        },
+	{
+            "title": "Polyclic Aromatic Compounds ",
+	    "url" : "https://youtu.be/NfsksDf7zG0",
+            "video_length": "Video length: 2:55"
+        },
+	{
+            "title": "Stereochemistry ",
+	    "url" : "https://youtu.be/XKqETtPNKbI",
+            "video_length": "Video length: 9:25"
         },
 	{
             "title": "Drug Response Curve (DRC) of Acetylcholine ",
@@ -76,9 +96,9 @@
             "video_length": "Video length: 8:01"
 	},
 	{
-            "title": "Blood Products ",
-	    "url" : "https://youtu.be/jJ7WPrT7s-I",
-            "video_length": "Video length: 10:48"
+            "title": "Viruses ",
+	    "url" : "https://youtu.be/RPWMHJm2xwI",
+            "video_length": "Video length: 11:57"
 	},
 	{
             "title": "Suspensions ",
@@ -91,15 +111,26 @@
             "video_length": "Video length: 8:55"
 	},
 	{
-            "title": "Sutures and Ligatures ",
-	    "url" : "https://youtu.be/dFmCxTLPIp4",
-            "video_length": "Video length: 5:23"
+            "title": "Ointments ",
+	    "url" : "https://youtu.be/RWtjUAtT2gI",
+            "video_length": "Video length: 5:37"
 	},
 	{
             "title": "Suppositories ",
 	    "url" : "https://youtu.be/x80vmKnB260",
             "video_length": "Video length: 9:17"
+	},
+	{
+            "title": "Blood Products ",
+	    "url" : "https://youtu.be/jJ7WPrT7s-I",
+            "video_length": "Video length: 10:48"
+	},
+	{
+            "title": "Sutures and Ligatures ",
+	    "url" : "https://youtu.be/dFmCxTLPIp4",
+            "video_length": "Video length: 5:23"
 	}
+	
 	
 	]
 }
