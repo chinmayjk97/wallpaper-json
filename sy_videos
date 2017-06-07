@@ -91,16 +91,40 @@
 	    "thumbnail":"https://i.ytimg.com/vi/XKqETtPNKbI/sddefault.jpg"
         },
 	{
-            "title": "Drug Response Curve (DRC) of Acetylcholine ",
-	    "url" : "https://youtu.be/UMeOR9PO5cw",
-            "video_length": "Video length: 8:34",
-	    "thumbnail":"https://i.ytimg.com/vi/UMeOR9PO5cw/hqdefault.jpg"
+            "title": "Routes of administration ",
+	    "url" : "https://youtu.be/Iy_CpCIe4Ko",
+            "video_length": "Video length: 3:50",
+	    "thumbnail":"https://i.ytimg.com/vi/Iy_CpCIe4Ko/maxresdefault.jpg"
+        },
+	{
+            "title": "PharmacoDynamics ",
+	    "url" : "https://youtu.be/x8QjeafCKGU",
+            "video_length": "Video length: 8:05",
+	    "thumbnail":"https://i.ytimg.com/vi/x8QjeafCKGU/maxresdefault.jpg"
+        },
+	{
+            "title": "Enzyme Induction || Factors affecting Drug MOA ",
+	    "url" : "https://youtu.be/7qiBMpU_Xik",
+            "video_length": "Video length: 4:33",
+	    "thumbnail":"https://i.ytimg.com/vi/7qiBMpU_Xik/maxresdefault.jpg"
         },
 	{
             "title": "Drugs Acting on ANS ",
 	    "url" : "https://youtu.be/_jQGimFFs4A",
             "video_length": "Video length: 16:16",
 	    "thumbnail":"https://i.ytimg.com/vi/_jQGimFFs4A/sddefault.jpg"
+        },
+	{
+            "title": "Drug Response Curve (DRC) of Acetylcholine ",
+	    "url" : "https://youtu.be/UMeOR9PO5cw",
+            "video_length": "Video length: 8:34",
+	    "thumbnail":"https://i.ytimg.com/vi/UMeOR9PO5cw/hqdefault.jpg"
+        },
+	{
+            "title": "Diuretics ",
+	    "url" : "https://youtu.be/xZp2xQDoEPc",
+            "video_length": "Video length: 9:58",
+	    "thumbnail":"https://i.ytimg.com/vi/xZp2xQDoEPc/maxresdefault.jpg"
         },
 	{
             "title": "Sterilisation ",
@@ -125,6 +149,12 @@
 	    "url" : "https://youtu.be/6cRKV0lyHTo",
             "video_length": "Video length: 10:48",
 	    "thumbnail":"https://i.ytimg.com/vi/6cRKV0lyHTo/maxresdefault.jpg"
+	},
+	{
+            "title": "Eukaryotic MicroOrganism - Fungi ",
+	    "url" : "https://youtu.be/oXcJhNVTbsI",
+            "video_length": "Video length: 6:57",
+	    "thumbnail":"https://i.ytimg.com/vi/oXcJhNVTbsI/hqdefault.jpg"
 	},
 	{
             "title": "Viruses ",
