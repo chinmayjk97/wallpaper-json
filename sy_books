@@ -1,32 +1,32 @@
 {
     "Books": [
         {
-                "book_name": "[Tortora] Principles of Anatomy and Physiology",
+                "book_name": "[ Tortora ] Principles of Anatomy and Physiology",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjZEw0Y1A3YVFFQmM",
                 "book_edition": "14th Edition",
                 "book_size": "88 MB"
                 
         },
         {
-                "book_name": "[Ross & Wilson] Anatomy and Physiology in Health and Illness",
+                "book_name": "[ Ross & Wilson ] Anatomy and Physiology in Health and Illness",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjUFVCTmsxaW5vVlE",
                 "book_edition": "12th Edition",
                 "book_size": "43 MB"
         },
         {
-                "book_name": "[Harsh Mohan][7th Edition]Textbook of Pathology",
+                "book_name": "[ Harsh Mohan ][ 7th Edition ] Textbook of Pathology",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjRk5qU2EtdVFkVHc",
                 "book_edition": "11th Edition",
                 "book_size": "124 MB"
         },
         {
-                "book_name": "[Guyton & Hall]Textbook of Medical Physiology",
+                "book_name": "[ Guyton & Hall ] Textbook of Medical Physiology",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjRk5qU2EtdVFkVHc",
                 "book_edition": "12th Edition",
                 "book_size": "24 MB"
         },
         {
-                "book_name": "[K D Tripathi] [7th Edition] Essentials of Medical Pharmacology",
+                "book_name": "[ K D Tripathi ][ 7th Edition ] Essentials of Medical Pharmacology",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNkJZOHpwNGFQb0U",
                 "book_edition": "7th Edition",
                 "book_size": "48 MB"
@@ -40,7 +40,7 @@
         
         
         {
-                "book_name": "[Morrison & Boyd] [6th Edition]Organic Chemistry",
+                "book_name": "[ Morrison & Boyd ] [6th Edition] Organic Chemistry",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjc2VKVkd6Qi11MGM",
                 "book_edition": "6th Edition",
                 "book_size": "88 MB"
@@ -77,7 +77,7 @@
                 "book_size": "17 MB"
         },
         {
-                "book_name": "[E. D. Aulton] Pharmaceutics : the Science of Dosageform",
+                "book_name": "[ E. D. Aulton ] Pharmaceutics : the Science of Dosageform",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjTEQ4cndkZ1J6Qnc",
                 "book_edition": "2nd Edition",
                 "book_size": "69 MB"
