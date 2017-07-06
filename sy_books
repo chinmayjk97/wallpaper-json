@@ -57,7 +57,18 @@
                 "book_edition": "10th Edition",
                 "book_size": "85 MB"
         },
-        
+        {
+                "book_name": "[ Peter Sykes ] A Guidebook to Mechanism in Organic Chemistry ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjUmNmQ3BqOC1IYW8",
+                "book_edition": "6th Edition",
+                "book_size": "6 MB"
+        },
+        {
+                "book_name": "[ Lange ] Lange's Handbook of Chemistry",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjdU81dW9ZaWJxQVU",
+                "book_edition": "15th Edition",
+                "book_size": "6 MB"
+        },
         {
                 "book_name": "Analytical Chemistry - Beckette, Stanlake - Practical Pharmaceutical Chemistry Part II",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjME1qTUc2amNGNG8",
