@@ -29,6 +29,36 @@
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjT0RMd09TMy1kSHc",
                 "book_edition": "1989 Edition",
                 "book_size": "11 MB"
+        },
+        {
+                "book_name": "[ Peter Sykes ] A Guidebook to Mechanism in Organic Chemistry ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjUmNmQ3BqOC1IYW8",
+                "book_edition": "6th Edition",
+                "book_size": "6 MB"
+        },
+        {
+                "book_name": "[ Lange ] Lange's Handbook of Chemistry",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjdU81dW9ZaWJxQVU",
+                "book_edition": "15th Edition",
+                "book_size": "6 MB"
+        },
+        {
+                "book_name": "Reiger , Martin M. Eds. Harry's Cosmeticology, Volumes I-II ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjMHhkQWkzdUMwUFU",
+                "book_edition": "8th Edition",
+                "book_size": "46 MB"
+        },
+        {
+                "book_name": "Poucher’s Perfumes, cosmetics & Soaps, Editor- Hilda Butler , Klewer Academic Publishers ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjcVBMamV0VmFudFk",
+                "book_edition": "10th Edition",
+                "book_size": "10 MB"
+        },
+        {
+                "book_name": "Andre Barel , Howard I. Maibach , Andre O. Barel Handbook of Cosmetic Science and Technology ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjV3dESllwckx6d2s",
+                "book_edition": "3rd Edition",
+                "book_size": "10 MB"
         }
     ]
 }
