@@ -149,6 +149,18 @@
                 "book_edition": "5th Edition",
                 "book_size": "54 MB"
                 
-        }       
+        },
+        {
+                "book_name": "[ Bahl & Tuli ] Essentials of Physical Chemistry",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjcmJCNk5ic1Z4UEU",
+                "book_edition": "Multi-colour Edition",
+                "book_size": "28 MB"
+        },
+        {
+                "book_name": "Martin's Physical Pharmacy and Pharmaceutical Sciences",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjLS0wcXAxTEZmeVE",
+                "book_edition": "6th Edition",
+                "book_size": "48 MB"
+        }
     ]
 }
