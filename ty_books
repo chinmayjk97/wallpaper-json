@@ -59,6 +59,37 @@
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjV3dESllwckx6d2s",
                 "book_edition": "3rd Edition",
                 "book_size": "10 MB"
+        },
+         {
+                "book_name": "Text book of microbiology by Ananthanarayan ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjc29RSDdNVVExUHc",
+                "book_edition": "7th Edition",
+                "book_size": "34 MB"
+        },
+        {
+                "book_name": "Microbiology - Hugo, Russell - Pharmaceutical Microbiology ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHja1J6NnlkV3Jrem8",
+                "book_edition": "7th Edition",
+                "book_size": "4 MB"
+        },
+        {
+                "book_name": "Pharmaceutical Biotechnology by K. Sambamurhy & Ashutosh Kar ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNDBPS2tkX3hkTGc",
+                "book_edition": "2009 Edition",
+                "book_size": "4 MB"
+        },
+        {
+                "book_name": "Ashutosh Kar - Pharmacognosy and Pharmaco- biotechnology ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeUNkSVAyVWtaRVk",
+                "book_edition": "2nd Edition",
+                "book_size": "7 MB"
+        },
+        {
+                "book_name": "Lehninger Principles of Biochemistry",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjYnZIZkVld0RENWc",
+                "book_edition": "6th Edition",
+                "book_size": "80 MB"
+                
         }
     ]
 }
