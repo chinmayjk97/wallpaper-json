@@ -96,6 +96,12 @@
                 "book_edition": "6th Edition",
                 "book_size": "80 MB"
                 
+        },
+        {
+                "book_name": "Pharmacology - Goodman & Gilman - Manual of Pharmacology and Therapeutics",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjX0h3SHdIMkkyN1U",
+                "book_edition": "12th Edition",
+                "book_size": "58 MB"
         }
     ]
 }
