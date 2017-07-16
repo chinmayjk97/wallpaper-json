@@ -1,13 +1,16 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.4.1</latestVersion>
+    <latestVersion>2.0</latestVersion>
     <url>https://tinyurl.com/PharmaAssist</url>
     <releaseNotes>
-- Added Android N Quick Tiles
-- Added Runtime Permissions for Android M
-- Added Internet Required Dialog at App Start
-- Added Changelog
-- Reduced APK size
+- Added Thumbnails & Share option in Videos Section.
+- Added Search in eBooks Section.
+- Added Google Sign-in.
+- Added option to Change Background.
+- Added New In-App Browser.
+- Added option to Clear App's Temporary Files. 
+- Added smooth animations.
+- Improved Notification Support.
 - Bug fixes
     </releaseNotes>
   </update>
