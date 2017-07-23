@@ -67,6 +67,18 @@
 	    "thumbnail":"https://i.ytimg.com/vi/WUucjNF2cpo/maxresdefault.jpg"
         },
 	{
+            "title": "Basic Concepts Of Organic Chemistry - Part I ",
+	    "url" : "https://youtu.be/yjKalpe1WUo",
+            "video_length": "Video length: 8:40",
+	    "thumbnail":"https://i.ytimg.com/vi/yjKalpe1WUo/maxresdefault.jpg"
+	},
+	{
+            "title": "Basic Concepts Of Organic Chemistry - Part II ",
+	    "url" : "https://youtu.be/IKL7G_6ZrZE",
+            "video_length": "Video length: 6:25",
+	    "thumbnail":"https://i.ytimg.com/vi/IKL7G_6ZrZE/maxresdefault.jpg"
+	},
+	{
             "title": "Functional Group - Amines ",
 	    "url" : "https://youtu.be/zXw3raXps9E",
             "video_length": "Video length: 6:33",
