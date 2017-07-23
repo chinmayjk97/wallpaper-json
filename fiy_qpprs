@@ -1,10 +1,70 @@
 {
     "QPprs": [
         {
-            "subject": "Coming Soon...",
-            "month_year": " ",
-	    "url" : "https://www.youtube.com/c/PharmaKnowledge",
-            "size": " "
+            "subject": "Pharmaceutical Chemistry - III ",
+            "month_year": "March & Nov 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjN3VKbW5xSVB2VTQ",
+            "size": "1 MB"
+        },
+	 {
+            "subject": "Pharmaceutical Analysis- III ",
+            "month_year": "March & Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjNWpDemstR1I4MDQ",
+            "size": "1 MB "
+        },
+	 {
+            "subject": "Pharmacology-III ",
+            "month_year": "March & Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHja2xtRGRsTnk2bDA",
+            "size": "751 KB "
+        },
+	 {
+            "subject": "Pharmaceutics - IV ",
+            "month_year": "March & Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRG1qV2s5eXFQOWM",
+            "size": "663 KB "
+        },
+	 {
+            "subject": "Pharmacognosy & Phytochemistry -II ",
+            "month_year": "March & Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjX084bGw2MHRfZEE",
+            "size": "761 KB "
+        },
+	 {
+            "subject": "Pharmaceutical Jurisprudence ",
+            "month_year": "March & Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjMkR5ZTVNT0FpRFU",
+            "size": "777 KB "
+        },
+	 {
+            "subject": "Pharmaceutical Chemistry-IV ",
+            "month_year": "April 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSE1YTklWWEpEaGM",
+            "size": "720 KB "
+        },
+ 	{
+            "subject": "Pharmaceutics-V ",
+            "month_year": "April 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRE5SdXEwSWxhQVE",
+            "size": "452 KB "
+        },
+	 {
+            "subject": "Biopharmaceutics & Pharmacokinetics ",
+            "month_year": "April 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjejJXZmRIT2Z0OWc",
+            "size": "430 KB "
+        },
+	 {
+            "subject": "Pharmacognosy & Phytochemistry-III ",
+            "month_year": "April 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQW42ckdfa1dtNE0",
+            "size": "267 KB "
+        },
+	{
+            "subject": "Clinical Pharmacy ",
+            "month_year": "May 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTjBPcFBtVFRaWWM",
+            "size": "334 KB "
         }
     ]
 }
