@@ -1,6 +1,60 @@
 {
     "Books": [
         {
+                "book_name": "Thomas Lemke David A. Williams - Foye's Principles of Medicinal Chemistry - Lippincott Williams & Wilkins",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeE9pTUVvM0FSU2s",
+                "book_edition": "7th Edition (2012)",
+                "book_size": "21 MB "
+        },
+        {
+                "book_name": "David A Williams PhD - Essentials of Foye's Principle",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNVpwX1VpNlpJUDA",
+                "book_edition": "2013 Edition",
+                "book_size": "38 MB"
+        },
+        {
+                "book_name": "An Introduction to Medicinal Chemistry , Graham L. Patrick",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjYVN4OGpBMHZIWUE",
+                "book_edition": "5th Edition",
+                "book_size": "18 MB"
+        },
+        {
+                "book_name": "Fundamentals of Medicinal Chemistry , Gareth Thomas , Wiley",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjc3AzSVhRY2xma2c",
+                "book_edition": "1st Edition",
+                "book_size": "4 MB"
+        },
+        {
+                "book_name": "The Organic Chemistry of Drug Design and Drug Action , Richard B. Silverman",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjVWhzU2pZSTRYZ00",
+                "book_edition": "3rd Edition",
+                "book_size": "18 MB "
+        },
+        {
+                "book_name": "Wilson and Gisvolds - Textbook of Organic and Pharmaceutical Chemistry",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjTlljOWd2UG5WTDA",
+                "book_edition": "12th Edition",
+                "book_size": "30 MB"
+        },
+        {
+                "book_name": "Medicinal Chemistry, Ashutosh Kar",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjQThWVmNOcm5kVk0",
+                "book_edition": "4th Edition",
+                "book_size": "35 MB "
+        },
+        {
+                "book_name": "Introduction to Medicinal Chemistry , Alex Gringauz , Wiley - How Drugs Act and Why",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjQlAtVm1qS3VPSTA",
+                "book_edition": "1996 Edition",
+                "book_size": "36 MB "
+        },
+        {
+                "book_name": "Synthesis of Essential Drugs , Ruben Vardanyan and Victor Hruby",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjakc5M0VOMU1BOGM",
+                "book_edition": "2006 Edition",
+                "book_size": "4 MB "
+        },
+        {
                 "book_name": "Coming Soon...",
                 "book_url": "https://www.youtube.com/c/PharmaKnowledge",
                 "book_edition": "Coming Soon...",
