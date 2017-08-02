@@ -1,3 +1,4 @@
+
 {
     "Books": [
         {
@@ -54,7 +55,85 @@
                 "book_edition": "2006 Edition",
                 "book_size": "4 MB "
         },
+{
+                "book_name": "D. A. Skoog, F. J. Holler and S. R. Crouch, Principles of Instrumental Analysis",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjZWZ0VDNzUm9uY2c",
+                "book_edition": "6th Edition",
+                "book_size": "52 MB "
+        },
+{
+                "book_name": "L. R. Snyder , J. J. Kirkland, J. L. Glajch , Practical HPLC Method Development",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjaGhwcFpESkcwNWs",
+                "book_edition": "2nd Edition",
+                "book_size": "22 MB "
+        },
         {
+                "book_name": "S. Ahuja and M. W. Dong , Handbook of Pharmaceutical Analysis by HPLC",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjUEZFQ0duVzdLZjQ",
+                "book_edition": "Volume 6",
+                "book_size": "35 MB "
+        },
+{
+                "book_name": "Satoskar R.S. Bhandarkar S.D. & Rege N.N. Pharmacology & Therapeutics",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjOG01Y2VReVNlems",
+                "book_edition": "8th Edition",
+                "book_size": "16 MB "
+        },
+{
+                "book_name": "Peter N Bennett, Morris J Brown, Pankaj Sharma - Clinical pharmacology",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjVlFPUmtJcEtBOVE",
+                "book_edition": "11th Edition",
+                "book_size": "10 MB "
+        },
+{
+                "book_name": "[ Katzung ]Bertram Katzung, Anthony Trevor Basic and Clinical Pharmacology ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeWlXRk1tVEdORkU",
+                "book_edition": "13th Edition",
+                "book_size": "49 MB"
+        }
+{
+                "book_name": "Modern Pharmaceutics , Ed. By Gilbert S. Banker and Christopher T. Rhodes",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjRGtZT2s1UmJHaXM",
+                "book_edition": "4th Edition",
+                "book_size": "18 MB "
+        },
+{
+                "book_name": "Ophthalmic drug delivery systems , Ed by Ashim K. Mitra",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjWjk5WmJXSmk5NUk",
+                "book_edition": "2nd Edition",
+                "book_size": "4 MB"
+        },
+{
+                "book_name": "[ IP ] Indian Pharmacopoeia Vol 1",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjbDdTV0xPZE1JRXM",
+                "book_edition": "2010 Edition",
+                "book_size": "43 MB "
+        },
+{
+                "book_name": "[ IP ] Indian Pharmacopoeia Vol 2",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNFpSZnhNb082bnc",
+                "book_edition": "2010 Edition",
+                "book_size": "80 MB "
+        },
+{
+                "book_name": "[ IP ] Indian Pharmacopoeia Vol 3",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjWmNqQm9GQ3N3RTg",
+                "book_edition": "2010 Edition",
+                "book_size": "90 MB "
+        },
+{
+                "book_name": "Trease D. & Evans W.C.: Text Book of Pharmacognosy : W.B. Saunders",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHja0w2MFh0ejhSb2c",
+                "book_edition": "16th Edition",
+                "book_size": "16 MB "
+        },
+{
+                "book_name": "Ashutosh. Kar, Pharmaceutical Drug Analysis",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjQThWVmNOcm5kVk0",
+                "book_edition": "4th Edition",
+                "book_size": "35 MB "
+        },
+{
                 "book_name": "Coming Soon...",
                 "book_url": "https://www.youtube.com/c/PharmaKnowledge",
                 "book_edition": "Coming Soon...",
