@@ -1,17 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.0</latestVersion>
+    <latestVersion>2.1</latestVersion>
     <url>https://tinyurl.com/PharmaAssist</url>
     <releaseNotes>
-- Added Thumbnails and Share option in Videos Section.
-- Added Search in eBooks Section.
-- Added Google Sign-in.
-- Added option to Change Background.
-- Added New In-App Browser.
-- Added option to Clear App's Temporary Files. 
-- Added smooth animations.
-- Improved Notification Support.
-- Bug fixes
+- Long Press to copy the links.
+- Added Search in Question Paper Section.
+- Bug Fixes and Performance Improvement.
     </releaseNotes>
   </update>
 </AppUpdater>
