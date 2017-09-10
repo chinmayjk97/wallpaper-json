@@ -1,5 +1,35 @@
 {
     "Videos": [
+    	{
+            "title": "Five Membered Heterocycles with one Hetero Atom - Introduction",
+	    "url" : "https://youtu.be/J95IdafweTc",
+            "video_length": "Video length: 4:12",
+	    "thumbnail":"https://i.ytimg.com/vi/J95IdafweTc/maxresdefault.jpg"
+        },
+	{
+            "title": "Five Membered Heterocycles with Oxygen - Furan",
+	    "url" : "https://youtu.be/o8bG3n5YyoA",
+            "video_length": "Video length: 5:23",
+	    "thumbnail":"https://i.ytimg.com/vi/o8bG3n5YyoA/maxresdefault.jpg"
+        },
+	{
+            "title": "Five Membered Heterocycles with Nitrogen - PYRROLE",
+	    "url" : "https://youtu.be/IuuVEFpq9pY",
+            "video_length": "Video length: 4:04",
+	    "thumbnail":"https://i.ytimg.com/vi/IuuVEFpq9pY/maxresdefault.jpg"
+        },
+	{
+            "title": "Five Membered Heterocycles with Sulphur - THIOPHENE",
+	    "url" : "https://youtu.be/erq0QmllHT8",
+            "video_length": "Video length: 4:30",
+	    "thumbnail":"https://i.ytimg.com/vi/erq0QmllHT8/maxresdefault.jpg"
+        },
+	{
+            "title": "Introduction to Cosmeticology",
+	    "url" : "https://youtu.be/WT359xUl838",
+            "video_length": "Video length: 6:12",
+	    "thumbnail":"https://i.ytimg.com/vi/WT359xUl838/sddefault.jpg"
+        },
         {
             "title": "Coming Soon...",
 	    "url" : "https://www.youtube.com/c/PharmaKnowledge",
