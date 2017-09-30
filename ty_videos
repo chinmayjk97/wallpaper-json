@@ -25,10 +25,34 @@
 	    "thumbnail":"https://i.ytimg.com/vi/erq0QmllHT8/maxresdefault.jpg"
         },
 	{
+            "title": "Pyridine",
+	    "url" : "https://youtu.be/35xVmtSHz-4",
+            "video_length": "Video length: 4:56",
+	    "thumbnail":"https://i.ytimg.com/vi/35xVmtSHz-4/maxresdefault.jpg"
+        },
+	{
+            "title": "Pyrimidine",
+	    "url" : "https://youtu.be/sBvClAuFVSw",
+            "video_length": "Video length: 3:11",
+	    "thumbnail":"https://i.ytimg.com/vi/sBvClAuFVSw/maxresdefault.jpg"
+        },
+	{
             "title": "Introduction to Cosmeticology",
 	    "url" : "https://youtu.be/WT359xUl838",
             "video_length": "Video length: 6:12",
 	    "thumbnail":"https://i.ytimg.com/vi/WT359xUl838/sddefault.jpg"
+        },
+	{
+            "title": "Lipsticks",
+	    "url" : "https://youtu.be/b9gti6WQjV8",
+            "video_length": "Video length: 10:13",
+	    "thumbnail":"https://i.ytimg.com/vi/b9gti6WQjV8/maxresdefault.jpg"
+        },
+	{
+            "title": "SWOT Analysis - Basics",
+	    "url" : "https://youtu.be/4xmSTE6fxt8",
+            "video_length": "Video length: 3:25",
+	    "thumbnail":"https://i.ytimg.com/vi/4xmSTE6fxt8/maxresdefault.jpg"
         },
         {
             "title": "Coming Soon...",
