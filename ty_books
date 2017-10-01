@@ -91,6 +91,12 @@
                 "book_size": "7 MB"
         },
         {
+                "book_name": "Pharmacognosy by Dr. C. K. Kokate",
+                "book_url": "https://chinmayjk97.github.io/wp-content/kokate",
+                "book_edition": "Online Edition",
+                "book_size": "Online-view only"
+        },
+        {
                 "book_name": "Lehninger Principles of Biochemistry",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjYnZIZkVld0RENWc",
                 "book_edition": "6th Edition",
