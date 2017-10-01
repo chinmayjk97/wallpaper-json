@@ -115,6 +115,12 @@
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjLS0wcXAxTEZmeVE",
                 "book_edition": "6th Edition",
                 "book_size": "48 MB"
+        },
+        {
+                "book_name": "Pharmacognosy by Dr. C. K. Kokate",
+                "book_url": "https://chinmayjk97.github.io/wp-content/kokate",
+                "book_edition": "Online Edition",
+                "book_size": "Online-view only"
         }
     ]
 }
