@@ -37,6 +37,12 @@
 	    "thumbnail":"https://i.ytimg.com/vi/sBvClAuFVSw/maxresdefault.jpg"
         },
 	{
+            "title": "Indole",
+	    "url" : "https://youtu.be/b3sfWQ5jw4E",
+            "video_length": "Video length: 3:02",
+	    "thumbnail":"https://i.ytimg.com/vi/b3sfWQ5jw4E/maxresdefault.jpg"
+        },
+	{
             "title": "Introduction to Cosmeticology",
 	    "url" : "https://youtu.be/WT359xUl838",
             "video_length": "Video length: 6:12",
