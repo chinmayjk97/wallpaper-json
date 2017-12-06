@@ -1,15 +1,239 @@
 {
         "Chemistry": [
-         
+         {
+            "subject": "POC",
+            "month_year": "March 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbXFLV2RDN2IyZnM/",
+            "size": "851 KB"
+        },
+	{
+            "subject": "POC",
+            "month_year": "Dec 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcWVPZkE5d0gyNDA/",
+            "size": "805 KB"
+        },
+	{
+            "subject": "POC",
+            "month_year": "March 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjdVlnX1JrdG5fMzA/",
+            "size": "655 KB"
+        },
+	{
+            "subject": "POC",
+            "month_year": "Dec 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjb1pyQ2xKazU1VUU/",
+            "size": "806 KB"
+        },
+	{
+            "subject": "POC",
+            "month_year": "March 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWU43T1VzeGxEVUk/",
+            "size": "666 KB"
+        },
+	{
+            "subject": "POC",
+            "month_year": "Dec 12",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSlFLN09VYXR1WFE/",
+            "size": "582 KB"
+        },
+	{
+            "subject": "Pharm Chem",
+            "month_year": "May 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjXzVCWi1uM2s5T0U",
+            "size": "389 KB"
+        },
+        {
+            "subject": "Pharm Chem",
+            "month_year": "Nov 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcnFBNDA4ZUtFN2s/",
+            "size": "543 KB"
+        },
+	{
+            "subject": "Pharm Chem",
+            "month_year": "Apr 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbzhuOFhtcllobUU",
+            "size": "661 KB"
+        },
+	{
+            "subject": "Pharm Chem",
+            "month_year": "Nov 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjUmIxbDR1VmlGcjg",
+            "size": "451 KB"
+        },
+	{
+            "subject": "Pharm Chem",
+            "month_year": "May 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjenoxOUR4NThLZU0",
+            "size": "389 KB"
+        }
          ],
         "Biochem" : [
-        
+        {
+            "subject": "Biochem-1",
+            "month_year": "May 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWllvcjRMRE1lTWM",
+            "size": "647 KB"
+        },
+	{
+            "subject": "Biochem-1",
+            "month_year": "Nov 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjNHYzbThwSFNsMGs",
+            "size": "675 KB"
+        },
+	{
+            "subject": "Biochem-1",
+            "month_year": "Apr 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjYUNCMUNqaXNqM3M",
+            "size": "625 KB"
+        },
+	{
+            "subject": "Biochem-1",
+            "month_year": "Nov 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjUnhsLTdxRVRuWk0",
+            "size": "503 KB"
+        },
+	{
+            "subject": "Biochem-1",
+            "month_year": "May 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbkl6cW9pWm1hUUk",
+            "size": "490 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "Apr 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjOEh6WGFNT0NtRnM/",
+            "size": "730 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjMDJsNk9jVEFsaDA/",
+            "size": "555 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "March 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjOWFPc0lua19UUDg/",
+            "size": "624 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "Dec 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjV1NONzlpb3Byd3M/",
+            "size": "455 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "March 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjX3JsdFl0WW1aYlE/",
+            "size": "715 KB"
+        },
+	{
+            "subject": "Biochem-2",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVGJQSzhNWXRSZ2c/",
+            "size": "443 KB"
+        }
         ],
         "Pharmaceutics":[
-        
+        {
+            "subject": "Pharmaceutics-1",
+            "month_year": "May 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbnpBc2xuVDV6cDQ",
+            "size": "769 KB"
+        },
+	{
+            "subject": "Pharmaceutics-1",
+            "month_year": "Nov 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjN1VCTWZDUm9UR1E",
+            "size": "667 KB"
+        },
+	{
+            "subject": "Pharmaceutics-1",
+            "month_year": "May 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjLWlmbHVWZ1ZNRFk",
+            "size": "851 KB"
+        },
+	{
+            "subject": "Pharmaceutics-1",
+            "month_year": "Nov 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjT3ZyUXpKRi1WRFk",
+            "size": "737 KB"
+        },
+	{
+            "subject": "Pharmaceutics-1",
+            "month_year": "May 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWWUxUEQ0TVQtNDQ",
+            "size": "777 KB"
+        }
         ],
         "APP":[
-        
+        {
+            "subject": "APP-1",
+            "month_year": "Apr 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbVBjcXFjRmVGMGc/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "APP-1",
+            "month_year": "Dec 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjS0ZiUXdNVEV5VHM/",
+            "size": "738 KB"
+        },
+	{
+            "subject": "APP-1",
+            "month_year": "Apr 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjNUVaYV9CSkdUeU0/",
+            "size": "797 KB"
+        },
+	{
+            "subject": "APP-1",
+            "month_year": "Dec 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbzFyUl9RU2w2Vnc/",
+            "size": "731 KB"
+        },
+	{
+            "subject": "APP-1",
+            "month_year": "Apr 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjUk9teUpSLUh2Qnc/",
+            "size": "842 KB"
+        },
+	{
+            "subject": "APP-1",
+            "month_year": "Dec 12",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbFM2QVByMkJ2VTQ/",
+            "size": "776 KB"
+        },
+	{
+            "subject": "APP-2",
+            "month_year": "May 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjUHhNNmstWm4yanM",
+            "size": "744 KB"
+        },
+	{
+            "subject": "APP-2",
+            "month_year": "Nov 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbjROUklXbTRoa0U",
+            "size": "725 KB"
+        },
+	{
+            "subject": "APP-2",
+            "month_year": "May 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcW5mYlo5b29uVVE",
+            "size": "800 KB"
+        },
+	{
+            "subject": "APP-2",
+            "month_year": "Nov 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRE1BTXVrVkFpeDQ",
+            "size": "764 KB"
+        },
+	{
+            "subject": "APP-2",
+            "month_year": "May 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeWY3ZGRMc1l2Y28",
+            "size": "732 KB"
+        }
         ],
         "HPDSM":[
         
@@ -18,12 +242,112 @@
         
         ],
         "PP":[
-        
+        {
+            "subject": "PP-1",
+            "month_year": "March 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjd3NpbDhPZ1h5U00/",
+            "size": "833 KB"
+        },
+	{
+            "subject": "PP-1",
+            "month_year": "Dec 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZzE5dzkweFBfMVU/",
+            "size": "717 KB"
+        },
+	{
+            "subject": "PP-1",
+            "month_year": "Apr 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjS0NoZFpRSWNVdms/",
+            "size": "778 KB"
+        },
+	{
+            "subject": "PP-1",
+            "month_year": "Dec 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjajFOYlRNX1BEeVU/",
+            "size": "745 KB"
+        },
+	{
+            "subject": "PP-1",
+            "month_year": "Apr 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZzVLd09EWjhXaFE/",
+            "size": "777 KB"
+        },
+	{
+            "subject": "PP-1",
+            "month_year": "Dec 12",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSkVkMllEUEowSms/",
+            "size": "760 KB"
+        },
+	{
+            "subject": "PP-2",
+            "month_year": "Apr 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbktXZUFScWNfbEU",
+            "size": "703 KB"
+        },
+	{
+            "subject": "PP-2",
+            "month_year": "Nov 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjUmwwMEQzZ0RBdlk",
+            "size": "579 KB"
+        },
+	{
+            "subject": "PP-2",
+            "month_year": "May 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZnVnTm1qWTlTd0E",
+            "size": "683 KB"
+        },
+	{
+            "subject": "PP-2",
+            "month_year": "Nov 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVDAyeUdPUXNwTlE",
+            "size": "697 KB"
+        },
+	{
+            "subject": "PP-2",
+            "month_year": "Apr 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZjc2MDFlazFKSzA",
+            "size": "509 KB"
+        }
         ],
         "Pharmacognosy":[
         
         ],
         "Others":[
-        
+        {
+            "subject": "EVS",
+            "month_year": "Apr 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZDVlRXRSNTJDSWc/",
+            "size": "714 KB"
+        },
+	{
+            "subject": "EVS",
+            "month_year": "Dec 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjM2xQeVNlczd6SkU/",
+            "size": "618 KB"
+        },
+	{
+            "subject": "EVS",
+            "month_year": "Apr 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSk1UZEFvcUo5eWs/",
+            "size": "436 KB"
+        },
+	{
+            "subject": "EVS",
+            "month_year": "Dec 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcmVSTjdVT3RsTjQ/",
+            "size": "530 KB"
+        },
+	{
+            "subject": "EVS",
+            "month_year": "Apr 13",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZGhCR3Z4UDEtSzQ/",
+            "size": "530 KB"
+        },
+	{
+            "subject": "EVS",
+            "month_year": "Dec 12",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTi1QWGcwbTJXN3M/",
+            "size": "427 KB"
+        }
         ]
 }
