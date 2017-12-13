@@ -37,34 +37,190 @@
             "size": "582 KB"
         },
 	{
-            "subject": "Pharm Chem",
+            "subject": "OC-1",
+            "month_year": "March 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeWJ5U2xmYTc3dDg/",
+            "size": "996 KB"
+        },
+	{
+            "subject": "OC-1",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbkQ4dWtrTlYzUEk/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "OC-1",
+            "month_year": "March 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjamxrYjI2NGtZUms/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "OC-1",
+            "month_year": "Dec 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjV3dfNW9NX0tFVnc/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "OC-1",
+            "month_year": "March 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbFRMaEJNbnAyM0k/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "OC-1",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSTY2Zm13Ujh3MTg/",
+            "size": "1 MB"
+        },
+        {
+            "subject": "OC-2",
+            "month_year": "Apr 16",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVV9ubHRnZUJ3eUk",
+            "size": "1 MB"
+        },
+        {
+            "subject": "OC-2",
+            "month_year": "Nov 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVnFneVBsSEdhV0k",
+            "size": "1 MB"
+        },
+		{
+            "subject": "OC-2",
+            "month_year": "Apr 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZkNLLTZ3OVB2Smc",
+            "size": "1 MB"
+		},
+		{
+            "subject": "OC-2",
+            "month_year": "Oct 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZ3hSUlg3c2JvSk0",
+            "size": "1 MB"
+		},
+		{
+            "subject": "OC-2",
+            "month_year": "May 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZ2t0YkxFeG1SejA",
+            "size": "1 MB"
+		},
+		{
+            "subject": "OC - 3",
+            "month_year": "March 2017",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSkRxN01lRmhCNWc",
+            "size": "350 KB "
+        },
+	{
+            "subject": "OC - 3",
+            "month_year": "Nov 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjaEo2VFE1OElZcU0",
+            "size": "794 KB "
+        },
+	{
+            "subject": "OC - 3",
+            "month_year": "April 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjNHd5cm9lTGtrekk",
+            "size": "866 KB "
+        },
+	{
+            "subject": "OC - 3",
+            "month_year": "Nov 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTkZpYzVlNWRpdlE",
+            "size": "796 KB "
+        },
+	{
+            "subject": "OC - 3",
+            "month_year": "May 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWG9nZDlZQzZJZjg",
+            "size": "832 KB "
+        },
+	{
+            "subject": "OC - 3",
+            "month_year": "Nov 2014",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjUHhxWTI2SkZjVm8",
+            "size": "705 KB "
+        },
+        {
+            "subject": "OC - 3",
+            "month_year": "2014-2016 Regular & KT",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSDk1WThaVG9CM28",
+            "size": "2 MB "
+        },
+	{
+            "subject": "Pharm Chem-1",
             "month_year": "May 15",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjXzVCWi1uM2s5T0U",
             "size": "389 KB"
         },
         {
-            "subject": "Pharm Chem",
+            "subject": "Pharm Chem-1",
             "month_year": "Nov 14",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcnFBNDA4ZUtFN2s/",
             "size": "543 KB"
         },
 	{
-            "subject": "Pharm Chem",
+            "subject": "Pharm Chem-1",
             "month_year": "Apr 14",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbzhuOFhtcllobUU",
             "size": "661 KB"
         },
 	{
-            "subject": "Pharm Chem",
+            "subject": "Pharm Chem-1",
             "month_year": "Nov 13",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjUmIxbDR1VmlGcjg",
             "size": "451 KB"
         },
 	{
-            "subject": "Pharm Chem",
+            "subject": "Pharm Chem-1",
             "month_year": "May 13",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjenoxOUR4NThLZU0",
             "size": "389 KB"
+        },
+	{
+            "subject": "Pharm Chem 2 ",
+            "month_year": "March 2017",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjaVBxeTF2MTRGOVE",
+            "size": "417 KB "
+        },
+	{
+            "subject": "Pharm Chem 2 ",
+            "month_year": "Nov 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcHpkbWlVX1M4R2c",
+            "size": "1 MB "
+        },
+	{
+            "subject": "Pharm Chem 2 ",
+            "month_year": "May 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjOU85cmtZS195SE0",
+            "size": "1 MB "
+        },
+	{
+            "subject": "Pharm Chem 2 ",
+            "month_year": "Nov 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjOUljZGo1czNRclE",
+            "size": "1 MB "
+        },
+	{
+            "subject": "Pharm Chem 2 ",
+            "month_year": "April 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVzRmdHBveUV0MVU",
+            "size": "778 KB "
+        },
+	{
+            "subject": "Pharm Chem 2 ",
+            "month_year": "2015-2016 Regular & KT",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRmc3bEhHbkU5ZDg",
+            "size": "2 MB "
+        },
+	{
+            "subject": "Pharmaceutical Chemistry - III ",
+            "month_year": "March & Nov 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjN3VKbW5xSVB2VTQ",
+            "size": "1 MB"
+        },
+	{
+            "subject": "Pharmaceutical Chemistry-IV ",
+            "month_year": "April 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSE1YTklWWEpEaGM",
+            "size": "720 KB "
         }
          ],
         "Biochem" : [
@@ -133,6 +289,78 @@
             "month_year": "Dec 13",
 		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVGJQSzhNWXRSZ2c/",
             "size": "443 KB"
+        },
+	{
+            "subject": "MicroBiology",
+            "month_year": "Apr 16",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeWJ5bUd6bUhVWEU",
+            "size": "662 KB"
+		},
+		{
+            "subject": "MicroBiology",
+            "month_year": "Nov 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZ0xqdC1Ram9GNHc",
+            "size": "627 KB"
+		},
+		{
+            "subject": "MicroBiology",
+            "month_year": "May 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbFFPS0tsUm4wT00",
+            "size": "662 KB"
+		},
+		{
+            "subject": "MicroBiology",
+            "month_year": "Oct 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSHhqbUQ2ZmVFek0",
+            "size": "692 KB"
+		},
+		{
+            "subject": "MicroBiology",
+            "month_year": "Apr 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSHhqbUQ2ZmVFek0",
+            "size": "644 KB"
+		},
+{
+            "subject": "Biotech",
+            "month_year": "March 17",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjOXdzUUNTZEp1RGc",
+            "size": "242 KB "
+        },
+	{
+            "subject": "Biotech",
+            "month_year": "Nov 16",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeXVFN3Z4aWtZc1E",
+            "size": "494 KB "
+        },
+	{
+            "subject": "Biotech",
+            "month_year": "April 16",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjdkNzRUFKYzFpTmM",
+            "size": "671 KB "
+        },
+	{
+            "subject": "Biotech",
+            "month_year": "Nov 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjU3pnU0xRUktuTVE",
+            "size": "449 KB "
+        },
+	{
+            "subject": "Biotech",
+            "month_year": "May 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcWRlcUNKS3VCZ2s",
+            "size": "637 KB "
+        },
+	{
+            "subject": "Biotech",
+            "month_year": "Nov 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQTZqWG8zdEE5dXc",
+            "size": "688 KB "
+        },
+	{
+            "subject": "Biotech",
+            "month_year": "2014-2016 Regular & KT",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRzhrbWY3Nms3SjQ",
+            "size": "1 MB "
         }
         ],
         "Pharmaceutics":[
@@ -165,6 +393,150 @@
             "month_year": "May 13",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWWUxUEQ0TVQtNDQ",
             "size": "777 KB"
+        },
+	{
+            "subject": "Pharmaceutics - 2",
+            "month_year": "Apr 16",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWVVIT3BMcDFhVDQ",
+            "size": "622 KB"
+		},
+		{
+            "subject": "Pharmaceutics - 2",
+            "month_year": "Nov 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTUxLVGFkaTBBRXM",
+            "size": "535 KB"
+		},
+		{
+            "subject": "Pharmaceutics - 2",
+            "month_year": "May 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQkhDellaa0p0WUE",
+            "size": "607 KB"
+		},
+		{
+            "subject": "Pharmaceutics - 2",
+            "month_year": "May 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWDVYMnl2TGN4akU",
+            "size": "486 KB"
+		},
+		{
+            "subject": "Pharmaceutics - 3 ",
+            "month_year": "March 2017",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZXBNSlJ2bEE3Mkk",
+            "size": "239 KB "
+        },
+	{
+            "subject": "Pharmaceutics - 3 ",
+            "month_year": "Nov 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjLUhQVEdCbl9aZlE",
+            "size": "538 KB "
+        },
+	{
+            "subject": "Pharmaceutics - 3 ",
+            "month_year": "May 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjd09QaS1FU21LVzg",
+            "size": "407 KB "
+        },
+	{
+            "subject": "Pharmaceutics - 3 ",
+            "month_year": "Nov 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeEpncTVZZHlqM00",
+            "size": "465 KB "
+        },
+	{
+            "subject": "Pharmaceutics - 3 ",
+            "month_year": "April 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbEdNU0tVeVVkcWc",
+            "size": "373 KB "
+        },
+	{
+            "subject": "Pharmaceutics - 3 ",
+            "month_year": "March 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQS1xbWxTd29wT3c/",
+            "size": "322 KB "
+        },
+	{
+            "subject": "Pharmaceutics - IV ",
+            "month_year": "March & Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRG1qV2s5eXFQOWM",
+            "size": "663 KB "
+        },
+	{
+            "subject": "Pharmaceutics-V ",
+            "month_year": "April 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRE5SdXEwSWxhQVE",
+            "size": "452 KB "
+        },
+	{
+            "subject": "DP",
+            "month_year": "Apr 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZDl1dnNTZTBtM0E/",
+            "size": "723 KB"
+        },
+	{
+            "subject": "DP",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbkNCbmRDWi1uTXM/",
+            "size": "917 KB"
+        },
+	{
+            "subject": "DP",
+            "month_year": "Apr 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTzJoZnN0U2czYjg/",
+            "size": "1017 KB"
+        },
+	{
+            "subject": "DP",
+            "month_year": "Dec 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTndJNWE3MmpJZVE/",
+            "size": "738 KB"
+        },
+	{
+            "subject": "DP",
+            "month_year": "March 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVmE4N29rQ0pDWU0/",
+            "size": "968 KB"
+        },
+	{
+            "subject": "DP",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQ2RDRjgzOF9MaUk/",
+            "size": "829 KB"
+        },
+	{
+            "subject": "Cosmeticology",
+            "month_year": "March 2017",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSk1taDdVTi0tSU0",
+            "size": "238 KB "
+        },
+	{
+            "subject": "Cosmeticology",
+            "month_year": "Nov 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjOWRjdXhnRTFvd1U",
+            "size": "575 KB "
+        },
+	{
+            "subject": "Cosmeticology",
+            "month_year": "April 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHja1dCR3htR2ZoLTg",
+            "size": "664 KB "
+        },
+	{
+            "subject": "Cosmeticology",
+            "month_year": "Nov 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQXJQV0lWblcwdVk",
+            "size": "432 KB "
+        },
+	{
+            "subject": "Cosmeticology",
+            "month_year": "Nov 2014",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcHUtYUN6TUtRRDA",
+            "size": "679 KB "
+        },
+	{
+            "subject": "Cosmeticology",
+            "month_year": "2014-2016 Regular & KT",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjYlg1R3hyMVJ3ckE",
+            "size": "1 MB "
         }
         ],
         "APP":[
@@ -233,13 +605,239 @@
             "month_year": "May 13",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeWY3ZGRMc1l2Y28",
             "size": "732 KB"
+        },
+	{
+            "subject": "APP-3",
+            "month_year": "Apr 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVkwzRWVka1ZhYUk/",
+            "size": "909 KB"
+        },
+	{
+            "subject": "APP-3",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZXhrTGdGbEppZEU/",
+            "size": "911 KB"
+        },
+	{
+            "subject": "APP-3",
+            "month_year": "Apr 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZWhsLTBGeVg2bms/",
+            "size": "844 KB"
+        },
+	{
+            "subject": "APP-3",
+            "month_year": "Apr 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWHkxNlhrRVVhMG8/",
+            "size": "790 KB"
+        },
+	{
+            "subject": "APP-3",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjM2oyRFcyZ1ljZUk/",
+            "size": "759 KB"
+        },
+	{
+            "subject": "Pharmacology-1",
+            "month_year": "May 16",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSkpMa0g0bjhvRTA",
+            "size": "898 KB"
+		},
+		{
+            "subject": "Pharmacology-1",
+            "month_year": "Nov 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSkpMa0g0bjhvRTA",
+            "size": "893 KB"
+		},
+		{
+            "subject": "Pharmacology-1",
+            "month_year": "May 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSmk1SHlyM3BlS1U",
+            "size": "725 KB"
+		},
+		{
+            "subject": "Pharmacology-1",
+            "month_year": "Oct 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjdFFfWU4tTnNVRUU",
+            "size": "821 KB"
+		},
+		{
+            "subject": "Pharmacology-1",
+            "month_year": "May 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbl9waS1fYzNlSGM",
+            "size": "868 KB"
+		},
+		{
+            "subject": "Pharmacology - 2 ",
+            "month_year": "April 2017 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVy1CaUVsSGRPV1U",
+            "size": "246 KB "
+        },
+	{
+            "subject": "Pharmacology - 2 ",
+            "month_year": "Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWXUwQXVsQkdZU2M",
+            "size": "1 MB "
+        },
+	{
+            "subject": "Pharmacology - 2 ",
+            "month_year": "April 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZHJrZkF0TlB5OE0",
+            "size": "801 KB "
+        },
+	{
+            "subject": "Pharmacology - 2 ",
+            "month_year": "Dec 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjdWpCZUtoVXhsYWc",
+            "size": "850 KB "
+        },
+	{
+            "subject": "Pharmacology - 2 ",
+            "month_year": "May 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQ3plNUw1SGdJc2M",
+            "size": "788 KB "
+        },
+	{
+            "subject": "Pharmacology - 2 ",
+            "month_year": "Nov 2014",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjOXJhVXV4SmhIY2c",
+            "size": "756 KB "
+        },
+	{
+            "subject": "Pharmacology - 2 ",
+            "month_year": "2014-2016 Regular & KT",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZ2IxVlY4dFlaMVU",
+            "size": "2 MB "
+        },
+	{
+            "subject": "Pharmacology-III ",
+            "month_year": "March & Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHja2xtRGRsTnk2bDA",
+            "size": "751 KB "
+        },
+	{
+            "subject": "Biopharmaceutics & Pharmacokinetics ",
+            "month_year": "April 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjejJXZmRIT2Z0OWc",
+            "size": "430 KB "
         }
         ],
         "HPDSM":[
-        
+        {
+            "subject": "HPDSM ",
+            "month_year": "March 2017",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjUWE3bTJrNmc2eWs/view?usp=sharing",
+            "size": "301 KB "
+        },
+	{
+            "subject": "HPDSM ",
+            "month_year": "Nov 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWWVoZUw2QnVIekE/view?usp=sharing",
+            "size": "685 KB "
+        },
+	{
+            "subject": "HPDSM ",
+            "month_year": "May 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQndRUDJ0RUtTRmc/view?usp=sharing",
+            "size": "724 KB "
+        },
+	{
+            "subject": "HPDSM ",
+            "month_year": "Nov 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZWRiTEVTdmFXWW8/view?usp=sharing",
+            "size": "725 KB "
+        },
+	{
+            "subject": "HPDSM ",
+            "month_year": "April 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSVByaVFkR3ZsNlU/view?usp=sharing",
+            "size": "711 KB "
+        },
+	{
+            "subject": "HPDSM ",
+            "month_year": "2016 Regular & KT",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQ1JuOVI4aUw2UWc",
+            "size": "457 KB "
+        },
+	{
+            "subject": "Clinical Pharmacy ",
+            "month_year": "May 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTjBPcFBtVFRaWWM",
+            "size": "334 KB "
+        }
         ],
         "Analysis":[
-        
+        {
+            "subject": "Pharm. Analysis-1",
+            "month_year": "Apr 16",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbVQxSWpIZmEySnM",
+            "size": "814 KB"
+		},
+		{
+            "subject": "Pharm. Analysis-1",
+            "month_year": "Nov 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeW02VHhyaXpDX2c",
+            "size": "803 KB"
+		},
+		{
+            "subject": "Pharm. Analysis-1",
+            "month_year": "May 15",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjemhKY0gwX2doQ1k",
+            "size": "790 KB"
+		},
+		{
+            "subject": "Pharm. Analysis-1",
+            "month_year": "Oct 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjd1pyemdtOUM4SDQ",
+            "size": "743 KB"
+		},
+		{
+            "subject": "Pharm. Analysis-1",
+            "month_year": "May 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjYWoxOFgyYUIxMkk",
+            "size": "768 KB"
+		},
+		{
+            "subject": "Pharma Analysis - 2 ",
+            "month_year": "March 2017",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjYjlwSHZlcEhJZm8",
+            "size": "393 KB "
+        },
+	{
+            "subject": "Pharma Analysis - 2 ",
+            "month_year": "Nov 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjNmgyMm9yTExCdVk",
+            "size": "1 MB "
+        },
+	{
+            "subject": "Pharma Analysis - 2 ",
+            "month_year": "May 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSGFCaE0wOU1rY2M",
+            "size": "1 MB "
+        },
+	{
+            "subject": "Pharma Analysis - 2 ",
+            "month_year": "Nov 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVnY2TXVTRGgzRVE",
+            "size": "870 KB "
+        },
+	{
+            "subject": "Pharma Analysis - 2 ",
+            "month_year": "April 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjNHlUX1VmVXhtTWs",
+            "size": "1 MB "
+        },
+	{
+            "subject": "Pharma Analysis - 2 ",
+            "month_year": "2014-2016 Regular & KT",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjb29uOHE4N1QwT1E",
+            "size": "5 MB "
+        },
+	{
+            "subject": "Pharmaceutical Analysis- III ",
+            "month_year": "March & Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjNWpDemstR1I4MDQ",
+            "size": "1 MB "
+        }
         ],
         "PP":[
         {
@@ -307,10 +905,87 @@
             "month_year": "Apr 13",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjZjc2MDFlazFKSzA",
             "size": "509 KB"
+        },
+	{
+            "subject": "Pharm. Engg.",
+            "month_year": "Apr 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjLUV1aEtZYlg3TVk/",
+            "size": "639 KB"
+        },
+	{
+            "subject": "Pharm. Engg.",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcnBaMkxCNmVDU1k/",
+            "size": "730 KB"
+        },
+	{
+            "subject": "Pharm. Engg.",
+            "month_year": "Apr 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjcnBaMkxCNmVDU1k/",
+            "size": "726 KB"
+        },
+	{
+            "subject": "Pharm. Engg.",
+            "month_year": "Dec 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjMlRsTldCNlhqVDQ/",
+            "size": "634 KB"
+        },
+	{
+            "subject": "Pharm. Engg.",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHja2s4SjlucWFRcDQ/",
+            "size": "463 KB"
         }
         ],
         "Pharmacognosy":[
-        
+        {
+            "subject": "Pharmacognosy & Phytochemistry-I ",
+            "month_year": "March 2017",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjdkZDeXBFZVdiV28",
+            "size": "334 KB "
+        },
+	{
+            "subject": "Pharmacognosy & Phytochemistry-I ",
+            "month_year": "Nov 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRlFuZ3ZITVU0bGc",
+            "size": "834 KB "
+        },
+	{
+            "subject": "Pharmacognosy & Phytochemistry-I ",
+            "month_year": "May 2016",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjODVXTHRSNXA4Skk",
+            "size": "783 KB "
+        },
+	{
+            "subject": "Pharmacognosy & Phytochemistry-I ",
+            "month_year": "Nov 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRlJ2a3VMemlyUE0",
+            "size": "827 KB "
+        },
+	{
+            "subject": "Pharmacognosy & Phytochemistry-I ",
+            "month_year": "April 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQWd5WGJ6cXJtOEk",
+            "size": "811 KB "
+        },
+	{
+            "subject": "Pharmacognosy & Phytochemistry-I ",
+            "month_year": "2016 Regular & KT",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTFIxS0V5VGhFb0k",
+            "size": "878 KB "
+        },
+	{
+            "subject": "Pharmacognosy & Phytochemistry -II ",
+            "month_year": "March & Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjX084bGw2MHRfZEE",
+            "size": "761 KB "
+        },
+	{
+            "subject": "Pharmacognosy & Phytochemistry-III ",
+            "month_year": "April 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQW42ckdfa1dtNE0",
+            "size": "267 KB "
+        }
         ],
         "Others":[
         {
@@ -348,6 +1023,84 @@
             "month_year": "Dec 12",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTi1QWGcwbTJXN3M/",
             "size": "427 KB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "Apr 16",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWFc3dEY1N0lPOEk/",
+            "size": "997 KB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "Dec 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeFJfREZKR3NRMDg/",
+            "size": "912 KB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "March 15",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeW5NRS1kUFlsWG8/",
+            "size": "907 KB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "Dec 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRkZ0Q1k1cUVqMFU/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "Apr 14",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjT0JsMmZ0UlN1SkE/",
+            "size": "1 MB"
+        },
+	{
+            "subject": "Maths-1",
+            "month_year": "Dec 13",
+		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSlVBSEJTZzg3RmM/",
+            "size": "1 MB"
+        },
+		{
+            "subject": "Maths-2",
+            "month_year": "May 16",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjelBHbkN2MXJlbUU",
+            "size": "2 MB"
+		},
+		{
+            "subject": "Maths-2",
+            "month_year": "Oct 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjU2doOWkwWm0wYnc",
+            "size": "2 MB"
+		},
+		{
+            "subject": "Maths-2",
+            "month_year": "May 14",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSWx1Z1ZROV9JRlE",
+            "size": "2 MB"
+		},
+		{
+            "subject": "Pharm Management",
+            "month_year": "2014-2016 Regular & KT",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjYW5iSVBXT3hFWTQ",
+            "size": "2 MB "
+        },
+		{
+            "subject": "Pharm Management",
+            "month_year": "Dec 2015",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjNElCTzhiellLbVU",
+            "size": "868 KB "
+        },
+	{
+            "subject": "Pharm Management",
+            "month_year": "Nov 2014",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjY1RucV9jeW1MNlk",
+            "size": "720 KB "
+        },
+	{
+            "subject": "Pharmaceutical Jurisprudence ",
+            "month_year": "March & Nov 2016 ",
+	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjMkR5ZTVNT0FpRFU",
+            "size": "777 KB "
         }
         ]
 }
