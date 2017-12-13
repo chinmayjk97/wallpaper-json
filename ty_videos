@@ -91,6 +91,12 @@
 	    "thumbnail":"https://i.ytimg.com/vi/4_BgJcYXsPs/maxresdefault.jpg"
         },
 	{
+            "title": "Hair Cycle & Hair Grooming Products",
+	    "url" : "https://youtu.be/KilQrUubOj4",
+            "video_length": "Video length: 7:02",
+	    "thumbnail":"https://i.ytimg.com/vi/KilQrUubOj4/maxresdefault.jpg"
+        },
+	{
             "title": "ENZYME & CELL IMMOBILIZATION",
 	    "url" : "https://youtu.be/E3jiAuJfqpQ",
             "video_length": "Video length: 5:42",
@@ -109,6 +115,12 @@
 	    "thumbnail":"https://i.ytimg.com/vi/2hT8Q-l34sk/maxresdefault.jpg"
         },
 	{
+            "title": "Vaccines & Sera",
+	    "url" : "https://youtu.be/mBFQ9f21IhQ",
+            "video_length": "Video length: 7:34",
+	    "thumbnail":"https://i.ytimg.com/vi/mBFQ9f21IhQ/maxresdefault.jpg"
+        },
+	{
             "title": "Drugs Affecting Bone Mineral Homeostasis",
 	    "url" : "https://youtu.be/OLzbeBGnznc",
             "video_length": "Video length: 6:29",
@@ -125,6 +137,36 @@
 	    "url" : "https://youtu.be/4xmSTE6fxt8",
             "video_length": "Video length: 3:25",
 	    "thumbnail":"https://i.ytimg.com/vi/4xmSTE6fxt8/maxresdefault.jpg"
+        },
+	{
+            "title": "Marketing Models",
+	    "url" : "https://youtu.be/-cc6uBnpr0Q",
+            "video_length": "Video length: 6:29",
+	    "thumbnail":"https://i.ytimg.com/vi/-cc6uBnpr0Q/maxresdefault.jpg"
+        },
+	{
+            "title": "Product Life Cycle",
+	    "url" : "https://youtu.be/VWI9HcQ0L1g",
+            "video_length": "Video length: 5:03",
+	    "thumbnail":"https://i.ytimg.com/vi/VWI9HcQ0L1g/sddefault.jpg"
+        },
+	{
+            "title": "Financial Management",
+	    "url" : "https://youtu.be/usMJ2Kt2ct4",
+            "video_length": "Video length: 7:14",
+	    "thumbnail":"https://i.ytimg.com/vi/usMJ2Kt2ct4/maxresdefault.jpg"
+        },
+	{
+            "title": "Brand Plan",
+	    "url" : "https://youtu.be/Gsu4O2Lc3ZY",
+            "video_length": "Video length: 9:42",
+	    "thumbnail":"https://i.ytimg.com/vi/Gsu4O2Lc3ZY/maxresdefault.jpg"
+        },
+	{
+            "title": "Six Sigma",
+	    "url" : "https://youtu.be/8HDbpKk2pmM",
+            "video_length": "Video length: 4:45",
+	    "thumbnail":"https://i.ytimg.com/vi/8HDbpKk2pmM/maxresdefault.jpg"
         },
         {
             "title": "Coming Soon...",
