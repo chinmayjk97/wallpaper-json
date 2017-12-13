@@ -315,7 +315,12 @@
         }
         ],
         "HPDSM":[
-        
+        {
+                "book_name": "Coming Soon...",
+                "book_url": "https://www.youtube.com/c/PharmaKnowledge",
+                "book_edition": "Coming Soon...",
+                "book_size": " "
+        }
         ],
         "Analysis":[
         {
