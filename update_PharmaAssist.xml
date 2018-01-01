@@ -1,11 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.2</latestVersion>
+    <latestVersion>2.3</latestVersion>
     <url>https://tinyurl.com/PharmaAssist</url>
     <releaseNotes>
-- Added In-App Video Viewer. Enable it from Settings.
-- All links will be handled by In-App browser by default.
-- Bug Fixes and Performance Improvement.
+- Easy access to eBooks, Question Papers & Videos based on Subjects.
+- Study GPAT with us : Daily GPAT questions.
+- Bug Fixed.
     </releaseNotes>
   </update>
 </AppUpdater>
