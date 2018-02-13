@@ -1,11 +1,10 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3</latestVersion>
+    <latestVersion>2.3.1</latestVersion>
     <url>https://tinyurl.com/PharmaAssist</url>
     <releaseNotes>
-- Easy access to eBooks, Question Papers and Videos based on Subjects.
-- Study GPAT with us : Daily GPAT questions.
-- Bug Fixed.
+- Updated support for Android Oreo Devices.
+- Bugs Fixed.
     </releaseNotes>
   </update>
 </AppUpdater>
