@@ -358,6 +358,12 @@
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjSkg2bVh6UzFnTjQ",
                 "book_edition": "2000 Reprint Edition",
                 "book_size": "17 MB"
+        },
+         {
+                "book_name": "Textbook of Pharmaceutical Analysis by Kenneth A. Connors",
+                "book_url": "https://drive.google.com/file/d/17BXdF6XuZSMDXUulAiRAYOpmCY5hKo_6",
+                "book_edition": "3rd Edition",
+                "book_size": "16 MB"
         }
         ],
         "PP":[
