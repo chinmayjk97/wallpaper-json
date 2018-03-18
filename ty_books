@@ -126,6 +126,12 @@
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjRGFpZXRsWFZ2d0E",
                 "book_edition": "6th Edition",
                 "book_size": "107 MB"
+        },
+        {
+                "book_name": "Textbook of Pharmaceutical Analysis by Kenneth A. Connors",
+                "book_url": "https://drive.google.com/file/d/17BXdF6XuZSMDXUulAiRAYOpmCY5hKo_6",
+                "book_edition": "3rd Edition",
+                "book_size": "16 MB"
         }
         
     ]
