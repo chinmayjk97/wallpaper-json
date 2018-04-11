@@ -97,6 +97,18 @@
 	    "thumbnail":"https://i.ytimg.com/vi/KilQrUubOj4/maxresdefault.jpg"
         },
 	{
+            "title": "Capsules ",
+	    "url" : "https://youtu.be/KI4n_-12nZs",
+            "video_length": "Video length: 13:40",
+	    "thumbnail":"https://i.ytimg.com/vi/KI4n_-12nZs/maxresdefault.jpg"
+        },
+	{
+            "title": "Tablet Coating",
+	    "url" : "https://youtu.be/lZQyeECft3w",
+            "video_length": "Video length: 10:07",
+	    "thumbnail":"https://i.ytimg.com/vi/lZQyeECft3w/maxresdefault.jpg"
+        },
+	{
             "title": "ENZYME & CELL IMMOBILIZATION",
 	    "url" : "https://youtu.be/E3jiAuJfqpQ",
             "video_length": "Video length: 5:42",
@@ -167,6 +179,49 @@
 	    "url" : "https://youtu.be/8HDbpKk2pmM",
             "video_length": "Video length: 4:45",
 	    "thumbnail":"https://i.ytimg.com/vi/8HDbpKk2pmM/maxresdefault.jpg"
+        },
+	{
+            "title": "Introduction to Hospitals and Hospital Pharmacy",
+	    "url" : "https://youtu.be/Cy6_UHTIJvM",
+            "video_length": "Video length: 5:26",
+	    "thumbnail":"https://i.ytimg.com/vi/Cy6_UHTIJvM/maxresdefault.jpg"
+        },
+	{
+            "title": "Pharmacy and Therapeutics Committee",
+	    "url" : "https://youtu.be/qJVKFYSLmK4",
+            "video_length": "Video length: 5:53",
+	    "thumbnail":"https://i.ytimg.com/vi/qJVKFYSLmK4/maxresdefault.jpg"
+        },
+	{
+            "title": "Drug Distribution Systems in Hospitals",
+	    "url" : "https://youtu.be/3ahUxZ23Zy4",
+            "video_length": "Video length: 7:11",
+	    "thumbnail":"https://i.ytimg.com/vi/3ahUxZ23Zy4/maxresdefault.jpg"
+        },
+	{
+            "title": "Central Sterile Supply Services",
+	    "url" : "https://youtu.be/VnNBZrdImJs",
+            "video_length": "Video length: 8:58",
+	    "thumbnail":"https://i.ytimg.com/vi/VnNBZrdImJs/maxresdefault.jpg"
+        },
+	{
+            "title": "Introduction to Pharmacy Practice",
+	    "url" : "https://youtu.be/-7Scp7gnSMg",
+            "video_length": "Video length: 6:21",
+	    "thumbnail":"https://i.ytimg.com/vi/-7Scp7gnSMg/maxresdefault.jpg"
+        },
+	
+	{
+            "title": "Infrared Spectroscopy",
+	    "url" : "https://youtu.be/q-JV_w1Q-WI",
+            "video_length": "Video length: 7:58",
+	    "thumbnail":"https://i.ytimg.com/vi/q-JV_w1Q-WI/maxresdefault.jpg"
+        },
+	{
+            "title": "Thermal Analysis",
+	    "url" : "https://youtu.be/UNtEb1SWvts",
+            "video_length": "Video length: 3:46",
+	    "thumbnail":"https://i.ytimg.com/vi/UNtEb1SWvts/maxresdefault.jpg"
         },
         {
             "title": "Coming Soon...",
