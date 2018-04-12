@@ -79,6 +79,18 @@
                 "book_size": "35 MB "
         },
         {
+                "book_name": "Introduction to Medicinal Chemistry , Alex Gringauz , Wiley - How Drugs Act and Why",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjQlAtVm1qS3VPSTA",
+                "book_edition": "1996 Edition",
+                "book_size": "36 MB "
+        },
+        {
+                "book_name": "Synthesis of Essential Drugs , Ruben Vardanyan and Victor Hruby",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjakc5M0VOMU1BOGM",
+                "book_edition": "2006 Edition",
+                "book_size": "4 MB "
+        },
+        {
                 "book_name": "Reiger , Martin M. Eds. Harry's Cosmeticology, Volumes I-II ",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjMHhkQWkzdUMwUFU",
                 "book_edition": "8th Edition",
@@ -159,6 +171,18 @@
                 "book_url": "https://chinmayjk97.github.io/wp-content/kokate",
                 "book_edition": "Online Edition",
                 "book_size": "Online-view only"
+        },
+        {
+                "book_name": "Trease D. & Evans W.C.: Text Book of Pharmacognosy : W.B. Saunders",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHja0w2MFh0ejhSb2c",
+                "book_edition": "16th Edition",
+                "book_size": "16 MB"
+        },
+        {
+                "book_name": "Biren Shah, Avinash Seth-Textbook of Pharmacognosy and Phytochemistry-Elsevier India (2012)",
+                "book_url": "https://drive.google.com/file/d/1UOLpkeTVz8D4P6miW3CK3XBLf-aTWppn",
+                "book_edition": "1st Edition",
+                "book_size": "14 MB"
         },
         {
                 "book_name": "Lehninger Principles of Biochemistry",
