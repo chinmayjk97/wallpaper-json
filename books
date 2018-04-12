@@ -405,6 +405,12 @@
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeUNkSVAyVWtaRVk",
                 "book_edition": "2nd Edition",
                 "book_size": "7 MB"
+        },
+         {
+                "book_name": "Biren Shah, Avinash Seth-Textbook of Pharmacognosy and Phytochemistry-Elsevier India (2012)",
+                "book_url": "https://drive.google.com/file/d/1UOLpkeTVz8D4P6miW3CK3XBLf-aTWppn",
+                "book_edition": "1st Edition",
+                "book_size": "14 MB"
         }
         ],
         "Others":[
