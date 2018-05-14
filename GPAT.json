@@ -1,0 +1,52 @@
+{
+        "GPAT": [
+        {
+                "gpat_q": "Followings are some drug derivatives used to increase/decrease the water solubility of the \r\nparent drugs:\r\n[P] : Rolitetracycline\r\n[Q] : Erythromycin lactobionate \r\n[R] : Chloramphenicol succinate \r\n[S] : Erythromycin stearate\r\nChoose the correct combination of statements.",
+                "gpat_a1": "Q and R are used to increase water solubility while P and S are used to decrease it",
+                "gpat_a2": "P, Q and R are used to increase water solubility while S is used to decrease it",
+                "gpat_a3": "Q, S and R are used to increase water solubility while P is used to decrease it",
+                "gpat_a4": "Q and S are used to increase water solubility while P and Q are used to decrease it",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Iodine-131 as sodium iodide solution is used as a radiopharmaceutical for diagnostic and \r\ntherapeutic purposes. Its usage is dependent on the release of the following emissions:\r\n[P] Alpha particles [Q] Positrons [R] Beta emission [S] Gamma radiation\r\nChoose the correct combination of statements?",
+                "gpat_a1": "R \u0026 S",
+                "gpat_a2": "Q \u0026 S",
+                "gpat_a3": "P \u0026 R",
+                "gpat_a4": "P \u0026 S",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Petit mal epilepsy is treated by",
+                "gpat_a1": "phenoberbitone",
+                "gpat_a2": "ethosuximide",
+                "gpat_a3": "phenytoin",
+                "gpat_a4": "diazepam",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        ]
+}
