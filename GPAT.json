@@ -25,36 +25,252 @@
                 "gpat_correct_a": "2"
         },
         {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
+                "gpat_q": "Which one of the following drugs has positive inotropic and negative chronotropic action?",
+                "gpat_a1": "Dopamine",
+                "gpat_a2": "Epinephrine",
+                "gpat_a3": "Digoxin",
+                "gpat_a4": "Isoprenaline",
+                "gpat_correct_a": "3"
         },
         {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
+                "gpat_q": "Which one of the following therapeutic classes has been proved clinically as a first line therapy for heart failure and has shown decreased hospitalization, improved symptoms and delayed disease progression?",
+                "gpat_a1": "Cardiac glycosides",
+                "gpat_a2": "ACE Inhibitors (ACEIs)",
+                "gpat_a3": "Renin Antagonists",
+                "gpat_a4": "Nitrites",
+                "gpat_correct_a": "2"
         },
         {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        }, 
-{
-                "gpat_q": "Fgytut",
-                "gpat_a1": "t8g",
-                "gpat_a2": "tu",
-                "gpat_a3": "fu",
-                "gpat_a4": "gk",
+                "gpat_q": "Which one of the following anti-arrhythmic drugs acts by inhibiting potassium, sodium and calcium channels?",
+                "gpat_a1": "Quinidine",
+                "gpat_a2": "Lignocaine",
+                "gpat_a3": "Amiodarone",
+                "gpat_a4": "Flecainide",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which one of the following drugs produces significant relaxation of both venules and arterioles?",
+                "gpat_a1": "Hydralazine",
+                "gpat_a2": "Minoxidil",
+                "gpat_a3": "Diazoxide",
+                "gpat_a4": "Sodium nitroprusside",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "All of the given four drugs are neuromuscular blocking agents.
+[P] : Gallamine [Q]: Succinylcholine
+[R] : Vecuronium [S] : d-Tubocurarine
+Choose the correct statement about them.",
+                "gpat_a1": "P and Q are competitive neuromuscular blocking agents",
+                "gpat_a2": "Q and R are competitive neuromuscular blocking agents",
+                "gpat_a3": "R and S are non-competitive neuromuscular blocking agents",
+                "gpat_a4": "P and S are competitive neuromuscular blocking agents",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Metformin causes the following actions EXCEPT for the one. Identify that.",
+                "gpat_a1": "Reduces hepatic neoglucogenesis",
+                "gpat_a2": "Increases glucose uptake in skeletal muscles",
+                "gpat_a3": "Enhances sensitivity to insulin",
+                "gpat_a4": "Increases HbA1c by 1% to 2%",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Histologically the barks of Cinnamomum cassia and Cinnamomum zeylanicum differ in one of the following features. Identify that.",
+                "gpat_a1": "Sclerieds",
+                "gpat_a2": "Phloem Fibers",
+                "gpat_a3": "Pericyclic Fibres",
+                "gpat_a4": "Cortex",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Atracurium besylate, a neuromuscular blocking agent, is metabolized through one of the following reactions. Identify that.",
+                "gpat_a1": "Hoffman elimination",
+                "gpat_a2": "Hoffman rearrangement",
+                "gpat_a3": "Michael addition",
+                "gpat_a4": "Claisen condensation",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Choose the most basic heterocyclic compound among the followings.",
+                "gpat_a1": "Pyridine",
+                "gpat_a2": "Imidazole",
+                "gpat_a3": "Pyrrole",
+                "gpat_a4": "Pyrrolidine",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Which one of the following amino acids is the most effective contributor of protein buffer?",
+                "gpat_a1": "Alanine",
+                "gpat_a2": "Glycine",
+                "gpat_a3": "Histidine",
+                "gpat_a4": "Arginine",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which one of the following colours is NOT permitted to be used in drugs by the Drugs and Cosmetics Act, 1940?",
+                "gpat_a1": "Chlorophyll",
+                "gpat_a2": "Riboflavin",
+                "gpat_a3": "Tartrazine",
+                "gpat_a4": "Amaranth",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Read the following statements:
+[P] : At temperature below Kraft point, micelles will, not form
+[Q]: At Kraft point, solubility of surfactant equals CMC
+[R] : Kraft point increases with increasing chain length of hydrocarbon
+[S] : Kraft point is normally exhibited by non-ionic surfactants
+Choose the correct combination of answers.",
+                "gpat_a1": "P is correct but Q, R & S are wrong",
+                "gpat_a2": "R & S are correct but P & Q are wrong",
+                "gpat_a3": "P, Q & R are correct but S is wrong",
+                "gpat_a4": "P, Q, R & S all are correct",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
+        },
+        {
+                "gpat_q": "",
+                "gpat_a1": "",
+                "gpat_a2": "",
+                "gpat_a3": "",
+                "gpat_a4": "",
+                "gpat_correct_a": ""
         }
         ]
 }
