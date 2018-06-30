@@ -129,148 +129,36 @@ Choose the correct combination of answers.",
                 "gpat_correct_a": "3"
         },
         {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
+                "gpat_q": "Which of the following alkaloids is derived from tyrosine?",
+                "gpat_a1": "Quinine",
+                "gpat_a2": "Morphine",
+                "gpat_a3": "Atropine",
+                "gpat_a4": "Ephedrine",
+                "gpat_correct_a": "2"
         },
         {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
+                "gpat_q": "Quinoline alkaloids are biosynthesized via which one of the following pathways?",
+                "gpat_a1": "Shikimic acid - tyrosine",
+                "gpat_a2": "Shikimic acid - tryptophan",
+                "gpat_a3": "Shikimic acid - cathinone",
+                "gpat_a4": "Shikimic acid - phenylalanine",
+                "gpat_correct_a": "2"
         },
         {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
+                "gpat_q": "Which of the following beta blockers has been shown clinically to reduce mortality in patients of symptomatic heart failure?",
+                "gpat_a1": "Atenolol",
+                "gpat_a2": "Carvedilol",
+                "gpat_a3": "Propranolol",
+                "gpat_a4": "Esmolol",
+                "gpat_correct_a": "2"
         },
         {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
-        },
-        {
-                "gpat_q": "",
-                "gpat_a1": "",
-                "gpat_a2": "",
-                "gpat_a3": "",
-                "gpat_a4": "",
-                "gpat_correct_a": ""
+                "gpat_q": "Diels-Alder reaction can be carried out in which of the following heterocyclic compounds most readily?",
+                "gpat_a1": "Pyrrole",
+                "gpat_a2": "Thiophene",
+                "gpat_a3": "Furan",
+                "gpat_a4": "Pyridine",
+                "gpat_correct_a": "3"
         }
         ]
 }
