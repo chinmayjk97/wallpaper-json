@@ -1,9 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3.1</latestVersion>
+    <latestVersion>2.4</latestVersion>
     <url>https://tinyurl.com/PharmaAssist</url>
     <releaseNotes>
-- Updated support for Android Oreo Devices.
+- Added Competitive Exams Section for GPAT, NIPER-JEE, GRE, TOFEL, etc.
+- Added new Section to View all the GPAT Questions you have answered!
+- Added a "Support Us" option to contribute your Study Material.
+- Updated Navigation Drawer Design.
+- Removed Option to revert to old Layout.
 - Bugs Fixed.
     </releaseNotes>
   </update>
