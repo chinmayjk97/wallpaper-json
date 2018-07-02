@@ -159,6 +159,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Furan",
                 "gpat_a4": "Pyridine",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Tissue Plasminogen activator that disperses blood clot, is beneficial if given within",
+                "gpat_a1": "3 days",
+                "gpat_a2": "9 hours",
+                "gpat_a3": "3 hours",
+                "gpat_a4": "24 hours",
+                "gpat_correct_a": "3"
         }
         ]
 }
