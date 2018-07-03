@@ -167,6 +167,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "3 hours",
                 "gpat_a4": "24 hours",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Exotoxin producing bacteria :",
+                "gpat_a1": "Salmonella typi",
+                "gpat_a2": "Vibrio cholera",
+                "gpat_a3": "Clostridium tetani",
+                "gpat_a4": "Pasteurella pestis",
+                "gpat_correct_a": "3"
         }
         ]
 }
