@@ -68,6 +68,12 @@
                 "book_size": "22 MB "
         },
         {
+                "book_name": "Introduction to spectroscopy by Donald L. Pavia, Gary M. Lampman, George S. Kriz, James R. Vyvyan",
+                "book_url": "https://drive.google.com/file/d/1unMPnqd8QS4CFfkmOWW6LzJJjEt_T7-n",
+                "book_edition": "5th Edition",
+                "book_size": "28 MB"
+        },
+        {
                 "book_name": "S. Ahuja and M. W. Dong , Handbook of Pharmaceutical Analysis by HPLC",
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjUEZFQ0duVzdLZjQ",
                 "book_edition": "Volume 6",
