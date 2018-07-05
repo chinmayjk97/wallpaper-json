@@ -175,6 +175,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Clostridium tetani",
                 "gpat_a4": "Pasteurella pestis",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Petimal seizure is also known as :",
+                "gpat_a1": "Grandmal seizure ",
+                "gpat_a2": "Generalised tonic-clonic seizure ",
+                "gpat_a3": "Absence seizure ",
+                "gpat_a4": "None",
+                "gpat_correct_a": "3"
         }
         ]
 }
