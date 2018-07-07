@@ -183,6 +183,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Absence seizure ",
                 "gpat_a4": "None",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Sweet taste of Glycyrrhiza is due to the presence of",
+                "gpat_a1": "Na and k salt of glycyrrhic acid",
+                "gpat_a2": "Mg and Ca salt of glycyrrhic acid",
+                "gpat_a3": "K and Ca salt of glycyrrhic acid",
+                "gpat_a4": "Isoliquirtin",
+                "gpat_correct_a": "3"
         }
         ]
 }
