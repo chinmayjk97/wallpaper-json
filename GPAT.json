@@ -191,6 +191,15 @@ Choose the correct combination of answers.",
                 "gpat_a3": "K and Ca salt of glycyrrhic acid",
                 "gpat_a4": "Isoliquirtin",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Parkinsonism is a common neurological movement disorder. Signs include rigid skeletal muscle, akinesia, tremors at rest. Both L-Dopa and Carbidopa are used..
+ Carbidopa is used because :",
+                "gpat_a1": "It crosses blood brain barrier.",
+                "gpat_a2": "It inhibits aromatic L-aminoacid decarboxylase",
+                "gpat_a3": "It inhibits MAO type A",
+                "gpat_a4": "It inhibits MAO type B",
+                "gpat_correct_a": "2"
         }
         ]
 }
