@@ -208,6 +208,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Isoxazole",
                 "gpat_a4": "Tetrazole",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Derivatization is done in GC for :",
+                "gpat_a1": "To convert less polar compound to more polar compound",
+                "gpat_a2": "To make compound less volatile",
+                "gpat_a3": "To convert more polar compound to less polar compound",
+                "gpat_a4": "To liquify solid",
+                "gpat_correct_a": "3"
         }
         ]
 }
