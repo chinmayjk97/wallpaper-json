@@ -200,6 +200,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "It inhibits MAO type A",
                 "gpat_a4": "It inhibits MAO type B",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "An isosteric replacement for carboxylic acid group is",
+                "gpat_a1": "Pyrrole",
+                "gpat_a2": "Phenol",
+                "gpat_a3": "Isoxazole",
+                "gpat_a4": "Tetrazole",
+                "gpat_correct_a": "4"
         }
         ]
 }
