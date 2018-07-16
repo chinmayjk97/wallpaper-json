@@ -216,6 +216,15 @@ Choose the correct combination of answers.",
                 "gpat_a3": "To convert more polar compound to less polar compound",
                 "gpat_a4": "To liquify solid",
                 "gpat_correct_a": "3"
+        },
+
+        {
+                "gpat_q": "Dioctyl Phthalate Test or Smoke test is used For ______ ?",
+                "gpat_a1": "HEPA filter integrity",
+                "gpat_a2": "Filter validation",
+                "gpat_a3": "Filter leak testing",
+                "gpat_a4": "Filter Compatibility testing",
+                "gpat_correct_a": "1"
         }
         ]
 }
