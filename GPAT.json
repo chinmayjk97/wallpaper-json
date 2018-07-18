@@ -234,6 +234,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Digoxin",
                 "gpat_a4": "Isoprenaline",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Select the equation which gives the rate of dissolution of tablet ",
+                "gpat_a1": "Fick's Law",
+                "gpat_a2": "Handerson Hasselbatch equation ",
+                "gpat_a3": "Noyes Whitney equation ",
+                "gpat_a4": "Michelis Menten equation ",
+                "gpat_correct_a": "3"
         }
         ]
 }
