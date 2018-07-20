@@ -243,8 +243,6 @@ Choose the correct combination of answers.",
                 "gpat_a4": "Michelis Menten equation ",
                 "gpat_correct_a": "3"
         },
-                
-        ]
         {
                 "gpat_q": "Glucose is the only source of energy for one of the followings. Identify that.",
                 "gpat_a1": "Cardiac cells",
@@ -253,4 +251,5 @@ Choose the correct combination of answers.",
                 "gpat_a4": "Thrombocytes",
                 "gpat_correct_a": "3"
         }
+] 
 }
