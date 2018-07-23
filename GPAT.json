@@ -274,6 +274,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Lactose",
                 "gpat_a4": "Sucrose",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "If the Carr's index of the powder is 10% then the type of powder flow is :",
+                "gpat_a1": "Poor",
+                "gpat_a2": "Excellent ",
+                "gpat_a3": "Very Poor",
+                "gpat_a4": "Good",
+                "gpat_correct_a": "2"
         }
 ] 
 }
