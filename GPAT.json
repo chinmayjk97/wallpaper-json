@@ -266,6 +266,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "The velocities of all molecules must be equal",
                 "gpat_a4": "The gas must not be decomposing",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Among the followings which one is not only a reducing sugar but also does not exhibit mutarotation ?",
+                "gpat_a1": "Glucose",
+                "gpat_a2": "Maltose",
+                "gpat_a3": "Lactose",
+                "gpat_a4": "Sucrose",
+                "gpat_correct_a": "4"
         }
 ] 
 }
