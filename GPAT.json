@@ -282,6 +282,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Very Poor",
                 "gpat_a4": "Good",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which of the following constituents is reported to have anti-hepatotoxic activity ?",
+                "gpat_a1": "Podophyllotoxin",
+                "gpat_a2": "Linalool",
+                "gpat_a3": "Andrographoloid",
+                "gpat_a4": "Safranal",
+                "gpat_correct_a": "2"
         }
 ] 
 }
