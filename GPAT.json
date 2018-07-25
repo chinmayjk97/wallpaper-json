@@ -298,6 +298,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Diapedesis",
                 "gpat_a4": "imbibition",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "What is co-trimoxazole? ",
+                "gpat_a1": "Sulfamethoxazole + Trimethoprim in 3:1 ratio ",
+                "gpat_a2": "Sulfadoxine + Pyrimethamine ",
+                "gpat_a3": "Sulfamethoxazole + Trimethoprim in 5:1 ratio ",
+                "gpat_a4": "sulfacetamide + sulfathiazole + sulfabenzamide",
+                "gpat_correct_a": "3"
         }
 ] 
 }
