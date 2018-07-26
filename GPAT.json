@@ -314,6 +314,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Ethyl lactate",
                 "gpat_a4": " n-butyl acetate",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Calibration of cell constant of a conductance cell is carried out using a solution of ",
+                "gpat_a1": "0.1M NaCl",
+                "gpat_a2": "0.1M KCl",
+                "gpat_a3": "0.1M AlCl3",
+                "gpat_a4": "0.1M CaCl2",
+                "gpat_correct_a": "2"
         }
 ] 
 }
