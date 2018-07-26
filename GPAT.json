@@ -306,6 +306,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Sulfamethoxazole + Trimethoprim in 5:1 ratio ",
                 "gpat_a4": "sulfacetamide + sulfathiazole + sulfabenzamide",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "The main film-forming agent in the nail polish is",
+                "gpat_a1": "Nitrocellulose",
+                "gpat_a2": "Sulphonamide-formaldehyde",
+                "gpat_a3": "Ethyl lactate",
+                "gpat_a4": " n-butyl acetate",
+                "gpat_correct_a": "1"
         }
 ] 
 }
