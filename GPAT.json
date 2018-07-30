@@ -330,6 +330,14 @@ Choose the correct combination of answers.",
                 "gpat_a3": "To smoothen the surface",
                 "gpat_a4": "To prevent the tablet from breaking due to vibration",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "The R-W Coefficient test is used to Evaluate :",
+                "gpat_a1": "Antibiotic activity",
+                "gpat_a2": "Sterility of packaging material",
+                "gpat_a3": "Nature of organism in bacterial infection",
+                "gpat_a4": "Bactericidal action",
+                "gpat_correct_a": "4"
         }
 ] 
 }
