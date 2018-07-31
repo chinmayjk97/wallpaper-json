@@ -1,10 +1,22 @@
 {
     "QPprs": [
+   	 {
+            "subject": "Pharmaceutical Chemistry - III ",
+            "month_year": "Nov 2017",
+	    "url" : "https://drive.google.com/file/d/11uzR-eX-iM7UPjqoQ9XHNRhbhKx-VEXV",
+            "size": "734 KB"
+        },
         {
             "subject": "Pharmaceutical Chemistry - III ",
             "month_year": "March & Nov 2016",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjN3VKbW5xSVB2VTQ",
             "size": "1 MB"
+        },
+	{
+            "subject": "Pharmaceutical Analysis- III ",
+            "month_year": "Nov 2017 ",
+	    "url" : "https://drive.google.com/file/d/1nu1VxcKZhi-fD8mmLQMNC8IyCqV0_xdI",
+            "size": "996 KB "
         },
 	 {
             "subject": "Pharmaceutical Analysis- III ",
@@ -12,11 +24,23 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjNWpDemstR1I4MDQ",
             "size": "1 MB "
         },
+	{
+            "subject": "Pharmacology-III ",
+            "month_year": "Nov 2017 ",
+	    "url" : "https://drive.google.com/file/d/1QjuN-LamyRmDmPx8jb_cIEeGTCjlxT7B",
+            "size": "691 KB "
+        },
 	 {
             "subject": "Pharmacology-III ",
             "month_year": "March & Nov 2016 ",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHja2xtRGRsTnk2bDA",
             "size": "751 KB "
+        },
+	{
+            "subject": "Pharmaceutics - IV ",
+            "month_year": "Nov 2017 ",
+	    "url" : "https://drive.google.com/file/d/1c4FHi3UvF5NpsB6EDPYD6Febue6oksy7",
+            "size": "577 KB "
         },
 	 {
             "subject": "Pharmaceutics - IV ",
@@ -24,11 +48,23 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRG1qV2s5eXFQOWM",
             "size": "663 KB "
         },
+	{
+            "subject": "Pharmacognosy & Phytochemistry -II ",
+            "month_year": "Nov 2017 ",
+	    "url" : "https://drive.google.com/file/d/10J4gYd5rXRfZoKzMV-wLBMAuPDp2epLy",
+            "size": "430 KB "
+        },
 	 {
             "subject": "Pharmacognosy & Phytochemistry -II ",
             "month_year": "March & Nov 2016 ",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjX084bGw2MHRfZEE",
             "size": "761 KB "
+        },
+	{
+            "subject": "Pharmaceutical Jurisprudence ",
+            "month_year": "Nov 2017 ",
+	    "url" : "https://drive.google.com/file/d/1qd7nWtW2magO8Pemeqg32u70Wfcuw_-W",
+            "size": "666 KB "
         },
 	 {
             "subject": "Pharmaceutical Jurisprudence ",
