@@ -338,6 +338,32 @@ Choose the correct combination of answers.",
                 "gpat_a3": "Nature of organism in bacterial infection",
                 "gpat_a4": "Bactericidal action",
                 "gpat_correct_a": "4"
+        }, 
+{
+                "gpat_q": "The maximum pressure to be filled in plastic aerosol container is ______?",
+                "gpat_a1": "25 psi",
+                "gpat_a2": "50 psi",
+                "gpat_a3": "10 psi",
+                "gpat_a4": "15 psi",
+                "gpat_correct_a": "1"
+        }, 
+{
+                "gpat_q": "Carbowax is a type of ______?",
+                "gpat_a1": "Absorption base",
+                "gpat_a2": "Modern ointment",
+                "gpat_a3": "Water soluble bases",
+                "gpat_a4": "oleaginous and hydrocarbon",
+                "gpat_correct_a": "3"
+        }
+        {
+                "gpat_q": "Which of the following is required for
+crystallization and storage of the
+hormone insulin?",
+                "gpat_a1": "Mn++",
+                "gpat_a2": "Zn++",
+                "gpat_a3": "Ca++",
+                "gpat_a4": "Mg++",
+                "gpat_correct_a": "2"
         }
 ] 
 }
