@@ -373,6 +373,14 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "1:25",
                 "gpat_a4": "1:15",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "ALL are true EXCEPT :",
+                "gpat_a1": "Soft soaps give emulsions with Ph in the basic range",
+                "gpat_a2": "Hard soaps form water in oil emulsion",
+                "gpat_a3": "Water-soluble Polymers favour the formation of water in oil emulsion",
+                "gpat_a4": "On the HLB system, lower numbers are assigned to lipophilic compounds while higher numbers are assigned to hydrophilic compounds",
+                "gpat_correct_a": "3"
         }
 ] 
 }
