@@ -364,6 +364,15 @@ hormone insulin?",
                 "gpat_a3": "Ca++",
                 "gpat_a4": "Mg++",
                 "gpat_correct_a": "2"
+        }, 
+{
+                "gpat_q": "The pH of blood is 7.4 when the ratio
+between H2CO3 and NaHCO3 is _____?",
+                "gpat_a1": "1:10",
+                "gpat_a2": "1:20",
+                "gpat_a3": "1:25",
+                "gpat_a4": "1:15",
+                "gpat_correct_a": "2"
         }
 ] 
 }
