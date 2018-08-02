@@ -381,6 +381,14 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "Water-soluble Polymers favour the formation of water in oil emulsion",
                 "gpat_a4": "On the HLB system, lower numbers are assigned to lipophilic compounds while higher numbers are assigned to hydrophilic compounds",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Colligative properties depend upon _______",
+                "gpat_a1": "Structural arrangement of atoms within the molecules of solute and solvent. ",
+                "gpat_a2": "The number of solute particles in solution",
+                "gpat_a3": "The physical properties of the solute particles dissolved in solution",
+                "gpat_a4": "Sum of the corresponding properties of individual items are functional groups within the molecule",
+                "gpat_correct_a": "2"
         }
 ] 
 }
