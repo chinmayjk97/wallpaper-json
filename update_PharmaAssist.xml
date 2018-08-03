@@ -1,9 +1,10 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.4.1</latestVersion>
+    <latestVersion>2.4.2</latestVersion>
     <url>https://tinyurl.com/PharmaAssist</url>
     <releaseNotes>
 - App Crash Fixed.
+- Added timer in Gpat section. 
 - Updated internal Files.    
 </releaseNotes>  
 </update>
