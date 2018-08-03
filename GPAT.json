@@ -397,6 +397,14 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "Purine Analogue",
                 "gpat_a4": "Purine Antagonist",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "About 95% of transdermal drug enter the skin through which pathway?",
+                "gpat_a1": "Intercellular",
+                "gpat_a2": "Transcellular",
+                "gpat_a3": "Follicular",
+                "gpat_a4": "Eccrine",
+                "gpat_correct_a": "2"
         }
 ] 
 }
