@@ -389,6 +389,14 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "The physical properties of the solute particles dissolved in solution",
                 "gpat_a4": "Sum of the corresponding properties of individual items are functional groups within the molecule",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "5-Flurouracil is _______?",
+                "gpat_a1": "Pyrimidine Antagonist",
+                "gpat_a2": "Pyrimidine Analogue",
+                "gpat_a3": "Purine Analogue",
+                "gpat_a4": "Purine Antagonist",
+                "gpat_correct_a": "2"
         }
 ] 
 }
