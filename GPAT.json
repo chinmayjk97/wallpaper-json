@@ -405,6 +405,14 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "Follicular",
                 "gpat_a4": "Eccrine",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which of the following chemical mediators of asthma is NOT a target for antiasthmatic drugs in clinical use? ",
+                "gpat_a1": "Anticholinergics",
+                "gpat_a2": "Antihistaminic",
+                "gpat_a3": "Platelet activating factors",
+                "gpat_a4": "Cytokines inhibitors",
+                "gpat_correct_a": "3"
         }
 ] 
 }
