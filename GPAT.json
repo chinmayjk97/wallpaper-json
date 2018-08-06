@@ -413,6 +413,22 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "Platelet activating factors",
                 "gpat_a4": "Cytokines inhibitors",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which of the following is called as suicide substrate?",
+                "gpat_a1": "Clavulanic acid",
+                "gpat_a2": "Palcitaxel",
+                "gpat_a3": "Integrins",
+                "gpat_a4": "Statins",
+                "gpat_correct_a": "1"
+        }, 
+{
+                "gpat_q": "A 49 year old woman is suffering from symptoms of weight gain, cold intolerance, constipation, bradycardia constipation, puffy face, lethargy and dry skin disease.Symptoms are suggestive of which of the followings? ",
+                "gpat_a1": "Overuse of corticosteroids",
+                "gpat_a2": "Estrogen deficiency",
+                "gpat_a3": "Overuse of thyroxine sodium",
+                "gpat_a4": "Hypothyroidism",
+                "gpat_correct_a": "4"
         }
 ] 
 }
