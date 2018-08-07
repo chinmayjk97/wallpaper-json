@@ -429,6 +429,22 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "Overuse of thyroxine sodium",
                 "gpat_a4": "Hypothyroidism",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which of the antibody has the longest serum half-life? ",
+                "gpat_a1": "IgA",
+                "gpat_a2": "IgE",
+                "gpat_a3": "IgG",
+                "gpat_a4": "IgM",
+                "gpat_correct_a": "3"
+        }, 
+{
+                "gpat_q": "A mixture of Oxygen and nitrous oxide 50:50 can safely be used for relief of pain in ",
+                "gpat_a1": "Toothache",
+                "gpat_a2": "Child Birth",
+                "gpat_a3": "Third degree burns",
+                "gpat_a4": "Ear",
+                "gpat_correct_a": "2"
         }
 ] 
 }
