@@ -453,6 +453,14 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "Mueller-hinton Agar Method",
                 "gpat_a4": "All of the above",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Due to lack of ____ enzyme, albinism occurs. ",
+                "gpat_a1": "tyrosinase",
+                "gpat_a2": "xanthine oxidase",
+                "gpat_a3": "catalyse",
+                "gpat_a4": "fructokinase  ",
+                "gpat_correct_a": "1"
         }
 ] 
 }
