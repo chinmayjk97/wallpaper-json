@@ -445,6 +445,14 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "Third degree burns",
                 "gpat_a4": "Ear",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Testing for antibiotic sensitivity is done by ",
+                "gpat_a1": "Kirby Bauer Method",
+                "gpat_a2": "Stokes method",
+                "gpat_a3": "Mueller-hinton Agar Method",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "1"
         }
 ] 
 }
