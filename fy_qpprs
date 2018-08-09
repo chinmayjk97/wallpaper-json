@@ -1,5 +1,11 @@
 {
     "QPprs": [
+{
+            "subject": "General Chemistry",
+            "month_year": "Dec 17 & April 18 (CBCS) ",
+	    "url" : "https://drive.google.com/file/d/1uWQRLx-kvnHAN5eNHaHPPrQ5KZG2bTxO/",
+            "size": "1.4 MB"
+        },
         {
             "subject": "POC",
             "month_year": "March 15",
@@ -65,6 +71,12 @@
             "month_year": "May 13",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjenoxOUR4NThLZU0",
             "size": "389 KB"
+        },
+{
+            "subject": "Biochem - 1",
+            "month_year": "April & Nov - 17 & 18 (CBCS) ",
+	    "url" : "https://drive.google.com/file/d/16B_pA3ZGyscaT-ZqD62si2G9D5vUGaOe/",
+            "size": "2.7 MB"
         },
 	{
             "subject": "Biochem-1",
@@ -132,6 +144,12 @@
 		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVGJQSzhNWXRSZ2c/",
             "size": "443 KB"
         },
+{
+            "subject": "APP - 1",
+            "month_year": "Nov 16, April & Nov 17 (CBCS) ",
+	    "url" : "https://drive.google.com/file/d/1lbeHtZ7kKqvdxpzR_nHDQorw1QdL0_sh/",
+            "size": "2.5 MB"
+        },
 	{
             "subject": "APP-1",
             "month_year": "Apr 15",
@@ -198,6 +216,12 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjeWY3ZGRMc1l2Y28",
             "size": "732 KB"
         },
+{
+            "subject": "DPCP",
+            "month_year": "Dec 16, April & Nov 17 (CBCS)",
+	    "url" : "https://drive.google.com/file/d/1uNTwrWTwqvi6pZmEkl0BXfOUyR7GI9Rv/",
+            "size": "1.5 MB"
+        },              
 	{
             "subject": "Pharmaceutics-1",
             "month_year": "May 15",
