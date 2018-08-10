@@ -461,6 +461,14 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "catalyse",
                 "gpat_a4": "fructokinase  ",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Find the process by which the conversion of sulfasalazine to sulfapyridine and 5-aminosalicylic acid takes place in colon? ",
+                "gpat_a1": "Hydrolysis",
+                "gpat_a2": "Deamination",
+                "gpat_a3": "Acetylation",
+                "gpat_a4": "Azoreduction",
+                "gpat_correct_a": "4"
         }
 ] 
 }
