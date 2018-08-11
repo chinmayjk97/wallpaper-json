@@ -477,6 +477,14 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "-I effect increases the absorption frequency of chemical bond",
                 "gpat_a4": "Field effect lowers the absorption frequency of chemical bond",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "If propranolol is given to a patient who is already administering oral hypoglycemic agents for the diabetes.It may cause",
+                "gpat_a1": "Fatal hypoglycemia",
+                "gpat_a2": "Liver toxicity",
+                "gpat_a3": " Severe constipation",
+                "gpat_a4": "Tachycardia",
+                "gpat_correct_a": "1"
         }
 ] 
 }
