@@ -469,6 +469,14 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": "Acetylation",
                 "gpat_a4": "Azoreduction",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Select the incorrect statement regarding the effect of the following on vibrational frequency in IR spectra",
+                "gpat_a1": "Mesomeric effect lower the absorption of frequency of chemical bond",
+                "gpat_a2": "+I effect lowest absorption frequency of chemical bond",
+                "gpat_a3": "-I effect increases the absorption frequency of chemical bond",
+                "gpat_a4": "Field effect lowers the absorption frequency of chemical bond",
+                "gpat_correct_a": "4"
         }
 ] 
 }
