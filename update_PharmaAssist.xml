@@ -1,11 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.4.2</latestVersion>
-    <url>https://tinyurl.com/PharmaAssist</url>
+    <latestVersion>2.5</latestVersion>
+    <url>http://tinyurl.com/PharmaAssist</url>
     <releaseNotes>
+- New App Opening Screen. 
 - App Crash Fixed.
-- Added timer in Gpat section. 
-- Updated internal Files.    
+- Blank GPAT Notification Fixed. 
 </releaseNotes>  
 </update>
 </AppUpdater>
