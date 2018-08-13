@@ -494,6 +494,14 @@ arrhythmias?",
                 "gpat_a3": "Hypermagnesaemia",
                 "gpat_a4": "Hypernatraemia",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "at a triple point _______",
+                "gpat_a1": "both the temperature and pressure are fixed",
+                "gpat_a2": "only temperature is fixed",
+                "gpat_a3": "only pressure is fixed ",
+                "gpat_a4": "sometimes temperature and sometime pressure are fixed",
+                "gpat_correct_a": "1"
         }
 ] 
 }
