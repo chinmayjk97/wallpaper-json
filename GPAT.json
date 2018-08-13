@@ -485,6 +485,15 @@ between H2CO3 and NaHCO3 is _____?",
                 "gpat_a3": " Severe constipation",
                 "gpat_a4": "Tachycardia",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Which of the following increases the risk of digoxin induced 
+arrhythmias?",
+                "gpat_a1": "Hypercalcemia",
+                "gpat_a2": "Hyperkalaemia",
+                "gpat_a3": "Hypermagnesaemia",
+                "gpat_a4": "Hypernatraemia",
+                "gpat_correct_a": "1"
         }
 ] 
 }
