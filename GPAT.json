@@ -502,6 +502,14 @@ arrhythmias?",
                 "gpat_a3": "only pressure is fixed ",
                 "gpat_a4": "sometimes temperature and sometime pressure are fixed",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "The controlled substance means",
+                "gpat_a1": "Banned drugs",
+                "gpat_a2": "Drugs included in price control list",
+                "gpat_a3": "Drugs prescribed by RMP only",
+                "gpat_a4": "Drugs notified in central government gazette",
+                "gpat_correct_a": "4"
         }
 ] 
 }
