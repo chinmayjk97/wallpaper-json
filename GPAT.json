@@ -510,6 +510,14 @@ arrhythmias?",
                 "gpat_a3": "Drugs prescribed by RMP only",
                 "gpat_a4": "Drugs notified in central government gazette",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "What does the symbol P represent in QSAR Equation? ",
+                "gpat_a1": "Partition coefficient",
+                "gpat_a2": "Prodrug",
+                "gpat_a3": "Ph",
+                "gpat_a4": "Plasma concentration",
+                "gpat_correct_a": "1"
         }
 ] 
 }
