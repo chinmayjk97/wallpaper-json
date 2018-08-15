@@ -518,6 +518,14 @@ arrhythmias?",
                 "gpat_a3": "Ph",
                 "gpat_a4": "Plasma concentration",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "carr's compressibility index gives an idea about ",
+                "gpat_a1": "Flow property of powders",
+                "gpat_a2": "cohesiveness of powders",
+                "gpat_a3": "both",
+                "gpat_a4": "none",
+                "gpat_correct_a": "3"
         }
 ] 
 }
