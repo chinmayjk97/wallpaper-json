@@ -526,6 +526,14 @@ arrhythmias?",
                 "gpat_a3": "both",
                 "gpat_a4": "none",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Atovastatin should be taken at night after dinner. Why? ",
+                "gpat_a1": "It induce sleep. ",
+                "gpat_a2": "Synthesis of cholesterol is maximum during night. ",
+                "gpat_a3": "The patient would be affected by sunlight taken during daytime. ",
+                "gpat_a4": "Because of better absorption. ",
+                "gpat_correct_a": "2"
         }
 ] 
 }
