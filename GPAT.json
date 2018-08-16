@@ -542,6 +542,14 @@ arrhythmias?",
                 "gpat_a3": "Furan",
                 "gpat_a4": "Pyridine",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "The purple colour formed in limit test of iron due to :",
+                "gpat_a1": "Ferric thioglycolate",
+                "gpat_a2": "Ferrous thioglycolate",
+                "gpat_a3": "Ferrous glycolate",
+                "gpat_a4": "Ferric glycolate",
+                "gpat_correct_a": "2"
         }
 ] 
 }
