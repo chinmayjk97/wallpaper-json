@@ -534,6 +534,14 @@ arrhythmias?",
                 "gpat_a3": "The patient would be affected by sunlight taken during daytime. ",
                 "gpat_a4": "Because of better absorption. ",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Rantidine contains which heterocyclic ring :",
+                "gpat_a1": "Imidazole",
+                "gpat_a2": "Thiazole",
+                "gpat_a3": "Furan",
+                "gpat_a4": "Pyridine",
+                "gpat_correct_a": "3"
         }
 ] 
 }
