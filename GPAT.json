@@ -558,6 +558,14 @@ arrhythmias?",
                 "gpat_a3": "Acute Tolerance",
                 "gpat_a4": "Dispositional Tolerance",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which of the following organism is NOT involved in urinary tract infection? ",
+                "gpat_a1": "Escherichia coli",
+                "gpat_a2": "Klebshiella pneumonia ",
+                "gpat_a3": "Bacteriodes fragilis",
+                "gpat_a4": "Proteus mirabilis",
+                "gpat_correct_a": "3"
         }
 ] 
 }
