@@ -550,6 +550,14 @@ arrhythmias?",
                 "gpat_a3": "Ferrous glycolate",
                 "gpat_a4": "Ferric glycolate",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Tolerance refers to genetically determine sensitivity to a drug called as ______?",
+                "gpat_a1": "Innate Tolerance",
+                "gpat_a2": "Learned Tolerance",
+                "gpat_a3": "Acute Tolerance",
+                "gpat_a4": "Dispositional Tolerance",
+                "gpat_correct_a": "1"
         }
 ] 
 }
