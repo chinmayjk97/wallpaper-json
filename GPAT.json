@@ -574,6 +574,14 @@ arrhythmias?",
                 "gpat_a3": "Glycin",
                 "gpat_a4": "Glucoronic Acid",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "For identifing W/O emulsions with CoCl2 it gives colour change",
+                "gpat_a1": "Pink to blue ",
+                "gpat_a2": "Blue to pink",
+                "gpat_a3": "Violet to yellow ",
+                "gpat_a4": "No change",
+                "gpat_correct_a": "4"
         }
 ] 
 }
