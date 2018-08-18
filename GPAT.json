@@ -566,6 +566,14 @@ arrhythmias?",
                 "gpat_a3": "Bacteriodes fragilis",
                 "gpat_a4": "Proteus mirabilis",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The drug having hydroxy or carboxylic acid group are easily conjugated with _______?",
+                "gpat_a1": "Sulphate",
+                "gpat_a2": "Acetyl Co-enzyme A",
+                "gpat_a3": "Glycin",
+                "gpat_a4": "Glucoronic Acid",
+                "gpat_correct_a": "4"
         }
 ] 
 }
