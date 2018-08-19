@@ -582,6 +582,14 @@ arrhythmias?",
                 "gpat_a3": "Violet to yellow ",
                 "gpat_a4": "No change",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Vitamin B12 can be estimated and determined by using organism ______?",
+                "gpat_a1": "Lactobacillus Sps",
+                "gpat_a2": "Lactobacillus Leichmanni",
+                "gpat_a3": "Bacillus subtilis",
+                "gpat_a4": "E.coli",
+                "gpat_correct_a": "2"
         }
 ] 
 }
