@@ -590,6 +590,14 @@ arrhythmias?",
                 "gpat_a3": "Bacillus subtilis",
                 "gpat_a4": "E.coli",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Major adverse effect of clonidine is",
+                "gpat_a1": "Bradycardia",
+                "gpat_a2": "Tachycardia",
+                "gpat_a3": "Sexual dysfunction",
+                "gpat_a4": "Dry mouth ",
+                "gpat_correct_a": "4"
         }
 ] 
 }
