@@ -598,6 +598,14 @@ arrhythmias?",
                 "gpat_a3": "Sexual dysfunction",
                 "gpat_a4": "Dry mouth ",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "What would be the allowed weight variation, if the tablet weight is 300mg?",
+                "gpat_a1": "10 %",
+                "gpat_a2": "5 %",
+                "gpat_a3": "2.5 %",
+                "gpat_a4": "7.5 %",
+                "gpat_correct_a": "2"
         }
 ] 
 }
