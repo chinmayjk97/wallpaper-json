@@ -606,6 +606,14 @@ arrhythmias?",
                 "gpat_a3": "2.5 %",
                 "gpat_a4": "7.5 %",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which of the following is used as live-attenuated vaccine? ",
+                "gpat_a1": "BCG",
+                "gpat_a2": "Sabin Vaccine",
+                "gpat_a3": "Both A and B ",
+                "gpat_a4": "Salk Vaccine",
+                "gpat_correct_a": "3"
         }
 ] 
 }
