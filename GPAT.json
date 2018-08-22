@@ -614,6 +614,14 @@ arrhythmias?",
                 "gpat_a3": "Both A and B ",
                 "gpat_a4": "Salk Vaccine",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Rate limiting step in biosynthesis of catecholamine is _______?",
+                "gpat_a1": "Formation of Dopamine",
+                "gpat_a2": "Formations of dopa",
+                "gpat_a3": "Transport of tyrosine",
+                "gpat_a4": "Function of noradrenaline",
+                "gpat_correct_a": "1"
         }
 ] 
 }
