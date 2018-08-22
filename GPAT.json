@@ -622,6 +622,14 @@ arrhythmias?",
                 "gpat_a3": "Transport of tyrosine",
                 "gpat_a4": "Function of noradrenaline",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Methanolic extract of crude drug powder when treated with magnesium turnings and conc. hydrochloric acid turned the solution magenta colour. The test is termed as",
+                "gpat_a1": "Shinoda Test",
+                "gpat_a2": "Van Urk's Test",
+                "gpat_a3": "Keller Killiani Test",
+                "gpat_a4": "Vitali Morin Test",
+                "gpat_correct_a": "1"
         }
 ] 
 }
