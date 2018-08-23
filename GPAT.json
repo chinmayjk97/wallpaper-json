@@ -638,6 +638,14 @@ arrhythmias?",
                 "gpat_a3": "Scheduleb X",
                 "gpat_a4": "Schedule M",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "The role of glutathione in tissues includes all EXCEPT :-",
+                "gpat_a1": "Participate in activation of methionine",
+                "gpat_a2": "Participate in decomposition of hydrogen peroxide",
+                "gpat_a3": "Participate in detoxification reactions",
+                "gpat_a4": "Biologically active in oxidized form",
+                "gpat_correct_a": "4"
         }
 ] 
 }
