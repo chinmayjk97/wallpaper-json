@@ -630,6 +630,14 @@ arrhythmias?",
                 "gpat_a3": "Keller Killiani Test",
                 "gpat_a4": "Vitali Morin Test",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Equipment recommend for manufacturing of powder comes under ___?",
+                "gpat_a1": "Schedule H",
+                "gpat_a2": "Schedule N",
+                "gpat_a3": "Scheduleb X",
+                "gpat_a4": "Schedule M",
+                "gpat_correct_a": "2"
         }
 ] 
 }
