@@ -655,6 +655,14 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_a3": "48",
                 "gpat_a4": "56",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": " Which of the following is a 3,3-sigmatropic reaction which converts a 1,5-diene to an isomeric 1,5 diene?",
+                "gpat_a1": "Cope rearrangement",
+                "gpat_a2": "Claisen rearrangement",
+                "gpat_a3": "Photochemical [2+2] reaction",
+                "gpat_a4": "Diels-Alder reaction",
+                "gpat_correct_a": "1"
         }
 ] 
 }
