@@ -646,6 +646,15 @@ arrhythmias?",
                 "gpat_a3": "Participate in detoxification reactions",
                 "gpat_a4": "Biologically active in oxidized form",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "As per Factories Act 1948, in CHAPTER VI dealing with working hours of adults, no adult worker
+shall be required or allowed to work in a factory for more than _______________ hours in a week.",
+                "gpat_a1": "30",
+                "gpat_a2": "40",
+                "gpat_a3": "48",
+                "gpat_a4": "56",
+                "gpat_correct_a": "3"
         }
 ] 
 }
