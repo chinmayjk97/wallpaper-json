@@ -657,12 +657,21 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_correct_a": "3"
         }, 
         {
-                "gpat_q": " Which of the following is a 3,3-sigmatropic reaction which converts a 1,5-diene to an isomeric 1,5 diene?",
+                "gpat_q": " Which of the following is a 3,3-sigmatropic reaction which converts a 1,5-diene to an isomeric
+ 1,5 diene?",
                 "gpat_a1": "Cope rearrangement",
                 "gpat_a2": "Claisen rearrangement",
                 "gpat_a3": "Photochemical [2+2] reaction",
                 "gpat_a4": "Diels-Alder reaction",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Hepatitis-B virus , except ",
+                "gpat_a1": "is a DNA virus",
+                "gpat_a2": "The presence of antigen indicates increased infectivity",
+                "gpat_a3": "Antibody to surface antigen usually appears within 2 weeks of infection",
+                "gpat_a4": "Is a recognized cause of  liver cancer",
+                "gpat_correct_a": "3"
         }
 ] 
 }
