@@ -692,6 +692,14 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_a3": "Nicotinic acid",
                 "gpat_a4": "Inositol",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": " Dipole - induced dipoles are also known as:",
+                "gpat_a1": "London forces",
+                "gpat_a2": "Keesom forces ",
+                "gpat_a3": "Debye forces",
+                "gpat_a4": "Hydrogen bonding",
+                "gpat_correct_a": "3"
         }
 ] 
 }
