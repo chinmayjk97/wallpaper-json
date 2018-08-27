@@ -674,12 +674,24 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_correct_a": "3"
         }, 
         {
-                "gpat_q": "Starch-iodide paste/paper is used as an external indicator in one of the following titrations.	Identify that.",
-                "gpat_a1": "Iodometric titration of copper sulphate using sodium thiosulphate as titrant",
-                "gpat_a2": "Iodimetric titration of ascorbic acid using iodine solution as titrant",
-                "gpat_a3": "Diazotisation titration of sulphadiazine using sodium nitrite as titrant",
+                "gpat_q": "Starch-iodide paste/paper is used as an external indicator in one of the following titrations.	Identify that.
+",
+                "gpat_a1": "Iodometric titration of copper sulphate using sodium thiosulphate as titrant
+",
+                "gpat_a2": "Iodimetric titration of ascorbic acid using iodine solution as titrant
+",
+                "gpat_a3": "Diazotisation titration of sulphadiazine using sodium nitrite as titrant
+",
                 "gpat_a4": "Potassium dichromate titration using sodium thiosulphate as titrant",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The vitamin essential in tissue culture medium is ________?",
+                "gpat_a1": "Pyridoxine",
+                "gpat_a2": "Thiamine",
+                "gpat_a3": "Nicotinic acid",
+                "gpat_a4": "Inositol",
+                "gpat_correct_a": "2"
         }
 ] 
 }
