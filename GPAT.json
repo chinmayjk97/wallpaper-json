@@ -708,6 +708,14 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_a3": "Dioscoride",
                 "gpat_a4": "Shushrutha",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which of the following side effect of ACE inhibitors result from inhibition of bradykinin breakdown?",
+                "gpat_a1": "Analgesia",
+                "gpat_a2": "Hyperglycaemia",
+                "gpat_a3": "Productive cough",
+                "gpat_a4": "Dry cough",
+                "gpat_correct_a": "4"
         }
 ] 
 }
