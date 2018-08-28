@@ -700,6 +700,14 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_a3": "Debye forces",
                 "gpat_a4": "Hydrogen bonding",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Who is Father Of Cognosy _______?",
+                "gpat_a1": "Galen",
+                "gpat_a2": "Hippocrates",
+                "gpat_a3": "Dioscoride",
+                "gpat_a4": "Shushrutha",
+                "gpat_correct_a": "1"
         }
 ] 
 }
