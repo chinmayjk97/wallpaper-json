@@ -716,6 +716,14 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_a3": "Productive cough",
                 "gpat_a4": "Dry cough",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "What is administered in case of chronic asthma?",
+                "gpat_a1": "β1 antagonist",
+                "gpat_a2": "β1 agonist + steroids",
+                "gpat_a3": "β2 agonist + steroids",
+                "gpat_a4": "β2 antagonist",
+                "gpat_correct_a": "3"
         }
 ] 
 }
