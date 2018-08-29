@@ -724,6 +724,14 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_a3": "β2 agonist + steroids",
                 "gpat_a4": "β2 antagonist",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "During autoclaving of dextrose solution, a straw colour is observed. It is due to the presence of substance called ",
+                "gpat_a1": "Furfural",
+                "gpat_a2": "5-hydroxymethylfurfural",
+                "gpat_a3": "5-hydroxyfurfural",
+                "gpat_a4": "5-methylfurfural",
+                "gpat_correct_a": "2"
         }
 ] 
 }
