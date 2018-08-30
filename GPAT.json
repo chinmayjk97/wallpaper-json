@@ -732,6 +732,15 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_a3": "5-hydroxyfurfural",
                 "gpat_a4": "5-methylfurfural",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Verapamil is used as a ________?",
+                "gpat_a1": "Anti-anginal drug",
+                "gpat_a2": "Anti-arrhythmic Drug",
+                "gpat_a3": "Ca+2 channel blocker",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "4"
         }
+               
 ] 
 }
