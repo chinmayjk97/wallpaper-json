@@ -740,6 +740,14 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_a3": "Ca+2 channel blocker",
                 "gpat_a4": "All of the above",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "The following are used to detect antibodies EXCEPT ",
+                "gpat_a1": "Compliment fixation ",
+                "gpat_a2": "Haematoglutination inhibition ",
+                "gpat_a3": "Coagulase test",
+                "gpat_a4": "Indirect Immunofluorescence ",
+                "gpat_correct_a": "3"
         }
                
 ] 
