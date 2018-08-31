@@ -748,6 +748,15 @@ shall be required or allowed to work in a factory for more than _______________ 
                 "gpat_a3": "Coagulase test",
                 "gpat_a4": "Indirect Immunofluorescence ",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Most of the emergency contraceptives have which one 
+of the following active ingredients?",
+                "gpat_a1": "Misoprostol",
+                "gpat_a2": "Levonorgesterel",
+                "gpat_a3": "Norethindron",
+                "gpat_a4": "Estradiol",
+                "gpat_correct_a": "2"
         }
                
 ] 
