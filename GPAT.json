@@ -774,6 +774,14 @@ of the following active ingredients?
                 "gpat_a3": "Treponema palladium",
                 "gpat_a4": "Vibrio cholera",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Sodium nitroprusside is one of the most potent blood pressure lowering drugs. Its uses limited because of ____",
+                "gpat_a1": "Its short duration of action",
+                "gpat_a2": "Very long duration of action",
+                "gpat_a3": "Ineffective in oral route",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "1"
         }
                
 ] 
