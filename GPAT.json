@@ -766,6 +766,14 @@ of the following active ingredients?
                 "gpat_a3": "p-amino acid",
                 "gpat_a4": "Phenolic group",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Causative agent of syphilis is ______?",
+                "gpat_a1": "Clostridium titanium",
+                "gpat_a2": "Bacillus pertussis",
+                "gpat_a3": "Treponema palladium",
+                "gpat_a4": "Vibrio cholera",
+                "gpat_correct_a": "3"
         }
                
 ] 
