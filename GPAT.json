@@ -782,6 +782,14 @@ of the following active ingredients?
                 "gpat_a3": "Ineffective in oral route",
                 "gpat_a4": "None of the above",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "which of the following adverse effects is caused by thioridazine ?",
+                "gpat_a1": "Tardive dyskinesia",
+                "gpat_a2": "Constpation",
+                "gpat_a3": "Orthostatic hypotension",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "4"
         }
                
 ] 
