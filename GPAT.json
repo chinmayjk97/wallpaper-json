@@ -806,6 +806,14 @@ of the following active ingredients?
                 "gpat_a3": "Amiodarone",
                 "gpat_a4": "Flecainide",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "1 Fajan's method        Chromate \n2 Mohr's method       Fluoroscein \n3 Volhard's method    Ferric salt   \n\nThe method and indicator matches correctly are ___",
+                "gpat_a1": "1 and 2 only ",
+                "gpat_a2": "2 and 3 only ",
+                "gpat_a3": "3 only ",
+                "gpat_a4": "2 only",
+                "gpat_correct_a": "3"
         }
                
 ] 
