@@ -814,6 +814,14 @@ of the following active ingredients?
                 "gpat_a3": "3 only ",
                 "gpat_a4": "2 only",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "which one of the following modes of HIV transmission carries highest relative risk of infection with single exposure ?",
+                "gpat_a1": "Transfusion of blood and blood products",
+                "gpat_a2": "Perinatal from mother to child",
+                "gpat_a3": "Sexual contacts with infected partners",
+                "gpat_a4": "Syringe sharing with drug addicts",
+                "gpat_correct_a": "1"
         }
                
 ] 
