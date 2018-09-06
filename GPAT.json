@@ -830,6 +830,14 @@ of the following active ingredients?
                 "gpat_a3": "Belladonna",
                 "gpat_a4": "Pepper",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "E coli is used in assay of    ",
+                "gpat_a1": "Carbencillin",
+                "gpat_a2": "Chloramphenicol",
+                "gpat_a3": "Gentamycin",
+                "gpat_a4": "Nystatin",
+                "gpat_correct_a": "2"
         }
                
 ] 
