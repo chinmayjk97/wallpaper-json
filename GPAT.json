@@ -822,6 +822,14 @@ of the following active ingredients?
                 "gpat_a3": "Sexual contacts with infected partners",
                 "gpat_a4": "Syringe sharing with drug addicts",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "which of the following drug is not from family solanaceae ?",
+                "gpat_a1": "Ephedra",
+                "gpat_a2": "Datura",
+                "gpat_a3": "Belladonna",
+                "gpat_a4": "Pepper",
+                "gpat_correct_a": "1"
         }
                
 ] 
