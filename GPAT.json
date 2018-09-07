@@ -846,6 +846,14 @@ of the following active ingredients?
                 "gpat_a3": "Rhodapsin",
                 "gpat_a4": "Porphyrin",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In polarography ____ is used for quantitative analysis.",
+                "gpat_a1": "Halfwave potential 	",
+                "gpat_a2": "Migration current",
+                "gpat_a3": "Diffusion current",
+                "gpat_a4": "Limiting current",
+                "gpat_correct_a": "3"
         }
                
 ] 
