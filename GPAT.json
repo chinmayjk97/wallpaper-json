@@ -838,6 +838,14 @@ of the following active ingredients?
                 "gpat_a3": "Gentamycin",
                 "gpat_a4": "Nystatin",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "The principle light- trapping pigment molecule in plants, Algae, and cyanobacteria is ",
+                "gpat_a1": "Chlorophyll a",
+                "gpat_a2": "chlorophyll b",
+                "gpat_a3": "Rhodapsin",
+                "gpat_a4": "Porphyrin",
+                "gpat_correct_a": "1"
         }
                
 ] 
