@@ -854,6 +854,15 @@ of the following active ingredients?
                 "gpat_a3": "Diffusion current",
                 "gpat_a4": "Limiting current",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Schedule “K” states",
+                "gpat_a1": "Minimum equipment required for running pharmacy",
+                "gpat_a2": "Drugs exempted from certain provision relating to manufacture of drugs",
+                "gpat_a3": "Disease or ailment which a drug may not purport to
+prevent or cure",
+                "gpat_a4": "List of drugs exempted from the provision of import",
+                "gpat_correct_a": "2"
         }
                
 ] 
