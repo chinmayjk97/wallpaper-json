@@ -876,6 +876,14 @@ prevent or cure
                 "gpat_a3": "Liposome mediated",
                 "gpat_a4": "Electroporation",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Parachor and Molar refraction can be categorized under one of the following properties. Identify that.",
+                "gpat_a1": "Additive properties",
+                "gpat_a2": "Constitutive properties",
+                "gpat_a3": "Colligative properties",
+                "gpat_a4": "Additive and constitutive property",
+                "gpat_correct_a": "4"
         }
                
 ] 
