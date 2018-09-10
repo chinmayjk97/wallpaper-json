@@ -881,9 +881,19 @@ prevent or cure
                 "gpat_q": "Parachor and Molar refraction can be categorized under one of the following properties. Identify that.",
                 "gpat_a1": "Additive properties",
                 "gpat_a2": "Constitutive properties",
-                "gpat_a3": "Colligative properties",
-                "gpat_a4": "Additive and constitutive property",
+                "gpat_a3": "Colligative properties
+",
+                "gpat_a4": "Additive and constitutive property
+",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "The aromatic ring present in beta blocker propranolol is",
+                "gpat_a1": "Benzene",
+                "gpat_a2": "Napthalene",
+                "gpat_a3": "Anthracene",
+                "gpat_a4": "Phenanthrene",
+                "gpat_correct_a": "2"
         }
                
 ] 
