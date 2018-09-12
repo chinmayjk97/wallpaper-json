@@ -894,7 +894,22 @@ prevent or cure
                 "gpat_a3": "Anthracene",
                 "gpat_a4": "Phenanthrene",
                 "gpat_correct_a": "2"
-        }
-               
+        },
+ {
+                "gpat_q": "Which is following is not a prodrug? ",
+                "gpat_a1": "Progunil",
+                "gpat_a2": "Sulfasalazine",
+                "gpat_a3": "Prontosil red ",
+                "gpat_a4": "Trimethoprim",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Geiger Muller counter is filled with ______",
+                "gpat_a1": "Hydrogen",
+                "gpat_a2": "Argon",
+                "gpat_a3": "Krypton	",
+                "gpat_a4": "Xenon",
+                "gpat_correct_a": "2"
+        }             
 ] 
 }
