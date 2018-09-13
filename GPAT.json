@@ -910,6 +910,14 @@ prevent or cure
                 "gpat_a3": "Krypton	",
                 "gpat_a4": "Xenon",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "'Moon Face' is a characteristic effect seen in _____",
+                "gpat_a1": "Oral hypoglycemics",
+                "gpat_a2": "Corticosteroids ",
+                "gpat_a3": "Diuretics ",
+                "gpat_a4": "ACE Inhibitors ",
+                "gpat_correct_a": "2"
         }             
 ] 
 }
