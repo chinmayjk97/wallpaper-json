@@ -918,6 +918,14 @@ prevent or cure
                 "gpat_a3": "Diuretics ",
                 "gpat_a4": "ACE Inhibitors ",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Plasmodial resistance of CHLOROQUINE is due to",
+                "gpat_a1": "Induction of inactivating enzymes",
+                "gpat_a2": "Change in receptor structure",
+                "gpat_a3": "Increase in the activity of DNA repair mechanism     ",
+                "gpat_a4": "Decreased carrier-mediated drug transport",
+                "gpat_correct_a": "4"
         }             
 ] 
 }
