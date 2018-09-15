@@ -896,7 +896,8 @@ prevent or cure
                 "gpat_correct_a": "2"
         },
  {
-                "gpat_q": "Which is following is not a prodrug? ",
+                "gpat_q": "Which is following is not a prodrug
+? ",
                 "gpat_a1": "Progunil",
                 "gpat_a2": "Sulfasalazine",
                 "gpat_a3": "Prontosil red ",
@@ -904,7 +905,8 @@ prevent or cure
                 "gpat_correct_a": "4"
         }, 
         {
-                "gpat_q": "Geiger Muller counter is filled with ______",
+                "gpat_q": "Geiger Muller counter is filled with
+ ______",
                 "gpat_a1": "Hydrogen",
                 "gpat_a2": "Argon",
                 "gpat_a3": "Krypton	",
@@ -920,12 +922,25 @@ prevent or cure
                 "gpat_correct_a": "2"
         },
         {
-                "gpat_q": "Plasmodial resistance of CHLOROQUINE is due to",
-                "gpat_a1": "Induction of inactivating enzymes",
-                "gpat_a2": "Change in receptor structure",
-                "gpat_a3": "Increase in the activity of DNA repair mechanism     ",
-                "gpat_a4": "Decreased carrier-mediated drug transport",
+                "gpat_q": "Plasmodial resistance of CHLOROQUINE is due to
+",
+                "gpat_a1": "Induction of inactivating enzymes
+",
+                "gpat_a2": "Change in receptor structure
+",
+                "gpat_a3": "Increase in the activity of DNA repair mechanism     
+",
+                "gpat_a4": "Decreased carrier-mediated drug transport
+",
                 "gpat_correct_a": "4"
-        }             
+        },       
+        {
+                "gpat_q": "Which of the following is not a pharmacological effect of Morphine ?",
+                "gpat_a1": "Constriction of the pupil",
+                "gpat_a2": "C.N.S. depression",
+                "gpat_a3": "Diarrhoea",
+                "gpat_a4": "Respiratory",
+                "gpat_correct_a": "3"
+        }      
 ] 
 }
