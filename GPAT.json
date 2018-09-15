@@ -941,6 +941,14 @@ prevent or cure
                 "gpat_a3": "Diarrhoea",
                 "gpat_a4": "Respiratory",
                 "gpat_correct_a": "3"
-        }      
+        },  
+        {
+                "gpat_q": "Choose the right combination:",
+                "gpat_a1": "Quinine, antimalarial, isoquinoline alkaloid",
+                "gpat_a2": "Reserpine, antihypertensive, indole alkaloid",
+                "gpat_a3": "Quantitative microscopy, stomatal number, myrrh",
+                "gpat_a4": "Palmitic acid, salicylic acid, fatty acids",
+                "gpat_correct_a": "2"
+        }  
 ] 
 }
