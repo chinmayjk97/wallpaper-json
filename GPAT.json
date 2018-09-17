@@ -960,6 +960,14 @@ prevent or cure
                 "gpat_a3": "Skeletal muscle contraction",
                 "gpat_a4": "Vasodilation",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which one of the following drugs does not act through G-Protein coupled receptors?",
+                "gpat_a1": "Epinephrine",
+                "gpat_a2": "Dopamine",
+                "gpat_a3": "Insulin",
+                "gpat_a4": "TSH",
+                "gpat_correct_a": "3"
         }
 ] 
 }
