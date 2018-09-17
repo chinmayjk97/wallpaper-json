@@ -943,12 +943,23 @@ prevent or cure
                 "gpat_correct_a": "3"
         },  
         {
-                "gpat_q": "Choose the right combination:",
-                "gpat_a1": "Quinine, antimalarial, isoquinoline alkaloid",
-                "gpat_a2": "Reserpine, antihypertensive, indole alkaloid",
+                "gpat_q": "Choose the right combination:
+",
+                "gpat_a1": "Quinine, antimalarial, isoquinoline alkaloid
+",
+                "gpat_a2": "Reserpine, antihypertensive, indole alkaloid
+",
                 "gpat_a3": "Quantitative microscopy, stomatal number, myrrh",
                 "gpat_a4": "Palmitic acid, salicylic acid, fatty acids",
                 "gpat_correct_a": "2"
-        }  
+        },  
+        {
+                "gpat_q": "Papaverine is an alkaloid which is used for",
+                "gpat_a1": "Cough suppression",
+                "gpat_a2": "Analgesia",
+                "gpat_a3": "Skeletal muscle contraction",
+                "gpat_a4": "Vasodilation",
+                "gpat_correct_a": "4"
+        }
 ] 
 }
