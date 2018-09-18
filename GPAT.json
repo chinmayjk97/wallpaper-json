@@ -968,6 +968,14 @@ prevent or cure
                 "gpat_a3": "Insulin",
                 "gpat_a4": "TSH",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "In acidic pH the oxygen load of haemoglobin is lowered. This observation is termed as :",
+                "gpat_a1": "Bohr effect",
+                "gpat_a2": "Dalton's law",
+                "gpat_a3": "Boyle's law",
+                "gpat_a4": "Haldane effect",
+                "gpat_correct_a": "1"
         }
 ] 
 }
