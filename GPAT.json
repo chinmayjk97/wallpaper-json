@@ -962,7 +962,8 @@ prevent or cure
                 "gpat_correct_a": "4"
         }, 
         {
-                "gpat_q": "Which one of the following drugs does not act through G-Protein coupled receptors?",
+                "gpat_q": "Which one of the following drugs does not act through G-Protein coupled receptors?
+",
                 "gpat_a1": "Epinephrine",
                 "gpat_a2": "Dopamine",
                 "gpat_a3": "Insulin",
@@ -975,6 +976,14 @@ prevent or cure
                 "gpat_a2": "Dalton's law",
                 "gpat_a3": "Boyle's law",
                 "gpat_a4": "Haldane effect",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Formic acid is an example of ",
+                "gpat_a1": "Protogenic solvent",
+                "gpat_a2": "Protophillic solvent",
+                "gpat_a3": "Amphiprotic solvent",
+                "gpat_a4": "Aprotic Solvent",
                 "gpat_correct_a": "1"
         }
 ] 
