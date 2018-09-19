@@ -985,6 +985,14 @@ prevent or cure
                 "gpat_a3": "Amphiprotic solvent",
                 "gpat_a4": "Aprotic Solvent",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Regarding blood brain barrier identify which statement is Wrong :",
+                "gpat_a1": "Capillary endothelial cells of brain have tight junctions. ",
+                "gpat_a2": "Only lipid soluble drugs in the brain. ",
+                "gpat_a3": "Inflammation of meninges further limits entry of drugs into brain. ",
+                "gpat_a4": "Blood brain barrier is deficient at CTZ and interior Hypothalamus. ",
+                "gpat_correct_a": "3"
         }
 ] 
 }
