@@ -993,6 +993,14 @@ prevent or cure
                 "gpat_a3": "Inflammation of meninges further limits entry of drugs into brain. ",
                 "gpat_a4": "Blood brain barrier is deficient at CTZ and interior Hypothalamus. ",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "All of the following enzymes are used in ELISA except ",
+                "gpat_a1": "Glucose oxidase",
+                "gpat_a2": "Alkaline phosphatase",
+                "gpat_a3": "Coagulase",
+                "gpat_a4": "Beta-Galactosidase",
+                "gpat_correct_a": "3"
         }
 ] 
 }
