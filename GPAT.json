@@ -1001,6 +1001,14 @@ prevent or cure
                 "gpat_a3": "Coagulase",
                 "gpat_a4": "Beta-Galactosidase",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which of the following AT2 receptor antagonist does not possess tetrazole moiety in its structure? ",
+                "gpat_a1": "Losartan",
+                "gpat_a2": "Irbesartan",
+                "gpat_a3": "Telmisartan",
+                "gpat_a4": "Valsartan",
+                "gpat_correct_a": "3"
         }
 ] 
 }
