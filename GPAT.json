@@ -1018,6 +1018,16 @@ prevent or cure
                 "gpat_a3": "Density",
                 "gpat_a4": "Freezing point",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Following drugs have volume of distribution more than 200:
+[P]	Warfarin	[Q]	Amitryptyline
+[R]	Digoxin	[S]	Alcohol",
+                "gpat_a1": "P and Q	",
+                "gpat_a2": "Q and R",
+                "gpat_a3": "Q and S	",
+                "gpat_a4": "P and S",
+                "gpat_correct_a": "2"
         }
 ] 
 }
