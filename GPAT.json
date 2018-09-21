@@ -1009,6 +1009,15 @@ prevent or cure
                 "gpat_a3": "Telmisartan",
                 "gpat_a4": "Valsartan",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Florentine receiver is used to separate the liquids based on
+",
+                "gpat_a1": "Molecular weight",
+                "gpat_a2": "Sedimentation rate",
+                "gpat_a3": "Density",
+                "gpat_a4": "Freezing point",
+                "gpat_correct_a": "3"
         }
 ] 
 }
