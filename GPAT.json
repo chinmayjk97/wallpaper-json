@@ -1022,11 +1022,22 @@ prevent or cure
         {
                 "gpat_q": "Following drugs have volume of distribution more than 200:
 [P]	Warfarin	[Q]	Amitryptyline
-[R]	Digoxin	[S]	Alcohol",
+[R]	Digoxin	[S]	Alcohol
+",
                 "gpat_a1": "P and Q	",
-                "gpat_a2": "Q and R",
+                "gpat_a2": "Q and R
+",
                 "gpat_a3": "Q and S	",
-                "gpat_a4": "P and S",
+                "gpat_a4": "P and S
+",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": " A b-lactamase inhibitor which contains an 1-oxopenam structure is ",
+                "gpat_a1": "Tazobactum sodium",
+                "gpat_a2": "Clavulanate potassium",
+                "gpat_a3": "Sublactum sodium",
+                "gpat_a4": "Thienamycin",
                 "gpat_correct_a": "2"
         }
 ] 
