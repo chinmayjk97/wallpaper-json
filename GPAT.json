@@ -1039,6 +1039,15 @@ prevent or cure
                 "gpat_a3": "Sublactum sodium",
                 "gpat_a4": "Thienamycin",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Small pox vaccine contain :",
+                "gpat_a1": "Inactivated or killed virus",
+                "gpat_a2": "Living virus of vaccine",
+                "gpat_a3": "Sterile preparation of killed or fixed virus of rabies
+in only dried form",
+                "gpat_a4": "Sterile suspension of killed typhoid bacilli",
+                "gpat_correct_a": "2"
         }
 ] 
 }
