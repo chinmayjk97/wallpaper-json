@@ -1060,6 +1060,14 @@ in only dried form",
                 "gpat_a3": "Polyethylene glycol",
                 "gpat_a4": "Triglycerides",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which category of drug is evaluated for dissolution? ",
+                "gpat_a1": "Highly diffusible ",
+                "gpat_a2": "Diffusion",
+                "gpat_a3": "Poorly water soluble",
+                "gpat_a4": "Water soluble ",
+                "gpat_correct_a": "3"
         }
 ] 
 }
