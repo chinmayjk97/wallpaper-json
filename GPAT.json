@@ -1041,13 +1041,25 @@ prevent or cure
                 "gpat_correct_a": "2"
         }, 
         {
-                "gpat_q": "Small pox vaccine contain :",
-                "gpat_a1": "Inactivated or killed virus",
-                "gpat_a2": "Living virus of vaccine",
+                "gpat_q": "Small pox vaccine contain
+ :",
+                "gpat_a1": "Inactivated or killed virus
+",
+                "gpat_a2": "Living virus of vaccine
+",
                 "gpat_a3": "Sterile preparation of killed or fixed virus of rabies
 in only dried form",
-                "gpat_a4": "Sterile suspension of killed typhoid bacilli",
+                "gpat_a4": "Sterile suspension of killed typhoid bacilli
+",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "A material which is insoluble and inert and used in matrix tablet formulation is ",
+                "gpat_a1": "Polyethylene",
+                "gpat_a2": "Stearyl alcohol",
+                "gpat_a3": "Polyethylene glycol",
+                "gpat_a4": "Triglycerides",
+                "gpat_correct_a": "1"
         }
 ] 
 }
