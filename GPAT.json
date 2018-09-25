@@ -1076,6 +1076,14 @@ in only dried form",
                 "gpat_a3": "pH 9",
                 "gpat_a4": "pH 10.2",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Florentine receiver works on the principle of separation of component liquids of a mixture based on",
+                "gpat_a1": "Molecular weight difference",
+                "gpat_a2": "Density difference",
+                "gpat_a3": "Volume difference",
+                "gpat_a4": "All",
+                "gpat_correct_a": "2"
         }
 ] 
 }
