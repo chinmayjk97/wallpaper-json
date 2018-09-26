@@ -1095,6 +1095,14 @@ in only dried form",
                 "gpat_a3": "52",
                 "gpat_a4": "48",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Acid-fast organisms are seen in sputum of a 48 year old alcoholic Man. A test to confirm whether he needs a long-term multidrug treatment for tuberculosis is :",
+                "gpat_a1": "Chest X Ray",
+                "gpat_a2": "Ziehl neelsen stain of sputum",
+                "gpat_a3": "Sputum cytology",
+                "gpat_a4": "Mycobacterial cultures of sputum",
+                "gpat_correct_a": "1"
         }
 ] 
 }
