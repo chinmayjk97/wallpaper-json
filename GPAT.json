@@ -1078,12 +1078,23 @@ in only dried form",
                 "gpat_correct_a": "3"
         }, 
         {
-                "gpat_q": "Florentine receiver works on the principle of separation of component liquids of a mixture based on",
-                "gpat_a1": "Molecular weight difference",
-                "gpat_a2": "Density difference",
+                "gpat_q": "Florentine receiver works on the principle of separation of component liquids of a mixture based on
+",
+                "gpat_a1": "Molecular weight difference
+",
+                "gpat_a2": "Density difference
+",
                 "gpat_a3": "Volume difference",
                 "gpat_a4": "All",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "As per Factories Act, 1948, in chapter VI dealing with working hours of adults, no adult worker shall be required or allowed to work in a factory for more than ____ hours in a week.",
+                "gpat_a1": "30",
+                "gpat_a2": "40",
+                "gpat_a3": "52",
+                "gpat_a4": "48",
+                "gpat_correct_a": "4"
         }
 ] 
 }
