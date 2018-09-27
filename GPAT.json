@@ -1103,6 +1103,15 @@ in only dried form",
                 "gpat_a3": "Sputum cytology",
                 "gpat_a4": "Mycobacterial cultures of sputum",
                 "gpat_correct_a": "1"
+        },
+
+        {
+                "gpat_q": "Standards of ophthalmic preparations are included in the schedule content",
+                "gpat_a1": "V",
+                "gpat_a2": "C",
+                "gpat_a3": "FF",
+                "gpat_a4": "U",
+                "gpat_correct_a": "3"
         }
 ] 
 }
