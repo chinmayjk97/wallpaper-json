@@ -1112,6 +1112,14 @@ in only dried form",
                 "gpat_a3": "FF",
                 "gpat_a4": "U",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "A liquid who show increased viscosity on supplying stress is ",
+                "gpat_a1": "Dilatant",
+                "gpat_a2": "Pseudo Plastic",
+                "gpat_a3": "Plastic",
+                "gpat_a4": "Thixotropic",
+                "gpat_correct_a": "1"
         }
 ] 
 }
