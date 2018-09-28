@@ -1120,6 +1120,16 @@ in only dried form",
                 "gpat_a3": "Plastic",
                 "gpat_a4": "Thixotropic",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Two of the official standards for uncoated tablet as per IP are :
+P)Shape Q) Friability 
+R)Disintegration time S)Uniformity of weight",
+                "gpat_a1": "P, Q",
+                "gpat_a2": "P, S",
+                "gpat_a3": "Q, R",
+                "gpat_a4": "R, S",
+                "gpat_correct_a": "4"
         }
 ] 
 }
