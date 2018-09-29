@@ -1138,6 +1138,14 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_a3": "Ketonic functional group",
                 "gpat_a4": "Peroxide bridge",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which of the following drugs are often found in both prescription and over the counter nasal decongestant? ",
+                "gpat_a1": "Alpha 2 agonist",
+                "gpat_a2": "Alpha 1 agonist",
+                "gpat_a3": "Alpha 1 antagonist",
+                "gpat_a4": "Beta 2 agonist",
+                "gpat_correct_a": "2"
         }
 ] 
 }
