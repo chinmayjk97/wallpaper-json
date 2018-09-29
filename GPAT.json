@@ -1130,6 +1130,14 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_a3": "Q, R",
                 "gpat_a4": "R, S",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Which functional group is crucial for Antimalarial activity of Artimisinin",
+                "gpat_a1": "Aldehyde",
+                "gpat_a2": "Ethylene bridge",
+                "gpat_a3": "Ketonic functional group",
+                "gpat_a4": "Peroxide bridge",
+                "gpat_correct_a": "4"
         }
 ] 
 }
