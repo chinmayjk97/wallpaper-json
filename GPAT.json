@@ -1154,6 +1154,14 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_a3": "Azulene",
                 "gpat_a4": "Benzene",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In HPLC analysis what type of column would you prefer? ",
+                "gpat_a1": "A column with high HETP and high number of plates",
+                "gpat_a2": "A column with low HETP and low number of plates",
+                "gpat_a3": "A column with high HETP and low number of plates",
+                "gpat_a4": "A column with low HETP and high number of plates",
+                "gpat_correct_a": "4"
         }
 ] 
 }
