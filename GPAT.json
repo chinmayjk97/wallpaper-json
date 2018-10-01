@@ -1146,6 +1146,14 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_a3": "Alpha 1 antagonist",
                 "gpat_a4": "Beta 2 agonist",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Anthracene is isomeric with",
+                "gpat_a1": "Phenanthrene",
+                "gpat_a2": "Naphthalene",
+                "gpat_a3": "Azulene",
+                "gpat_a4": "Benzene",
+                "gpat_correct_a": "1"
         }
 ] 
 }
