@@ -1162,6 +1162,14 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_a3": "A column with high HETP and low number of plates",
                 "gpat_a4": "A column with low HETP and high number of plates",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Digitalis belongs to Schedule",
+                "gpat_a1": "E",
+                "gpat_a2": "X",
+                "gpat_a3": "G",
+                "gpat_a4": "H",
+                "gpat_correct_a": "1"
         }
 ] 
 }
