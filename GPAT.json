@@ -1172,12 +1172,21 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_correct_a": "1"
         }, 
         {
-                "gpat_q": "One of the following is used as dental cement",
+                "gpat_q": "One of the following is used as dental cement
+",
                 "gpat_a1": "ZnCl2",
                 "gpat_a2": "NaCl",
                 "gpat_a3": "KMnO4",
                 "gpat_a4": "ZnO",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "In which of the following techniques sample is kept below triple point ?",
+                "gpat_a1": "Lyophilisation",
+                "gpat_a2": "Spray drying",
+                "gpat_a3": "Spray congealing",
+                "gpat_a4": "Centrifugation",
+                "gpat_correct_a": "1"
         }
 ] 
 }
