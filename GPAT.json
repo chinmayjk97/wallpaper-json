@@ -1187,6 +1187,14 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_a3": "Spray congealing",
                 "gpat_a4": "Centrifugation",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "The active metabolite of anticancer cyclophosphamide is",
+                "gpat_a1": "N-hydroxy cyclophosphamide ",
+                "gpat_a2": "N-methyl cyclophosphamide ",
+                "gpat_a3": "N-acetyl cyclophosphamide",
+                "gpat_a4": "N-propyl cyclophosphide",
+                "gpat_correct_a": "1"
         }
 ] 
 }
