@@ -1208,6 +1208,14 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_a3": "Biotin",
                 "gpat_a4": "Pantothenic acid",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "The order of dissolution of different dosage forms of drugs is ____ ",
+                "gpat_a1": "Metastable > stable > amorphous",
+                "gpat_a2": "Stable > amorphous > metastable",
+                "gpat_a3": "Amorphous > metastable > stable",
+                "gpat_a4": "Amorphous > stable > metastable",
+                "gpat_correct_a": "3"
         }
 ] 
 }
