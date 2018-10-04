@@ -1189,12 +1189,25 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_correct_a": "1"
         }, 
         {
-                "gpat_q": "The active metabolite of anticancer cyclophosphamide is",
-                "gpat_a1": "N-hydroxy cyclophosphamide ",
-                "gpat_a2": "N-methyl cyclophosphamide ",
-                "gpat_a3": "N-acetyl cyclophosphamide",
-                "gpat_a4": "N-propyl cyclophosphide",
+                "gpat_q": "The active metabolite of anticancer cyclophosphamide is
+",
+                "gpat_a1": "N-hydroxy cyclophosphamide 
+",
+                "gpat_a2": "N-methyl cyclophosphamide 
+",
+                "gpat_a3": "N-acetyl cyclophosphamide
+",
+                "gpat_a4": "N-propyl cyclophosphide
+",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "The Vitamin administered with isoniazid to minimize adverse reactions is",
+                "gpat_a1": "Vitamin A",
+                "gpat_a2": "Pyridoxine",
+                "gpat_a3": "Biotin",
+                "gpat_a4": "Pantothenic acid",
+                "gpat_correct_a": "2"
         }
 ] 
 }
