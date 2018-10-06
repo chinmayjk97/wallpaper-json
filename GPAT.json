@@ -1224,6 +1224,15 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_a3": "400-1400cm-1",
                 "gpat_a4": "None of the above",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Arrange the following spectroscopic technique in the 
+ascending order of their energies: NMR, IR, UV ",
+                "gpat_a1": "NMR>IR>UV",
+                "gpat_a2": "UV<IR<NMR	",
+                "gpat_a3": "NMR<IR<UV	",
+                "gpat_a4": "UV>IR>NMR",
+                "gpat_correct_a": "4"
         }
 ] 
 }
