@@ -1233,6 +1233,14 @@ ascending order of their energies: NMR, IR, UV ",
                 "gpat_a3": "NMR<IR<UV	",
                 "gpat_a4": "UV>IR>NMR",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "DLVO therapy is associated with ________",
+                "gpat_a1": "Granulation",
+                "gpat_a2": "Compression",
+                "gpat_a3": "Suspension",
+                "gpat_a4": "Emulsion",
+                "gpat_correct_a": "3"
         }
 ] 
 }
