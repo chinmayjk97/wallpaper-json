@@ -1258,6 +1258,14 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_a3": "Arrhenius method",
                 "gpat_a4": "Karl-Fischer method",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In Ziehl Neelson staining, Acid fast bacteria are stained : ",
+                "gpat_a1": "Violet ",
+                "gpat_a2": "Purple",
+                "gpat_a3": "Red",
+                "gpat_a4": "Blue",
+                "gpat_correct_a": "3"
         }
 ] 
 }
