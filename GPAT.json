@@ -1218,29 +1218,46 @@ R)Disintegration time S)Uniformity of weight",
                 "gpat_correct_a": "3"
         }, 
         {
-                "gpat_q": "Finger print region for IR is ______ ",
-                "gpat_a1": "1400-4000 cm-1",
-                "gpat_a2": "4000-8000cm-1",
-                "gpat_a3": "400-1400cm-1",
-                "gpat_a4": "None of the above",
+                "gpat_q": "Finger print region for IR is ______ 
+",
+                "gpat_a1": "1400-4000 cm-1
+",
+                "gpat_a2": "4000-8000cm-1
+",
+                "gpat_a3": "400-1400cm-1
+",
+                "gpat_a4": "None of the above
+",
                 "gpat_correct_a": "3"
         }, 
         {
                 "gpat_q": "Arrange the following spectroscopic technique in the 
-ascending order of their energies: NMR, IR, UV ",
+ascending order of their energies: NMR, IR, UV 
+",
                 "gpat_a1": "NMR>IR>UV",
                 "gpat_a2": "UV<IR<NMR	",
-                "gpat_a3": "NMR<IR<UV	",
-                "gpat_a4": "UV>IR>NMR",
+                "gpat_a3": "NMR<IR<UV	
+",
+                "gpat_a4": "UV>IR>NMR
+",
                 "gpat_correct_a": "4"
         }, 
         {
-                "gpat_q": "DLVO therapy is associated with ________",
+                "gpat_q": "DLVO therapy is associated with ________
+",
                 "gpat_a1": "Granulation",
                 "gpat_a2": "Compression",
                 "gpat_a3": "Suspension",
                 "gpat_a4": "Emulsion",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which method is used for the Limit test for arsenic ?",
+                "gpat_a1": "Gutzeit Method",
+                "gpat_a2": "Oswald method",
+                "gpat_a3": "Arrhenius method",
+                "gpat_a4": "Karl-Fischer method",
+                "gpat_correct_a": "1"
         }
 ] 
 }
