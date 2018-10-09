@@ -798,7 +798,7 @@ of the following active ingredients?
                 "gpat_a3": "L-Fructose",
                 "gpat_a4": "Mixture of Mannitol and Sorbitol ",
                 "gpat_correct_a": "4"
-        }
+        },
         {
                 "gpat_q": "Which one of the following anti-arryhythmic drugs act by inhibiting potassium-sodium and calcium channels ?",
                 "gpat_a1": "Qunidine",
