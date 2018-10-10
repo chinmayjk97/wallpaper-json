@@ -1266,6 +1266,14 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_a3": "Red",
                 "gpat_a4": "Blue",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The oral oligosaccharide hypoglycemic agent, which is administered  at the start of the meal is",
+                "gpat_a1": "Pioglitazone",
+                "gpat_a2": "Miglitol",
+                "gpat_a3": "Acarbose",
+                "gpat_a4": "Glimepride",
+                "gpat_correct_a": "3"
         }
 ] 
 }
