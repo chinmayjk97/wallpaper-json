@@ -1282,6 +1282,14 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_a3": "Silicon",
                 "gpat_a4": "Fat",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "A person taking organic nitrates has to avoid one of the following drug as it can cause severe hypotension",
+                "gpat_a1": "Aspirin ",
+                "gpat_a2": "Cholestyramine ",
+                "gpat_a3": "Warfarin",
+                "gpat_a4": "Sildenafil",
+                "gpat_correct_a": "4"
         }
 ] 
 }
