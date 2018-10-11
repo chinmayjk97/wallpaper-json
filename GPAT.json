@@ -1275,5 +1275,13 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_a4": "Glimepride",
                 "gpat_correct_a": "3"
         }
+        {
+                "gpat_q": "Simethicone is a component of several antacid formulations. chemically it is",
+                "gpat_a1": "Wax",
+                "gpat_a2": "Aldehyde",
+                "gpat_a3": "Silicon",
+                "gpat_a4": "Fat",
+                "gpat_correct_a": "3"
+        }
 ] 
 }
