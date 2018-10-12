@@ -1290,6 +1290,14 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_a3": "Warfarin",
                 "gpat_a4": "Sildenafil",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Chemically Kaolin is _________",
+                "gpat_a1": "Hydrated magnesium slicate",
+                "gpat_a2": "Hydrated aluminium silicate ",
+                "gpat_a3": "Calcium Carbonate",
+                "gpat_a4": "None",
+                "gpat_correct_a": "2"
         }
 ] 
 }
