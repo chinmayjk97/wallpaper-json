@@ -1298,6 +1298,14 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_a3": "Calcium Carbonate",
                 "gpat_a4": "None",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Mark-Houwink equation is used to determine molecular weight of colloids from",
+                "gpat_a1": "Electronic charge",
+                "gpat_a2": "Diffusion",
+                "gpat_a3": "Viscosity	",
+                "gpat_a4": "None",
+                "gpat_correct_a": "3"
         }
 ] 
 }
