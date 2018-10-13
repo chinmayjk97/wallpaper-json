@@ -7,7 +7,8 @@
                 "gpat_a2": "P, Q and R are used to increase water solubility while S is used to decrease it",
                 "gpat_a3": "Q, S and R are used to increase water solubility while P is used to decrease it",
                 "gpat_a4": "Q and S are used to increase water solubility while P and Q are used to decrease it",
-                "gpat_correct_a": "2"
+                "gpat_correct_a": "2",
+                "reason":""
         },
         {
                 "gpat_q": "Iodine-131 as sodium iodide solution is used as a radiopharmaceutical for diagnostic and \r\ntherapeutic purposes. Its usage is dependent on the release of the following emissions:\r\n[P] Alpha particles [Q] Positrons [R] Beta emission [S] Gamma radiation\r\nChoose the correct combination of statements?",
@@ -15,7 +16,8 @@
                 "gpat_a2": "Q \u0026 S",
                 "gpat_a3": "P \u0026 R",
                 "gpat_a4": "P \u0026 S",
-                "gpat_correct_a": "1"
+                "gpat_correct_a": "1",
+                "reason":""
         },
         {
                 "gpat_q": "Petit mal epilepsy is treated by",
@@ -23,7 +25,8 @@
                 "gpat_a2": "ethosuximide",
                 "gpat_a3": "phenytoin",
                 "gpat_a4": "diazepam",
-                "gpat_correct_a": "2"
+                "gpat_correct_a": "2",
+                "reason":" "
         },
         {
                 "gpat_q": "Which one of the following drugs has positive inotropic and negative chronotropic action?",
@@ -56,126 +59,6 @@
                 "gpat_a3": "Diazoxide",
                 "gpat_a4": "Sodium nitroprusside",
                 "gpat_correct_a": "4"
-        },
-        {
-                "gpat_q": "All of the given four drugs are neuromuscular blocking agents.
-[P] : Gallamine [Q]: Succinylcholine
-[R] : Vecuronium [S] : d-Tubocurarine
-Choose the correct statement about them.",
-                "gpat_a1": "P and Q are competitive neuromuscular blocking agents",
-                "gpat_a2": "Q and R are competitive neuromuscular blocking agents",
-                "gpat_a3": "R and S are non-competitive neuromuscular blocking agents",
-                "gpat_a4": "P and S are competitive neuromuscular blocking agents",
-                "gpat_correct_a": "4"
-        },
-        {
-                "gpat_q": "Metformin causes the following actions EXCEPT for the one. Identify that.",
-                "gpat_a1": "Reduces hepatic neoglucogenesis",
-                "gpat_a2": "Increases glucose uptake in skeletal muscles",
-                "gpat_a3": "Enhances sensitivity to insulin",
-                "gpat_a4": "Increases HbA1c by 1% to 2%",
-                "gpat_correct_a": "4"
-        },
-        {
-                "gpat_q": "Histologically the barks of Cinnamomum cassia and Cinnamomum zeylanicum differ in one of the following features. Identify that.",
-                "gpat_a1": "Sclerieds",
-                "gpat_a2": "Phloem Fibers",
-                "gpat_a3": "Pericyclic Fibres",
-                "gpat_a4": "Cortex",
-                "gpat_correct_a": "4"
-        },
-        {
-                "gpat_q": "Atracurium besylate, a neuromuscular blocking agent, is metabolized through one of the following reactions. Identify that.",
-                "gpat_a1": "Hoffman elimination",
-                "gpat_a2": "Hoffman rearrangement",
-                "gpat_a3": "Michael addition",
-                "gpat_a4": "Claisen condensation",
-                "gpat_correct_a": "1"
-        },
-        {
-                "gpat_q": "Choose the most basic heterocyclic compound among the followings.",
-                "gpat_a1": "Pyridine",
-                "gpat_a2": "Imidazole",
-                "gpat_a3": "Pyrrole",
-                "gpat_a4": "Pyrrolidine",
-                "gpat_correct_a": "4"
-        },
-        {
-                "gpat_q": "Which one of the following amino acids is the most effective contributor of protein buffer?",
-                "gpat_a1": "Alanine",
-                "gpat_a2": "Glycine",
-                "gpat_a3": "Histidine",
-                "gpat_a4": "Arginine",
-                "gpat_correct_a": "3"
-        },
-        {
-                "gpat_q": "Which one of the following colours is NOT permitted to be used in drugs by the Drugs and Cosmetics Act, 1940?",
-                "gpat_a1": "Chlorophyll",
-                "gpat_a2": "Riboflavin",
-                "gpat_a3": "Tartrazine",
-                "gpat_a4": "Amaranth",
-                "gpat_correct_a": "4"
-        },
-        {
-                "gpat_q": "Read the following statements:
-[P] : At temperature below Kraft point, micelles will, not form
-[Q]: At Kraft point, solubility of surfactant equals CMC
-[R] : Kraft point increases with increasing chain length of hydrocarbon
-[S] : Kraft point is normally exhibited by non-ionic surfactants
-Choose the correct combination of answers.",
-                "gpat_a1": "P is correct but Q, R & S are wrong",
-                "gpat_a2": "R & S are correct but P & Q are wrong",
-                "gpat_a3": "P, Q & R are correct but S is wrong",
-                "gpat_a4": "P, Q, R & S all are correct",
-                "gpat_correct_a": "3"
-        },
-        {
-                "gpat_q": "Which of the following alkaloids is derived from tyrosine?",
-                "gpat_a1": "Quinine",
-                "gpat_a2": "Morphine",
-                "gpat_a3": "Atropine",
-                "gpat_a4": "Ephedrine",
-                "gpat_correct_a": "2"
-        },
-        {
-                "gpat_q": "Quinoline alkaloids are biosynthesized via which one of the following pathways?",
-                "gpat_a1": "Shikimic acid - tyrosine",
-                "gpat_a2": "Shikimic acid - tryptophan",
-                "gpat_a3": "Shikimic acid - cathinone",
-                "gpat_a4": "Shikimic acid - phenylalanine",
-                "gpat_correct_a": "2"
-        },
-        {
-                "gpat_q": "Which of the following beta blockers has been shown clinically to reduce mortality in patients of symptomatic heart failure?",
-                "gpat_a1": "Atenolol",
-                "gpat_a2": "Carvedilol",
-                "gpat_a3": "Propranolol",
-                "gpat_a4": "Esmolol",
-                "gpat_correct_a": "2"
-        },
-        {
-                "gpat_q": "Diels-Alder reaction can be carried out in which of the following heterocyclic compounds most readily?",
-                "gpat_a1": "Pyrrole",
-                "gpat_a2": "Thiophene",
-                "gpat_a3": "Furan",
-                "gpat_a4": "Pyridine",
-                "gpat_correct_a": "3"
-        }, 
-        {
-                "gpat_q": "Tissue Plasminogen activator that disperses blood clot, is beneficial if given within",
-                "gpat_a1": "3 days",
-                "gpat_a2": "9 hours",
-                "gpat_a3": "3 hours",
-                "gpat_a4": "24 hours",
-                "gpat_correct_a": "3"
-        }, 
-        {
-                "gpat_q": "Exotoxin producing bacteria :",
-                "gpat_a1": "Salmonella typi",
-                "gpat_a2": "Vibrio cholera",
-                "gpat_a3": "Clostridium tetani",
-                "gpat_a4": "Pasteurella pestis",
-                "gpat_correct_a": "3"
         }
 ] 
 }
