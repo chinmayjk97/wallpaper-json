@@ -34,7 +34,8 @@
                 "gpat_a2": "Epinephrine",
                 "gpat_a3": "Digoxin", 
                 "gpat_a4": "Isoprenaline",
-                "gpat_correct_a": "3"
+                "gpat_correct_a": "3", 
+"reason":" "
         },
         {
                 "gpat_q": "Which one of the following therapeutic classes has been proved clinically as a first line therapy for heart failure and has shown decreased hospitalization, improved symptoms and delayed disease progression?",
@@ -42,7 +43,8 @@
                 "gpat_a2": "ACE Inhibitors (ACEIs)",
                 "gpat_a3": "Renin Antagonists",
                 "gpat_a4": "Nitrites",
-                "gpat_correct_a": "2"
+                "gpat_correct_a": "2", 
+"reason":" https://www.instagram.com/pharmaknowledge_"
         },
         {
                 "gpat_q": "Which one of the following anti-arrhythmic drugs acts by inhibiting potassium, sodium and calcium channels?",
@@ -50,7 +52,8 @@
                 "gpat_a2": "Lignocaine",
                 "gpat_a3": "Amiodarone",
                 "gpat_a4": "Flecainide",
-                "gpat_correct_a": "3"
+                "gpat_correct_a": "3", 
+"reason":" Hello how are you"
         },
         {
                 "gpat_q": "Which one of the following drugs produces significant relaxation of both venules and arterioles?",
@@ -58,7 +61,8 @@
                 "gpat_a2": "Minoxidil",
                 "gpat_a3": "Diazoxide",
                 "gpat_a4": "Sodium nitroprusside",
-                "gpat_correct_a": "4"
+                "gpat_correct_a": "4", 
+"reason":"https://goo.gl/forms/f6HlQtZ6Aq1YxtlG3"
         }
 ] 
 }
