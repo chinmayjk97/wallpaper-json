@@ -2,67 +2,184 @@
         "Date" : "14/10/18", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Followings are some drug derivatives used to increase/decrease the water solubility of the \r\nparent drugs:\r\n[P] : Rolitetracycline\r\n[Q] : Erythromycin lactobionate \r\n[R] : Chloramphenicol succinate \r\n[S] : Erythromycin stearate\r\nChoose the correct combination of statements.",
-                "gpat_a1": "Q and R are used to increase water solubility while P and S are used to decrease it",
-                "gpat_a2": "P, Q and R are used to increase water solubility while S is used to decrease it",
-                "gpat_a3": "Q, S and R are used to increase water solubility while P is used to decrease it",
-                "gpat_a4": "Q and S are used to increase water solubility while P and Q are used to decrease it",
-                "gpat_correct_a": "2",
-                "reason":"hellloooooooooovdbd"
+                "gpat_q": "Khellin is an active constituent of which one of the following plants?",
+                "gpat_a1": "Prunus serona",
+                "gpat_a2": "Tribulus terrestis",
+                "gpat_a3": "Vanilla planifolia",
+                "gpat_a4": "Ammi visnaga",
+                "gpat_correct_a": "",
+                "reason":""
         },
         {
-                "gpat_q": "Iodine-131 as sodium iodide solution is used as a radiopharmaceutical for diagnostic and \r\ntherapeutic purposes. Its usage is dependent on the release of the following emissions:\r\n[P] Alpha particles [Q] Positrons [R] Beta emission [S] Gamma radiation\r\nChoose the correct combination of statements?",
-                "gpat_a1": "R \u0026 S",
-                "gpat_a2": "Q \u0026 S",
-                "gpat_a3": "P \u0026 R",
-                "gpat_a4": "P \u0026 S",
+                "gpat_q": "Which one of the following compounds is useful for the stimulation of cell division and release of lateral bud dormancy?",
+                "gpat_a1": "Zeatin",
+                "gpat_a2": "2,4-Dichlorophenoxyacetic acid",
+                "gpat_a3": "Indoleacetic acid",
+                "gpat_a4": "Picloram",
                 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "Petit mal epilepsy is treated by",
-                "gpat_a1": "phenoberbitone",
-                "gpat_a2": "ethosuximide",
-                "gpat_a3": "phenytoin",
-                "gpat_a4": "diazepam",
+                "gpat_q": "Which of the following ergot alkaloids is water soluble and shows blue fluorescence ?",
+                "gpat_a1": "Ergosine",
+                "gpat_a2": "Ergotamine",
+                "gpat_a3": "Ergocristine",
+                "gpat_a4": "Ergometrine",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "In FT-IR instruments Michaelson interferometer is used in place of grating. The function of the interferometer is to act as a modulator'. What do you understand by this statement?",
+                "gpat_a1": "The function of the interferometer is to act as a monochromator",
+                "gpat_a2": "The function of the interferometer is to convert high frequency radiations into low ones",
+                "gpat_a3": "The function of the interferometer is to convert low frequency radiations into high ones",
+                "gpat_a4": "The function of the interferometer is to convert frequency domain spectra into time domain spectra",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "What will be the maintenance dose of a sustained release 12 hour formulation of drug X exhibiting one compartment kinetics with a half-life of 6 hours, plasma concentration (steady state) 6 ug/ml, volume of distribution 30 L, and an oral bioavailability of 80%?",
+                "gpat_a1": "249.48 mg",
+                "gpat_a2": "225.48 mg",
+                "gpat_a3": "311.85 mg",
+                "gpat_a4": "281.85 mg",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Goldbeater's skin test is used to detect the presence of which one of the following classes of compounds?",
+                "gpat_a1": "Tannins",
+                "gpat_a2": "Steroids",
+                "gpat_a3": "Glycerides",
+                "gpat_a4": "Resins",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following species is being inactivated by the enzyme Dipeptidyl peptidase-4 ?",
+                "gpat_a1": "Oxytocin",
+                "gpat_a2": "Vasopressin",
+                "gpat_a3": "Incretin",
+                "gpat_a4": "Glucagon",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Most of the emergency contraceptives have one of the following active ingredients?",
+                "gpat_a1": "Estradiol",
+                "gpat_a2": "Norethindron",
+                "gpat_a3": "Misoprostol",
+                "gpat_a4": "Levonorgesterel",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Antiretroviral Raltegravir is unique, because of which of its following actions?",
+                "gpat_a1": "Integrase inhibition",
+                "gpat_a2": "CCR5 Co-receptor antagonism",
+                "gpat_a3": "Fusion inhibition",
+                "gpat_a4": "Reverse transcriptase inhibition",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following statements is FALSE for artemisinin?",
+                "gpat_a1": "It is a sesquiterpene lactone endoperoxide",
+                "gpat_a2": "It is a drug of choice in prophylaxis of malaria",
+                "gpat_a3": "It does not cure relapsing malaria",
+                "gpat_a4": "It is useful in treatment of cerebral falciparum malaria",
                 "gpat_correct_a": "2",
-                "reason":" "
+                "reason":""
         },
         {
-                "gpat_q": "Which one of the following drugs has positive inotropic and negative chronotropic action?",
-                "gpat_a1": "Dopamine",
-                "gpat_a2": "Epinephrine",
-                "gpat_a3": "Digoxin", 
-                "gpat_a4": "Isoprenaline",
-                "gpat_correct_a": "3", 
-"reason":" "
+                "gpat_q": "Which of the following antibiotics produces concentration dependent bactericidal action and also possesses post-antibiotic effect ?",
+                "gpat_a1": "Ceftazidime",
+                "gpat_a2": "Azithromycin",
+                "gpat_a3": "Amikacin",
+                "gpat_a4": "Piperacillin",
+                "gpat_correct_a": "4",
+                "reason":""
         },
         {
-                "gpat_q": "Which one of the following therapeutic classes has been proved clinically as a first line therapy for heart failure and has shown decreased hospitalization, improved symptoms and delayed disease progression?",
-                "gpat_a1": "Cardiac glycosides",
-                "gpat_a2": "ACE Inhibitors (ACEIs)",
-                "gpat_a3": "Renin Antagonists",
-                "gpat_a4": "Nitrites",
-                "gpat_correct_a": "2", 
-"reason":"https://www.instagram.com/pharmaknowledge_"
+                "gpat_q": "What is chemotaxis?",
+                "gpat_a1": "Toxicity of chemicals",
+                "gpat_a2": "Taxonomy of chemicals",
+                "gpat_a3": "Inhibition of Inflammation",
+                "gpat_a4": "Movement of leucocytes in inflammation",
+                "gpat_correct_a": "4",
+                "reason":""
         },
         {
-                "gpat_q": "Which one of the following anti-arrhythmic drugs acts by inhibiting potassium, sodium and calcium channels?",
-                "gpat_a1": "Quinidine",
-                "gpat_a2": "Lignocaine",
-                "gpat_a3": "Amiodarone",
-                "gpat_a4": "Flecainide",
-                "gpat_correct_a": "3", 
-"reason":" Hello how are you"
+                "gpat_q": "Which of the followings used in the treatment of rheumatoid arthritis is NOT a biologic response modifier?",
+                "gpat_a1": "Anakinra",
+                "gpat_a2": "Leflunomide",
+                "gpat_a3": "Etanercept",
+                "gpat_a4": "Infliximab",
+                "gpat_correct_a": "3",
+                "reason":""
         },
         {
-                "gpat_q": "Which one of the following drugs produces significant relaxation of both venules and arterioles?",
-                "gpat_a1": "Hydralazine",
-                "gpat_a2": "Minoxidil",
-                "gpat_a3": "Diazoxide",
-                "gpat_a4": "Sodium nitroprusside",
-                "gpat_correct_a": "4", 
-"reason":"https://goo.gl/forms/f6HlQtZ6Aq1YxtlG3"
+                "gpat_q": "If C is the concentration of dissolved drug and Cs is the saturation concentration. In which case the sink conditions are said to be maintained?",
+                "gpat_a1": "C < 20% of Cs",
+                "gpat_a2": "C > 20% of Cs",
+                "gpat_a3": "C < 10% of Cs",
+                "gpat_a4": "C > 10% of Cs",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "All of the followings are indications for use of ACE inhibitors EXCEPT for one. Identify that.",
+                "gpat_a1": "Hypertension",
+                "gpat_a2": "Myocardial infarction",
+                "gpat_a3": "Left ventricular dysfunction",
+                "gpat_a4": "Pheochromocytoma",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following pumps is used in handling of corrosive liquids?",
+                "gpat_a1": "Turbine pump",
+                "gpat_a2": "Volute Pump",
+                "gpat_a3": "Air binding pump",
+                "gpat_a4": "Baltic pump",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the followings act as a non-ionic emulsifying agent?",
+                "gpat_a1": "Triethanolamine oleate",
+                "gpat_a2": "Polyoxyethylene sorbitan monooleate",
+                "gpat_a3": "N-Cetyl-N-ethylmorpholinium ethosulfate",
+                "gpat_a4": "Dioctyl sulphosuccinate",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following Schedules include shelf life of drugs?",
+                "gpat_a1": "Schedule F",
+                "gpat_a2": "Schedule M",
+                "gpat_a3": "Schedule G",
+                "gpat_a4": "Schedule P",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "P-Glycoprotein pump is responsible for which one of the followings?",
+                "gpat_a1": "Transporting the drugs from the enterocytes into the gut lumen",
+                "gpat_a2": "Transporting the drugs from gut lumen into enterocytes",
+                "gpat_a3": "Transporting the drugs from oral mucosa into blood capillaries",
+                "gpat_a4": "Transporting the drugs from Peyer's patches into the gut lumen.",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Aprotic polar solvents increase the rate of SN2 reactions manifold. Enhancement in the rate of such reactions is due to which one of the following effects?",
+                "gpat_a1": "Solvation of the anion by the solvent leaving the cation unaffected",
+                "gpat_a2": "Solvation of both of the ionic species",
+                "gpat_a3": "Desolvation of the cation and solvation of the anion",
+                "gpat_a4": "Solvation of the cation by the solvent leaving the anion unaffected",
+                "gpat_correct_a": "4",
+                "reason":""
         }
 ] 
 }
