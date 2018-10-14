@@ -17,7 +17,7 @@
                 "gpat_a3": "Indoleacetic acid",
                 "gpat_a4": "Picloram",
                 "gpat_correct_a": "1",
-                "reason":""
+                "reason":"https://en.wikipedia.org/wiki/Zeatin"
         },
         {
                 "gpat_q": "Which of the following ergot alkaloids is water soluble and shows blue fluorescence ?",
@@ -26,7 +26,7 @@
                 "gpat_a3": "Ergocristine",
                 "gpat_a4": "Ergometrine",
                 "gpat_correct_a": "4",
-                "reason":""
+                "reason":"Ergometrine exhibits a blue fluorescence in ultra-violet light, While cinchona gives Emrald green colour"
         },
         {
                 "gpat_q": "In FT-IR instruments Michaelson interferometer is used in place of grating. The function of the interferometer is to act as a modulator'. What do you understand by this statement?",
@@ -107,7 +107,7 @@
                 "gpat_a3": "Inhibition of Inflammation",
                 "gpat_a4": "Movement of leucocytes in inflammation",
                 "gpat_correct_a": "4",
-                "reason":""
+                "reason":"chemotaxis is movement of a motile cell or organism, or part of one, in a direction corresponding to a gradient of increasing or decreasing concentration of a particular substance."
         },
         {
                 "gpat_q": "Which of the followings used in the treatment of rheumatoid arthritis is NOT a biologic response modifier?",
@@ -134,7 +134,7 @@
                 "gpat_a3": "Left ventricular dysfunction",
                 "gpat_a4": "Pheochromocytoma",
                 "gpat_correct_a": "4",
-                "reason":""
+                "reason":"https://3.bp.blogspot.com/-V95KkXpZWcM/WsewvdPy9UI/AAAAAAAACWQ/HQIaMpmT61MbLq5656uGKzTC80NbaGa6wCLcBGAs/s1600/ACE%2Binhibitors%2Bmnemonics.png"
         },
         {
                 "gpat_q": "Which of the following pumps is used in handling of corrosive liquids?",
@@ -161,7 +161,7 @@
                 "gpat_a3": "Schedule G",
                 "gpat_a4": "Schedule P",
                 "gpat_correct_a": "4",
-                "reason":""
+                "reason":"https://en.m.wikipedia.org/wiki/Drugs_and_Cosmetics_Rules,_1945#Schedules"
         },
         {
                 "gpat_q": "P-Glycoprotein pump is responsible for which one of the followings?",
