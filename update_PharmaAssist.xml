@@ -1,11 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.5</latestVersion>
+    <latestVersion>2.6</latestVersion>
     <url>http://tinyurl.com/PharmaAssist</url>
     <releaseNotes>
-- New App Opening Screen. 
-- App Crash Fixed.
-- Blank GPAT Notification Fixed. 
+- New! Weekly GPAT Test Section Added.
+- Fixed Notifications not opening.
+- All Other Bugs Fixed.
 </releaseNotes>  
 </update>
 </AppUpdater>
