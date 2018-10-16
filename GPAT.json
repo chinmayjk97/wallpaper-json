@@ -1306,6 +1306,22 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_a3": "Viscosity	",
                 "gpat_a4": "None",
                 "gpat_correct_a": "3"
+        }, 
+{
+                "gpat_q": "The constituent of cochineal is",
+                "gpat_a1": "Cantharidin",
+                "gpat_a2": "Hirudin",
+                "gpat_a3": "Tannic acid",
+                "gpat_a4": "Carminic acid",
+                "gpat_correct_a": "4"
+        }, 
+{
+                "gpat_q": "Dangerous Drugs Act and Rules relates to the year",
+                "gpat_a1": "1948",
+                "gpat_a2": "1955",
+                "gpat_a3": "1930",
+                "gpat_a4": "1940",
+                "gpat_correct_a": "3"
         }
 ] 
 }
