@@ -1322,6 +1322,14 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_a3": "1930",
                 "gpat_a4": "1940",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Northern blot is used for the separation of",
+                "gpat_a1": "mRNA",
+                "gpat_a2": "DNA",
+                "gpat_a3": "Protein",
+                "gpat_a4": "Protein DNA interaction",
+                "gpat_correct_a": "1"
         }
 ] 
 }
