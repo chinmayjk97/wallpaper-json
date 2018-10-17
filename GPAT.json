@@ -1338,6 +1338,16 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_a3": "Gamma - 1b",
                 "gpat_a4": "AlfaG - CSF",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Gossypol, a compound that has received major attention as male contraceptive (a)	Is a hydroxylated binaphthalene derivative found
+in cotton seed oil (b)Is an aorizanol ester found in rice bran oil (c)Exhibits toxicity such as hypokalemic-induced
+paralysis (d)Acts as an androgen antagonist.",
+                "gpat_a1": " b, c",
+                "gpat_a2": "a, d",
+                "gpat_a3": "b, c ",
+                "gpat_a4": " a, c",
+                "gpat_correct_a": "2"
         }
 ] 
 }
