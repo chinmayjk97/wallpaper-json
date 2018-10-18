@@ -1,4 +1,6 @@
-{
+
+# 
+# {
         "GPAT": [
         {
                 "gpat_q": "Followings are some drug derivatives used to increase/decrease the water solubility of the \r\nparent drugs:\r\n[P] : Rolitetracycline\r\n[Q] : Erythromycin lactobionate \r\n[R] : Chloramphenicol succinate \r\n[S] : Erythromycin stearate\r\nChoose the correct combination of statements.",
@@ -1348,6 +1350,14 @@ paralysis (d)Acts as an androgen antagonist.",
                 "gpat_a3": "b, c ",
                 "gpat_a4": " a, c",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Synonym of rutin is",
+                "gpat_a1": "Vitamin H	",
+                "gpat_a2": "Vitamin D	",
+                "gpat_a3": "Vitamin A",
+                "gpat_a4": "Vitamin P",
+                "gpat_correct_a": "4"
         }
 ] 
 }
