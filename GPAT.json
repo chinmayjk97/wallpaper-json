@@ -1378,6 +1378,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "28B",
                 "gpat_a4": "28C",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Gokhru is used as ________________",
+                "gpat_a1": "Hypoglycemic agent",
+                "gpat_a2": "Expectorant agent",
+                "gpat_a3": "Diuretic agent",
+                "gpat_a4": "Cardiotonic agent",
+                "gpat_correct_a": "3"
         }
 ] 
 }
