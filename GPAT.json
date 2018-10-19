@@ -1294,19 +1294,23 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_correct_a": "4"
         }, 
         {
-                "gpat_q": "Chemically Kaolin is _________",
+                "gpat_q": "Chemically Kaolin is _________
+",
                 "gpat_a1": "Hydrated magnesium slicate",
-                "gpat_a2": "Hydrated aluminium silicate ",
+                "gpat_a2": "Hydrated aluminium silicate 
+",
                 "gpat_a3": "Calcium Carbonate",
                 "gpat_a4": "None",
                 "gpat_correct_a": "2"
         }, 
         {
-                "gpat_q": "Mark-Houwink equation is used to determine molecular weight of colloids from",
+                "gpat_q": "Mark-Houwink equation is used to determine molecular weight of colloids from
+",
                 "gpat_a1": "Electronic charge",
                 "gpat_a2": "Diffusion",
                 "gpat_a3": "Viscosity	",
-                "gpat_a4": "None",
+                "gpat_a4": "None
+",
                 "gpat_correct_a": "3"
         }, 
 {
@@ -1326,11 +1330,13 @@ ascending order of their energies: NMR, IR, UV
                 "gpat_correct_a": "3"
         }, 
         {
-                "gpat_q": "Northern blot is used for the separation of",
+                "gpat_q": "Northern blot is used for the separation of
+",
                 "gpat_a1": "mRNA",
                 "gpat_a2": "DNA",
                 "gpat_a3": "Protein",
-                "gpat_a4": "Protein DNA interaction",
+                "gpat_a4": "Protein DNA interaction
+",
                 "gpat_correct_a": "1"
         }, 
 {
@@ -1343,20 +1349,34 @@ ascending order of their energies: NMR, IR, UV
         }, 
         {
                 "gpat_q": "Gossypol, a compound that has received major attention as male contraceptive (a)	Is a hydroxylated binaphthalene derivative found
-in cotton seed oil (b)Is an aorizanol ester found in rice bran oil (c)Exhibits toxicity such as hypokalemic-induced
-paralysis (d)Acts as an androgen antagonist.",
+in cotton seed oil 
+(b)Is an aorizanol ester found in rice bran oil (c)Exhibits toxicity such as hypokalemic-induced
+paralysis (d)Acts as an androgen antagonist.
+",
                 "gpat_a1": " b, c",
-                "gpat_a2": "a, d",
+                "gpat_a2": "a, d
+",
                 "gpat_a3": "b, c ",
-                "gpat_a4": " a, c",
+                "gpat_a4": " a, c
+",
                 "gpat_correct_a": "2"
         }, 
         {
                 "gpat_q": "Synonym of rutin is",
                 "gpat_a1": "Vitamin H	",
                 "gpat_a2": "Vitamin D	",
-                "gpat_a3": "Vitamin A",
-                "gpat_a4": "Vitamin P",
+                "gpat_a3": "Vitamin A
+",
+                "gpat_a4": "Vitamin P
+",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "The blood bank license is issued in the form number",
+                "gpat_a1": "28A",
+                "gpat_a2": "28",
+                "gpat_a3": "28B",
+                "gpat_a4": "28C",
                 "gpat_correct_a": "4"
         }
 ] 
