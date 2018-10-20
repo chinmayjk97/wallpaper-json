@@ -1396,6 +1396,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Diabetes mellitus",
                 "gpat_a4": "Coronary thrombosis",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "As per IP, 1 gram of shark liver oil should contain not less than ",
+                "gpat_a1": "1000 IU of vitamin A ",
+                "gpat_a2": "3000 IU of vitamin A",
+                "gpat_a3": "6000 IU of vitamin A ",
+                "gpat_a4": "4000 IU of vitamin A",
+                "gpat_correct_a": "3"
         }
 ] 
 }
