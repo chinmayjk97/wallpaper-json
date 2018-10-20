@@ -1380,12 +1380,22 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_correct_a": "4"
         }, 
         {
-                "gpat_q": "Gokhru is used as ________________",
-                "gpat_a1": "Hypoglycemic agent",
+                "gpat_q": "Gokhru is used as ________________
+",
+                "gpat_a1": "Hypoglycemic agent
+",
                 "gpat_a2": "Expectorant agent",
                 "gpat_a3": "Diuretic agent",
                 "gpat_a4": "Cardiotonic agent",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Uremia occurs in ",
+                "gpat_a1": "Inflammation of liver",
+                "gpat_a2": "Nephritis",
+                "gpat_a3": "Diabetes mellitus",
+                "gpat_a4": "Coronary thrombosis",
+                "gpat_correct_a": "4"
         }
 ] 
 }
