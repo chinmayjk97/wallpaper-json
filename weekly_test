@@ -23,7 +23,7 @@
                 "gpat_q": "What is the significance of term overfill?",
                 "gpat_a1": "It is similar to overage",
                 "gpat_a2": "It is excess volume to be filled in containers as vials, ampoules to avoid loss by degradation",
-                "gpat_a3": "It is excess filling of containers as vials, ampoules to avoid loss uring use",
+                "gpat_a3": "It is excess filling of containers as vials, ampoules to avoid loss during use",
                 "gpat_a4": "It is violation of packaging regulation as per GMP",
                 "gpat_correct_a": "3",
                 "reason":""
@@ -39,7 +39,7 @@
         },
         {
                 "gpat_q": "Which of the following plot indicates the effect of antagonist on receptors?",
-                "gpat_a1": "Michaelis-Menten Plots",
+                "gpat_a1": "Michaelis-Menten Plot",
                 "gpat_a2": "Lineweaver Burk Plot",
                 "gpat_a3": "Displacement Plot",
                 "gpat_a4": "Schild Plot",
@@ -80,10 +80,10 @@
                 "gpat_a3": "Sex Hormones",
                 "gpat_a4": "Adrenaline",
                 "gpat_correct_a": "2",
-                "reason":"Zona glomerulosa - Mineralocorticoids \nZona fasciculata - Glucocorticoids \n Zona reticularis - Sex Hormones"
+                "reason":"Zona glomerulosa - Mineralocorticoids \nZona fasciculata - Glucocorticoids \nZona reticularis - Sex Hormones"
         },
         {
-                "gpat_q": "The set representing correct order of first onsation potentital is :",
+                "gpat_q": "The set representing correct order of first ionsation potentital is :",
                 "gpat_a1": "K > Na > Li",
                 "gpat_a2": "Be > Mg > Ca",
                 "gpat_a3": "B > C > N",
@@ -119,7 +119,7 @@
                 "reason":""
         },
         {
-                "gpat_q": "The drug that Binds to AT-1 receptorwith high affinity is ______",
+                "gpat_q": "The drug that Binds to AT-1 receptor with high affinity is ______",
                 "gpat_a1": "Pinacidil",
                 "gpat_a2": "Valsartan",
                 "gpat_a3": "Moexipril",
@@ -132,7 +132,7 @@
                 "gpat_a1": "Total body clearance of the drug",
                 "gpat_a2": "Percentage of drug bound to plasma proteins",
                 "gpat_a3": "Fraction of drug excreted unchanged in urine",
-                "gpat_a4": "Apparent volume of distribution and desired drug concentration in plsma",
+                "gpat_a4": "Apparent volume of distribution and desired drug concentration in plasma ",
                 "gpat_correct_a": "4",
                 "reason":""
         },
