@@ -1,185 +1,185 @@
 {
-        "Date" : "14/10/18", 
+        "Date" : "21/10/18", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Khellin is an active constituent of which one of the following plants?",
-                "gpat_a1": "Prunus serona",
-                "gpat_a2": "Tribulus terrestis",
-                "gpat_a3": "Vanilla planifolia",
-                "gpat_a4": "Ammi visnaga",
-                "gpat_correct_a": "4",
-                "reason":""
+                "gpat_q": "Bioavailability differences among drug's oral formulation are most likely to occur if it :",
+                "gpat_a1": "is freely soluble",
+                "gpat_a2": "is incompletely absorbed",
+                "gpat_a3": "is completely absorbed",
+                "gpat_a4": "undergoes little first-pass metabolism",
+                "gpat_correct_a": "2",
+                "reason":"The rate limiting step is Absorption."
         },
         {
-                "gpat_q": "Which one of the following compounds is useful for the stimulation of cell division and release of lateral bud dormancy?",
-                "gpat_a1": "Zeatin",
-                "gpat_a2": "2,4-Dichlorophenoxyacetic acid",
-                "gpat_a3": "Indoleacetic acid",
-                "gpat_a4": "Picloram",
-                "gpat_correct_a": "1",
-                "reason":"https://en.wikipedia.org/wiki/Zeatin"
+                "gpat_q": "The term used to describe unequal distribution of colour on tablet is :",
+                "gpat_a1": "Chipping",
+                "gpat_a2": "Mottling",
+                "gpat_a3": "Lamination",
+                "gpat_a4": "Double Impression",
+                "gpat_correct_a": "2",
+                "reason":"https://natoli.com/wp/app/gallery/posters/Tablet-Defects-Poster.jpg"
         },
         {
-                "gpat_q": "Which of the following ergot alkaloids is water soluble and shows blue fluorescence ?",
-                "gpat_a1": "Ergosine",
-                "gpat_a2": "Ergotamine",
-                "gpat_a3": "Ergocristine",
-                "gpat_a4": "Ergometrine",
-                "gpat_correct_a": "4",
-                "reason":"Ergometrine exhibits a blue fluorescence in ultra-violet light, While cinchona gives Emrald green colour"
-        },
-        {
-                "gpat_q": "In FT-IR instruments Michaelson interferometer is used in place of grating. The function of the interferometer is to act as a modulator'. What do you understand by this statement?",
-                "gpat_a1": "The function of the interferometer is to act as a monochromator",
-                "gpat_a2": "The function of the interferometer is to convert high frequency radiations into low ones",
-                "gpat_a3": "The function of the interferometer is to convert low frequency radiations into high ones",
-                "gpat_a4": "The function of the interferometer is to convert frequency domain spectra into time domain spectra",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "What will be the maintenance dose of a sustained release 12 hour formulation of drug X exhibiting one compartment kinetics with a half-life of 6 hours, plasma concentration (steady state) 6 ug/ml, volume of distribution 30 L, and an oral bioavailability of 80%?",
-                "gpat_a1": "249.48 mg",
-                "gpat_a2": "225.48 mg",
-                "gpat_a3": "311.85 mg",
-                "gpat_a4": "281.85 mg",
+                "gpat_q": "What is the significance of term overfill?",
+                "gpat_a1": "It is similar to overage",
+                "gpat_a2": "It is excess volume to be filled in containers as vials, ampoules to avoid loss by degradation",
+                "gpat_a3": "It is excess filling of containers as vials, ampoules to avoid loss uring use",
+                "gpat_a4": "It is violation of packaging regulation as per GMP",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Goldbeater's skin test is used to detect the presence of which one of the following classes of compounds?",
-                "gpat_a1": "Tannins",
-                "gpat_a2": "Steroids",
-                "gpat_a3": "Glycerides",
-                "gpat_a4": "Resins",
-                "gpat_correct_a": "1",
+                "gpat_q": "Consumer Protection Act was Enacted in the year?",
+                "gpat_a1": "1996",
+                "gpat_a2": "1991",
+                "gpat_a3": "1986",
+                "gpat_a4": "1984",
+                "gpat_correct_a": "3",
+                "reason":"http://ncdrc.nic.in/bare_acts/consumer%20protection%20act-1986.html"
+        },
+        {
+                "gpat_q": "Which of the following plot indicates the effect of antagonist on receptors?",
+                "gpat_a1": "Michaelis-Menten Plots",
+                "gpat_a2": "Lineweaver Burk Plot",
+                "gpat_a3": "Displacement Plot",
+                "gpat_a4": "Schild Plot",
+                "gpat_correct_a": "4",
+                "reason":"Michaelis-Menten Plots are used to study rate of enzyme catalyzed reaction.\nLineweaver Burk Plot are used for enzyme inhibitor plots.\nDisplacement Plot are used to measure IC50 values \nSchild Plots for effect of Antagonists."
+        },
+        {
+                "gpat_q": "Source of Amla : ",
+                "gpat_a1": "Phyllantus niruri",
+                "gpat_a2": "Terminalia chebula",
+                "gpat_a3": "Terminalia belerica",
+                "gpat_a4": "Emblica officinalis",
+                "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "Which of the following species is being inactivated by the enzyme Dipeptidyl peptidase-4 ?",
-                "gpat_a1": "Oxytocin",
-                "gpat_a2": "Vasopressin",
-                "gpat_a3": "Incretin",
-                "gpat_a4": "Glucagon",
+                "gpat_q": "Antidote for paracetamol poisoning is : ",
+                "gpat_a1": "Atropine",
+                "gpat_a2": "N-Acetyl cysteine",
+                "gpat_a3": "Glutathione",
+                "gpat_a4": "Theophyllin",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Disintegration Time of Effervescent tablets is :",
+                "gpat_a1": "2 mins",
+                "gpat_a2": "2.5 mins",
+                "gpat_a3": "3.5 mins",
+                "gpat_a4": "5 mins",
+                "gpat_correct_a": "4",
+                "reason":"Dispersible and soluble tablets - 3 mins,\nEffervescent - 5 min,\nSugar coated - 60 mins"
+        },
+        {
+                "gpat_q": "Zona fasciculata of suprarenal gland produces _______",
+                "gpat_a1": "Mineralocorticoids",
+                "gpat_a2": "Glucocorticoids",
+                "gpat_a3": "Sex Hormones",
+                "gpat_a4": "Adrenaline",
+                "gpat_correct_a": "2",
+                "reason":"Zona glomerulosa - Mineralocorticoids \nZona fasciculata - Glucocorticoids \n Zona reticularis - Sex Hormones"
+        },
+        {
+                "gpat_q": "The set representing correct order of first onsation potentital is :",
+                "gpat_a1": "K > Na > Li",
+                "gpat_a2": "Be > Mg > Ca",
+                "gpat_a3": "B > C > N",
+                "gpat_a4": "Ge > Si > C",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "A powerful inhibitor of stomatal opening is :",
+                "gpat_a1": "Auxin",
+                "gpat_a2": "Cytokinin",
+                "gpat_a3": "Gibberelin",
+                "gpat_a4": "Abscissic Acid",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Corey-Bakshi-Shibata reagent is :",
+                "gpat_a1": "Pyridinum salt of dichromate",
+                "gpat_a2": "Mixture of anisole with phosphorus pentasulphide",
+                "gpat_a3": "R2CuLi",
+                "gpat_a4": "chiral catalyst derived from proline",
+                "gpat_correct_a": "4",
+                "reason":"https://en.wikipedia.org/wiki/Corey%E2%80%93Itsuno_reduction"
+        },
+        {
+                "gpat_q": "Which of the following has quaternary structure ?",
+                "gpat_a1": "Chymotrypsin",
+                "gpat_a2": "Hemoglobin",
+                "gpat_a3": "Insulin",
+                "gpat_a4": "Myoglobin",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "The drug that Binds to AT-1 receptorwith high affinity is ______",
+                "gpat_a1": "Pinacidil",
+                "gpat_a2": "Valsartan",
+                "gpat_a3": "Moexipril",
+                "gpat_a4": "Ranolazine",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "The loading dose of a drug is based on :",
+                "gpat_a1": "Total body clearance of the drug",
+                "gpat_a2": "Percentage of drug bound to plasma proteins",
+                "gpat_a3": "Fraction of drug excreted unchanged in urine",
+                "gpat_a4": "Apparent volume of distribution and desired drug concentration in plsma",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "A monochromator is not used in :",
+                "gpat_a1": "UV spectrophotometer",
+                "gpat_a2": "FT-IR spectrophotometer",
+                "gpat_a3": "Spectroflurimeter",
+                "gpat_a4": "Ir spectrophotometer",
+                "gpat_correct_a": "2",
+                "reason":"FT-IR involves beam splitter and not monochromator."
+        },
+        {
+                "gpat_q": "Tesla is a unit used to express : ",
+                "gpat_a1": "Frequency",
+                "gpat_a2": "Pressure",
+                "gpat_a3": "Voltage",
+                "gpat_a4": "Magnetic field strength",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "How many 1H NMR signal will be given by isopropyl alcohol ?",
+                "gpat_a1": "2",
+                "gpat_a2": "3",
+                "gpat_a3": "6",
+                "gpat_a4": "8",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "The dose of tuberculn in Mantoux test for an adult is :",
+                "gpat_a1": "1 ml",
+                "gpat_a2": "0.001 ml",
+                "gpat_a3": "0.1 ml",
+                "gpat_a4": "0.01 ml",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Most of the emergency contraceptives have one of the following active ingredients?",
-                "gpat_a1": "Estradiol",
-                "gpat_a2": "Norethindron",
-                "gpat_a3": "Misoprostol",
-                "gpat_a4": "Levonorgesterel",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Antiretroviral Raltegravir is unique, because of which of its following actions?",
-                "gpat_a1": "Integrase inhibition",
-                "gpat_a2": "CCR5 Co-receptor antagonism",
-                "gpat_a3": "Fusion inhibition",
-                "gpat_a4": "Reverse transcriptase inhibition",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following statements is FALSE for artemisinin?",
-                "gpat_a1": "It is a sesquiterpene lactone endoperoxide",
-                "gpat_a2": "It is a drug of choice in prophylaxis of malaria",
-                "gpat_a3": "It does not cure relapsing malaria",
-                "gpat_a4": "It is useful in treatment of cerebral falciparum malaria",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following antibiotics produces concentration dependent bactericidal action and also possesses post-antibiotic effect ?",
-                "gpat_a1": "Ceftazidime",
-                "gpat_a2": "Azithromycin",
-                "gpat_a3": "Amikacin",
-                "gpat_a4": "Piperacillin",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "What is chemotaxis?",
-                "gpat_a1": "Toxicity of chemicals",
-                "gpat_a2": "Taxonomy of chemicals",
-                "gpat_a3": "Inhibition of Inflammation",
-                "gpat_a4": "Movement of leucocytes in inflammation",
-                "gpat_correct_a": "4",
-                "reason":"chemotaxis is movement of a motile cell or organism, or part of one, in a direction corresponding to a gradient of increasing or decreasing concentration of a particular substance."
-        },
-        {
-                "gpat_q": "Which of the followings used in the treatment of rheumatoid arthritis is NOT a biologic response modifier?",
-                "gpat_a1": "Anakinra",
-                "gpat_a2": "Leflunomide",
-                "gpat_a3": "Etanercept",
-                "gpat_a4": "Infliximab",
+                "gpat_q": "Which of the following is anidiarrhoeal ?",
+                "gpat_a1": "Charcoal",
+                "gpat_a2": "Zinc Oxide",
+                "gpat_a3": "Kaolin",
+                "gpat_a4": "Calamine",
                 "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "If C is the concentration of dissolved drug and Cs is the saturation concentration. In which case the sink conditions are said to be maintained?",
-                "gpat_a1": "C < 20% of Cs",
-                "gpat_a2": "C > 20% of Cs",
-                "gpat_a3": "C < 10% of Cs",
-                "gpat_a4": "C > 10% of Cs",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "All of the followings are indications for use of ACE inhibitors EXCEPT for one. Identify that.",
-                "gpat_a1": "Hypertension",
-                "gpat_a2": "Myocardial infarction",
-                "gpat_a3": "Left ventricular dysfunction",
-                "gpat_a4": "Pheochromocytoma",
-                "gpat_correct_a": "4",
-                "reason":"https://3.bp.blogspot.com/-V95KkXpZWcM/WsewvdPy9UI/AAAAAAAACWQ/HQIaMpmT61MbLq5656uGKzTC80NbaGa6wCLcBGAs/s1600/ACE%2Binhibitors%2Bmnemonics.png"
-        },
-        {
-                "gpat_q": "Which of the following pumps is used in handling of corrosive liquids?",
-                "gpat_a1": "Turbine pump",
-                "gpat_a2": "Volute Pump",
-                "gpat_a3": "Air binding pump",
-                "gpat_a4": "Baltic pump",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the followings act as a non-ionic emulsifying agent?",
-                "gpat_a1": "Triethanolamine oleate",
-                "gpat_a2": "Polyoxyethylene sorbitan monooleate",
-                "gpat_a3": "N-Cetyl-N-ethylmorpholinium ethosulfate",
-                "gpat_a4": "Dioctyl sulphosuccinate",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following Schedules include shelf life of drugs?",
-                "gpat_a1": "Schedule F",
-                "gpat_a2": "Schedule M",
-                "gpat_a3": "Schedule G",
-                "gpat_a4": "Schedule P",
-                "gpat_correct_a": "4",
-                "reason":"https://en.m.wikipedia.org/wiki/Drugs_and_Cosmetics_Rules,_1945#Schedules"
-        },
-        {
-                "gpat_q": "P-Glycoprotein pump is responsible for which one of the followings?",
-                "gpat_a1": "Transporting the drugs from the enterocytes into the gut lumen",
-                "gpat_a2": "Transporting the drugs from gut lumen into enterocytes",
-                "gpat_a3": "Transporting the drugs from oral mucosa into blood capillaries",
-                "gpat_a4": "Transporting the drugs from Peyer's patches into the gut lumen.",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Aprotic polar solvents increase the rate of SN2 reactions manifold. Enhancement in the rate of such reactions is due to which one of the following effects?",
-                "gpat_a1": "Solvation of the anion by the solvent leaving the cation unaffected",
-                "gpat_a2": "Solvation of both of the ionic species",
-                "gpat_a3": "Desolvation of the cation and solvation of the anion",
-                "gpat_a4": "Solvation of the cation by the solvent leaving the anion unaffected",
-                "gpat_correct_a": "4",
-                "reason":""
+                "reason":"https://www.drugs.com/npp/kaolin.html"
         }
 ] 
 }
