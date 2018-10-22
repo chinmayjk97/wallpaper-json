@@ -1399,11 +1399,21 @@ paralysis (d)Acts as an androgen antagonist.
         }, 
         {
                 "gpat_q": "As per IP, 1 gram of shark liver oil should contain not less than ",
-                "gpat_a1": "1000 IU of vitamin A ",
+                "gpat_a1": "1000 IU of vitamin A 
+",
                 "gpat_a2": "3000 IU of vitamin A",
                 "gpat_a3": "6000 IU of vitamin A ",
                 "gpat_a4": "4000 IU of vitamin A",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Use of Dextrose Monohydrate is avoided in the Sodium Chloride and Dextrose injection because of ______?",
+                "gpat_a1": "Chances of Degradation during sterilisation",
+                "gpat_a2": "It changes colour of product on sterlisation",
+                "gpat_a3": "Both a and b",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "3"
         }
+                
 ] 
 }
