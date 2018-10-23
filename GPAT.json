@@ -1413,6 +1413,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Both a and b",
                 "gpat_a4": "None of the above",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "What is the primary mechanism of General anesthestics ?",
+                "gpat_a1": "Activation of ligand gated potassium channels",
+                "gpat_a2": "Activation of ligand gated sodium channels",
+                "gpat_a3": "Blockade of ligand gated sodium channels",
+                "gpat_a4": "Blokade of GABA gated chloride channels",
+                "gpat_correct_a": "3"
         }
                 
 ] 
