@@ -1421,6 +1421,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Blockade of ligand gated sodium channels",
                 "gpat_a4": "Blokade of GABA gated chloride channels",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Halphen’s test is used for",
+                "gpat_a1": "Detection of cotton seed oil as an adulterant",
+                "gpat_a2": "Detection of artificial invert sugar",
+                "gpat_a3": "Saponins",
+                "gpat_a4": "Tannins",
+                "gpat_correct_a": "1"
         }
                 
 ] 
