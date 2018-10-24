@@ -1423,12 +1423,23 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_correct_a": "3"
         }, 
         {
-                "gpat_q": "Halphen’s test is used for",
-                "gpat_a1": "Detection of cotton seed oil as an adulterant",
-                "gpat_a2": "Detection of artificial invert sugar",
+                "gpat_q": "Halphen’s test is used for
+",
+                "gpat_a1": "Detection of cotton seed oil as an adulterant
+",
+                "gpat_a2": "Detection of artificial invert sugar
+",
                 "gpat_a3": "Saponins",
                 "gpat_a4": "Tannins",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Drug of first choice in supraventricular arrhythmias is",
+                "gpat_a1": "Cinchonidine",
+                "gpat_a2": "Procainamide",
+                "gpat_a3": "Verapamil",
+                "gpat_a4": "Lidocaine",
+                "gpat_correct_a": "3"
         }
                 
 ] 
