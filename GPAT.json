@@ -1440,6 +1440,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Verapamil",
                 "gpat_a4": "Lidocaine",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Larger dose of digoxin requirement to infants as compared to young age patient is due to :",
+                "gpat_a1": "Greater protein binding of drug",
+                "gpat_a2": "Large renal clearance of drug",
+                "gpat_a3": "Both a and b",
+                "gpat_a4": "None of above",
+                "gpat_correct_a": "3"
         }
                 
 ] 
