@@ -1456,6 +1456,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Rape seed",
                 "gpat_a4": "Linseed",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "State Pharmacy Council should have the following no. of elected members",
+                "gpat_a1": "Six",
+                "gpat_a2": "Nine",
+                "gpat_a3": "Five",
+                "gpat_a4": "Seven",
+                "gpat_correct_a": "4"
         }
                 
 ] 
