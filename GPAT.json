@@ -1464,6 +1464,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Five",
                 "gpat_a4": "Seven",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "The optimum temperature for activating a silica gel TLC plate is",
+                "gpat_a1": "90-100°C",
+                "gpat_a2": "100-120°C",
+                "gpat_a3": "150-160°C",
+                "gpat_a4": "200-210°C",
+                "gpat_correct_a": "2"
         }
                 
 ] 
