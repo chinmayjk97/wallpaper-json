@@ -1472,6 +1472,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "150-160°C",
                 "gpat_a4": "200-210°C",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Olive oil gives fluorescence of colour",
+                "gpat_a1": "Red white",
+                "gpat_a2": "Golden yellow",
+                "gpat_a3": "Crimson red",
+                "gpat_a4": "Whitish blue",
+                "gpat_correct_a": "2"
         }
                 
 ] 
