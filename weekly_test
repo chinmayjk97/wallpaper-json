@@ -89,14 +89,14 @@
                 "gpat_a3": "Neutral",
                 "gpat_a4": "Amphoteric",
                 "gpat_correct_a": "2",
-                "reason":""
+                "reason":"Alkaloids are basic in nature."
         },
         {
-                "gpat_q": "The drug that binds to AT-1 receptor with high affinity is ____",
-                "gpat_a1": "Pinacidil",
-                "gpat_a2": "Valsartan",
-                "gpat_a3": "Moexipril",
-                "gpat_a4": "Ranolazine",
+                "gpat_q": "What is the duration of action of sublingual niroglycerin tablets?",
+                "gpat_a1": "8 - 10 hours",
+                "gpat_a2": "4 - 8 hours",
+                "gpat_a3": "10 - 15 minutes",
+                "gpat_a4": "3 - 5 minutes",
                 "gpat_correct_a": "4",
                 "reason":""
         },
