@@ -1,102 +1,102 @@
 {
-        "Date" : "21/10/18", 
+        "Date" : "28/10/18", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Bioavailability differences among drug's oral formulation are most likely to occur if it :",
-                "gpat_a1": "is freely soluble",
-                "gpat_a2": "is incompletely absorbed",
-                "gpat_a3": "is completely absorbed",
-                "gpat_a4": "undergoes little first-pass metabolism",
-                "gpat_correct_a": "2",
-                "reason":"The rate limiting step is Absorption."
+                "gpat_q": "Identify the non-absorbable suture.",
+                "gpat_a1": "Catgut suture",
+                "gpat_a2": "Chromic catgut suture",
+                "gpat_a3": "Silk suture",
+                "gpat_a4": "Polydioxanone suture",
+                "gpat_correct_a": "3",
+                "reason":"https://en.wikipedia.org/wiki/Surgical_suture#Absorbability"
         },
         {
-                "gpat_q": "The term used to describe unequal distribution of colour on tablet is :",
-                "gpat_a1": "Chipping",
-                "gpat_a2": "Mottling",
-                "gpat_a3": "Lamination",
-                "gpat_a4": "Double Impression",
-                "gpat_correct_a": "2",
-                "reason":"https://natoli.com/wp/app/gallery/posters/Tablet-Defects-Poster.jpg"
+                "gpat_q": "The relative lowering of vapor pressure is given by :",
+                "gpat_a1": "Raoult's Law",
+                "gpat_a2": "Henry's Law",
+                "gpat_a3": "Boyle's Law",
+                "gpat_a4": "Charles Law",
+                "gpat_correct_a": "1",
+                "reason":""
         },
         {
-                "gpat_q": "What is the significance of term overfill?",
-                "gpat_a1": "It is similar to overage",
-                "gpat_a2": "It is excess volume to be filled in containers as vials, ampoules to avoid loss by degradation",
-                "gpat_a3": "It is excess filling of containers as vials, ampoules to avoid loss during use",
-                "gpat_a4": "It is violation of packaging regulation as per GMP",
+                "gpat_q": "According to DPCO, what will be the profit margin for wholesalers?",
+                "gpat_a1": "12",
+                "gpat_a2": "20",
+                "gpat_a3": "16",
+                "gpat_a4": "8",
+                "gpat_correct_a": "4",
+                "reason":"Old DPCO : Wholesalers: 10% & Retailers: 20% \n\nNew DPCO : Wholesalers: 8% & Retailers: 16%"
+        },
+        {
+                "gpat_q": "Meclofenamate belongs to which class of drug?",
+                "gpat_a1": "Salicylates",
+                "gpat_a2": "Oxicams",
+                "gpat_a3": "Aryl anthranillic acid",
+                "gpat_a4": "p-amino phenols",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Consumer Protection Act was Enacted in the year?",
-                "gpat_a1": "1996",
-                "gpat_a2": "1991",
-                "gpat_a3": "1986",
-                "gpat_a4": "1984",
+                "gpat_q": "Following are the phases of clinical trials:\n[P] Human Pharmacology \n[Q] Therapeutic confirmatory trials\n[R] Post marketing trials\n[S] Therapeutic exploratory trials.\n\nChoose correct order of phases of trials.",
+                "gpat_a1": "P Q R S",
+                "gpat_a2": "P R Q S",
+                "gpat_a3": "P Q S R",
+                "gpat_a4": "P S Q R",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Palm oil is ",
+                "gpat_a1": "Non-drying oil",
+                "gpat_a2": "Drying oil",
+                "gpat_a3": "Semi-drying oil",
+                "gpat_a4": "Fats",
+                "gpat_correct_a": "4",
+                "reason":"http://faculty.ucr.edu/~legneref/botany/oilwax.htm#palmoil"
+        },
+        {
+                "gpat_q": "Papaverine is biosynthesized from :",
+                "gpat_a1": "Phenylalanine",
+                "gpat_a2": "Ornithine",
+                "gpat_a3": "Tyrosine",
+                "gpat_a4": "Lysine",
                 "gpat_correct_a": "3",
-                "reason":"http://ncdrc.nic.in/bare_acts/consumer%20protection%20act-1986.html"
+                "reason":"https://www.researchgate.net/figure/Biosynthetic-pathway-from-tyrosine-to-sanguinarine-Biosynthesis-of-sanguinarine-from_fig1_47811269"
         },
         {
-                "gpat_q": "Which of the following plot indicates the effect of antagonist on receptors?",
-                "gpat_a1": "Michaelis-Menten Plot",
-                "gpat_a2": "Lineweaver Burk Plot",
-                "gpat_a3": "Displacement Plot",
-                "gpat_a4": "Schild Plot",
-                "gpat_correct_a": "4",
-                "reason":"Michaelis-Menten Plots are used to study rate of enzyme catalyzed reaction.\nLineweaver Burk Plot are used for enzyme inhibitor plots.\nDisplacement Plot are used to measure IC50 values \nSchild Plots for effect of Antagonists."
-        },
-        {
-                "gpat_q": "Source of Amla : ",
-                "gpat_a1": "Phyllantus niruri",
-                "gpat_a2": "Terminalia chebula",
-                "gpat_a3": "Terminalia belerica",
-                "gpat_a4": "Emblica officinalis",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Antidote for paracetamol poisoning is : ",
-                "gpat_a1": "Atropine",
-                "gpat_a2": "N-Acetyl cysteine",
-                "gpat_a3": "Glutathione",
-                "gpat_a4": "Theophyllin",
+                "gpat_q": "Which of the following drug doesn't not act through GPCR?",
+                "gpat_a1": "Epinephrine",
+                "gpat_a2": "Insulin",
+                "gpat_a3": "Dopamine",
+                "gpat_a4": "TSH",
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "Disintegration Time of Effervescent tablets is :",
-                "gpat_a1": "2 mins",
-                "gpat_a2": "2.5 mins",
-                "gpat_a3": "3.5 mins",
-                "gpat_a4": "5 mins",
-                "gpat_correct_a": "4",
-                "reason":"Dispersible and soluble tablets - 3 mins,\nEffervescent - 5 min,\nSugar coated - 60 mins"
+                "gpat_q": "Which of the following is non-opioid analgesics is a pro-drug?",
+                "gpat_a1": "Piroxicam",
+                "gpat_a2": "Celecoxib",
+                "gpat_a3": "Nabumetone",
+                "gpat_a4": "Ketorolac",
+                "gpat_correct_a": "3",
+                "reason":"https://en.wikipedia.org/wiki/Nabumetone"
         },
         {
-                "gpat_q": "Zona fasciculata of suprarenal gland produces _______",
-                "gpat_a1": "Mineralocorticoids",
-                "gpat_a2": "Glucocorticoids",
-                "gpat_a3": "Sex Hormones",
-                "gpat_a4": "Adrenaline",
-                "gpat_correct_a": "2",
-                "reason":"Zona glomerulosa - Mineralocorticoids \nZona fasciculata - Glucocorticoids \nZona reticularis - Sex Hormones"
-        },
-        {
-                "gpat_q": "The set representing correct order of first ionsation potentital is :",
-                "gpat_a1": "K > Na > Li",
-                "gpat_a2": "Be > Mg > Ca",
-                "gpat_a3": "B > C > N",
-                "gpat_a4": "Ge > Si > C",
+                "gpat_q": "The chemical behavior of morphine alkaloid is :",
+                "gpat_a1": "Acidic",
+                "gpat_a2": "Basic",
+                "gpat_a3": "Neutral",
+                "gpat_a4": "Amphoteric",
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "A powerful inhibitor of stomatal opening is :",
-                "gpat_a1": "Auxin",
-                "gpat_a2": "Cytokinin",
-                "gpat_a3": "Gibberelin",
-                "gpat_a4": "Abscissic Acid",
+                "gpat_q": "The drug that binds to AT-1 receptor with high affinity is ____",
+                "gpat_a1": "Pinacidil",
+                "gpat_a2": "Valsartan",
+                "gpat_a3": "Moexipril",
+                "gpat_a4": "Ranolazine",
                 "gpat_correct_a": "4",
                 "reason":""
         },
@@ -119,7 +119,7 @@
                 "reason":""
         },
         {
-                "gpat_q": "The drug that Binds to AT-1 receptor with high affinity is ______",
+                "gpat_q": "The drug that Binds to AT-1 receptorwith high affinity is ______",
                 "gpat_a1": "Pinacidil",
                 "gpat_a2": "Valsartan",
                 "gpat_a3": "Moexipril",
@@ -128,58 +128,58 @@
                 "reason":""
         },
         {
-                "gpat_q": "The loading dose of a drug is based on :",
-                "gpat_a1": "Total body clearance of the drug",
-                "gpat_a2": "Percentage of drug bound to plasma proteins",
-                "gpat_a3": "Fraction of drug excreted unchanged in urine",
-                "gpat_a4": "Apparent volume of distribution and desired drug concentration in plasma ",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "A monochromator is not used in :",
-                "gpat_a1": "UV spectrophotometer",
-                "gpat_a2": "FT-IR spectrophotometer",
-                "gpat_a3": "Spectroflurimeter",
-                "gpat_a4": "Ir spectrophotometer",
-                "gpat_correct_a": "2",
-                "reason":"FT-IR involves beam splitter and not monochromator."
-        },
-        {
-                "gpat_q": "Tesla is a unit used to express : ",
-                "gpat_a1": "Frequency",
-                "gpat_a2": "Pressure",
-                "gpat_a3": "Voltage",
-                "gpat_a4": "Magnetic field strength",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "How many 1H NMR signal will be given by isopropyl alcohol ?",
-                "gpat_a1": "2",
-                "gpat_a2": "3",
-                "gpat_a3": "6",
-                "gpat_a4": "8",
+                "gpat_q": "One of the following is used as pH dependent controlled release excipient",
+                "gpat_a1": "Carnauba wax",
+                "gpat_a2": "Hydroxy propyl methyl cellulose phthalate",
+                "gpat_a3": "Methyl cellulose",
+                "gpat_a4": "Glyceryl monostearate",
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "The dose of tuberculn in Mantoux test for an adult is :",
-                "gpat_a1": "1 ml",
-                "gpat_a2": "0.001 ml",
-                "gpat_a3": "0.1 ml",
-                "gpat_a4": "0.01 ml",
-                "gpat_correct_a": "3",
-                "reason":""
+                "gpat_q": "Lactose is most widely used excipient ,but it is not used in formulation of :",
+                "gpat_a1": "Pyrazinamide",
+                "gpat_a2": "Ibuprofen",
+                "gpat_a3": "Sulphacetamide",
+                "gpat_a4": "Isoniazide",
+                "gpat_correct_a": "4",
+                "reason":"Lactose undergoes Millard reaction with amine containing APIs and hence it is not used."
         },
         {
-                "gpat_q": "Which of the following is anidiarrhoeal ?",
-                "gpat_a1": "Charcoal",
-                "gpat_a2": "Zinc Oxide",
-                "gpat_a3": "Kaolin",
-                "gpat_a4": "Calamine",
-                "gpat_correct_a": "3",
-                "reason":"https://www.drugs.com/npp/kaolin.html"
+                "gpat_q": "Range of C=O stretching in enol is :",
+                "gpat_a1": "1800 cm-1",
+                "gpat_a2": "1710 cm1",
+                "gpat_a3": "1985 cm-1",
+                "gpat_a4": "1655 cm-1",
+                "gpat_correct_a": "4",
+                "reason":"Usual range is 1870-1540 cm-1. \nKetones : ~1715 cm-1 \nBut due to tautomerism the range shifts to 1640-1580 cm-1 "
+        },
+        {
+                "gpat_q": "In the Reimer-Tiemann reaction ____ reacts with phenol to give the ortho-formylated product.",
+                "gpat_a1": "carbene",
+                "gpat_a2": "carbocation",
+                "gpat_a3": "carbanion",
+                "gpat_a4": "free radical",
+                "gpat_correct_a": "1",
+                "reason":"https://en.wikipedia.org/wiki/Reimer%E2%80%93Tiemann_reaction"
+        },
+        {
+                "gpat_q": "Which of the drug is associated with harmful metabolite NAPQI",
+                "gpat_a1": "Diclofenac",
+                "gpat_a2": "Meclofenamate",
+                "gpat_a3": "Indomethacin",
+                "gpat_a4": "Acetaminophen",
+                "gpat_correct_a": "4",
+                "reason":"https://en.wikipedia.org/wiki/NAPQI"
+        },
+        {
+                "gpat_q": "Brockmann Activity Scale is used in the characterization of :",
+                "gpat_a1": "Stationary Phase",
+                "gpat_a2": "Mobile Phase",
+                "gpat_a3": "Buffer system used",
+                "gpat_a4": "Column specification",
+                "gpat_correct_a": "1",
+                "reason":""
         }
 ] 
 }
