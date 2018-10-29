@@ -1488,6 +1488,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "GABA-A Receptor",
                 "gpat_a4": "H2 - Receptor",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which is the molecular target for the vinca alkaloids as anti-cancer agent?",
+                "gpat_a1": "Ribosomes",
+                "gpat_a2": "DNA",
+                "gpat_a3": "Tubulin",
+                "gpat_a4": "Tyrosine kinase	",
+                "gpat_correct_a": "3"
         }
                 
 ] 
