@@ -1490,12 +1490,21 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_correct_a": "4"
         }, 
         {
-                "gpat_q": "Which is the molecular target for the vinca alkaloids as anti-cancer agent?",
+                "gpat_q": "Which is the molecular target for the vinca alkaloids as anti-cancer agent?
+",
                 "gpat_a1": "Ribosomes",
                 "gpat_a2": "DNA",
                 "gpat_a3": "Tubulin",
                 "gpat_a4": "Tyrosine kinase	",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Volatile oil should not be less than ",
+                "gpat_a1": "0.05%",
+                "gpat_a2": "0.20%",
+                "gpat_a3": "0.50%",
+                "gpat_a4": "1.00%",
+                "gpat_correct_a": "4"
         }
                 
 ] 
