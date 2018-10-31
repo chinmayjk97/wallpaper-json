@@ -1507,12 +1507,25 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_correct_a": "4"
         }, 
         {
-                "gpat_q": "Choose the correct formula for the calculation of the retail price of a formulation, given by the Government of India.",
-                "gpat_a1": "	R.P. = (M.C. + E.D. + P.M. + P.C.) × (1 + MAPE/100) + C.C.",
-                "gpat_a2": "	R.P. = (M.C. + C.C. + P.M. + P.C.) × (1 + MAPE/100) + E.D.",
-                "gpat_a3": "R.P. = (M.C. + C.C. + E.D. + P.C.) × (1 + MAPE/100) + P.M.",
-                "gpat_a4": "R.P. = (M.C, + C.C. + P.M.+ E.D.) × (1 + MAPE/100) + P.C,",
+                "gpat_q": "Choose the correct formula for the calculation of the retail price of a formulation, given by the Government of India.
+",
+                "gpat_a1": "	R.P. = (M.C. + E.D. + P.M. + P.C.) × (1 + MAPE/100) + C.C.
+",
+                "gpat_a2": "	R.P. = (M.C. + C.C. + P.M. + P.C.) × (1 + MAPE/100) + E.D.
+",
+                "gpat_a3": "R.P. = (M.C. + C.C. + E.D. + P.C.) × (1 + MAPE/100) + P.M.
+",
+                "gpat_a4": "R.P. = (M.C, + C.C. + P.M.+ E.D.) × (1 + MAPE/100) + P.C,
+",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Find the process by which the conversion of sulphasalazine to sulphapyridine and 5 amino salicylic acid takes place in colon  ?",
+                "gpat_a1": "Hydrolysis",
+                "gpat_a2": "Deamination",
+                "gpat_a3": "Acetylation",
+                "gpat_a4": "Azoreduction",
+                "gpat_correct_a": "4"
         }
                 
 ] 
