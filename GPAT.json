@@ -1,4 +1,5 @@
 
+## 
 # 
 # {
         "GPAT": [
@@ -1534,6 +1535,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Spray Congealing",
                 "gpat_a4": "Centrifugation",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which one of the following therapeutic classes has been proved clinically as a first line therapy for heart failure and has shown decreased hospitalization, improved symptoms and delayed disease progression?",
+                "gpat_a1": "Cardiac glycosides",
+                "gpat_a2": "ACE inhibitors",
+                "gpat_a3": "Renin antagonists",
+                "gpat_a4": "Nitrites",
+                "gpat_correct_a": "2"
         }
                 
 ] 
