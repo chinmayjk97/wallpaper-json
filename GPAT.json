@@ -1526,6 +1526,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Acetylation",
                 "gpat_a4": "Azoreduction",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "In which of the following technique sample is kept below triple point ?",
+                "gpat_a1": "Lyophilization",
+                "gpat_a2": "Spray Drying",
+                "gpat_a3": "Spray Congealing",
+                "gpat_a4": "Centrifugation",
+                "gpat_correct_a": "1"
         }
                 
 ] 
