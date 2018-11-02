@@ -1537,19 +1537,30 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_correct_a": "1"
         }, 
         {
-                "gpat_q": "Which one of the following therapeutic classes has been proved clinically as a first line therapy for heart failure and has shown decreased hospitalization, improved symptoms and delayed disease progression?",
-                "gpat_a1": "Cardiac glycosides",
+                "gpat_q": "Which one of the following therapeutic classes has been proved clinically as a first line therapy for heart failure and has shown decreased hospitalization, improved symptoms and delayed disease progression?
+",
+                "gpat_a1": "Cardiac glycosides
+",
                 "gpat_a2": "ACE inhibitors",
                 "gpat_a3": "Renin antagonists",
                 "gpat_a4": "Nitrites",
                 "gpat_correct_a": "2"
         }, 
         {
-                "gpat_q": "Codeine differs in structure from morphine by",
+                "gpat_q": "Codeine differs in structure from morphine by
+",
                 "gpat_a1": "N-methyl group	",
                 "gpat_a2": "Acetyl group at C1 and C6",
                 "gpat_a3": "–OCH3 group",
                 "gpat_a4": "–OC2H5 group",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "A prodrug of terbutaline is ",
+                "gpat_a1": "Zafirlukast",
+                "gpat_a2": "Salmeterol",
+                "gpat_a3": "Bambuterol",
+                "gpat_a4": "Nedocromil sodium",
                 "gpat_correct_a": "3"
         }
                 
