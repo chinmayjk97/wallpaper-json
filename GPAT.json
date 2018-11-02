@@ -1543,6 +1543,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Renin antagonists",
                 "gpat_a4": "Nitrites",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Codeine differs in structure from morphine by",
+                "gpat_a1": "N-methyl group	",
+                "gpat_a2": "Acetyl group at C1 and C6",
+                "gpat_a3": "–OCH3 group",
+                "gpat_a4": "–OC2H5 group",
+                "gpat_correct_a": "3"
         }
                 
 ] 
