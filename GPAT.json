@@ -1570,6 +1570,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "0.3	",
                 "gpat_a4": "0.75",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Following is not a part of liver function test ",
+                "gpat_a1": "Transaminase",
+                "gpat_a2": "Electrolytes",
+                "gpat_a3": "Alkaline phosphatase",
+                "gpat_a4": "Prothrombine time ",
+                "gpat_correct_a": "2"
         }
                 
 ] 
