@@ -1562,6 +1562,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Bambuterol",
                 "gpat_a4": "Nedocromil sodium",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Hard gelatin capsule of size 3 will accommodate approximately ________ volume in ml.",
+                "gpat_a1": "0.1	",
+                "gpat_a2": "0.2",
+                "gpat_a3": "0.3	",
+                "gpat_a4": "0.75",
+                "gpat_correct_a": "3"
         }
                 
 ] 
