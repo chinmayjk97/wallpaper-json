@@ -1,184 +1,184 @@
 {
-        "Date" : "28/10/18", 
+        "Date" : "04/11/18", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Identify the non-absorbable suture.",
-                "gpat_a1": "Catgut suture",
-                "gpat_a2": "Chromic catgut suture",
-                "gpat_a3": "Silk suture",
-                "gpat_a4": "Polydioxanone suture",
+                "gpat_q": "Which of the following is a leukotriene receptor blocker?",
+                "gpat_a1": "LTC4",
+                "gpat_a2": "Aspirin",
+                "gpat_a3": "zafirlukast",
+                "gpat_a4": "ibuprofen",
                 "gpat_correct_a": "3",
-                "reason":"https://en.wikipedia.org/wiki/Surgical_suture#Absorbability"
+                "reason":""
         },
         {
-                "gpat_q": "The relative lowering of vapor pressure is given by :",
-                "gpat_a1": "Raoult's Law",
-                "gpat_a2": "Henry's Law",
-                "gpat_a3": "Boyle's Law",
-                "gpat_a4": "Charles Law",
+                "gpat_q": "Which is the following amphoteric solvent",
+                "gpat_a1": "dioxane",
+                "gpat_a2": "DMF",
+                "gpat_a3": "Benzene",
+                "gpat_a4": "glacial acetic acid",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Monooxygenases are found in",
+                "gpat_a1": "Mitochondria",
+                "gpat_a2": "cytosol",
+                "gpat_a3": "microsomes",
+                "gpat_a4": "Nucleus",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Neutral fat is stored in",
+                "gpat_a1": "Brain",
+                "gpat_a2": "adipose tissue",
+                "gpat_a3": "Pancreas",
+                "gpat_a4": "Liver",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Acroleic test is given by",
+                "gpat_a1": "glycerol",
+                "gpat_a2": "glycosides",
+                "gpat_a3": "sphingol",
+                "gpat_a4": "cholesterol",
+                "gpat_correct_a": "1",
+                "reason":"Compounds containing Acrylic acid gives Acroleic test."
+        },
+        {
+                "gpat_q": "Antibodies are ",
+                "gpat_a1": "phospholipids",
+                "gpat_a2": "glycoproteins",
+                "gpat_a3": "proteins",
+                "gpat_a4": "none",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Emetine is used in the treatment of",
+                "gpat_a1": "malaria",
+                "gpat_a2": "Tuberculosis",
+                "gpat_a3": "amebiasis",
+                "gpat_a4": "none of the above",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "The wavelength range of Indigo colour is",
+                "gpat_a1": "430 – 450 nm",
+                "gpat_a2": "370 – 430 nm",
+                "gpat_a3": "590 – 650 nm",
+                "gpat_a4": "650 – 730 nm",
+                "gpat_correct_a": "1",
+                "reason":"https://www.colourtherapyhealing.com/colour/colour-properties"
+        },
+        {
+                "gpat_q": "Ibuprofen belongs to schedule",
+                "gpat_a1": "X",
+                "gpat_a2": "B",
+                "gpat_a3": "G",
+                "gpat_a4": "H",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "ALL OF THE FOLLOWING ARE GLYCOLPROTEINS EXCEPT",
+                "gpat_a1": " transferring",
+                "gpat_a2": "collagen",
+                "gpat_a3": "albumin",
+                "gpat_a4": "IgM",
+                "gpat_correct_a": "3",
+                "reason":"https://en.wikipedia.org/wiki/Albumin"
+        },
+        {
+                "gpat_q": "Rifampicin is used not only in TB but in ____ also",
+                "gpat_a1": "Steven Jonson syndrome",
+                "gpat_a2": "Whipping cough",
+                "gpat_a3": "Leishmaniasis",
+                "gpat_a4": "Leprosy",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": " A FLUID PRESENT IN GOLAY CELL is",
+                "gpat_a1": "xenon",
+                "gpat_a2": "water vapour",
+                "gpat_a3": "chlorofluorocarban",
+                "gpat_a4": "nitrogen dioxide",
+                "gpat_correct_a": "1",
+                "reason":"https://www.slideshare.net/mobile/pehelvan/golay-cell-81411654"
+        },
+        {
+                "gpat_q": "THE POSITION ACT WAS PASSED IN THE YEAR",
+                "gpat_a1": " 1857",
+                "gpat_a2": "1919",
+                "gpat_a3": "1940",
+                "gpat_a4": "1971",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "GELATIN IS A",
+                "gpat_a1": "fat",
+                "gpat_a2": "alkaloids",
+                "gpat_a3": "carbohydrate",
+                "gpat_a4": "protein",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "A DOUBLE CONE MIXER IS USED FOR MIXING",
+                "gpat_a1": "solids",
+                "gpat_a2": "Semi solids",
+                "gpat_a3": " liquids",
+                "gpat_a4": "Suspensions",
                 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "According to DPCO, what will be the profit margin for wholesalers?",
-                "gpat_a1": "12",
-                "gpat_a2": "20",
-                "gpat_a3": "16",
-                "gpat_a4": "8",
-                "gpat_correct_a": "4",
-                "reason":"Old DPCO : Wholesalers: 10% & Retailers: 20% \n\nNew DPCO : Wholesalers: 8% & Retailers: 16%"
-        },
-        {
-                "gpat_q": "Meclofenamate belongs to which class of drug?",
-                "gpat_a1": "Salicylates",
-                "gpat_a2": "Oxicams",
-                "gpat_a3": "Aryl anthranillic acid",
-                "gpat_a4": "p-amino phenols",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "Following are the phases of clinical trials:\n[P] Human Pharmacology \n[Q] Therapeutic confirmatory trials\n[R] Post marketing trials\n[S] Therapeutic exploratory trials.\n\nChoose correct order of phases of trials.",
-                "gpat_a1": "P Q R S",
-                "gpat_a2": "P R Q S",
-                "gpat_a3": "P Q S R",
-                "gpat_a4": "P S Q R",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Palm oil is ",
-                "gpat_a1": "Non-drying oil",
-                "gpat_a2": "Drying oil",
-                "gpat_a3": "Semi-drying oil",
-                "gpat_a4": "Fats",
-                "gpat_correct_a": "4",
-                "reason":"http://faculty.ucr.edu/~legneref/botany/oilwax.htm#palmoil"
-        },
-        {
-                "gpat_q": "Papaverine is biosynthesized from :",
-                "gpat_a1": "Phenylalanine",
-                "gpat_a2": "Ornithine",
-                "gpat_a3": "Tyrosine",
-                "gpat_a4": "Lysine",
-                "gpat_correct_a": "3",
-                "reason":"https://www.researchgate.net/figure/Biosynthetic-pathway-from-tyrosine-to-sanguinarine-Biosynthesis-of-sanguinarine-from_fig1_47811269"
-        },
-        {
-                "gpat_q": "Which of the following drug doesn't not act through GPCR?",
-                "gpat_a1": "Epinephrine",
-                "gpat_a2": "Insulin",
-                "gpat_a3": "Dopamine",
-                "gpat_a4": "TSH",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following is non-opioid analgesics is a pro-drug?",
-                "gpat_a1": "Piroxicam",
-                "gpat_a2": "Celecoxib",
-                "gpat_a3": "Nabumetone",
-                "gpat_a4": "Ketorolac",
-                "gpat_correct_a": "3",
-                "reason":"https://en.wikipedia.org/wiki/Nabumetone"
-        },
-        {
-                "gpat_q": "The chemical behavior of morphine alkaloid is :",
-                "gpat_a1": "Acidic",
-                "gpat_a2": "Basic",
-                "gpat_a3": "Neutral",
-                "gpat_a4": "Amphoteric",
-                "gpat_correct_a": "2",
-                "reason":"Alkaloids are basic in nature."
-        },
-        {
-                "gpat_q": "What is the duration of action of sublingual niroglycerin tablets?",
-                "gpat_a1": "8 - 10 hours",
-                "gpat_a2": "4 - 8 hours",
-                "gpat_a3": "10 - 15 minutes",
-                "gpat_a4": "3 - 5 minutes",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Corey-Bakshi-Shibata reagent is :",
-                "gpat_a1": "Pyridinum salt of dichromate",
-                "gpat_a2": "Mixture of anisole with phosphorus pentasulphide",
-                "gpat_a3": "R2CuLi",
-                "gpat_a4": "chiral catalyst derived from proline",
-                "gpat_correct_a": "4",
-                "reason":"https://en.wikipedia.org/wiki/Corey%E2%80%93Itsuno_reduction"
-        },
-        {
-                "gpat_q": "Which of the following has quaternary structure ?",
-                "gpat_a1": "Chymotrypsin",
-                "gpat_a2": "Hemoglobin",
-                "gpat_a3": "Insulin",
-                "gpat_a4": "Myoglobin",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "The drug that Binds to AT-1 receptorwith high affinity is ______",
-                "gpat_a1": "Pinacidil",
-                "gpat_a2": "Valsartan",
-                "gpat_a3": "Moexipril",
-                "gpat_a4": "Ranolazine",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "One of the following is used as pH dependent controlled release excipient",
-                "gpat_a1": "Carnauba wax",
-                "gpat_a2": "Hydroxy propyl methyl cellulose phthalate",
-                "gpat_a3": "Methyl cellulose",
-                "gpat_a4": "Glyceryl monostearate",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Lactose is most widely used excipient ,but it is not used in formulation of :",
-                "gpat_a1": "Pyrazinamide",
-                "gpat_a2": "Ibuprofen",
-                "gpat_a3": "Sulphacetamide",
-                "gpat_a4": "Isoniazide",
-                "gpat_correct_a": "4",
-                "reason":"Lactose undergoes Millard reaction with amine containing APIs and hence it is not used."
-        },
-        {
-                "gpat_q": "Range of C=O stretching in enol is :",
-                "gpat_a1": "1800 cm-1",
-                "gpat_a2": "1710 cm1",
-                "gpat_a3": "1985 cm-1",
-                "gpat_a4": "1655 cm-1",
-                "gpat_correct_a": "4",
-                "reason":"Usual range is 1870-1540 cm-1. \nKetones : ~1715 cm-1 \nBut due to tautomerism the range shifts to 1640-1580 cm-1 "
-        },
-        {
-                "gpat_q": "In the Reimer-Tiemann reaction ____ reacts with phenol to give the ortho-formylated product.",
-                "gpat_a1": "carbene",
-                "gpat_a2": "carbocation",
-                "gpat_a3": "carbanion",
-                "gpat_a4": "free radical",
+                "gpat_q": "AN ADDICTING DRUG WHICH PRODUCES LITTLE OR NO PHYSICAL DEPENDENCE IS",
+                "gpat_a1": "amphetamine",
+                "gpat_a2": "diazepam",
+                "gpat_a3": "methadone",
+                "gpat_a4": "phenobarbitone",
                 "gpat_correct_a": "1",
-                "reason":"https://en.wikipedia.org/wiki/Reimer%E2%80%93Tiemann_reaction"
+                "reason":"amphetamines shows little or no physical dependence but shows psychological dependence.\n Methadone is used as substitute in opium dependence,reduces effect but not completely. "
         },
         {
-                "gpat_q": "Which of the drug is associated with harmful metabolite NAPQI",
-                "gpat_a1": "Diclofenac",
-                "gpat_a2": "Meclofenamate",
-                "gpat_a3": "Indomethacin",
-                "gpat_a4": "Acetaminophen",
+                "gpat_q": "MEDICAL TERMINATION OF PREGNANCY ACT WAS PASSED IN THE YEAR",
+                "gpat_a1": "1871",
+                "gpat_a2": "1980",
+                "gpat_a3": "1971",
+                "gpat_a4": "1949",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "How many 1H NMR signal will be given by Cyclohexane ?",
+                "gpat_a1": "2",
+                "gpat_a2": "3",
+                "gpat_a3": "6",
+                "gpat_a4": "1",
                 "gpat_correct_a": "4",
-                "reason":"https://en.wikipedia.org/wiki/NAPQI"
+                "reason":"In cyclohexane all the hydrogens are chemically equivalent. "
         },
         {
-                "gpat_q": "Brockmann Activity Scale is used in the characterization of :",
-                "gpat_a1": "Stationary Phase",
-                "gpat_a2": "Mobile Phase",
-                "gpat_a3": "Buffer system used",
-                "gpat_a4": "Column specification",
-                "gpat_correct_a": "1",
+                "gpat_q": "THE  NUMBER OF DOUBLE  BOND IN ARACHIDONIC ACID IS",
+                "gpat_a1": "1",
+                "gpat_a2": "2",
+                "gpat_a3": "3",
+                "gpat_a4": "4",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following is antihyperlipoproteinemic drug ?",
+                "gpat_a1": "Charcoal",
+                "gpat_a2": "Zinc Oxide",
+                "gpat_a3": "Clofibrate",
+                "gpat_a4": "Calamine",
+                "gpat_correct_a": "3",
                 "reason":""
         }
 ] 
