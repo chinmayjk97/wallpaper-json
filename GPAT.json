@@ -1575,6 +1575,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Alkaline phosphatase",
                 "gpat_a4": "Prothrombine time ",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which of the following causes Hyperpyrexia?",
+                "gpat_a1": "Suxamethonium",
+                "gpat_a2": "Drug interaction of MAO inhibitor with pethidine",
+                "gpat_a3": "Halothane",
+                "gpat_a4": "All of the above ",
+                "gpat_correct_a": "4"
         }
                 
 ] 
