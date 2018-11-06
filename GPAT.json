@@ -1561,27 +1561,40 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_correct_a": "3"
         }, 
         {
-                "gpat_q": "Hard gelatin capsule of size 3 will accommodate approximately ________ volume in ml.",
+                "gpat_q": "Hard gelatin capsule of size 3 will accommodate approximately ________ volume in ml.
+",
                 "gpat_a1": "0.1	",
-                "gpat_a2": "0.2",
+                "gpat_a2": "0.2
+",
                 "gpat_a3": "0.3	",
-                "gpat_a4": "0.75",
+                "gpat_a4": "0.75
+",
                 "gpat_correct_a": "3"
         }, 
         {
                 "gpat_q": "Following is not a part of liver function test ",
                 "gpat_a1": "Transaminase",
                 "gpat_a2": "Electrolytes",
-                "gpat_a3": "Alkaline phosphatase",
+                "gpat_a3": "Alkaline phosphatase
+",
                 "gpat_a4": "Prothrombine time ",
                 "gpat_correct_a": "2"
         }, 
         {
-                "gpat_q": "Which of the following causes Hyperpyrexia?",
+                "gpat_q": "Which of the following causes Hyperpyrexia?
+",
                 "gpat_a1": "Suxamethonium",
                 "gpat_a2": "Drug interaction of MAO inhibitor with pethidine",
                 "gpat_a3": "Halothane",
                 "gpat_a4": "All of the above ",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "The isosteric replacement of carboxylic acid is",
+                "gpat_a1": "pyrrole",
+                "gpat_a2": "isoxazole",
+                "gpat_a3": "phenol",
+                "gpat_a4": "tertazole",
                 "gpat_correct_a": "4"
         }
                 
