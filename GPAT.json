@@ -1596,6 +1596,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "phenol",
                 "gpat_a4": "tertazole",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Mannitol is an excellent choice for chewable tablets because it has ______",
+                "gpat_a1": "Positive heat of solution",
+                "gpat_a2": "Negative heat of solution",
+                "gpat_a3": "Zero heat of solution",
+                "gpat_a4": "None",
+                "gpat_correct_a": "2"
         }
                 
 ] 
