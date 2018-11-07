@@ -1599,10 +1599,21 @@ paralysis (d)Acts as an androgen antagonist.
         }, 
         {
                 "gpat_q": "Mannitol is an excellent choice for chewable tablets because it has ______",
-                "gpat_a1": "Positive heat of solution",
-                "gpat_a2": "Negative heat of solution",
-                "gpat_a3": "Zero heat of solution",
+                "gpat_a1": "Positive heat of solution
+",
+                "gpat_a2": "Negative heat of solution
+",
+                "gpat_a3": "Zero heat of solution
+",
                 "gpat_a4": "None",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Listed below are the chemical tests used to identify some groups of phytoconstituents. Identify test for the detection of purine alkaloids.",
+                "gpat_a1": "Keller-Killani test",
+                "gpat_a2": "Murexide test",
+                "gpat_a3": "Shinoda test",
+                "gpat_a4": "Vitali-Morin test",
                 "gpat_correct_a": "2"
         }
                 
