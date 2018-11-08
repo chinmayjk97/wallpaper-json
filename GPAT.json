@@ -1617,12 +1617,21 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_correct_a": "2"
         }, 
         {
-                "gpat_q": "Term pharmacognosy was coined by ________",
+                "gpat_q": "Term pharmacognosy was coined by ________
+",
                 "gpat_a1": "Hypocratus",
                 "gpat_a2": "Syndler",
                 "gpat_a3": "Gallon",
                 "gpat_a4": "Pasture",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "The total area required for the manufacture of cosmetic aerosol as per schedule M II of Drug and Cosmetic Act is",
+                "gpat_a1": "15 Sq. m.",
+                "gpat_a2": "25 Sq. m",
+                "gpat_a3": "35 Sq. m",
+                "gpat_a4": "30 Sq. m",
+                "gpat_correct_a": "1"
         }
                 
 ] 
