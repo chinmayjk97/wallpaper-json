@@ -1632,6 +1632,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "35 Sq. m",
                 "gpat_a4": "30 Sq. m",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Cyclophosphamide is ",
+                "gpat_a1": "alkylating agent",
+                "gpat_a2": "antitumoral agent",
+                "gpat_a3": "Monoclonal antibody",
+                "gpat_a4": "antimetabolite",
+                "gpat_correct_a": "1"
         }
                 
 ] 
