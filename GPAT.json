@@ -1640,6 +1640,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Monoclonal antibody",
                 "gpat_a4": "antimetabolite",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Northern blot is used for the separation of",
+                "gpat_a1": "mRNA",
+                "gpat_a2": "DNA",
+                "gpat_a3": "Protein",
+                "gpat_a4": "Protein DNA interaction",
+                "gpat_correct_a": "1"
         }
                 
 ] 
