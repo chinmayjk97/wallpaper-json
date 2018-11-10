@@ -1642,12 +1642,21 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_correct_a": "1"
         }, 
         {
-                "gpat_q": "Northern blot is used for the separation of",
+                "gpat_q": "Northern blot is used for the separation of
+",
                 "gpat_a1": "mRNA",
                 "gpat_a2": "DNA",
                 "gpat_a3": "Protein",
                 "gpat_a4": "Protein DNA interaction",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "How many Nitrogens are present in Metformin structure ?",
+                "gpat_a1": "3",
+                "gpat_a2": "5",
+                "gpat_a3": "6",
+                "gpat_a4": "4",
+                "gpat_correct_a": "2"
         }
                 
 ] 
