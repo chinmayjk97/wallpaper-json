@@ -1657,6 +1657,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "6",
                 "gpat_a4": "4",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "“Open-collateral” vascular bundles are the characteristics of",
+                "gpat_a1": "Dicotyldenous plant",
+                "gpat_a2": "Monocotyldenous plant",
+                "gpat_a3": "Weeds",
+                "gpat_a4": "None of the above ",
+                "gpat_correct_a": "1"
         }
                 
 ] 
