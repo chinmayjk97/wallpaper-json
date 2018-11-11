@@ -7,7 +7,8 @@
 "gpat_a2": "0.1M KCl",
 "gpat_a3": "0.1M AlCl3",
 "gpat_a4": "0.1M CaCl2",
-"gpat_correct_a": "2","reason":""
+"gpat_correct_a": "2",
+"reason":""
         },
         {"gpat_q": "About 95% of transdermal drug enter the skin through which pathway?",
 
@@ -112,9 +113,7 @@
                 "reason":""
         },
         {
-               "gpat_q": "Which is following is not a prodrug
-
-? ",
+               "gpat_q": "Which is following is not a prodrug?", 
 
 "gpat_a1": "Progunil",
 
