@@ -1,184 +1,296 @@
 {
-        "Date" : "04/11/18", 
+        "Date" : "11/11/18", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Which of the following is a leukotriene receptor blocker?",
-                "gpat_a1": "LTC4",
-                "gpat_a2": "Aspirin",
-                "gpat_a3": "zafirlukast",
-                "gpat_a4": "ibuprofen",
-                "gpat_correct_a": "3",
+                "gpat_q": "Calibration of cell constant of a conductance cell is carried out using a solution of ",
+"gpat_a1": "0.1M NaCl",
+"gpat_a2": "0.1M KCl",
+"gpat_a3": "0.1M AlCl3",
+"gpat_a4": "0.1M CaCl2",
+"gpat_correct_a": "2","reason":""
+        },
+        {"gpat_q": "About 95% of transdermal drug enter the skin through which pathway?",
+
+"gpat_a1": "Intercellular",
+
+"gpat_a2": "Transcellular",
+
+"gpat_a3": "Follicular",
+
+"gpat_a4": "Eccrine",
+
+"gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "Which is the following amphoteric solvent",
-                "gpat_a1": "dioxane",
-                "gpat_a2": "DMF",
-                "gpat_a3": "Benzene",
-                "gpat_a4": "glacial acetic acid",
-                "gpat_correct_a": "2",
+                "gpat_q": "Due to lack of ____ enzyme, albinism occurs. ",
+
+"gpat_a1": "tyrosinase",
+
+"gpat_a2": "xanthine oxidase",
+
+"gpat_a3": "catalyse",
+
+"gpat_a4": "fructokinase ",
+
+"gpat_correct_a": "1"
+
+,
+                "reason":""
+        },
+        {"gpat_q": "at a triple point _______",
+
+"gpat_a1": "both the temperature and pressure are fixed",
+
+"gpat_a2": "only temperature is fixed",
+
+"gpat_a3": "only pressure is fixed ",
+
+"gpat_a4": "sometimes temperature and sometime pressure are fixed",
+
+"gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "Monooxygenases are found in",
-                "gpat_a1": "Mitochondria",
-                "gpat_a2": "cytosol",
-                "gpat_a3": "microsomes",
-                "gpat_a4": "Nucleus",
-                "gpat_correct_a": "3",
+               "gpat_q": "Vitamin B12 can be estimated and determined by using organism ______?",
+
+"gpat_a1": "Lactobacillus Sps",
+
+"gpat_a2": "Lactobacillus Leichmanni",
+
+"gpat_a3": "Bacillus subtilis",
+
+"gpat_a4": "E.coli",
+
+"gpat_correct_a": "2"
+
+,
                 "reason":""
         },
         {
-                "gpat_q": "Neutral fat is stored in",
-                "gpat_a1": "Brain",
-                "gpat_a2": "adipose tissue",
-                "gpat_a3": "Pancreas",
-                "gpat_a4": "Liver",
-                "gpat_correct_a": "2",
+               "gpat_q": "Which of the following is used as live-attenuated vaccine? ",
+
+"gpat_a1": "BCG",
+
+"gpat_a2": "Sabin Vaccine",
+
+"gpat_a3": "Both A and B ",
+
+"gpat_a4": "Salk Vaccine",
+
+"gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Acroleic test is given by",
-                "gpat_a1": "glycerol",
-                "gpat_a2": "glycosides",
-                "gpat_a3": "sphingol",
-                "gpat_a4": "cholesterol",
-                "gpat_correct_a": "1",
-                "reason":"Compounds containing Acrylic acid gives Acroleic test."
-        },
-        {
-                "gpat_q": "Antibodies are ",
-                "gpat_a1": "phospholipids",
-                "gpat_a2": "glycoproteins",
-                "gpat_a3": "proteins",
-                "gpat_a4": "none",
-                "gpat_correct_a": "2",
+               "gpat_q": "Hepatitis-B virus , except ",
+
+"gpat_a1": "is a DNA virus",
+
+"gpat_a2": "The presence of antigen indicates increased infectivity",
+
+"gpat_a3": "Antibody to surface antigen usually appears within 2 weeks of infection",
+
+"gpat_a4": "Is a recognized cause of liver cancer",
+
+"gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Emetine is used in the treatment of",
-                "gpat_a1": "malaria",
-                "gpat_a2": "Tuberculosis",
-                "gpat_a3": "amebiasis",
-                "gpat_a4": "none of the above",
-                "gpat_correct_a": "3",
+                "gpat_q": "E coli is used in assay of ",
+
+"gpat_a1": "Carbencillin",
+
+"gpat_a2": "Chloramphenicol",
+
+"gpat_a3": "Gentamycin",
+
+"gpat_a4": "Nystatin",
+
+"gpat_correct_a": "2"
+
+,
                 "reason":""
         },
         {
-                "gpat_q": "The wavelength range of Indigo colour is",
-                "gpat_a1": "430 – 450 nm",
-                "gpat_a2": "370 – 430 nm",
-                "gpat_a3": "590 – 650 nm",
-                "gpat_a4": "650 – 730 nm",
-                "gpat_correct_a": "1",
-                "reason":"https://www.colourtherapyhealing.com/colour/colour-properties"
-        },
-        {
-                "gpat_q": "Ibuprofen belongs to schedule",
-                "gpat_a1": "X",
-                "gpat_a2": "B",
-                "gpat_a3": "G",
-                "gpat_a4": "H",
-                "gpat_correct_a": "4",
+               "gpat_q": "Which is following is not a prodrug
+
+? ",
+
+"gpat_a1": "Progunil",
+
+"gpat_a2": "Sulfasalazine",
+
+"gpat_a3": "Prontosil red ",
+
+"gpat_a4": "Trimethoprim",
+
+"gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "ALL OF THE FOLLOWING ARE GLYCOLPROTEINS EXCEPT",
-                "gpat_a1": " transferring",
-                "gpat_a2": "collagen",
-                "gpat_a3": "albumin",
-                "gpat_a4": "IgM",
-                "gpat_correct_a": "3",
-                "reason":"https://en.wikipedia.org/wiki/Albumin"
-        },
-        {
-                "gpat_q": "Rifampicin is used not only in TB but in ____ also",
-                "gpat_a1": "Steven Jonson syndrome",
-                "gpat_a2": "Whipping cough",
-                "gpat_a3": "Leishmaniasis",
-                "gpat_a4": "Leprosy",
-                "gpat_correct_a": "4",
+               "gpat_q": "Papaverine is an alkaloid which is used for",
+
+"gpat_a1": "Cough suppression",
+
+"gpat_a2": "Analgesia",
+
+"gpat_a3": "Skeletal muscle contraction",
+
+"gpat_a4": "Vasodilation",
+
+"gpat_correct_a": "4"
+
+,
                 "reason":""
         },
         {
-                "gpat_q": " A FLUID PRESENT IN GOLAY CELL is",
-                "gpat_a1": "xenon",
-                "gpat_a2": "water vapour",
-                "gpat_a3": "chlorofluorocarban",
-                "gpat_a4": "nitrogen dioxide",
-                "gpat_correct_a": "1",
-                "reason":"https://www.slideshare.net/mobile/pehelvan/golay-cell-81411654"
-        },
-        {
-                "gpat_q": "THE POSITION ACT WAS PASSED IN THE YEAR",
-                "gpat_a1": " 1857",
-                "gpat_a2": "1919",
-                "gpat_a3": "1940",
-                "gpat_a4": "1971",
-                "gpat_correct_a": "2",
+               "gpat_q": "Following drugs have volume of distribution more than 200:
+
+[P]	Warfarin	[Q]	Amitryptyline
+
+[R]	Digoxin	[S]	Alcohol",
+
+"gpat_a1": "P and Q",
+
+"gpat_a2": "Q and R",
+
+"gpat_a3": "Q and S	",
+
+"gpat_a4": "P and S",
+
+"gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "GELATIN IS A",
-                "gpat_a1": "fat",
-                "gpat_a2": "alkaloids",
-                "gpat_a3": "carbohydrate",
-                "gpat_a4": "protein",
-                "gpat_correct_a": "4",
+                "gpat_q": "Which category of drug is evaluated for dissolution? ",
+
+"gpat_a1": "Highly diffusible ",
+
+"gpat_a2": "Diffusion",
+
+"gpat_a3": "Poorly water soluble",
+
+"gpat_a4": "Water soluble ",
+
+"gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "A DOUBLE CONE MIXER IS USED FOR MIXING",
-                "gpat_a1": "solids",
-                "gpat_a2": "Semi solids",
-                "gpat_a3": " liquids",
-                "gpat_a4": "Suspensions",
-                "gpat_correct_a": "1",
+               "gpat_q": "In HPLC analysis what type of column would you prefer? ",
+
+"gpat_a1": "A column with high HETP and high number of plates",
+
+"gpat_a2": "A column with low HETP and low number of plates",
+
+"gpat_a3": "A column with high HETP and low number of plates",
+
+"gpat_a4": "A column with low HETP and high number of plates",
+
+"gpat_correct_a": "4"
+
+,
                 "reason":""
         },
         {
-                "gpat_q": "AN ADDICTING DRUG WHICH PRODUCES LITTLE OR NO PHYSICAL DEPENDENCE IS",
-                "gpat_a1": "amphetamine",
-                "gpat_a2": "diazepam",
-                "gpat_a3": "methadone",
-                "gpat_a4": "phenobarbitone",
-                "gpat_correct_a": "1",
-                "reason":"amphetamines shows little or no physical dependence but shows psychological dependence.\n Methadone is used as substitute in opium dependence,reduces effect but not completely. "
-        },
-        {
-                "gpat_q": "MEDICAL TERMINATION OF PREGNANCY ACT WAS PASSED IN THE YEAR",
-                "gpat_a1": "1871",
-                "gpat_a2": "1980",
-                "gpat_a3": "1971",
-                "gpat_a4": "1949",
-                "gpat_correct_a": "3",
+                "gpat_q": "Which of the following constituents is reported to have anti-hepatotoxic activity ?",
+
+"gpat_a1": "Podophyllotoxin",
+
+"gpat_a2": "Linalool",
+
+"gpat_a3": "Andrographoloid",
+
+"gpat_a4": "Safranal",
+
+"gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "How many 1H NMR signal will be given by Cyclohexane ?",
-                "gpat_a1": "2",
-                "gpat_a2": "3",
-                "gpat_a3": "6",
-                "gpat_a4": "1",
-                "gpat_correct_a": "4",
-                "reason":"In cyclohexane all the hydrogens are chemically equivalent. "
-        },
-        {
-                "gpat_q": "THE  NUMBER OF DOUBLE  BOND IN ARACHIDONIC ACID IS",
-                "gpat_a1": "1",
-                "gpat_a2": "2",
-                "gpat_a3": "3",
-                "gpat_a4": "4",
-                "gpat_correct_a": "4",
+                "gpat_q": "Select the equation which gives the rate of dissolution of tablet ",
+
+"gpat_a1": "Fick's Law",
+
+"gpat_a2": "Handerson Hasselbatch equation ",
+
+"gpat_a3": "Noyes Whitney equation ",
+
+"gpat_a4": "Michelis Menten equation ",
+
+"gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Which of the following is antihyperlipoproteinemic drug ?",
-                "gpat_a1": "Charcoal",
-                "gpat_a2": "Zinc Oxide",
-                "gpat_a3": "Clofibrate",
-                "gpat_a4": "Calamine",
-                "gpat_correct_a": "3",
+                "gpat_q": "Which of the following alkaloids is derived from tyrosine?",
+
+"gpat_a1": "Quinine",
+
+"gpat_a2": "Morphine",
+
+"gpat_a3": "Atropine",
+
+"gpat_a4": "Ephedrine",
+
+"gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Choose the most basic heterocyclic compound among the followings.",
+
+"gpat_a1": "Pyridine",
+
+"gpat_a2": "Imidazole",
+
+"gpat_a3": "Pyrrole",
+
+"gpat_a4": "Pyrrolidine",
+
+"gpat_correct_a": "4",                "reason":""
+        },
+        {
+               "gpat_q": "All of the given four drugs are neuromuscular blocking agents.
+
+[P] : Gallamine [Q]: Succinylcholine
+
+[R] : Vecuronium [S] : d-Tubocurarine
+
+Choose the correct statement about them.",
+
+"gpat_a1": "P and Q are competitive neuromuscular blocking agents",
+
+"gpat_a2": "Q and R are competitive neuromuscular blocking agents",
+
+"gpat_a3": "R and S are non-competitive neuromuscular blocking agents",
+
+"gpat_a4": "P and S are competitive neuromuscular blocking agents",
+
+"gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+               "gpat_q": "Which of the following beta blockers has been shown clinically to reduce mortality in patients of symptomatic heart failure?",
+
+"gpat_a1": "Atenolol",
+
+"gpat_a2": "Carvedilol",
+
+"gpat_a3": "Propranolol",
+
+"gpat_a4": "Esmolol",
+
+"gpat_correct_a": "2",
+                "reason":""
+        },
+        {"gpat_q": "Regarding blood brain barrier identify which statement is Wrong :",
+
+"gpat_a1": "Capillary endothelial cells of brain have tight junctions. ",
+
+"gpat_a2": "Only lipid soluble drugs in the brain. ",
+
+"gpat_a3": "Inflammation of meninges further limits entry of drugs into brain. ",
+
+"gpat_a4": "Blood brain barrier is deficient at CTZ and interior Hypothalamus. ",
+
+"gpat_correct_a": "3",
                 "reason":""
         }
 ] 
