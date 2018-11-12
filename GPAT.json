@@ -1660,11 +1660,22 @@ paralysis (d)Acts as an androgen antagonist.
         }, 
         {
                 "gpat_q": "“Open-collateral” vascular bundles are the characteristics of",
-                "gpat_a1": "Dicotyldenous plant",
+                "gpat_a1": "Dicotyldenous plant
+",
                 "gpat_a2": "Monocotyldenous plant",
-                "gpat_a3": "Weeds",
-                "gpat_a4": "None of the above ",
+                "gpat_a3": "Weeds
+",
+                "gpat_a4": "None of the above 
+",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Which of the following is not a use of formaldehyde?",
+                "gpat_a1": "In silver mirror test",
+                "gpat_a2": "In making medicine urotropine",
+                "gpat_a3": "In making throat lozenges",
+                "gpat_a4": "In making acetic acid",
+                "gpat_correct_a": "4"
         }
                 
 ] 
