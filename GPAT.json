@@ -1676,6 +1676,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "In making throat lozenges",
                 "gpat_a4": "In making acetic acid",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which of following is Lugol’s solution?",
+                "gpat_a1": "Weak iodine solution ",
+                "gpat_a2": "Aqueous iodine",
+                "gpat_a3": "Povidone-iodine",
+                "gpat_a4": "Alcoholic iodine",
+                "gpat_correct_a": "2"
         }
                 
 ] 
