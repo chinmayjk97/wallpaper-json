@@ -1679,11 +1679,20 @@ paralysis (d)Acts as an androgen antagonist.
         }, 
         {
                 "gpat_q": "Which of following is Lugol’s solution?",
-                "gpat_a1": "Weak iodine solution ",
+                "gpat_a1": "Weak iodine solution 
+",
                 "gpat_a2": "Aqueous iodine",
                 "gpat_a3": "Povidone-iodine",
                 "gpat_a4": "Alcoholic iodine",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "The main film-forming agent in the nail polish is",
+                "gpat_a1": "Nitro-cellulose",
+                "gpat_a2": "Sulfonamide-Formaldehyde",
+                "gpat_a3": "Ethyl acetate",
+                "gpat_a4": "n-butyl acetate",
+                "gpat_correct_a": "1"
         }
                 
 ] 
