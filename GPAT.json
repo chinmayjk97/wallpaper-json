@@ -1693,6 +1693,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Ethyl acetate",
                 "gpat_a4": "n-butyl acetate",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which stain paper is used in limit test of arsenic?",
+                "gpat_a1": "pH paper ",
+                "gpat_a2": "Cobalt chloride paper",
+                "gpat_a3": "Mercuric chloride paper",
+                "gpat_a4": "None of above",
+                "gpat_correct_a": "3"
         }
                 
 ] 
