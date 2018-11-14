@@ -1699,8 +1699,17 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a1": "pH paper ",
                 "gpat_a2": "Cobalt chloride paper",
                 "gpat_a3": "Mercuric chloride paper",
-                "gpat_a4": "None of above",
+                "gpat_a4": "None of above
+",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The following drug acts by inhibiting cell wall synthesis of the microorganisms ",
+                "gpat_a1": "Cefuroxime",
+                "gpat_a2": "Gentamicin",
+                "gpat_a3": "Erythromycin",
+                "gpat_a4": "Amphotericin b",
+                "gpat_correct_a": "1"
         }
                 
 ] 
