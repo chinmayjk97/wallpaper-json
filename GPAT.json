@@ -1710,6 +1710,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Erythromycin",
                 "gpat_a4": "Amphotericin b",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Theophylline chemically is a ",
+                "gpat_a1": "1,3,7-Trimethyl xanthine",
+                "gpat_a2": "1,3,7-Triethyl xanthine",
+                "gpat_a3": "1,3-Dimethyl xanthine",
+                "gpat_a4": "3,7-Dimethyl xanthine",
+                "gpat_correct_a": "3"
         }
                 
 ] 
