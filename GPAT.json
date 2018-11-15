@@ -1718,6 +1718,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "1,3-Dimethyl xanthine",
                 "gpat_a4": "3,7-Dimethyl xanthine",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which isomer of ibuprofen is more active?",
+                "gpat_a1": "S (–) isomer",
+                "gpat_a2": "R (–) isomer",
+                "gpat_a3": "S (+) isomer",
+                "gpat_a4": "R (+) isomer",
+                "gpat_correct_a": "3"
         }
                 
 ] 
