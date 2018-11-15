@@ -121,6 +121,30 @@
                 "book_url": "https://chinmayjk97.github.io/wp-content/kokate",
                 "book_edition": "Online Edition",
                 "book_size": "Online-view only"
+        },
+        {
+                "book_name": "Trease D. & Evans W.C.: Text Book of Pharmacognosy : W.B. Saunders",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHja0w2MFh0ejhSb2c",
+                "book_edition": "16th Edition",
+                "book_size": "16 MB "
+        },
+         {
+                "book_name": "[ Quick Review ] Phamacognosy at glance by Krishna B. Bhansali",
+                "book_url": "https://drive.google.com/file/d/1IS2XTw4N95BUUOKyzg2qGjPMLevIffBQ",
+                "book_edition": "1st Edition",
+                "book_size": "3 MB"
+        },
+        {
+                "book_name": "Ashutosh Kar - Pharmacognosy and Pharmaco- biotechnology ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeUNkSVAyVWtaRVk",
+                "book_edition": "2nd Edition",
+                "book_size": "7 MB"
+        },
+         {
+                "book_name": "Biren Shah, Avinash Seth-Textbook of Pharmacognosy and Phytochemistry-Elsevier India (2012)",
+                "book_url": "https://drive.google.com/file/d/1UOLpkeTVz8D4P6miW3CK3XBLf-aTWppn",
+                "book_edition": "1st Edition",
+                "book_size": "14 MB"
         }
     ]
 }
