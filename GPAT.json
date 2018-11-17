@@ -1740,12 +1740,22 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_correct_a": "4"
         }, 
         {
-                "gpat_q": "The utility of thiol group in ACE inhibitor is",
+                "gpat_q": "The utility of thiol group in ACE inhibitor is
+",
                 "gpat_a1": "To increase binding to caboxylate group of ACE",
                 "gpat_a2": "To form hydrophobic interaction with peptide linkage",
-                "gpat_a3": "To increase binding to zinc (co-factor) ion of ACE",
+                "gpat_a3": "To increase binding to zinc (co-factor) ion of ACE
+",
                 "gpat_a4": "None of this.",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which of the following will have the highest boiling point?",
+                "gpat_a1": "Methanal",
+                "gpat_a2": "Ethanal",
+                "gpat_a3": "Prolanal",
+                "gpat_a4": "Hexanone",
+                "gpat_correct_a": "4"
         }
                 
 ] 
