@@ -1756,6 +1756,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Prolanal",
                 "gpat_a4": "Hexanone",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which of the following vitamin act as a respiratory catalyst?",
+                "gpat_a1": "Riboflavin",
+                "gpat_a2": "Niacin",
+                "gpat_a3": "Pyridoxine",
+                "gpat_a4": "Vitamin E",
+                "gpat_correct_a": "1"
         }
                 
 ] 
