@@ -1764,6 +1764,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Pyridoxine",
                 "gpat_a4": "Vitamin E",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which vitamin is responsible for neuroprotective action? ",
+                "gpat_a1": "Vitamin A",
+                "gpat_a2": "Vitamin B",
+                "gpat_a3": "Vitamin D",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "2"
         }
                 
 ] 
