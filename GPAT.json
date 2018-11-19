@@ -1790,6 +1790,15 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Lithium",
                 "gpat_a4": "Ketanserine",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "A partial agonist can antagonise the effects of a full
+agonist because it has:",
+                "gpat_a1": "High affinity but low intrinsic activity",
+                "gpat_a2": "Low affinity but high intrinsic activity",
+                "gpat_a3": "No affinity and low intrinsic activity",
+                "gpat_a4": "High affinity but no intrinsic activity",
+                "gpat_correct_a": "1"
         }
                 
 ] 
