@@ -1782,6 +1782,14 @@ paralysis (d)Acts as an androgen antagonist.
                 "gpat_a3": "Friabilator",
                 "gpat_a4": "Screw Gauge",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Identify the odd drug with respect to Drug Monitoring. ",
+                "gpat_a1": "Phenytoin",
+                "gpat_a2": "Digoxin",
+                "gpat_a3": "Lithium",
+                "gpat_a4": "Ketanserine",
+                "gpat_correct_a": "4"
         }
                 
 ] 
