@@ -1799,6 +1799,14 @@ agonist because it has:",
                 "gpat_a3": "No affinity and low intrinsic activity",
                 "gpat_a4": "High affinity but no intrinsic activity",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Cori cycle is",
+                "gpat_a1": "Reuse of glucose",
+                "gpat_a2": "Synthesis of glucose",
+                "gpat_a3": "Uptake of glucose",
+                "gpat_a4": "Both (a) and (b)",
+                "gpat_correct_a": "4"
         }
                 
 ] 
