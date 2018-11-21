@@ -1801,12 +1801,22 @@ agonist because it has:",
                 "gpat_correct_a": "1"
         }, 
         {
-                "gpat_q": "Cori cycle is",
+                "gpat_q": "Cori cycle is
+",
                 "gpat_a1": "Reuse of glucose",
                 "gpat_a2": "Synthesis of glucose",
                 "gpat_a3": "Uptake of glucose",
-                "gpat_a4": "Both (a) and (b)",
+                "gpat_a4": "Both (a) and (b)
+",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Following is most widely used for extraction of vola- tile oils",
+                "gpat_a1": "Destructive Distillation",
+                "gpat_a2": "Azeotropic Distillation",
+                "gpat_a3": "Molecular Distillation",
+                "gpat_a4": "Steam Distillation",
+                "gpat_correct_a": "1"
         }
                 
 ] 
