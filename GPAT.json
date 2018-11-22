@@ -1817,7 +1817,17 @@ agonist because it has:",
                 "gpat_a3": "Molecular Distillation",
                 "gpat_a4": "Steam Distillation",
                 "gpat_correct_a": "1"
-        }
+        },
                 
+        {
+                "gpat_q": "Study of drug-receptor interaction has now shown that:",
+                "gpat_a1": "Maximal response occurs only when all receptors are occupied by the drug",
+                "gpat_a2": "Drugs exert an ‘all or none’ action on a receptor",
+                "gpat_a3": "Receptor and drugs acting on it have rigid
+complementary ‘lock and key’ structural features",
+                "gpat_a4": "Properties of ‘affinity’ and ‘intrinsic activity’ are
+independently variable",
+                "gpat_correct_a": "4"
+        }
 ] 
 }
