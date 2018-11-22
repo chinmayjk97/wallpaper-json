@@ -1828,6 +1828,14 @@ complementary ‘lock and key’ structural features",
                 "gpat_a4": "Properties of ‘affinity’ and ‘intrinsic activity’ are
 independently variable",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which of following detectors has the most sensitivity?",
+                "gpat_a1": "Flame ionization detector",
+                "gpat_a2": "Argon ionization detector",
+                "gpat_a3": "Electron capture detector",
+                "gpat_a4": "Kathetormeter",
+                "gpat_correct_a": "3"
         }
 ] 
 }
