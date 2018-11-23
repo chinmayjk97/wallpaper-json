@@ -1846,5 +1846,13 @@ independently variable",
                 "gpat_a3": "Both",
                 "gpat_a4": "None",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Principle of paper chromatography is",
+                "gpat_a1": "Adsorption",
+                "gpat_a2": "Partition",
+                "gpat_a3": "Ion exchange	",
+                "gpat_a4": "Affinity",
+                "gpat_correct_a": "2"
         }
 }
