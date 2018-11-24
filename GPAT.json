@@ -1854,5 +1854,13 @@ independently variable",
                 "gpat_a3": "Ion exchange	",
                 "gpat_a4": "Affinity",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "DOP or smoke test (dioctyl phthalate test) is usually used for ",
+                "gpat_a1": "HEPA filter integrity",
+                "gpat_a2": "Filter Validation",
+                "gpat_a3": "Filter Leak Testing",
+                "gpat_a4": "Filter Compatibility Test",
+                "gpat_correct_a": "1"
         }
 }
