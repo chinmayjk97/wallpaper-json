@@ -140,7 +140,7 @@
 "gpat_correct_a": "2"
 
 ,
-                "reason":""
+                "reason":"ebullioscopic is boiling point elevation method while cryoscopic is freezing point depressing method"
         },
         {
                "gpat_q": "Which of the following agents act as ATP sensitive K+ channel blocker? ",
@@ -196,7 +196,7 @@
 
 "gpat_a4": "Glucoronidation",
 
-"gpat_correct_a": "",
+"gpat_correct_a": "4",
                 "reason":"Glucoronidation is the only Phase 2 reaction which occurs due to mirosomal enzymes. "
         },
         {
@@ -210,7 +210,7 @@
 
 "gpat_a4": "Ivermectin ",
 
-"gpat_correct_a": "",
+"gpat_correct_a": "1",
                 "reason":""
         },
         {
