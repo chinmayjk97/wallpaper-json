@@ -1,67 +1,111 @@
 {
-        "Date" : "11/11/18", 
+        "Date" : "25/11/18", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Calibration of cell constant of a conductance cell is carried out using a solution of ",
-"gpat_a1": "0.1M NaCl",
-"gpat_a2": "0.1M KCl",
-"gpat_a3": "0.1M AlCl3",
-"gpat_a4": "0.1M CaCl2",
-"gpat_correct_a": "2",
+                "gpat_q": "Biphenyl shows which kind of isomerism? ",
+"gpat_a1": "Optical isomerism",
+"gpat_a2": "Configurational isomerism",
+"gpat_a3": "Atropisomers",
+"gpat_a4": "R and S isomerism",
+"gpat_correct_a": "3",
 "reason":""
         },
-        {"gpat_q": "About 95% of transdermal drug enter the skin through which pathway?",
+        {"gpat_q": "Which of the following is the chemical composition of Saliwanoff’s reagent?",
 
-"gpat_a1": "Intercellular",
+"gpat_a1": "Copper sulphate pentahydrate",
 
-"gpat_a2": "Transcellular",
+"gpat_a2": "Copper acetate and copper oxide in 1% acetic acid",
 
-"gpat_a3": "Follicular",
+"gpat_a3": "Resorcinol in HCl",
 
-"gpat_a4": "Eccrine",
+"gpat_a4": "Anhydrous sodium carbonate and sodium citrate",
 
-"gpat_correct_a": "2",
+"gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Due to lack of ____ enzyme, albinism occurs. ",
+                "gpat_q": "Formula for angle of repose is _____ ",
 
-"gpat_a1": "tyrosinase",
+"gpat_a1": "tan θ=r/h",
 
-"gpat_a2": "xanthine oxidase",
+"gpat_a2": "tan θ=h/r",
 
-"gpat_a3": "catalyse",
+"gpat_a3": "tan-1 θ=r/h ",
 
-"gpat_a4": "fructokinase ",
+"gpat_a4": "tan-1 θ=h/r ",
+
+"gpat_correct_a": "2"
+
+,
+                "reason":""
+        },
+        {"gpat_q": "Which of the following is correct NMR data for CH3-COO-C2H5?",
+
+"gpat_a1": "δ =1.56m (3H), δ=3.69s (2H), δ=1.02t (3H)",
+
+"gpat_a2": "δ =2.66s (3H), δ=2.89m (5H)",
+
+"gpat_a3": "δ =3.66s (3H), δ=2.32q (2H), δ=1.1t (3H)",
+
+"gpat_a4": "None of the above",
+
+"gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+               "gpat_q": "Craig plot is used in _____",
+
+"gpat_a1": "Drug designing",
+
+"gpat_a2": "Protein structure determination",
+
+"gpat_a3": "Nucleic acid structure determination",
+
+"gpat_a4": "Carbohydrate structure determination",
 
 "gpat_correct_a": "1"
 
 ,
                 "reason":""
         },
-        {"gpat_q": "at a triple point _______",
+        {
+               "gpat_q": "All dopaminergic agonist having affinity for D2 receptors are clinically used in the following conditions EXCEPT",
 
-"gpat_a1": "both the temperature and pressure are fixed",
+"gpat_a1":"Obsessive-compulsive disorder", 
 
-"gpat_a2": "only temperature is fixed",
+"gpat_a2": "Hyperprolactinemia",
 
-"gpat_a3": "only pressure is fixed ",
+"gpat_a3": "Acromegaly",
 
-"gpat_a4": "sometimes temperature and sometime pressure are fixed",
+"gpat_a4": "Parkinsonism",
 
 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-               "gpat_q": "Vitamin B12 can be estimated and determined by using organism ______?",
+               "gpat_q": "The no. Of glucopyranose units in the structure of alpha cyclodextrins are",
 
-"gpat_a1": "Lactobacillus Sps",
+"gpat_a1": "6",
 
-"gpat_a2": "Lactobacillus Leichmanni",
+"gpat_a2": "7",
 
-"gpat_a3": "Bacillus subtilis",
+"gpat_a3": "8",
 
-"gpat_a4": "E.coli",
+"gpat_a4": "9",
+
+"gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Dissemination of Cancer occurs through one of the following Pathways except ",
+
+"gpat_a1": "hematogenous spread", 
+
+"gpat_a2": "migration", 
+
+"gpat_a3": "lymphatic spread", 
+
+"gpat_a4": "direct seeding", 
 
 "gpat_correct_a": "2"
 
@@ -69,43 +113,29 @@
                 "reason":""
         },
         {
-               "gpat_q": "Which of the following is used as live-attenuated vaccine? ",
+               "gpat_q": "Methyl ether of Erythromycin is", 
 
-"gpat_a1": "BCG",
+"gpat_a1": "Clarithromycin",
 
-"gpat_a2": "Sabin Vaccine",
+"gpat_a2": "Dirithromycin",
 
-"gpat_a3": "Both A and B ",
+"gpat_a3": "Azithromycin",
 
-"gpat_a4": "Salk Vaccine",
+"gpat_a4": "Mithramycin",
 
-"gpat_correct_a": "3",
+"gpat_correct_a": "1",
                 "reason":""
         },
         {
-               "gpat_q": "Hepatitis-B virus , except ",
+               "gpat_q": "Ebullioscopic method is based on which observations? ",
 
-"gpat_a1": "is a DNA virus",
+"gpat_a1": "Freezing Point depression ",
 
-"gpat_a2": "The presence of antigen indicates increased infectivity",
+"gpat_a2": "Bolling Point elevation ",
 
-"gpat_a3": "Antibody to surface antigen usually appears within 2 weeks of infection",
+"gpat_a3": "Osmotic Pressure change",
 
-"gpat_a4": "Is a recognized cause of liver cancer",
-
-"gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "E coli is used in assay of ",
-
-"gpat_a1": "Carbencillin",
-
-"gpat_a2": "Chloramphenicol",
-
-"gpat_a3": "Gentamycin",
-
-"gpat_a4": "Nystatin",
+"gpat_a4": "None of the above",
 
 "gpat_correct_a": "2"
 
@@ -113,184 +143,143 @@
                 "reason":""
         },
         {
-               "gpat_q": "Which is following is not a prodrug?", 
+               "gpat_q": "Which of the following agents act as ATP sensitive K+ channel blocker? ",
 
-"gpat_a1": "Progunil",
+"gpat_a1" : "Sitagliptine", 
+"gpat_a2": "Mitglinide",
 
-"gpat_a2": "Sulfasalazine",
+"gpat_a3": "Pioglitazone",
 
-"gpat_a3": "Prontosil red ",
-
-"gpat_a4": "Trimethoprim",
-
-"gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-               "gpat_q": "Papaverine is an alkaloid which is used for",
-
-"gpat_a1": "Cough suppression",
-
-"gpat_a2": "Analgesia",
-
-"gpat_a3": "Skeletal muscle contraction",
-
-"gpat_a4": "Vasodilation",
-
-"gpat_correct_a": "4"
-
-,
-                "reason":""
-        },
-        {
-               "gpat_q": "Following drugs have volume of distribution more than 200:
-
-[P]	Warfarin	[Q]	Amitryptyline
-
-[R]	Digoxin	[S]	Alcohol",
-
-"gpat_a1": "P and Q",
-
-"gpat_a2": "Q and R",
-
-"gpat_a3": "Q and S	",
-
-"gpat_a4": "P and S",
+"gpat_a4": "Liraglutide",
 
 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "Which category of drug is evaluated for dissolution? ",
+                "gpat_q": "Which of the following technique is used to determine glass transition temperature? ",
 
-"gpat_a1": "Highly diffusible ",
+"gpat_a1": "XRD",
 
-"gpat_a2": "Diffusion",
+"gpat_a2": "Raman Spectroscopy",
 
-"gpat_a3": "Poorly water soluble",
+"gpat_a3": "DSC",
 
-"gpat_a4": "Water soluble ",
+"gpat_a4": "None of these",
 
 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-               "gpat_q": "In HPLC analysis what type of column would you prefer? ",
+               "gpat_q": "All of the following are gram negative rods except :",
 
-"gpat_a1": "A column with high HETP and high number of plates",
+"gpat_a1": "Clostridium",
 
-"gpat_a2": "A column with low HETP and low number of plates",
+"gpat_a2": "E. Coli",
 
-"gpat_a3": "A column with high HETP and low number of plates",
+"gpat_a3": "Salmonella",
 
-"gpat_a4": "A column with low HETP and high number of plates",
+"gpat_a4": "Shigella",
 
-"gpat_correct_a": "4"
+"gpat_correct_a": "1"
 
 ,
                 "reason":""
         },
         {
-                "gpat_q": "Which of the following constituents is reported to have anti-hepatotoxic activity ?",
+                "gpat_q": "Which of the Phase 2 reaction is mirosomal metabolism? ",
 
-"gpat_a1": "Podophyllotoxin",
+"gpat_a1": "Oxidation",
 
-"gpat_a2": "Linalool",
+"gpat_a2": "Reduction",
 
-"gpat_a3": "Andrographoloid",
+"gpat_a3": "Acetylation",
 
-"gpat_a4": "Safranal",
+"gpat_a4": "Glucoronidation",
 
-"gpat_correct_a": "2",
+"gpat_correct_a": "",
+                "reason":"Glucoronidation is the only Phase 2 reaction which occurs due to mirosomal enzymes. "
+        },
+        {
+                "gpat_q": "Which of the following drug is a depolarising neuromuscular blocking agent effective against pinworm. ",
+
+"gpat_a1": "Prantel",
+
+"gpat_a2": "Paramomycin ",
+
+"gpat_a3": "Praziquantel ",
+
+"gpat_a4": "Ivermectin ",
+
+"gpat_correct_a": "",
                 "reason":""
         },
         {
-                "gpat_q": "Select the equation which gives the rate of dissolution of tablet ",
+                "gpat_q": "Polymorph in pharmaceutical solids are detected by which technique? ",
 
-"gpat_a1": "Fick's Law",
+"gpat_a1": "MS",
 
-"gpat_a2": "Handerson Hasselbatch equation ",
+"gpat_a2": "LC-MS",
 
-"gpat_a3": "Noyes Whitney equation ",
+"gpat_a3": "Solid state NMR",
 
-"gpat_a4": "Michelis Menten equation ",
+"gpat_a4": "Coulter Counter",
 
 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Which of the following alkaloids is derived from tyrosine?",
+                "gpat_q": "In the diagnosis of Myasthenia Gravis, only one of the following drug will be used as a drug of choice. ",
 
-"gpat_a1": "Quinine",
+"gpat_a1": "Neostigmine",
 
-"gpat_a2": "Morphine",
+"gpat_a2": "Pyridostigmine",
 
-"gpat_a3": "Atropine",
+"gpat_a3": "Physostigmine",
 
-"gpat_a4": "Ephedrine",
+"gpat_a4": "Edrophonium",
 
-"gpat_correct_a": "2",
+"gpat_correct_a": "4",                "reason":"Only Edrophonium and Tubocuraine is use. "
+        },
+        {
+               "gpat_q": "Which is the active constituent in henna? ",
+
+"gpat_a1": "Juglone",
+
+"gpat_a2": "Menandione",
+
+"gpat_a3": "Lawsone",
+
+"gpat_a4": "Plumbagin",
+
+"gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Choose the most basic heterocyclic compound among the followings.",
+               "gpat_q": "Identify the Bromine containing anaesthetic agent",
 
-"gpat_a1": "Pyridine",
+"gpat_a1": "Halothane",
 
-"gpat_a2": "Imidazole",
+"gpat_a2": "Isoflurane",
 
-"gpat_a3": "Pyrrole",
+"gpat_a3": "Propofol",
 
-"gpat_a4": "Pyrrolidine",
+"gpat_a4": "Fluroxene",
 
-"gpat_correct_a": "4",                "reason":""
-        },
-        {
-               "gpat_q": "All of the given four drugs are neuromuscular blocking agents.
-
-[P] : Gallamine [Q]: Succinylcholine
-
-[R] : Vecuronium [S] : d-Tubocurarine
-
-Choose the correct statement about them.",
-
-"gpat_a1": "P and Q are competitive neuromuscular blocking agents",
-
-"gpat_a2": "Q and R are competitive neuromuscular blocking agents",
-
-"gpat_a3": "R and S are non-competitive neuromuscular blocking agents",
-
-"gpat_a4": "P and S are competitive neuromuscular blocking agents",
-
-"gpat_correct_a": "4",
+"gpat_correct_a": "1",
                 "reason":""
         },
-        {
-               "gpat_q": "Which of the following beta blockers has been shown clinically to reduce mortality in patients of symptomatic heart failure?",
+        {"gpat_q": "What is the product of reaction of aldehyde with K2Cr2O7",
 
-"gpat_a1": "Atenolol",
+"gpat_a1": "Alcohol",
 
-"gpat_a2": "Carvedilol",
+"gpat_a2": "Acetal",
 
-"gpat_a3": "Propranolol",
+"gpat_a3": "Acid",
 
-"gpat_a4": "Esmolol",
-
-"gpat_correct_a": "2",
-                "reason":""
-        },
-        {"gpat_q": "Regarding blood brain barrier identify which statement is Wrong :",
-
-"gpat_a1": "Capillary endothelial cells of brain have tight junctions. ",
-
-"gpat_a2": "Only lipid soluble drugs in the brain. ",
-
-"gpat_a3": "Inflammation of meninges further limits entry of drugs into brain. ",
-
-"gpat_a4": "Blood brain barrier is deficient at CTZ and interior Hypothalamus. ",
+"gpat_a4": "Peroxyacids ",
 
 "gpat_correct_a": "3",
                 "reason":""
         }
 ] 
-}
+}
