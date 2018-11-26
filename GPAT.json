@@ -1870,5 +1870,13 @@ independently variable",
                 "gpat_a3": "8:1	",
                 "gpat_a4": "10:1",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Rifampicin is used not only in TB but in ____ also",
+                "gpat_a1": "Steven Jonson syndrome",
+                "gpat_a2": "Leishmaniasis",
+                "gpat_a3": "Whopping cough",
+                "gpat_a4": "Leprosy",
+                "gpat_correct_a": "4"
         }
 }
