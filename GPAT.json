@@ -1866,17 +1866,28 @@ independently variable",
         {
                 "gpat_q": "In Limit of Quantitation (LOQ), signal to noise ratio is",
                 "gpat_a1": "2:1	",
-                "gpat_a2": "3:1",
+                "gpat_a2": "3:1
+",
                 "gpat_a3": "8:1	",
-                "gpat_a4": "10:1",
+                "gpat_a4": "10:1
+",
                 "gpat_correct_a": "4"
         }, 
         {
                 "gpat_q": "Rifampicin is used not only in TB but in ____ also",
-                "gpat_a1": "Steven Jonson syndrome",
+                "gpat_a1": "Steven Jonson syndrome
+",
                 "gpat_a2": "Leishmaniasis",
                 "gpat_a3": "Whopping cough",
                 "gpat_a4": "Leprosy",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Out of this which drug is not used In Hypercholesterolemia",
+                "gpat_a1": "Gymnema",
+                "gpat_a2": "Momordica",
+                "gpat_a3": "Fenugreek",
+                "gpat_a4": "Garlic",
+                "gpat_correct_a": "2"
         }
 }
