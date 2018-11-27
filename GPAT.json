@@ -1889,5 +1889,13 @@ independently variable",
                 "gpat_a3": "Fenugreek",
                 "gpat_a4": "Garlic",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Persistent raspy cough is the side effect of ______",
+                "gpat_a1": "ACE inhibitors",
+                "gpat_a2": "Renin inhibitors",
+                "gpat_a3": "Ramon antagonists",
+                "gpat_a4": "Aldosterone antagonist",
+                "gpat_correct_a": "1"
         }
 }
