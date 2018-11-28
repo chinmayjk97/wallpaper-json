@@ -1891,11 +1891,21 @@ independently variable",
                 "gpat_correct_a": "2"
         }, 
         {
-                "gpat_q": "Persistent raspy cough is the side effect of ______",
-                "gpat_a1": "ACE inhibitors",
+                "gpat_q": "Persistent raspy cough is the side effect of ______
+",
+                "gpat_a1": "ACE inhibitors
+",
                 "gpat_a2": "Renin inhibitors",
                 "gpat_a3": "Ramon antagonists",
                 "gpat_a4": "Aldosterone antagonist",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Chromatography is a physical method that is used to separate and analyse __________",
+                "gpat_a1": "Simple Mixtures",
+                "gpat_a2": "Viscous Mixtures",
+                "gpat_a3": "Complex Mixtures",
+                "gpat_a4": "Crude metal mixtures",
                 "gpat_correct_a": "1"
         }
 }
