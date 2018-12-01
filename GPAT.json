@@ -1907,5 +1907,13 @@ independently variable",
                 "gpat_a3": "Complex Mixtures",
                 "gpat_a4": "Crude metal mixtures",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Following statements are true except",
+                "gpat_a1": "Prolactin is a milk synthesizing hormone",
+                "gpat_a2": "Oxytocin is a milk ejecting hormone",
+                "gpat_a3": "ACTH inhibits steroidgenesis in adrenal cortex",
+                "gpat_a4": "Growth hormone secretion decreases and gigantism occur",
+                "gpat_correct_a": "4"
         }
 }
