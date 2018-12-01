@@ -1915,5 +1915,13 @@ independently variable",
                 "gpat_a3": "ACTH inhibits steroidgenesis in adrenal cortex",
                 "gpat_a4": "Growth hormone secretion decreases and gigantism occur",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Which gum is isolated from endosperm",
+                "gpat_a1": "Sterculia Gum",
+                "gpat_a2": "Tragacanth and Acacia",
+                "gpat_a3": "Guar Gum",
+                "gpat_a4": "Xanthan and Gellan",
+                "gpat_correct_a": "1"
         }
 }
