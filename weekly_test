@@ -1,285 +1,185 @@
 {
-        "Date" : "25/11/18", 
+        "Date" : "02/12/18", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Biphenyl shows which kind of isomerism? ",
-"gpat_a1": "Optical isomerism",
-"gpat_a2": "Configurational isomerism",
-"gpat_a3": "Atropisomers",
-"gpat_a4": "R and S isomerism",
-"gpat_correct_a": "3",
-"reason":""
-        },
-        {"gpat_q": "Which of the following is the chemical composition of Saliwanoff’s reagent?",
-
-"gpat_a1": "Copper sulphate pentahydrate",
-
-"gpat_a2": "Copper acetate and copper oxide in 1% acetic acid",
-
-"gpat_a3": "Resorcinol in HCl",
-
-"gpat_a4": "Anhydrous sodium carbonate and sodium citrate",
-
-"gpat_correct_a": "3",
+                "gpat_q": "Dissemation of cancer occurs through one of following pathway- except  :-",
+                "gpat_a1": "Hematogenous spread",
+                "gpat_a2": "Migration",
+                "gpat_a3": "Lymphatic spread",
+                "gpat_a4": "Direct seeding",
+                "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "Formula for angle of repose is _____ ",
-
-"gpat_a1": "tan θ=r/h",
-
-"gpat_a2": "tan θ=h/r",
-
-"gpat_a3": "tan-1 θ=r/h ",
-
-"gpat_a4": "tan-1 θ=h/r ",
-
-"gpat_correct_a": "2"
-
-,
-                "reason":""
-        },
-        {"gpat_q": "Which of the following is correct NMR data for CH3-COO-C2H5?",
-
-"gpat_a1": "δ =1.56m (3H), δ=3.69s (2H), δ=1.02t (3H)",
-
-"gpat_a2": "δ =2.66s (3H), δ=2.89m (5H)",
-
-"gpat_a3": "δ =3.66s (3H), δ=2.32q (2H), δ=1.1t (3H)",
-
-"gpat_a4": "None of the above",
-
-"gpat_correct_a": "1",
+                "gpat_q": "Which of the following averse effects is caused by thiordazine",
+                "gpat_a1": "Tardive dyskinesia",
+                "gpat_a2": "Constipation",
+                "gpat_a3": "Orthostatic hypotension",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "4",
                 "reason":""
         },
         {
-               "gpat_q": "Craig plot is used in _____",
-
-"gpat_a1": "Drug designing",
-
-"gpat_a2": "Protein structure determination",
-
-"gpat_a3": "Nucleic acid structure determination",
-
-"gpat_a4": "Carbohydrate structure determination",
-
-"gpat_correct_a": "1"
-
-,
+                "gpat_q": "A reporting relationship in which an employee receives orders from, and reports to, only one supervisor is known as ___",
+                "gpat_a1": "Unity of command",
+                "gpat_a2": "Centralisation",
+                "gpat_a3": "Decentralisation",
+                "gpat_a4": "Line of authority",
+                "gpat_correct_a": "4",
                 "reason":""
         },
         {
-               "gpat_q": "All dopaminergic agonist having affinity for D2 receptors are clinically used in the following conditions EXCEPT",
-
-"gpat_a1":"Obsessive-compulsive disorder", 
-
-"gpat_a2": "Hyperprolactinemia",
-
-"gpat_a3": "Acromegaly",
-
-"gpat_a4": "Parkinsonism",
-
-"gpat_correct_a": "1",
+                "gpat_q": "Amantadine is helpful in parkinson's disease because :",
+                "gpat_a1": "It decreases cholinergic activity",
+                "gpat_a2": "It liberates dopamine from nerve endings",
+                "gpat_a3": "It is metabolised into dopamine ",
+                "gpat_a4": "It increases adrenergic activity",
+                "gpat_correct_a": "2",
                 "reason":""
         },
         {
-               "gpat_q": "The no. Of glucopyranose units in the structure of alpha cyclodextrins are",
-
-"gpat_a1": "6",
-
-"gpat_a2": "7",
-
-"gpat_a3": "8",
-
-"gpat_a4": "9",
-
-"gpat_correct_a": "1",
+                "gpat_q": "Zona fasciculata of suprarenal gland that produces:",
+                "gpat_a1": "Minerelocorticoids",
+                "gpat_a2": "Glycocorticoids",
+                "gpat_a3": "Sex hormones",
+                "gpat_a4": "Adrenaline",
+                "gpat_correct_a": "2",
+                "reason":":"
+        },
+        {
+                "gpat_q": "What is the osmolarity of a solution if one mmole of glucose and two mmoles of NaCl is dissolved in 1 kg of water?",
+                "gpat_a1": "3 mOsm",
+                "gpat_a2": "4 mOsm",
+                "gpat_a3": "5 mOsm",
+                "gpat_a4": "6 mOsm",
+                "gpat_correct_a": "3",
+                "reason":"The 2 mmoles of NaCl will dissociate and yield 4 mmoles of particles and glucose will yield 1 mmole of particles, so total will be 5 mmoles"
+        },
+        {
+                "gpat_q": "Slugs are prepared in which kind of granulation technique",
+                "gpat_a1": "Wet granulation",
+                "gpat_a2": "Dry granulation",
+                "gpat_a3": "Steam granulation",
+                "gpat_a4": "Melt granulation",
+                "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "Dissemination of Cancer occurs through one of the following Pathways except ",
-
-"gpat_a1": "hematogenous spread", 
-
-"gpat_a2": "migration", 
-
-"gpat_a3": "lymphatic spread", 
-
-"gpat_a4": "direct seeding", 
-
-"gpat_correct_a": "2"
-
-,
+                "gpat_q": "The wavelength Sodium light is",
+                "gpat_a1": "430nm",
+                "gpat_a2": "589nm",
+                "gpat_a3": "650nm",
+                "gpat_a4": "730 nm",
+                "gpat_correct_a": "2",
+                "reason":"https://en.wikipedia.org/wiki/Sodium-vapor_lamp"
+        },
+        {
+                "gpat_q": "Chloramphenicol belongs to schedule",
+                "gpat_a1": "X",
+                "gpat_a2": "P",
+                "gpat_a3": "G",
+                "gpat_a4": "H",
+                "gpat_correct_a": "2",
+                "reason"http://fda.up.nic.in/schedule_P.htm""
+        },
+        {
+                "gpat_q": "Barbiturates are being replaced by hypnotic benzodiazepines because of ",
+                "gpat_a1": "Low therapeutic Range",
+                "gpat_a2": "Supression in REM",
+                "gpat_a3": "Physical Dependance",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "4",
+                "reason":":"
+        },
+        {
+                "gpat_q": "Which of the following is not used as enteric Coating material",
+                "gpat_a1": "Cellulose acetate phthalate",
+                "gpat_a2": "Pectin",
+                "gpat_a3": "Acrylate polymers",
+                "gpat_a4": "Polyvinyl acetate phthalate",
+                "gpat_correct_a": "2",
+                "reason"Pectin is water soluble""
+        },
+        {
+                "gpat_q": "The range of absolute bioavialability is ",
+                "gpat_a1": "0 to 1",
+                "gpat_a2": "0 to 100",
+                "gpat_a3": "-1 to 1",
+                "gpat_a4": "-1 to 100",
+                "gpat_correct_a": "2",
                 "reason":""
         },
         {
-               "gpat_q": "Methyl ether of Erythromycin is", 
-
-"gpat_a1": "Clarithromycin",
-
-"gpat_a2": "Dirithromycin",
-
-"gpat_a3": "Azithromycin",
-
-"gpat_a4": "Mithramycin",
-
-"gpat_correct_a": "1",
+                "gpat_q": "THE Essential Commodities Act WAS PASSED IN THE YEAR",
+                "gpat_a1": " 1857",
+                "gpat_a2": "1919",
+                "gpat_a3": "1955",
+                "gpat_a4": "1971",
+                "gpat_correct_a": "3",
                 "reason":""
         },
         {
-               "gpat_q": "Ebullioscopic method is based on which observations? ",
-
-"gpat_a1": "Freezing Point depression ",
-
-"gpat_a2": "Bolling Point elevation ",
-
-"gpat_a3": "Osmotic Pressure change",
-
-"gpat_a4": "None of the above",
-
-"gpat_correct_a": "2"
-
-,
-                "reason":"ebullioscopic is boiling point elevation method while cryoscopic is freezing point depressing method"
-        },
-        {
-               "gpat_q": "Which of the following agents act as ATP sensitive K+ channel blocker? ",
-
-"gpat_a1" : "Sitagliptine", 
-"gpat_a2": "Mitglinide",
-
-"gpat_a3": "Pioglitazone",
-
-"gpat_a4": "Liraglutide",
-
-"gpat_correct_a": "2",
+                "gpat_q": "What is the product of reaction of aldehyde with K2Cr2O7",
+                "gpat_a1": "Alcohol",
+                "gpat_a2": "Acetal",
+                "gpat_a3": "Acid",
+                "gpat_a4": "Peroxyacids",
+                "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "Which of the following technique is used to determine glass transition temperature? ",
-
-"gpat_a1": "XRD",
-
-"gpat_a2": "Raman Spectroscopy",
-
-"gpat_a3": "DSC",
-
-"gpat_a4": "None of these",
-
-"gpat_correct_a": "3",
+                "gpat_q": "A DOUBLE CONE MIXER IS USED FOR MIXING",
+                "gpat_a1": "solids",
+                "gpat_a2": "Semi solids",
+                "gpat_a3": " liquids",
+                "gpat_a4": "Suspensions",
+                "gpat_correct_a": "1",
                 "reason":""
         },
         {
-               "gpat_q": "All of the following are gram negative rods except :",
-
-"gpat_a1": "Clostridium",
-
-"gpat_a2": "E. Coli",
-
-"gpat_a3": "Salmonella",
-
-"gpat_a4": "Shigella",
-
-"gpat_correct_a": "1"
-
-,
+                "gpat_q": "what is rayon",
+                "gpat_a1": "Cellulose",
+                "gpat_a2": "Regenerated Cellulose ",
+                "gpat_a3": "Brand of Polyester",
+                "gpat_a4": "Genetically modified Cellulose",
+                "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "Which of the Phase 2 reaction is mirosomal metabolism? ",
-
-"gpat_a1": "Oxidation",
-
-"gpat_a2": "Reduction",
-
-"gpat_a3": "Acetylation",
-
-"gpat_a4": "Glucoronidation",
-
-"gpat_correct_a": "4",
-                "reason":"Glucoronidation is the only Phase 2 reaction which occurs due to mirosomal enzymes. "
+                "gpat_q": "NIPER ACT WAS PASSED IN THE YEAR",
+                "gpat_a1": "1991",
+                "gpat_a2": "1996",
+                "gpat_a3": "1998",
+                "gpat_a4": "2000",
+                "gpat_correct_a": "3",
+                "reason"http://pharmaceuticals.gov.in/sites/default/files/niper-act_1.pdf""
         },
         {
-                "gpat_q": "Which of the following drug is a depolarising neuromuscular blocking agent effective against pinworm. ",
-
-"gpat_a1": "Prantel",
-
-"gpat_a2": "Paramomycin ",
-
-"gpat_a3": "Praziquantel ",
-
-"gpat_a4": "Ivermectin ",
-
-"gpat_correct_a": "1",
+                "gpat_q": "If a sugar contains ____ function, it is a reducing sugar",
+                "gpat_a1": "hemiacetal",
+                "gpat_a2": "acetal",
+                "gpat_a3": "carboxlyic",
+                "gpat_a4": "ketal",
+                "gpat_correct_a": "1",
+                "reason":"A sugar is classified as a reducing sugar only if it has an open-chain form with an aldehyde group or a free hemiacetal group."
+        },
+        {
+                "gpat_q": "The increase in the concentration of secondary messengers in a cell leads to :",
+                "gpat_a1": "Inhibition of intracelllar protein kinases and protein phosphorylation",
+                "gpat_a2": "Protein kinases activation and protein phosphorylation",
+                "gpat_a3": "Blocking of interation between a receptor and an effector",
+                "gpat_a4": "Antagonism with endogenous ligands",
+                "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "Polymorph in pharmaceutical solids are detected by which technique? ",
-
-"gpat_a1": "MS",
-
-"gpat_a2": "LC-MS",
-
-"gpat_a3": "Solid state NMR",
-
-"gpat_a4": "Coulter Counter",
-
-"gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "In the diagnosis of Myasthenia Gravis, only one of the following drug will be used as a drug of choice. ",
-
-"gpat_a1": "Neostigmine",
-
-"gpat_a2": "Pyridostigmine",
-
-"gpat_a3": "Physostigmine",
-
-"gpat_a4": "Edrophonium",
-
-"gpat_correct_a": "4",                "reason":"Only Edrophonium and Tubocuraine is use. "
-        },
-        {
-               "gpat_q": "Which is the active constituent in henna? ",
-
-"gpat_a1": "Juglone",
-
-"gpat_a2": "Menandione",
-
-"gpat_a3": "Lawsone",
-
-"gpat_a4": "Plumbagin",
-
-"gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-               "gpat_q": "Identify the Bromine containing anaesthetic agent",
-
-"gpat_a1": "Halothane",
-
-"gpat_a2": "Isoflurane",
-
-"gpat_a3": "Propofol",
-
-"gpat_a4": "Fluroxene",
-
-"gpat_correct_a": "1",
-                "reason":""
-        },
-        {"gpat_q": "What is the product of reaction of aldehyde with K2Cr2O7",
-
-"gpat_a1": "Alcohol",
-
-"gpat_a2": "Acetal",
-
-"gpat_a3": "Acid",
-
-"gpat_a4": "Peroxyacids ",
-
-"gpat_correct_a": "3",
+                "gpat_q": "Which of the following parameters is/are important in determining bioequivalence",
+                "gpat_a1": "T max",
+                "gpat_a2": "C max",
+                "gpat_a3": "AUC and C max",
+                "gpat_a4": "None of these",
+                "gpat_correct_a": "3",
                 "reason":""
         }
 ] 
-}
+}
