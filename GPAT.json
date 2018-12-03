@@ -1923,5 +1923,13 @@ independently variable",
                 "gpat_a3": "Guar Gum",
                 "gpat_a4": "Xanthan and Gellan",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "A crude drug powder is heated with ferric chloride, water and conc HCl followed by extraction with Chloroform. The chloroform layer was treated with Ammonia and Ammonical layer turned pink. The test indicates presence of which phytochemical? ",
+                "gpat_a1": "Anthraquinone C-glycosides",
+                "gpat_a2": "Flavanones",
+                "gpat_a3": "Cardiac Glycoside",
+                "gpat_a4": "Saponin Glycosides",
+                "gpat_correct_a": "1"
         }
 }
