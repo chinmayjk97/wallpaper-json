@@ -1931,5 +1931,13 @@ independently variable",
                 "gpat_a3": "Cardiac Glycoside",
                 "gpat_a4": "Saponin Glycosides",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Name a mood elevator which is an amphetamine analog",
+                "gpat_a1": "MDMA",
+                "gpat_a2": "Phenelizine",
+                "gpat_a3": "Tranylcypromine",
+                "gpat_a4": "LSD",
+                "gpat_correct_a": "1"
         }
 }
