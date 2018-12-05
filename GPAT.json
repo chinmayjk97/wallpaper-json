@@ -1939,5 +1939,13 @@ independently variable",
                 "gpat_a3": "Tranylcypromine",
                 "gpat_a4": "LSD",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Components which have small value of K have affinity for ",
+                "gpat_a1": "Stationary Phase",
+                "gpat_a2": "Mobile Phase",
+                "gpat_a3": "No phase ",
+                "gpat_a4": "Solution",
+                "gpat_correct_a": "1"
         }
 }
