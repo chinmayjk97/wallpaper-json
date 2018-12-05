@@ -1837,8 +1837,7 @@ independently variable",
                 "gpat_a3": "Electron capture detector",
                 "gpat_a4": "Kathetormeter",
                 "gpat_correct_a": "3"
-        },
-] 
+        }, 
         {
                 "gpat_q": "Carr’s compressibility index gives an idea about ",
                 "gpat_a1": "Flow properties of powders",
@@ -1948,4 +1947,5 @@ independently variable",
                 "gpat_a4": "Solution",
                 "gpat_correct_a": "1"
         }
+   ] 
 }
