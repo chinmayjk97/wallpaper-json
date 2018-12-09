@@ -1,11 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.6</latestVersion>
-    <url>http://tinyurl.com/PharmaAssist</url>
+    <latestVersion>2.7</latestVersion>
+    <url>https://chinmayjk97.github.io/PharmaAssist/download</url>
     <releaseNotes>
-- New! Weekly GPAT Test Section Added.
-- Fixed Notifications not opening.
-- All Other Bugs Fixed.
+- New! Changed the Design of HomePage. You can still revert to old layout from settings.
+- New! Added New GPAT Mock Test Section.
+- New! Added Chemical Structure Elucidation from IUPAC and General Name.
+- Added New eBooks.
+- Bugs Fixed.
 </releaseNotes>  
 </update>
 </AppUpdater>
