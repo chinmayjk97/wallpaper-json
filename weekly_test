@@ -1,182 +1,183 @@
 {
-        "Date" : "02/12/18", 
+        "Date" : "09/12/18", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Dissemation of cancer occurs through one of following pathway- except  :-",
-                "gpat_a1": "Hematogenous spread",
-                "gpat_a2": "Migration",
-                "gpat_a3": "Lymphatic spread",
-                "gpat_a4": "Direct seeding",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following averse effects is caused by thiordazine",
-                "gpat_a1": "Tardive dyskinesia",
-                "gpat_a2": "Constipation",
-                "gpat_a3": "Orthostatic hypotension",
-                "gpat_a4": "All of the above",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "A reporting relationship in which an employee receives orders from, and reports to, only one supervisor is known as ___",
-                "gpat_a1": "Unity of command",
-                "gpat_a2": "Centralisation",
-                "gpat_a3": "Decentralisation",
-                "gpat_a4": "Line of authority",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Amantadine is helpful in parkinson's disease because :",
-                "gpat_a1": "It decreases cholinergic activity",
-                "gpat_a2": "It liberates dopamine from nerve endings",
-                "gpat_a3": "It is metabolised into dopamine ",
-                "gpat_a4": "It increases adrenergic activity",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Zona fasciculata of suprarenal gland that produces:",
-                "gpat_a1": "Minerelocorticoids",
-                "gpat_a2": "Glycocorticoids",
-                "gpat_a3": "Sex hormones",
-                "gpat_a4": "Adrenaline",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "What is the osmolarity of a solution if one mmole of glucose and two mmoles of NaCl is dissolved in 1 kg of water?",
-                "gpat_a1": "3 mOsm",
-                "gpat_a2": "4 mOsm",
-                "gpat_a3": "5 mOsm",
-                "gpat_a4": "6 mOsm",
-                "gpat_correct_a": "3",
-                "reason":"The 2 mmoles of NaCl will dissociate and yield 4 mmoles of particles and glucose will yield 1 mmole of particles, so total will be 5 mmoles"
-        },
-        {
-                "gpat_q": "Slugs are prepared in which kind of granulation technique",
-                "gpat_a1": "Wet granulation",
-                "gpat_a2": "Dry granulation",
-                "gpat_a3": "Steam granulation",
-                "gpat_a4": "Melt granulation",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "The wavelength Sodium light is",
-                "gpat_a1": "430nm",
-                "gpat_a2": "589nm",
-                "gpat_a3": "650nm",
-                "gpat_a4": "730 nm",
-                "gpat_correct_a": "2",        "reason":"https://en.wikipedia.org/wiki/Sodium-vapor_lamp"
-        },
-        {
-                "gpat_q": "Chloramphenicol belongs to schedule",
-                "gpat_a1": "X",
-                "gpat_a2": "P",
-                "gpat_a3": "G",
-                "gpat_a4": "H",
-                "gpat_correct_a": "2",
-                "reason": "http://fda.up.nic.in/schedule_P.htm"
-        },
-        {
-                "gpat_q": "Barbiturates are being replaced by hypnotic benzodiazepines because of ",
-                "gpat_a1": "Low therapeutic Range",
-                "gpat_a2": "Supression in REM",
-                "gpat_a3": "Physical Dependance",
-                "gpat_a4": "All of the above",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following is not used as enteric Coating material",
-                "gpat_a1": "Cellulose acetate phthalate",
-                "gpat_a2": "Pectin",
-                "gpat_a3": "Acrylate polymers",
-                "gpat_a4": "Polyvinyl acetate phthalate",
-                "gpat_correct_a": "2",
-                "reason":"Pectin is water soluble"
-        },
-        {
-                "gpat_q": "The range of absolute bioavialability is ",
-                "gpat_a1": "0 to 1",
-                "gpat_a2": "0 to 100",
-                "gpat_a3": "-1 to 1",
-                "gpat_a4": "-1 to 100",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "THE Essential Commodities Act WAS PASSED IN THE YEAR",
-                "gpat_a1": " 1857",
-                "gpat_a2": "1919",
-                "gpat_a3": "1955",
-                "gpat_a4": "1971",
+                "gpat_q": "Clavulanic acid is:",
+                "gpat_a1": "Potent inhibitor of peptidoglycan synthesis",
+                "gpat_a2": "Specific for gram negative bacteria",
+                "gpat_a3": "Inactivates bacterial b-lactamase",
+                "gpat_a4": "Inhibitor of 50S ribosomal subunit",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "What is the product of reaction of aldehyde with K2Cr2O7",
-                "gpat_a1": "Alcohol",
-                "gpat_a2": "Acetal",
-                "gpat_a3": "Acid",
-                "gpat_a4": "Peroxyacids",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "A DOUBLE CONE MIXER IS USED FOR MIXING",
-                "gpat_a1": "solids",
-                "gpat_a2": "Semi solids",
-                "gpat_a3": " liquids",
-                "gpat_a4": "Suspensions",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "what is rayon",
-                "gpat_a1": "Cellulose",
-                "gpat_a2": "Regenerated Cellulose ",
-                "gpat_a3": "Brand of Polyester",
-                "gpat_a4": "Genetically modified Cellulose",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "NIPER ACT WAS PASSED IN THE YEAR",
-                "gpat_a1": "1991",
-                "gpat_a2": "1996",
-                "gpat_a3": "1998",
-                "gpat_a4": "2000",
+                "gpat_q": "Which of the following formulations under ASU system are offered infinite period of shelf-life in D and C Act?",
+                "gpat_a1": "Kwatha",
+                "gpat_a2": "Gutika",
+                "gpat_a3": "Asava & Arishta",
+                "gpat_a4": "Churna",
                 "gpat_correct_a": "3",
-                "reason": "http://pharmaceuticals.gov.in/sites/default/files/niper-act_1.pdf"
+                "reason":""
         },
         {
-                "gpat_q": "If a sugar contains ____ function, it is a reducing sugar",
-                "gpat_a1": "hemiacetal",
-                "gpat_a2": "acetal",
-                "gpat_a3": "carboxlyic",
-                "gpat_a4": "ketal",
-                "gpat_correct_a": "1",
-                "reason":"A sugar is classified as a reducing sugar only if it has an open-chain form with an aldehyde group or a free hemiacetal group."
+                "gpat_q": "Identify the metabolite of prontosil responsible for its antibacterial activity?"
+                "gpat_a1": "sulfacetamide",
+                "gpat_a2": "sulfanilamide"
+                "gpat_a3": "para aminobenzoic acid" 
+                "gpat_a4": "probenecid"
+                "gpat_correct_a": "2",
+                "reason": "prontosil is a prodrug of sulfanilamide"
         },
         {
-                "gpat_q": "The increase in the concentration of secondary messengers in a cell leads to :",
-                "gpat_a1": "Inhibition of intracelllar protein kinases and protein phosphorylation",
-                "gpat_a2": "Protein kinases activation and protein phosphorylation",
-                "gpat_a3": "Blocking of interation between a receptor and an effector",
-                "gpat_a4": "Antagonism with endogenous ligands",
+                "gpat_q": "which one of the following fragmentation pathway involves a double bond and a gamma hydrogen in mass spectrometry?" 
+                "gpat_a1": "alpha fission ",
+                "gpat_a2": "beta fission ",
+                "gpat_a3": "Mc-Lafferty rearrangement ",
+                "gpat_a4": "Retro diels alder rearrangement ",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Among the following which one is not only a non reducing sugar but also does not exhibit mutarotation?"
+                "gpat_a1": "Glucose",
+                "gpat_a2": "Maltose",
+                "gpat_a3": "Lactose",
+                "gpat_a4": "Sucrose",
+                "gpat_correct_a": "4",
+                "reason": "All monosaccharides are reducing sugars, Maltose and lactose are also reducing sugar. "
+        },
+        {
+                "gpat_q": "Which one of the following amino acid is the most effective contributor of protein buffer?",
+                "gpat_a1": "Alanine",
+                "gpat_a2": "Glycine ",
+                "gpat_a3": "Histidine",
+                "gpat_a4": "Arginine",
+                "gpat_correct_a": "3",
+                "reason": "Histidine is a most effective contributor of protein buffer. This is because pka value of histidine is 6.8 close to the physiological pH of blood i.e 7.4"
+        },
+        {
+                "gpat_q": " Titanium dioxide is used in sunscreen products as a topical protective, which is due to which property :" 
+                "gpat_a1": "It has high bulk density ",
+                "gpat_a2": "It has high LTV absortivity",
+                "gpat_a3": "It has low water solubility ",
+                "gpat_a4": "It has high refractive index",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Blood level monitoring of HbA1c is important in which of the given Disease state?
+                "gpat_a1": "hypercholesterolemia",
+                "gpat_a2": "Diabetes mellitus",
+                "gpat_a3": "Myocardial Infarction ",
+                "gpat_a4": "CHF",
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "Which of the following parameters is/are important in determining bioequivalence",
-                "gpat_a1": "T max",
-                "gpat_a2": "C max",
-                "gpat_a3": "AUC and C max",
-                "gpat_a4": "None of these",
+                "gpat_q": " Which microbe is used for validation of sterilization the filtration process?",
+                "gpat_a1": "bacillus stearothermophilus"
+                "gpat_a2": "pseudomonas diminuta"
+                "gpat_a3": "bacillus subtilis" 
+                "gpat_a4": "pseudomonas aeruginosa"
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": " Which of the following acts as an non ionic emulsifying agent? ",
+                "gpat_a1": "triethanolamine oleate"
+                "gpat_a2": "polyoxyethylene sorbitan monooleate"
+                "gpat_a3": N-acetyl-N-ethyl morpholinium ethosulphate"
+                "gpat_a4": "dioctyl sulfosuccinate"
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which is NOT applicable for protein binding? ",
+                "gpat_a1": "Klotz reciprocal plot",
+                "gpat_a2": "Sandberg modified equation ",
+                "gpat_a3": "Blanchard equation ",
+                "gpat_a4": "Detli plot",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "beta-Carboline ring system is present in _____",
+                "gpat_a1": "Emetine",
+                "gpat_a2": "Riboflavin ",
+                "gpat_a3": "Deserpidine",
+                "gpat_a4": "d-Tubocurarine",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which amongst the following auxochromes produces a shift towards higher energy wavelength",
+                "gpat_a1": "-CH3",
+                "gpat_a2": "-NHCH3",
+                "gpat_a3": "-Cl",
+                "gpat_a4": "-C=O",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Bloom strength is used to check the quality of",
+                "gpat_a1": "Lactose",
+                "gpat_a2": "Ampoules",
+                "gpat_a3": "Hardness of tablet",
+                "gpat_a4": "Gelatin",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "What quantities of 95% v/v and 45% v/v alcohols are mixed to make 800ml of 65% v/v alcohol? ",
+                "gpat_a1": "480ml of 95% and 320ml of 45%",
+                "gpat_a2": "320ml of 95% and 480ml of 45%",
+                "gpat_a3": "440ml of 95% and 360ml of 45%",
+                "gpat_a4": "360ml of 95% and 440ml of 45%",
+                "gpat_correct_a": "2",
+                "reason":"Use Alligation method"
+        },
+        {
+                "gpat_q": "What is the use of borax in cold cream? ",
+                "gpat_a1": "anti-microbial agent",
+                "gpat_a2": "to provide fine particles to polish skin",
+                "gpat_a3": "emulsifier ",
+                "gpat_a4": "antioxidant ",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Amitryptyline is synthesised from the starting material",
+                "gpat_a1": "Phthalic anhydride ",
+                "gpat_a2": "Terephthalic acid",
+                "gpat_a3": "Phthalamic acid",
+                "gpat_a4": "Phthalimide",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": " Peroxidase enzyme present in Acacia is identified by ",
+                "gpat_a1": "Borntrager's test"
+                "gpat_a2": "Molisch test"
+                "gpat_a3": "oxidation and reduction in Benzene" 
+                "gpat_a4": "oxidation in treatment with Benzidine"
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "The pungent principle present in Ginger is :" 
+                "gpat_a1": "Zingiberol" 
+                "gpat_a2": "Zingiberene",
+                "gpat_a3": "Gingerol",
+                "gpat_a4": "Cineol",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "The conversion of fructose- 1,6- bisphosphate to glyceraldehyde- 3- phosphate is catalysed by ",
+                "gpat_a1": "Phospho-glycerate kinase",
+                "gpat_a2": "Enolase",
+                "gpat_a3": "Aldolase",
+                "gpat_a4": "Triose phosphate isomerase",
                 "gpat_correct_a": "3",
                 "reason":""
         }
