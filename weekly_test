@@ -20,16 +20,16 @@
                 "reason":""
         },
         {
-                "gpat_q": "Identify the metabolite of prontosil responsible for its antibacterial activity?"
+                "gpat_q": "Identify the metabolite of prontosil responsible for its antibacterial activity?", 
                 "gpat_a1": "sulfacetamide",
-                "gpat_a2": "sulfanilamide"
-                "gpat_a3": "para aminobenzoic acid" 
-                "gpat_a4": "probenecid"
+                "gpat_a2": "sulfanilamide", 
+                "gpat_a3": "para aminobenzoic acid", 
+                "gpat_a4": "probenecid", 
                 "gpat_correct_a": "2",
                 "reason": "prontosil is a prodrug of sulfanilamide"
         },
         {
-                "gpat_q": "which one of the following fragmentation pathway involves a double bond and a gamma hydrogen in mass spectrometry?" 
+                "gpat_q": "which one of the following fragmentation pathway involves a double bond and a gamma hydrogen in mass spectrometry?", 
                 "gpat_a1": "alpha fission ",
                 "gpat_a2": "beta fission ",
                 "gpat_a3": "Mc-Lafferty rearrangement ",
@@ -38,7 +38,7 @@
                 "reason":""
         },
         {
-                "gpat_q": "Among the following which one is not only a non reducing sugar but also does not exhibit mutarotation?"
+                "gpat_q": "Among the following which one is not only a non reducing sugar but also does not exhibit mutarotation?", 
                 "gpat_a1": "Glucose",
                 "gpat_a2": "Maltose",
                 "gpat_a3": "Lactose",
@@ -56,7 +56,7 @@
                 "reason": "Histidine is a most effective contributor of protein buffer. This is because pka value of histidine is 6.8 close to the physiological pH of blood i.e 7.4"
         },
         {
-                "gpat_q": " Titanium dioxide is used in sunscreen products as a topical protective, which is due to which property :" 
+                "gpat_q": " Titanium dioxide is used in sunscreen products as a topical protective, which is due to which property :", 
                 "gpat_a1": "It has high bulk density ",
                 "gpat_a2": "It has high LTV absortivity",
                 "gpat_a3": "It has low water solubility ",
@@ -65,7 +65,7 @@
                 "reason":""
         },
         {
-                "gpat_q": "Blood level monitoring of HbA1c is important in which of the given Disease state?
+                "gpat_q": "Blood level monitoring of HbA1c is important in which of the given Disease state?", 
                 "gpat_a1": "hypercholesterolemia",
                 "gpat_a2": "Diabetes mellitus",
                 "gpat_a3": "Myocardial Infarction ",
@@ -75,19 +75,19 @@
         },
         {
                 "gpat_q": " Which microbe is used for validation of sterilization the filtration process?",
-                "gpat_a1": "bacillus stearothermophilus"
-                "gpat_a2": "pseudomonas diminuta"
-                "gpat_a3": "bacillus subtilis" 
-                "gpat_a4": "pseudomonas aeruginosa"
+                "gpat_a1": "bacillus stearothermophilus", 
+                "gpat_a2": "pseudomonas diminuta", 
+                "gpat_a3": "bacillus subtilis", 
+                "gpat_a4": "pseudomonas aeruginosa", 
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
                 "gpat_q": " Which of the following acts as an non ionic emulsifying agent? ",
-                "gpat_a1": "triethanolamine oleate"
-                "gpat_a2": "polyoxyethylene sorbitan monooleate"
-                "gpat_a3": N-acetyl-N-ethyl morpholinium ethosulphate"
-                "gpat_a4": "dioctyl sulfosuccinate"
+                "gpat_a1": "triethanolamine oleate", 
+                "gpat_a2": "polyoxyethylene sorbitan monooleate", 
+                "gpat_a3": "N-acetyl-N-ethyl morpholinium ethosulphate", 
+                "gpat_a4": "dioctyl sulfosuccinate", 
                 "gpat_correct_a": "2",
                 "reason":""
         },
@@ -156,15 +156,15 @@
         },
         {
                 "gpat_q": " Peroxidase enzyme present in Acacia is identified by ",
-                "gpat_a1": "Borntrager's test"
-                "gpat_a2": "Molisch test"
-                "gpat_a3": "oxidation and reduction in Benzene" 
-                "gpat_a4": "oxidation in treatment with Benzidine"
+                "gpat_a1": "Borntrager's test", 
+                "gpat_a2": "Molisch test", 
+                "gpat_a3": "oxidation and reduction in Benzene", 
+                "gpat_a4": "oxidation in treatment with Benzidine", 
                 "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "The pungent principle present in Ginger is :" 
+                "gpat_q": "The pungent principle present in Ginger is :", 
                 "gpat_a1": "Zingiberol" 
                 "gpat_a2": "Zingiberene",
                 "gpat_a3": "Gingerol",
