@@ -86,7 +86,7 @@
                 "gpat_q": " Which of the following acts as an non ionic emulsifying agent? ",
                 "gpat_a1": "triethanolamine oleate", 
                 "gpat_a2": "polyoxyethylene sorbitan monooleate", 
-                "gpat_a3": N-acetyl-N-ethyl morpholinium ethosulphate", 
+                "gpat_a3": "N-acetyl-N-ethyl morpholinium ethosulphate", 
                 "gpat_a4": "dioctyl sulfosuccinate", 
                 "gpat_correct_a": "2",
                 "reason":""
