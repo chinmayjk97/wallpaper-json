@@ -1946,6 +1946,14 @@ independently variable",
                 "gpat_a3": "No phase ",
                 "gpat_a4": "Solution",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Which of the following is an OTC Drug",
+                "gpat_a1": "Naloxone",
+                "gpat_a2": "Methadone",
+                "gpat_a3": "Loperamide",
+                "gpat_a4": "Fentanyl",
+                "gpat_correct_a": "3"
         }
    ] 
 }
