@@ -1954,6 +1954,14 @@ independently variable",
                 "gpat_a3": "Loperamide",
                 "gpat_a4": "Fentanyl",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Coumarin is ______",
+                "gpat_a1": "2-phenylchromen-4-one",
+                "gpat_a2": "3-phenylchromen-4-one",
+                "gpat_a3": "2H-chromen-2-one",
+                "gpat_a4": "4-Phenylcoumarine",
+                "gpat_correct_a": "3"
         }
    ] 
 }
