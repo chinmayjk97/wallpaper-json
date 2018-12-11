@@ -1962,6 +1962,14 @@ independently variable",
                 "gpat_a3": "2H-chromen-2-one",
                 "gpat_a4": "4-Phenylcoumarine",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Bredt's rule is applicable for ______",
+                "gpat_a1": "Aliphatic system",
+                "gpat_a2": "Heterocyclic system",
+                "gpat_a3": "Bridgehead bicyclic system ",
+                "gpat_a4": "Spirocyclic system ",
+                "gpat_correct_a": "3"
         }
    ] 
 }
