@@ -1970,6 +1970,14 @@ independently variable",
                 "gpat_a3": "Bridgehead bicyclic system ",
                 "gpat_a4": "Spirocyclic system ",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "The oral oligosaccharide hypoglycemic agent, which is administered at the start of the meal is",
+                "gpat_a1": "Pioglitazone",
+                "gpat_a2": "Miglitol",
+                "gpat_a3": "Acarbose",
+                "gpat_a4": "Glimepiride",
+                "gpat_correct_a": "3"
         }
    ] 
 }
