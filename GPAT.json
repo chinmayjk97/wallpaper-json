@@ -1978,6 +1978,14 @@ independently variable",
                 "gpat_a3": "Acarbose",
                 "gpat_a4": "Glimepiride",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Leaves of Digitalis purpurea gives which of the following test positive ?",
+                "gpat_a1": "Borntrager's Test",
+                "gpat_a2": "Murexide test",
+                "gpat_a3": "Legal's test",
+                "gpat_a4": "Thalleoquin test",
+                "gpat_correct_a": "3"
         }
    ] 
 }
