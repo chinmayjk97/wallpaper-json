@@ -1986,6 +1986,14 @@ independently variable",
                 "gpat_a3": "Legal's test",
                 "gpat_a4": "Thalleoquin test",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "A/An ________ is the detector of choice for GC Separations of halogenated compounds",
+                "gpat_a1": "Electron Capture detector",
+                "gpat_a2": "Flame Ionisation detector",
+                "gpat_a3": "Thermal Conductivity detector",
+                "gpat_a4": "Universal detector",
+                "gpat_correct_a": "1"
         }
    ] 
 }
