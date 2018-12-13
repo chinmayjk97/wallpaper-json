@@ -1994,6 +1994,14 @@ independently variable",
                 "gpat_a3": "Thermal Conductivity detector",
                 "gpat_a4": "Universal detector",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Increased serum levels of which one of the following may be associated with decrease the risk of atherosclerosis?",
+                "gpat_a1": "VLDL",
+                "gpat_a2": "LDL",
+                "gpat_a3": "HDL",
+                "gpat_a4": "Total cholesterol",
+                "gpat_correct_a": "3"
         }
    ] 
 }
