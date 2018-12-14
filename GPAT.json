@@ -2021,6 +2021,14 @@ ions",
                 "gpat_a3": "Both pentose and hexose to tetrose",
                 "gpat_a4": "None of these",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "A sample of Aloe was dissolved in water and 2ml of solution is treated with 2ml bromine water. A pale yellow precipitate with violet supernatant liquid is seen. Hence the sample is of",
+                "gpat_a1": "Aloe capensis",
+                "gpat_a2": "Aloe barbadensis",
+                "gpat_a3": "Glycyrrhiza glabra",
+                "gpat_a4": "Panax ginseng",
+                "gpat_correct_a": "2"
         }
    ] 
 }
