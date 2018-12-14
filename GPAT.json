@@ -2002,6 +2002,17 @@ independently variable",
                 "gpat_a3": "HDL",
                 "gpat_a4": "Total cholesterol",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which among the following describe the characteristic 
+features of Tetracyline ?",
+                "gpat_a1": "Undergoes epimerization in solutions having inter-
+mediate pH range",
+                "gpat_a2": "Forms Anhydroustetracycline in presence of acidic",
+                "gpat_a3": "Forms Minocycline in basic medium",
+                "gpat_a4": "Forms stable chelate complexes with potassium 
+ions",
+                "gpat_correct_a": "1"
         }
    ] 
 }
