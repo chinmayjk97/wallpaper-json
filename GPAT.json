@@ -2013,6 +2013,14 @@ mediate pH range",
                 "gpat_a4": "Forms stable chelate complexes with potassium 
 ions",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Keller Kiliani reaction is used to convert ",
+                "gpat_a1": "Aldopentose to Aldohexose",
+                "gpat_a2": "Aldohexose to Aldopentose",
+                "gpat_a3": "Both pentose and hexose to tetrose",
+                "gpat_a4": "None of these",
+                "gpat_correct_a": "1"
         }
    ] 
 }
