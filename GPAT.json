@@ -2037,6 +2037,14 @@ ions",
                 "gpat_a3": "VLDL, IDL, LDL, Chlyomicron ",
                 "gpat_a4": "LDL, VLDL, IDL, Chlyomicron ",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "In biosynthesis of protein the chain terminating codons are",
+                "gpat_a1": "UAA, UAG and UGA",
+                "gpat_a2": "UGG, UGU and AGU",
+                "gpat_a3": "AAU, AAG and GAU",
+                "gpat_a4": "GCG, GCA and GCU",
+                "gpat_correct_a": "1"
         }
    ] 
 }
