@@ -24,7 +24,7 @@
                 "gpat_a1": "Uric acid",
                 "gpat_a2": "Dimethyl uric acid",
                 "gpat_a3": "Dimethyl alloxan" ,
-                "gpat_a4": "Tetra ethyl uric acid",
+                "gpat_a4": "Tetra methyl uric acid",
                 "gpat_correct_a": "4",
                 "reason": ""
         },
@@ -151,7 +151,7 @@
                 "gpat_a2": "Ampicillin",
                 "gpat_a3": "Methicillin",
                 "gpat_a4": "Penicillin V",
-                "gpat_correct_a": "2",
+                "gpat_correct_a": "3",
                 "reason":""
         },
         {
