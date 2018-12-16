@@ -1,185 +1,185 @@
 {
-        "Date" : "09/12/18", 
+        "Date" : "16/12/18", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Clavulanic acid is:",
-                "gpat_a1": "Potent inhibitor of peptidoglycan synthesis",
-                "gpat_a2": "Specific for gram negative bacteria",
-                "gpat_a3": "Inactivates bacterial b-lactamase",
-                "gpat_a4": "Inhibitor of 50S ribosomal subunit",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following formulations under ASU system are offered infinite period of shelf-life in D and C Act?",
-                "gpat_a1": "Kwatha",
-                "gpat_a2": "Gutika",
-                "gpat_a3": "Asava & Arishta",
-                "gpat_a4": "Churna",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "Identify the metabolite of prontosil responsible for its antibacterial activity?", 
-                "gpat_a1": "sulfacetamide",
-                "gpat_a2": "sulfanilamide", 
-                "gpat_a3": "para aminobenzoic acid", 
-                "gpat_a4": "probenecid", 
-                "gpat_correct_a": "2",
-                "reason": "prontosil is a prodrug of sulfanilamide"
-        },
-        {
-                "gpat_q": "which one of the following fragmentation pathway involves a double bond and a gamma hydrogen in mass spectrometry?", 
-                "gpat_a1": "alpha fission ",
-                "gpat_a2": "beta fission ",
-                "gpat_a3": "Mc-Lafferty rearrangement ",
-                "gpat_a4": "Retro diels alder rearrangement ",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "Among the following which one is not only a non reducing sugar but also does not exhibit mutarotation?", 
-                "gpat_a1": "Glucose",
-                "gpat_a2": "Maltose",
-                "gpat_a3": "Lactose",
-                "gpat_a4": "Sucrose",
-                "gpat_correct_a": "4",
-                "reason": "All monosaccharides are reducing sugars, Maltose and lactose are also reducing sugar. "
-        },
-        {
-                "gpat_q": "Which one of the following amino acid is the most effective contributor of protein buffer?",
-                "gpat_a1": "Alanine",
-                "gpat_a2": "Glycine ",
-                "gpat_a3": "Histidine",
-                "gpat_a4": "Arginine",
-                "gpat_correct_a": "3",
-                "reason": "Histidine is a most effective contributor of protein buffer. This is because pka value of histidine is 6.8 close to the physiological pH of blood i.e 7.4"
-        },
-        {
-                "gpat_q": " Titanium dioxide is used in sunscreen products as a topical protective, which is due to which property :", 
-                "gpat_a1": "It has high bulk density ",
-                "gpat_a2": "It has high LTV absortivity",
-                "gpat_a3": "It has low water solubility ",
-                "gpat_a4": "It has high refractive index",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Blood level monitoring of HbA1c is important in which of the given Disease state?", 
-                "gpat_a1": "hypercholesterolemia",
-                "gpat_a2": "Diabetes mellitus",
-                "gpat_a3": "Myocardial Infarction ",
-                "gpat_a4": "CHF",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": " Which microbe is used for validation of sterilization the filtration process?",
-                "gpat_a1": "bacillus stearothermophilus", 
-                "gpat_a2": "pseudomonas diminuta", 
-                "gpat_a3": "bacillus subtilis", 
-                "gpat_a4": "pseudomonas aeruginosa", 
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": " Which of the following acts as an non ionic emulsifying agent? ",
-                "gpat_a1": "triethanolamine oleate", 
-                "gpat_a2": "polyoxyethylene sorbitan monooleate", 
-                "gpat_a3": "N-acetyl-N-ethyl morpholinium ethosulphate", 
-                "gpat_a4": "dioctyl sulfosuccinate", 
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which is NOT applicable for protein binding? ",
-                "gpat_a1": "Klotz reciprocal plot",
-                "gpat_a2": "Sandberg modified equation ",
-                "gpat_a3": "Blanchard equation ",
-                "gpat_a4": "Detli plot",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "beta-Carboline ring system is present in _____",
-                "gpat_a1": "Emetine",
-                "gpat_a2": "Riboflavin ",
-                "gpat_a3": "Deserpidine",
-                "gpat_a4": "d-Tubocurarine",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which amongst the following auxochromes produces a shift towards higher energy wavelength",
-                "gpat_a1": "-CH3",
-                "gpat_a2": "-NHCH3",
-                "gpat_a3": "-Cl",
-                "gpat_a4": "-C=O",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Bloom strength is used to check the quality of",
-                "gpat_a1": "Lactose",
-                "gpat_a2": "Ampoules",
-                "gpat_a3": "Hardness of tablet",
-                "gpat_a4": "Gelatin",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "What quantities of 95% v/v and 45% v/v alcohols are mixed to make 800ml of 65% v/v alcohol? ",
-                "gpat_a1": "480ml of 95% and 320ml of 45%",
-                "gpat_a2": "320ml of 95% and 480ml of 45%",
-                "gpat_a3": "440ml of 95% and 360ml of 45%",
-                "gpat_a4": "360ml of 95% and 440ml of 45%",
-                "gpat_correct_a": "2",
-                "reason":"Use Alligation method"
-        },
-        {
-                "gpat_q": "What is the use of borax in cold cream? ",
-                "gpat_a1": "anti-microbial agent",
-                "gpat_a2": "to provide fine particles to polish skin",
-                "gpat_a3": "emulsifier ",
-                "gpat_a4": "antioxidant ",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "Amitryptyline is synthesised from the starting material",
-                "gpat_a1": "Phthalic anhydride ",
-                "gpat_a2": "Terephthalic acid",
-                "gpat_a3": "Phthalamic acid",
-                "gpat_a4": "Phthalimide",
+                "gpat_q": "Morphine is soluble in aqueous NaOH because :",
+                "gpat_a1": "It has phenolic and alcoholic OH",
+                "gpat_a2": "It has tertiary nitrogen",
+                "gpat_a3": "It has ether bridge",
+                "gpat_a4": "It has alicyclic double bond",
                 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": " Peroxidase enzyme present in Acacia is identified by ",
-                "gpat_a1": "Borntrager's test", 
-                "gpat_a2": "Molisch test", 
-                "gpat_a3": "oxidation and reduction in Benzene", 
-                "gpat_a4": "oxidation in treatment with Benzidine", 
+                "gpat_q": "In the assay of alkaloids, the final residue is treated with little _______ before it is finally dissolved in acid and titrated",
+                "gpat_a1": "Base",
+                "gpat_a2": "Ether",
+                "gpat_a3": "Alcohol ",
+                "gpat_a4": "Water",
+                "gpat_correct_a": "3",
+                "reason":"Alcohol aids alkaloids in solubilisation in acids"
+        },
+        {
+                "gpat_q": "Caffeine is treated with chloride and the resulting compound is treated with methanolic NaOH, product obtained is further boiled with dilute HCl and methyl Iodide. What is the end product? ",
+                "gpat_a1": "Uric acid",
+                "gpat_a2": "Dimethyl uric acid",
+                "gpat_a3": "Dimethyl alloxan" ,
+                "gpat_a4": "Tetra ethyl uric acid",
+                "gpat_correct_a": "4",
+                "reason": ""
+        },
+        {
+                "gpat_q": "Vitali's test is used to determine the presence of" ,
+                "gpat_a1": "tropane alkaloids ",
+                "gpat_a2": "Indole alkaloids ",
+                "gpat_a3": "Terpenoids glycosides ",
+                "gpat_a4": "Steroidal glycosides ",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "PANAXADIOL is a constituent of ",
+                "gpat_a1": "Ginger",
+                "gpat_a2": "Jatamansi",
+                "gpat_a3": "Ginseng",
+                "gpat_a4": "Pepper",
+                "gpat_correct_a": "3",
+                "reason": ""
+        },
+        {
+                "gpat_q": "Carr Price reaction is applied for the photometric evaluation of",
+                "gpat_a1": "Vitamin A",
+                "gpat_a2": "Tocopherol ",
+                "gpat_a3": "Nondrolone phenyl propionate ",
+                "gpat_a4": "Benzodiazepine",
+                "gpat_correct_a": "1",
+                "reason": "https://www.merriam-webster.com/dictionary/Carr-Price%20reaction"
+        },
+        {
+                "gpat_q": " Fruits which are derived from plants of Umbelliferae are all of the type" ,
+                "gpat_a1": "Cremocarp ",
+                "gpat_a2": "Pericarp",
+                "gpat_a3": "Epicarp ",
+                "gpat_a4": "Mesocarp",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Saturated solution of KNO3 is used to make salt Bridge because",
+                "gpat_a1": "velocity of K > velocity of NO3",
+                "gpat_a2": "velocity of K < velocity of NO3",
+                "gpat_a3": "velocity of K = velocity of NO3 ",
+                "gpat_a4": "KNO3 is highly soluble in water",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": " Calculate the concentration of unknown solution of caffeine which gave an absorbance of 1.022 in 2.0cm cell, while the absorbance of caffeine solution of 0.01318gm/L at 272nm was 0.854 in 1cm cell",
+                "gpat_a1": "0.078",
+                "gpat_a2": "0.0078",
+                "gpat_a3": "0.78" ,
+                "gpat_a4": "7.8",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": " Find the HLB value of an ester which has saponification value of 40.5 and acid value of 260",
+                "gpat_a1": "0.0027",
+                "gpat_a2": "5.42",
+                "gpat_a3": "16.89",
+                "gpat_a4": "23.11",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Half life of the drug may be helpful to determine", 
+                "gpat_a1": "dosage schedule of the drug",
+                "gpat_a2": "level of absorption and distribution into system ",
+                "gpat_a3": "rate of absorption from GIT ",
+                "gpat_a4": " time to get the steady state",
                 "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "The pungent principle present in Ginger is :", 
-                "gpat_a1": "Zingiberol", 
-                "gpat_a2": "Zingiberene",
-                "gpat_a3": "Gingerol",
-                "gpat_a4": "Cineol",
+                "gpat_q": " provisions applicable to the production of bacterial vaccines, viral vaccines, all sera from living animals, and Diagnostic antigen are given in schedule ___",
+                "gpat_a1": "M",
+                "gpat_a2": "N ",
+                "gpat_a3": "F",
+                "gpat_a4": "D",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "The conversion of fructose- 1,6- bisphosphate to glyceraldehyde- 3- phosphate is catalysed by ",
-                "gpat_a1": "Phospho-glycerate kinase",
-                "gpat_a2": "Enolase",
-                "gpat_a3": "Aldolase",
-                "gpat_a4": "Triose phosphate isomerase",
+                "gpat_q": " a dilution test can be used for checking stability of ____",
+                "gpat_a1": "suspensions", 
+                "gpat_a2": " milk and magma",
+                "gpat_a3": " emulsions",
+                "gpat_a4": " all of the above",
                 "gpat_correct_a": "3",
-                "reason":"" 
+                "reason":""
+        },
+        {
+                "gpat_q": " listed below are some of the common radio nucleya words using nucleya pharmacy. which of the following is generator produced? ",
+                "gpat_a1": "201 Tl",
+                "gpat_a2": "67 Ga",
+                "gpat_a3": "133 Xe",
+                "gpat_a4": "99 Tc",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": " A base catalysed radical coupling between an aryl diazonium salt and and arene to form a diaryl compound is",
+                "gpat_a1": "Grignard Reaction",
+                "gpat_a2": "Gomberg Reaction ",
+                "gpat_a3": "Reimer Tiemann Reaction ",
+                "gpat_a4": "Gabriel Phthalimide Synthesis",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": " raw material for the synthesis of propranolol is",
+                "gpat_a1": " Alpha naphthylamine",
+                "gpat_a2": " Beta naphthol",
+                "gpat_a3": " Alpha naphthol ",
+                "gpat_a4": " 1-naphthaldehyde ",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": " penicillinase resistant penicillin is ___",
+                "gpat_a1": "Amoxicillin ",
+                "gpat_a2": "Ampicillin",
+                "gpat_a3": "Methicillin",
+                "gpat_a4": "Penicillin V",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": " sulfonamide tragedy was due to its combination with _____ ",
+                "gpat_a1": " penicillin ", 
+                "gpat_a2": " streptomycin", 
+                "gpat_a3": "diethylene glycol", 
+                "gpat_a4": " Bicarbonate", 
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Bradykinin is ___", 
+                "gpat_a1": "a steroidal hormone", 
+                "gpat_a2": "serotonin derivative ",
+                "gpat_a3": "nonapeptide",
+                "gpat_a4": "lipoprotein ",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Prostaglandins are a group of",
+                "gpat_a1": "Alcohols",
+                "gpat_a2": "Aldehydea",
+                "gpat_a3": "Fatty acids",
+                "gpat_a4": "Alkaloids",
+                "gpat_correct_a": "3",
+                "reason":""
         }
 ] 
 }
