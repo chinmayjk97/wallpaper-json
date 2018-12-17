@@ -2045,6 +2045,14 @@ ions",
                 "gpat_a3": "AAU, AAG and GAU",
                 "gpat_a4": "GCG, GCA and GCU",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Ethyl-acetoacetate is prepared from ethyl acetate by the _________ ",
+                "gpat_a1": "Benzoin condensation",
+                "gpat_a2": "Aldol condensation",
+                "gpat_a3": "Claisen condensation",
+                "gpat_a4": "Dieckmann condensation ",
+                "gpat_correct_a": "3"
         }
    ] 
 }
