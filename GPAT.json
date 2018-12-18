@@ -2061,6 +2061,16 @@ ions",
                 "gpat_a3": "Vanillin",
                 "gpat_a4": "Digoxin",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Following drugs potentiate the activity of warfarin:
+[P] Barbiturates [Q]Carmazepine
+[R] Ciprofloxacin [S] Chloramphenicol",
+                "gpat_a1": "P and R",
+                "gpat_a2": "Q and R",
+                "gpat_a3": "P and S",
+                "gpat_a4": "R and S",
+                "gpat_correct_a": "4"
         }
    ] 
 }
