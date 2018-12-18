@@ -2053,6 +2053,14 @@ ions",
                 "gpat_a3": "Claisen condensation",
                 "gpat_a4": "Dieckmann condensation ",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which one is a phenol glycoside?",
+                "gpat_a1": "Arbutin",
+                "gpat_a2": "Salicin",
+                "gpat_a3": "Vanillin",
+                "gpat_a4": "Digoxin",
+                "gpat_correct_a": "1"
         }
    ] 
 }
