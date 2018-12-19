@@ -2079,6 +2079,14 @@ ions",
                 "gpat_a3": "Chemical Assay",
                 "gpat_a4": "Instrumental Method of Assay",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "In spectrocolorimeters, the wavelength accuracy is normally",
+                "gpat_a1": "±10nm",
+                "gpat_a2": "±5nm",
+                "gpat_a3": "±15nm",
+                "gpat_a4": "±20nm",
+                "gpat_correct_a": "2"
         }
    ] 
 }
