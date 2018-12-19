@@ -2071,6 +2071,14 @@ ions",
                 "gpat_a3": "P and S",
                 "gpat_a4": "R and S",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Fiducial limit is a term used in",
+                "gpat_a1": "Microbiological Assay",
+                "gpat_a2": "Biological Assay",
+                "gpat_a3": "Chemical Assay",
+                "gpat_a4": "Instrumental Method of Assay",
+                "gpat_correct_a": "2"
         }
    ] 
 }
