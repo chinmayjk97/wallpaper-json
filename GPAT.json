@@ -2087,6 +2087,14 @@ ions",
                 "gpat_a3": "±15nm",
                 "gpat_a4": "±20nm",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "All drugs belong to Labiatae family except",
+                "gpat_a1": "Tulsi",
+                "gpat_a2": "Spearmint",
+                "gpat_a3": "Nutmeg",
+                "gpat_a4": "Peppermint oil ",
+                "gpat_correct_a": "3"
         }
    ] 
 }
