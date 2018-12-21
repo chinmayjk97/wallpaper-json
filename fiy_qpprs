@@ -116,8 +116,14 @@
         },
 	 {
             "subject": "Pharmaceutical Chemistry-IV ",
-            "month_year": "April 2016 ",
-	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSE1YTklWWEpEaGM",
+            "month_year": " - ",
+	    "url" : "https://drive.google.com/open?id=19SdXPXswXjIJIhFzOBViRsyetFU8o5IH",
+            "size": "2 MB "
+        },
+	{
+            "subject": "Pharmaceutical Chemistry-IV ",
+            "month_year": " 2016 ",
+	    "url" : "https://drive.google.com/open?id=0B6z9_azvPvHjSE1YTklWWEpEaGM",
             "size": "720 KB "
         },
  	{
@@ -126,11 +132,23 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRE5SdXEwSWxhQVE",
             "size": "452 KB "
         },
+	{
+            "subject": "Pharmaceutics-V ",
+            "month_year": " - ",
+	    "url" : "https://drive.google.com/open?id=1BSqPxI1CNHWXGtAYZA39NhYrC2Fr0CBB",
+            "size": " 1 MB "
+        },
 	 {
             "subject": "Biopharmaceutics & Pharmacokinetics ",
             "month_year": "April 2016 ",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjejJXZmRIT2Z0OWc",
             "size": "430 KB "
+        },
+	{
+            "subject": "Biopharmaceutics & Pharmacokinetics ",
+            "month_year": " - ",
+	    "url" : "https://drive.google.com/open?id=1sE4vK8RBfCejX7M1kOpi56LFj2_xOsiy",
+            "size": " 615 KB "
         },
 	 {
             "subject": "Pharmacognosy & Phytochemistry-III ",
@@ -139,10 +157,22 @@
             "size": "267 KB "
         },
 	{
+            "subject": "Pharmacognosy & Phytochemistry-III ",
+            "month_year": " - ",
+	    "url" : "https://drive.google.com/open?id=1iHLsYrGlk0KLlxsGAJajod-pT6HFBo--",
+            "size": " 2 MB "
+        },
+	{
             "subject": "Clinical Pharmacy ",
             "month_year": "May 2016 ",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjTjBPcFBtVFRaWWM",
             "size": "334 KB "
+        },
+	{
+            "subject": "Clinical Pharmacy ",
+            "month_year": "Nov 2017 ",
+	    "url" : "https://drive.google.com/open?id=1c4v5l0CrBZRNVlXPX-Hz0JqPtu9MvAw3",
+            "size": "310 KB "
         }
     ]
 }
