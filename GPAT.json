@@ -2103,6 +2103,14 @@ ions",
                 "gpat_a3": " 3-(5-nitrofurfurylideneamino) oxazolidin-2-one",
                 "gpat_a4": "2-(2-fluorobiphenyl-4-yl) propionic acid",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "The forces between two permanent dipoles is known as",
+                "gpat_a1": "Debye Forces",
+                "gpat_a2": "London Forces ",
+                "gpat_a3": "Keesom Forces",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "3"
         }
    ] 
 }
