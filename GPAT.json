@@ -2095,6 +2095,14 @@ ions",
                 "gpat_a3": "Nutmeg",
                 "gpat_a4": "Peppermint oil ",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The IUPAC name of glutethimide is ",
+                "gpat_a1": "3-ethyl, 3’phenyl-2, 6-piperidine dione",
+                "gpat_a2": "p-sulfonamido-chloroimido benzoic acid",
+                "gpat_a3": " 3-(5-nitrofurfurylideneamino) oxazolidin-2-one",
+                "gpat_a4": "2-(2-fluorobiphenyl-4-yl) propionic acid",
+                "gpat_correct_a": "2"
         }
    ] 
 }
