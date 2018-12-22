@@ -2119,6 +2119,14 @@ ions",
                 "gpat_a3": "Indomethacin",
                 "gpat_a4": "Rofecoxib",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which statement regarding Huckel's rule is FALSE?",
+                "gpat_a1": "There must be (4n + 2) pie electrons",
+                "gpat_a2": "The molecule must be planar",
+                "gpat_a3": "The molecule must be cyclic",
+                "gpat_a4": "Each of the pi electrons must be associated with a conjugated double bond",
+                "gpat_correct_a": "4"
         }
    ] 
 }
