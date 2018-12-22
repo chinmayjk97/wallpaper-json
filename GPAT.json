@@ -2111,6 +2111,14 @@ ions",
                 "gpat_a3": "Keesom Forces",
                 "gpat_a4": "All of the above",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which of following drugs causes lithium and digoxin toxicity?",
+                "gpat_a1": "Nimesulide",
+                "gpat_a2": "Diclofenac",
+                "gpat_a3": "Indomethacin",
+                "gpat_a4": "Rofecoxib",
+                "gpat_correct_a": "3"
         }
    ] 
 }
