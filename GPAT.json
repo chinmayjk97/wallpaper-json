@@ -2127,6 +2127,14 @@ ions",
                 "gpat_a3": "The molecule must be cyclic",
                 "gpat_a4": "Each of the pi electrons must be associated with a conjugated double bond",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Paracetamol undergoes metabolism by",
+                "gpat_a1": "N-Hydroxylation",
+                "gpat_a2": "Deamination",
+                "gpat_a3": "O-Dealkylation",
+                "gpat_a4": "Oxidative deamination",
+                "gpat_correct_a": "2"
         }
    ] 
 }
