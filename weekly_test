@@ -71,115 +71,91 @@
                 "gpat_a3": "Hydroxypropyl methylcellulose",
                 "gpat_a4": "Cellulose acetate phthalate",
                 "gpat_correct_a": "2",
-                "reason": ""
-        },
-        {
-                "gpat_q": "Chloramphenicol belongs to schedule",
+                "reason": " "},
+        {"gpat_q": "Chloramphenicol belongs to schedule",
                 "gpat_a1": "X",
                 "gpat_a2": "P",
                 "gpat_a3": "G",
                 "gpat_a4": "H",
                 "gpat_correct_a": "2",
-                "reason": "http://fda.up.nic.in/schedule_P.htm""
+                "reason": "http://fda.up.nic.in/schedule_P.htm"
         },
-        {
-                "gpat_q": "Drugs in suspensions and semi-solid formulations always degrade by",
+        {"gpat_q": "Drugs in suspensions and semi-solid formulations always degrade by",
                 "gpat_a1": "first order kinetics",
                 "gpat_a2": "second order kinetics",
                 "gpat_a3": "non-linear kinetics",
                 "gpat_a4": "zero order kinetics",
                 "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "In thiazides, following substituent is essential for diuretic activity:",
+                "reason":""},
+        {                "gpat_q": "In thiazides, following substituent is essential for diuretic activity:",
                 "gpat_a1": "Chloro group at position 6",
                 "gpat_a2": "Methyl group at position 2",
                 "gpat_a3": "Sulphamoyl group at position 7",
                 "gpat_a4": "Hydrophobic group at position 3",
                 "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "One of the following statements is not true:",
+                "reason":""        },
+        {             "gpat_q": "One of the following statements is not true:",
                 "gpat_a1": "Accuracy expresses the correctness of measurement",
                 "gpat_a2": "High degree of precision implies high degree of accuracy also",
                 "gpat_a3": "High degree of accuracy implies high degree of precesion also",
                 "gpat_a4": "Precision represents reproducibility of measurement",
                 "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "A metabolite obtained from Aspergillus terreus that can bind very tightly to HMG CoA reductase enzyme is",
+                "reason":""        },
+        {                "gpat_q": "A metabolite obtained from Aspergillus terreus that can bind very tightly to HMG CoA reductase enzyme is",
                 "gpat_a1": " Fluvastatin",
                 "gpat_a2": "Cerivastatin",
                 "gpat_a3": "Lovastatin",
                 "gpat_a4": "Somatostatin",
                 "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "Proton pump inhibitors like omeprazole and lansoprazole contain the following ring system:",
+                "reason":""        },
+        {                "gpat_q": "Proton pump inhibitors like omeprazole and lansoprazole contain the following ring system:",
                 "gpat_a1": "Pyrimidine",
                 "gpat_a2": "Benzimidazole",
                 "gpat_a3": "Benzothiazole",
                 "gpat_a4": "Oxindole",
                 "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Selective serotonin reuptake inhibitor is",
+                "reason":""        },
+        {                "gpat_q": "Selective serotonin reuptake inhibitor is",
                 "gpat_a1": "Imipramine",
                 "gpat_a2": "Iproniazide",
                 "gpat_a3": " Fluoxetin",
                 "gpat_a4": "Naphazoline",
                 "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "In Gas-Liquid Chromatography, some of the samples need to be derivatized in order to increase their",
+                "reason":""      },
+        {                "gpat_q": "In Gas-Liquid Chromatography, some of the samples need to be derivatized in order to increase their",
                 "gpat_a1": "volatility",
                 "gpat_a2": "solubility ",
                 "gpat_a3": "thermal conductivity",
                 "gpat_a4": "polarizability",
                 "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Glass transition temperature is detected through",
+                "reason":""       },
+        {              "gpat_q": "Glass transition temperature is detected through",
                 "gpat_a1": "Differential scanning calorimetery",
                 "gpat_a2": "Thermogravimetric analysis",
                 "gpat_a3": "X-Ray diffractometery",
                 "gpat_a4": "Solution calorimetery",
                 "gpat_correct_a": "1",
-               "reason":""
-        },
-        {
-                "gpat_q": "Artemisinin contains the following group in its structure :",
+               "reason":""        },
+        {                "gpat_q": "Artemisinin contains the following group in its structure :",
                 "gpat_a1": "an acid hydrazide",
                 "gpat_a2": "an exoperoxide",
                 "gpat_a3": "an epoxide",
                 "gpat_a4": "an endoperoxide",
                 "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Nicotinic action of acetylcholine is blocked by the drug",
+                "reason":""        },
+        {               "gpat_q": "Nicotinic action of acetylcholine is blocked by the drug",
                 "gpat_a1": "Atropine",
                 "gpat_a2": "Carvedilol",
                 "gpat_a3": "Neostigmine",
                 "gpat_a4": "d-Tubocurarine",
                 "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Select the correct combination of drugs for the treatment of patients suffering from Hepatitis C.",
+                "reason":""       },
+        {              "gpat_q": "Select the correct combination of drugs for the treatment of patients suffering from Hepatitis C.",
                 "gpat_a1": "Interferon with Ribavirin",
                 "gpat_a2": "Interferon with Zidovudine",
                 "gpat_a3": "Interferon with Stavudine",
                 "gpat_a4": "Interferon with Lamivudine",
                 "gpat_correct_a": "2",
-                "reason":""
-        }
+                "reason":""      }
 ] 
 }
