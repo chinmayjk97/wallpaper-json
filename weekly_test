@@ -1,184 +1,184 @@
 {
-        "Date" : "16/12/18", 
+        "Date" : "23/12/18", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Morphine is soluble in aqueous NaOH because :",
-                "gpat_a1": "It has phenolic and alcoholic OH",
-                "gpat_a2": "It has tertiary nitrogen",
-                "gpat_a3": "It has ether bridge",
-                "gpat_a4": "It has alicyclic double bond",
+                "gpat_q": "In which of the following techniques, the sample is kept below triple point?",
+                "gpat_a1": "Lyophilization",
+                "gpat_a2": "Spray drying",
+                "gpat_a3": "Centrifugation",
+                "gpat_a4": "Spray congealing",
                 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "In the assay of alkaloids, the final residue is treated with little _______ before it is finally dissolved in acid and titrated",
-                "gpat_a1": "Base",
-                "gpat_a2": "Ether",
-                "gpat_a3": "Alcohol ",
-                "gpat_a4": "Water",
-                "gpat_correct_a": "3",
-                "reason":"Alcohol aids alkaloids in solubilisation in acids"
-        },
-        {
-                "gpat_q": "Caffeine is treated with chloride and the resulting compound is treated with methanolic NaOH, product obtained is further boiled with dilute HCl and methyl Iodide. What is the end product? ",
-                "gpat_a1": "Uric acid",
-                "gpat_a2": "Dimethyl uric acid",
-                "gpat_a3": "Dimethyl alloxan" ,
-                "gpat_a4": "Tetra methyl uric acid",
+                "gpat_q": "Which one of the following is not an ex-officio member of Pharmacy Council of India?",
+                "gpat_a1": "The Director General of Health Services",
+                "gpat_a2": "The Director of Central Drugs Laboratory",
+                "gpat_a3": "The Drugs Controller General of India",
+                "gpat_a4": "The Director of Pharmacopoeia Laboratory",
                 "gpat_correct_a": "4",
-                "reason": ""
-        },
-        {
-                "gpat_q": "Vitali's test is used to determine the presence of" ,
-                "gpat_a1": "tropane alkaloids ",
-                "gpat_a2": "Indole alkaloids ",
-                "gpat_a3": "Terpenoids glycosides ",
-                "gpat_a4": "Steroidal glycosides ",
-                "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "PANAXADIOL is a constituent of ",
-                "gpat_a1": "Ginger",
-                "gpat_a2": "Jatamansi",
-                "gpat_a3": "Ginseng",
-                "gpat_a4": "Pepper",
-                "gpat_correct_a": "3",
-                "reason": ""
-        },
-        {
-                "gpat_q": "Carr Price reaction is applied for the photometric evaluation of",
-                "gpat_a1": "Vitamin A",
-                "gpat_a2": "Tocopherol ",
-                "gpat_a3": "Nondrolone phenyl propionate ",
-                "gpat_a4": "Benzodiazepine",
-                "gpat_correct_a": "1",
-                "reason": "https://www.merriam-webster.com/dictionary/Carr-Price%20reaction"
-        },
-        {
-                "gpat_q": " Fruits which are derived from plants of Umbelliferae are all of the type" ,
-                "gpat_a1": "Cremocarp ",
-                "gpat_a2": "Pericarp",
-                "gpat_a3": "Epicarp ",
-                "gpat_a4": "Mesocarp",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Saturated solution of KNO3 is used to make salt Bridge because",
-                "gpat_a1": "velocity of K > velocity of NO3",
-                "gpat_a2": "velocity of K < velocity of NO3",
-                "gpat_a3": "velocity of K = velocity of NO3 ",
-                "gpat_a4": "KNO3 is highly soluble in water",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": " Calculate the concentration of unknown solution of caffeine which gave an absorbance of 1.022 in 2.0cm cell, while the absorbance of caffeine solution of 0.01318gm/L at 272nm was 0.854 in 1cm cell",
-                "gpat_a1": "0.078",
-                "gpat_a2": "0.0078",
-                "gpat_a3": "0.78" ,
-                "gpat_a4": "7.8",
+                "gpat_q": "Class 100 area is referred to",
+                "gpat_a1": "Manufacturing area",
+                "gpat_a2": "Aseptic area",
+                "gpat_a3": "Clean room",
+                "gpat_a4": "Ware house",
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": " Find the HLB value of an ester which has saponification value of 40.5 and acid value of 260",
-                "gpat_a1": "0.0027",
-                "gpat_a2": "5.42",
-                "gpat_a3": "16.89",
-                "gpat_a4": "23.11",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "Half life of the drug may be helpful to determine", 
-                "gpat_a1": "dosage schedule of the drug",
-                "gpat_a2": "level of absorption and distribution into system ",
-                "gpat_a3": "rate of absorption from GIT ",
-                "gpat_a4": " time to get the steady state",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": " provisions applicable to the production of bacterial vaccines, viral vaccines, all sera from living animals, and Diagnostic antigen are given in schedule ___",
-                "gpat_a1": "M",
-                "gpat_a2": "N ",
-                "gpat_a3": "F",
-                "gpat_a4": "D",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": " a dilution test can be used for checking stability of ____",
-                "gpat_a1": "suspensions", 
-                "gpat_a2": " milk and magma",
-                "gpat_a3": " emulsions",
-                "gpat_a4": " all of the above",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": " listed below are some of the common radio nucleya words using nucleya pharmacy. which of the following is generator produced? ",
-                "gpat_a1": "201 Tl",
-                "gpat_a2": "67 Ga",
-                "gpat_a3": "133 Xe",
-                "gpat_a4": "99 Tc",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": " A base catalysed radical coupling between an aryl diazonium salt and and arene to form a diaryl compound is",
-                "gpat_a1": "Grignard Reaction",
-                "gpat_a2": "Gomberg Reaction ",
-                "gpat_a3": "Reimer Tiemann Reaction ",
-                "gpat_a4": "Gabriel Phthalimide Synthesis",
+                "gpat_q": "Amntadine is helpful in parkinson's disease because :",
+                "gpat_a1": "It decreases cholinergic activity",
+                "gpat_a2": "It liberates dopamine from nerve endings",
+                "gpat_a3": "It is metabolised into dopamine ",
+                "gpat_a4": "It increases adrenergic activity",
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": " raw material for the synthesis of propranolol is",
-                "gpat_a1": " Alpha naphthylamine",
-                "gpat_a2": " Beta naphthol",
-                "gpat_a3": " Alpha naphthol ",
-                "gpat_a4": " 1-naphthaldehyde ",
+                "gpat_q": "Zona fasciculata of suprarenal gland that produces:",
+                "gpat_a1": "Minerelocorticoids",
+                "gpat_a2": "Glycocorticoids",
+                "gpat_a3": "Sex hormones",
+                "gpat_a4": "Adrenaline",
+                "gpat_correct_a": "2",
+                "reason": ""
+        },
+        {
+                "gpat_q": "Geriatric population should be included in the following phase of clinical trials:",
+                "gpat_a1": "Phase I",
+                "gpat_a2": "Phase II",
+                "gpat_a3": "Phase III",
+                "gpat_a4": "Phase IV",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": " penicillinase resistant penicillin is ___",
-                "gpat_a1": "Amoxicillin ",
-                "gpat_a2": "Ampicillin",
-                "gpat_a3": "Methicillin",
-                "gpat_a4": "Penicillin V",
+                "gpat_q": "Rabies vaccine (living) is prepared using",
+                "gpat_a1": "Sheep blood",
+                "gpat_a2": "Mice lymph",
+                "gpat_a3": "Horse plasma",
+                "gpat_a4": "Fertile eggs",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "In nail polish, the following polymer is used as a film-former:",
+                "gpat_a1": "Polylactic acid",
+                "gpat_a2": "Nitrocellulose",
+                "gpat_a3": "Hydroxypropyl methylcellulose",
+                "gpat_a4": "Cellulose acetate phthalate",
+                "gpat_correct_a": "2",
+                "reason": ""
+        },
+        {
+                "gpat_q": "Chloramphenicol belongs to schedule",
+                "gpat_a1": "X",
+                "gpat_a2": "P",
+                "gpat_a3": "G",
+                "gpat_a4": "H",
+                "gpat_correct_a": "2",
+                "reason": "http://fda.up.nic.in/schedule_P.htm""
+        },
+        {
+                "gpat_q": "Drugs in suspensions and semi-solid formulations always degrade by",
+                "gpat_a1": "first order kinetics",
+                "gpat_a2": "second order kinetics",
+                "gpat_a3": "non-linear kinetics",
+                "gpat_a4": "zero order kinetics",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "In thiazides, following substituent is essential for diuretic activity:",
+                "gpat_a1": "Chloro group at position 6",
+                "gpat_a2": "Methyl group at position 2",
+                "gpat_a3": "Sulphamoyl group at position 7",
+                "gpat_a4": "Hydrophobic group at position 3",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": " sulfonamide tragedy was due to its combination with _____ ",
-                "gpat_a1": " penicillin ", 
-                "gpat_a2": " streptomycin", 
-                "gpat_a3": "diethylene glycol", 
-                "gpat_a4": " Bicarbonate", 
+                "gpat_q": "One of the following statements is not true:",
+                "gpat_a1": "Accuracy expresses the correctness of measurement",
+                "gpat_a2": "High degree of precision implies high degree of accuracy also",
+                "gpat_a3": "High degree of accuracy implies high degree of precesion also",
+                "gpat_a4": "Precision represents reproducibility of measurement",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "A metabolite obtained from Aspergillus terreus that can bind very tightly to HMG CoA reductase enzyme is",
+                "gpat_a1": " Fluvastatin",
+                "gpat_a2": "Cerivastatin",
+                "gpat_a3": "Lovastatin",
+                "gpat_a4": "Somatostatin",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Bradykinin is ___", 
-                "gpat_a1": "a steroidal hormone", 
-                "gpat_a2": "serotonin derivative ",
-                "gpat_a3": "nonapeptide",
-                "gpat_a4": "lipoprotein ",
+                "gpat_q": "Proton pump inhibitors like omeprazole and lansoprazole contain the following ring system:",
+                "gpat_a1": "Pyrimidine",
+                "gpat_a2": "Benzimidazole",
+                "gpat_a3": "Benzothiazole",
+                "gpat_a4": "Oxindole",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Selective serotonin reuptake inhibitor is",
+                "gpat_a1": "Imipramine",
+                "gpat_a2": "Iproniazide",
+                "gpat_a3": " Fluoxetin",
+                "gpat_a4": "Naphazoline",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Prostaglandins are a group of",
-                "gpat_a1": "Alcohols",
-                "gpat_a2": "Aldehydea",
-                "gpat_a3": "Fatty acids",
-                "gpat_a4": "Alkaloids",
-                "gpat_correct_a": "3",
+                "gpat_q": "In Gas-Liquid Chromatography, some of the samples need to be derivatized in order to increase their",
+                "gpat_a1": "volatility",
+                "gpat_a2": "solubility ",
+                "gpat_a3": "thermal conductivity",
+                "gpat_a4": "polarizability",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Glass transition temperature is detected through",
+                "gpat_a1": "Differential scanning calorimetery",
+                "gpat_a2": "Thermogravimetric analysis",
+                "gpat_a3": "X-Ray diffractometery",
+                "gpat_a4": "Solution calorimetery",
+                "gpat_correct_a": "1",
+               "reason":""
+        },
+        {
+                "gpat_q": "Artemisinin contains the following group in its structure :",
+                "gpat_a1": "an acid hydrazide",
+                "gpat_a2": "an exoperoxide",
+                "gpat_a3": "an epoxide",
+                "gpat_a4": "an endoperoxide",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Nicotinic action of acetylcholine is blocked by the drug",
+                "gpat_a1": "Atropine",
+                "gpat_a2": "Carvedilol",
+                "gpat_a3": "Neostigmine",
+                "gpat_a4": "d-Tubocurarine",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Select the correct combination of drugs for the treatment of patients suffering from Hepatitis C.",
+                "gpat_a1": "Interferon with Ribavirin",
+                "gpat_a2": "Interferon with Zidovudine",
+                "gpat_a3": "Interferon with Stavudine",
+                "gpat_a4": "Interferon with Lamivudine",
+                "gpat_correct_a": "2",
                 "reason":""
         }
 ] 
