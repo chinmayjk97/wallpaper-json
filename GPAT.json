@@ -2152,6 +2152,14 @@ ions",
                 "gpat_a3": "Yohimbine",
                 "gpat_a4": "Clonidine",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Atropine does not antagonize the following feature of anticholinesterase Poisoning :",
+                "gpat_a1": "Hypotension",
+                "gpat_a2": "Central excitation",
+                "gpat_a3": "Muscle paralysis",
+                "gpat_a4": "Bronchoconstriction",
+                "gpat_correct_a": "3"
         }
    ] 
 }
