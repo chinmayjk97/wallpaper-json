@@ -2141,8 +2141,17 @@ ions",
                 "gpat_a1": "Polystyrene Film",
                 "gpat_a2": "Potassium iodide",
                 "gpat_a3": "Toluene in Hexane",
-                "gpat_a4": " Holomium Oxide ",
+                "gpat_a4": " Holomium Oxide
+ ",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "The following is a selective alpha-2- adreno receptor antagonist",
+                "gpat_a1": "Prazosin ",
+                "gpat_a2": "Phentolamine",
+                "gpat_a3": "Yohimbine",
+                "gpat_a4": "Clonidine",
+                "gpat_correct_a": "3"
         }
    ] 
 }
