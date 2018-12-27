@@ -2160,6 +2160,14 @@ ions",
                 "gpat_a3": "Muscle paralysis",
                 "gpat_a4": "Bronchoconstriction",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "A patient receiving digoxin for CCF is found to have an elevated serum cholesterol. Which hypolipidemic agent should not be prescribed? ",
+                "gpat_a1": "Clorfibrate",
+                "gpat_a2": "Cholestyramine",
+                "gpat_a3": "Lovastatin",
+                "gpat_a4": "Niacin",
+                "gpat_correct_a": "3"
         }
    ] 
 }
