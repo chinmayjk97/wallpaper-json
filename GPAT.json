@@ -2168,6 +2168,14 @@ ions",
                 "gpat_a3": "Lovastatin",
                 "gpat_a4": "Niacin",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "A common organism that causes meningitis belongs to the genus",
+                "gpat_a1": "Candida",
+                "gpat_a2": "Neisseria",
+                "gpat_a3": "Pseudomonas",
+                "gpat_a4": "Clostridium",
+                "gpat_correct_a": "2"
         }
    ] 
 }
