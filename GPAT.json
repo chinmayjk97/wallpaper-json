@@ -2176,6 +2176,14 @@ ions",
                 "gpat_a3": "Pseudomonas",
                 "gpat_a4": "Clostridium",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Optic neuritis is a chief adverse effect of",
+                "gpat_a1": "INH",
+                "gpat_a2": "Pyrazinamide",
+                "gpat_a3": "Rifampicin ",
+                "gpat_a4": "Ethambutol",
+                "gpat_correct_a": "4"
         }
    ] 
 }
