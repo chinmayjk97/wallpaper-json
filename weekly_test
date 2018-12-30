@@ -104,7 +104,7 @@
 
                 "gpat_a3": "Misbranded Drug",
 
-                "gpat_a4": "PTrue Drug",
+                "gpat_a4": "True Drug",
 
                 "gpat_correct_a": "3",
 
@@ -162,7 +162,7 @@
 
                 "gpat_correct_a": "2",
 
-                "reason":""
+                "reason":"Microbiologists use India ink to stain a slide containing micro-organisms. The background is stained while the organisms remain clear. This is called a negative stain. India ink, along with other stains, can be used to determine if a cell has a gelatinous capsule.A common application of this procedure in the clinical microbiology laboratory is to confirm the morphology of the encapsulated yeast Cryptococcus spp. which cause cryptococcal meningitis."
 
         },
 
@@ -222,7 +222,7 @@
 
         {
 
-                "gpat_q": "As per Woodward-Hoffman rules for electeocyclic reaction, for 4n system under thermal condition rotation direction for bonding is :",
+                "gpat_q": "As per Woodward-Hoffman rules for electrocyclic reaction, for 4n system under thermal condition rotation direction for bonding is :",
 
                 "gpat_a1": "Conrotation",
 
@@ -306,7 +306,7 @@
 
                 "gpat_correct_a": "4",
 
-                "reason":""
+                "reason":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuYiJ9SHA6WE_VtXvygS0Hpkm8Qx3aI7CAKR1imp2wv69FN3UE"
 
         },
 
