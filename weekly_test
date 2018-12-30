@@ -1,161 +1,369 @@
 {
-        "Date" : "23/12/18", 
+
+        "Date" : "30/12/18", 
+
         "Weekly_Questions": [
+
         {
-                "gpat_q": "In which of the following techniques, the sample is kept below triple point?",
-                "gpat_a1": "Lyophilization",
-                "gpat_a2": "Spray drying",
-                "gpat_a3": "Centrifugation",
-                "gpat_a4": "Spray congealing",
+
+                "gpat_q": "Which of the following alkaloids has hypotensive activity?",
+
+                "gpat_a1": "Reserpine",
+
+                "gpat_a2": "Quinine",
+
+                "gpat_a3": "Emetine",
+
+                "gpat_a4": "Papaverine",
+
                 "gpat_correct_a": "1",
+
                 "reason":""
+
         },
+
         {
+
                 "gpat_q": "Which one of the following is not an ex-officio member of Pharmacy Council of India?",
+
                 "gpat_a1": "The Director General of Health Services",
+
                 "gpat_a2": "The Director of Central Drugs Laboratory",
+
                 "gpat_a3": "The Drugs Controller General of India",
+
                 "gpat_a4": "The Director of Pharmacopoeia Laboratory",
+
                 "gpat_correct_a": "4",
+
                 "reason":""
+
         },
+
         {
-                "gpat_q": "Class 100 area is referred to",
-                "gpat_a1": "Manufacturing area",
-                "gpat_a2": "Aseptic area",
-                "gpat_a3": "Clean room",
-                "gpat_a4": "Ware house",
+
+                "gpat_q": "ß-cyclodextrin consists of _____________ gluopyranose units.",
+
+                "gpat_a1": "6",
+
+                "gpat_a2": "7",
+
+                "gpat_a3": "8",
+
+                "gpat_a4": "9",
+
                 "gpat_correct_a": "2",
+
                 "reason":""
+
         },
+
         {
-                "gpat_q": "Amntadine is helpful in parkinson's disease because :",
-                "gpat_a1": "It decreases cholinergic activity",
-                "gpat_a2": "It liberates dopamine from nerve endings",
-                "gpat_a3": "It is metabolised into dopamine ",
-                "gpat_a4": "It increases adrenergic activity",
-                "gpat_correct_a": "2",
+
+                "gpat_q": "Following is not a method used for the characterization of polymorphs",
+
+                "gpat_a1": "HPLC",
+
+                "gpat_a2": "XRPD",
+
+                "gpat_a3": "TGA",
+
+                "gpat_a4": "Dissolution testing",
+
+                "gpat_correct_a": "1",
+
                 "reason":""
+
         },
+
         {
-                "gpat_q": "Zona fasciculata of suprarenal gland that produces:",
-                "gpat_a1": "Minerelocorticoids",
-                "gpat_a2": "Glycocorticoids",
-                "gpat_a3": "Sex hormones",
-                "gpat_a4": "Adrenaline",
+
+                "gpat_q": "Particle size reduction will not enhance the absorption of",
+
+                "gpat_a1": "Hydrophobic compounds",
+
+                "gpat_a2": "Hydrophilic compounds",
+
+                "gpat_a3": "Weak acids",
+
+                "gpat_a4": "Weak bases",
+
                 "gpat_correct_a": "2",
-                "reason": ""
+
+                "reason":":"
+
         },
+
         {
-                "gpat_q": "Geriatric population should be included in the following phase of clinical trials:",
-                "gpat_a1": "Phase I",
-                "gpat_a2": "Phase II",
-                "gpat_a3": "Phase III",
-                "gpat_a4": "Phase IV",
+
+                "gpat_q": "If drug is so coloured, coated or polished that damage its therapeutic value or it is made to appear of better or greater therapeutic value than it really is known as",
+
+                "gpat_a1": "Adulterated Drug",
+
+                "gpat_a2": "Spurious Drug",
+
+                "gpat_a3": "Misbranded Drug",
+
+                "gpat_a4": "PTrue Drug",
+
                 "gpat_correct_a": "3",
+
                 "reason":""
+
         },
+
         {
-                "gpat_q": "Rabies vaccine (living) is prepared using",
-                "gpat_a1": "Sheep blood",
-                "gpat_a2": "Mice lymph",
-                "gpat_a3": "Horse plasma",
-                "gpat_a4": "Fertile eggs",
+
+                "gpat_q": "Which of the following is prohibited to be imported?",
+
+                "gpat_a1": "Toilet preparations",
+
+                "gpat_a2": "Ayurvedic drugs",
+
+                "gpat_a3": "Schedule ‘C’ and ‘G’ drugs",
+
+                "gpat_a4": "Misbranded drugs",
+
                 "gpat_correct_a": "4",
+
                 "reason":""
+
         },
+
         {
-                "gpat_q": "In nail polish, the following polymer is used as a film-former:",
-                "gpat_a1": "Polylactic acid",
-                "gpat_a2": "Nitrocellulose",
-                "gpat_a3": "Hydroxypropyl methylcellulose",
-                "gpat_a4": "Cellulose acetate phthalate",
+
+                "gpat_q": "Solvent used with water to solubilize digitalis glycoside is",
+
+                "gpat_a1": "Acetone",
+
+                "gpat_a2": "Ethanol",
+
+                "gpat_a3": "Methanol",
+
+                "gpat_a4": "Chloroform",
+
                 "gpat_correct_a": "2",
-                "reason": " "},
-        {"gpat_q": "Chloramphenicol belongs to schedule",
-                "gpat_a1": "X",
-                "gpat_a2": "P",
-                "gpat_a3": "G",
-                "gpat_a4": "H",
-                "gpat_correct_a": "2",
-                "reason": "http://fda.up.nic.in/schedule_P.htm"
+
+                "reason":":"
+
         },
-        {"gpat_q": "Drugs in suspensions and semi-solid formulations always degrade by",
+
+        {
+
+                "gpat_q": "India Ink method is used for",
+
+                "gpat_a1": "Flagella staining",
+
+                "gpat_a2": "Capsule staining",
+
+                "gpat_a3": "Gram staining",
+
+                "gpat_a4": "Spore staining",
+
+                "gpat_correct_a": "2",
+
+                "reason":""
+
+        },
+
+        {
+
+                "gpat_q": "Drugs in suspensions and semi-solid formulations always degrade by",
+
                 "gpat_a1": "first order kinetics",
+
                 "gpat_a2": "second order kinetics",
+
                 "gpat_a3": "non-linear kinetics",
+
                 "gpat_a4": "zero order kinetics",
+
                 "gpat_correct_a": "4",
-                "reason":""},
-        {                "gpat_q": "In thiazides, following substituent is essential for diuretic activity:",
-                "gpat_a1": "Chloro group at position 6",
-                "gpat_a2": "Methyl group at position 2",
-                "gpat_a3": "Sulphamoyl group at position 7",
-                "gpat_a4": "Hydrophobic group at position 3",
-                "gpat_correct_a": "3",
-                "reason":""        },
-        {             "gpat_q": "One of the following statements is not true:",
-                "gpat_a1": "Accuracy expresses the correctness of measurement",
-                "gpat_a2": "High degree of precision implies high degree of accuracy also",
-                "gpat_a3": "High degree of accuracy implies high degree of precesion also",
-                "gpat_a4": "Precision represents reproducibility of measurement",
+
+                "reason":""
+
+        },
+
+        {
+
+                "gpat_q": "Cytotoxic drug with maximum emetic activity is",
+
+                "gpat_a1": "Chlorambucil",
+
+                "gpat_a2": "Methotrexate ",
+
+                "gpat_a3": "Busulfan",
+
+                "gpat_a4": "Cisplatin",
+
+                "gpat_correct_a": "4",
+
+                "reason":""
+
+        },
+
+        {
+
+                "gpat_q": "One of the following is faecal softner",
+
+                "gpat_a1": "Bisacodyl",
+
+                "gpat_a2": "Docusate sodium",
+
+                "gpat_a3": "Isapghula husk",
+
+                "gpat_a4": "Cisapride",
+
                 "gpat_correct_a": "2",
-                "reason":""        },
-        {                "gpat_q": "A metabolite obtained from Aspergillus terreus that can bind very tightly to HMG CoA reductase enzyme is",
-                "gpat_a1": " Fluvastatin",
-                "gpat_a2": "Cerivastatin",
-                "gpat_a3": "Lovastatin",
-                "gpat_a4": "Somatostatin",
-                "gpat_correct_a": "3",
-                "reason":""        },
-        {                "gpat_q": "Proton pump inhibitors like omeprazole and lansoprazole contain the following ring system:",
-                "gpat_a1": "Pyrimidine",
-                "gpat_a2": "Benzimidazole",
-                "gpat_a3": "Benzothiazole",
-                "gpat_a4": "Oxindole",
-                "gpat_correct_a": "2",
-                "reason":""        },
-        {                "gpat_q": "Selective serotonin reuptake inhibitor is",
-                "gpat_a1": "Imipramine",
-                "gpat_a2": "Iproniazide",
-                "gpat_a3": " Fluoxetin",
-                "gpat_a4": "Naphazoline",
-                "gpat_correct_a": "3",
-                "reason":""      },
-        {                "gpat_q": "In Gas-Liquid Chromatography, some of the samples need to be derivatized in order to increase their",
-                "gpat_a1": "volatility",
-                "gpat_a2": "solubility ",
-                "gpat_a3": "thermal conductivity",
-                "gpat_a4": "polarizability",
+
+                "reason":""
+
+        },
+
+        {
+
+                "gpat_q": "As per Woodward-Hoffman rules for electeocyclic reaction, for 4n system under thermal condition rotation direction for bonding is :",
+
+                "gpat_a1": "Conrotation",
+
+                "gpat_a2": "Disrotation",
+
+                "gpat_a3": "Both A and B",
+
+                "gpat_a4": "None of these",
+
                 "gpat_correct_a": "1",
-                "reason":"Volatility for GLC and Polarization for LLC (HPLC) "       },
-        {              "gpat_q": "Glass transition temperature is detected through",
-                "gpat_a1": "Differential scanning calorimetery",
-                "gpat_a2": "Thermogravimetric analysis",
-                "gpat_a3": "X-Ray diffractometery",
-                "gpat_a4": "Solution calorimetery",
+
+                "reason":""
+
+        },
+
+        {
+
+                "gpat_q": "The cyclic hemiacetal formation in D-Glucose involves bond formation between ",
+
+                "gpat_a1": "C1 and C4",
+
+                "gpat_a2": "C2 and C5",
+
+                "gpat_a3": "C1 and C5",
+
+                "gpat_a4": "C1 and C2",
+
+                "gpat_correct_a": "3",
+
+                "reason":""
+
+        },
+
+        {
+
+                "gpat_q": "Which of the following is not a prodrug",
+
+                "gpat_a1": "Proguanil",
+
+                "gpat_a2": "Sulfasalazine",
+
+                "gpat_a3": " Prontosil red",
+
+                "gpat_a4": "Trimethoprim",
+
+                "gpat_correct_a": "4",
+
+                "reason":""
+
+        },
+
+        {
+
+                "gpat_q": "Latex vessels are present in which of the following drug? ",
+
+                "gpat_a1": "Lobelia",
+
+                "gpat_a2": "Datura ",
+
+                "gpat_a3": "Sarpagandha",
+
+                "gpat_a4": "Gokhru",
+
                 "gpat_correct_a": "1",
-               "reason":""        },
-        {                "gpat_q": "Artemisinin contains the following group in its structure :",
-                "gpat_a1": "an acid hydrazide",
-                "gpat_a2": "an exoperoxide",
-                "gpat_a3": "an epoxide",
-                "gpat_a4": "an endoperoxide",
+
+                "reason":""
+
+        },
+
+        {
+
+                "gpat_q": "Picric acid is a chemical composition of",
+
+                "gpat_a1": "Van urk's reagent",
+
+                "gpat_a2": "Mayer reagent",
+
+                "gpat_a3": "Wagner's reagent ",
+
+                "gpat_a4": "Hager's reagent ",
+
                 "gpat_correct_a": "4",
-                "reason":""        },
-        {               "gpat_q": "Nicotinic action of acetylcholine is blocked by the drug",
-                "gpat_a1": "Atropine",
-                "gpat_a2": "Carvedilol",
-                "gpat_a3": "Neostigmine",
-                "gpat_a4": "d-Tubocurarine",
-                "gpat_correct_a": "4",
-                "reason":""       },
-        {              "gpat_q": "Select the correct combination of drugs for the treatment of patients suffering from Hepatitis C.",
-                "gpat_a1": "Interferon with Ribavirin",
-                "gpat_a2": "Interferon with Zidovudine",
-                "gpat_a3": "Interferon with Stavudine",
-                "gpat_a4": "Interferon with Lamivudine",
-                "gpat_correct_a": "2",
-                "reason":""      }
+
+                "reason":""
+
+        },
+
+        {
+
+                "gpat_q": "Plasmodesma are present in",
+
+                "gpat_a1": "Nux-Vomica",
+
+                "gpat_a2": "Ergot",
+
+                "gpat_a3": "Physostigma",
+
+                "gpat_a4": "Both a and b",
+
+                "gpat_correct_a": "1",
+
+                "reason":""
+
+        },
+
+        {
+
+                "gpat_q": "Which statement is false about Aspirin?",
+
+                "gpat_a1": "It inhibits COX and Thromboxane A2",
+
+                "gpat_a2": "It is safer in asthmatics ",
+
+                "gpat_a3": "It is drug of choice for Reye's syndrome",
+
+                "gpat_a4": "G-6-PD deficiency may enhance aspirin toxicity",
+
+                "gpat_correct_a": "3",
+
+                "reason":"Taking Aspirin increases the risk of Reye's syndrome. "
+
+        },
+
+        {
+
+                "gpat_q": "Nicotinic receptor is ",
+
+                "gpat_a1": "Ligand gated ion channel",
+
+                "gpat_a2": "Tyrosine kinase",
+
+                "gpat_a3": "GPCR",
+
+                "gpat_a4": "Acid type",
+
+                "gpat_correct_a": "1",
+
+                "reason":""
+
+        }
+
 ] 
+
 }
