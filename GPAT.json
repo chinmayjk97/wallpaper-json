@@ -2200,6 +2200,14 @@ ions",
                 "gpat_a3": "Fixed ",
                 "gpat_a4": "Normal",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "In the steroidal sex hormonal series, one of the following group is not essential for the activity",
+                "gpat_a1": "3 hydroxyl functional group",
+                "gpat_a2": "19 methyl group",
+                "gpat_a3": "17 hydroxyl functional group",
+                "gpat_a4": "3 and 17 oxygen group",
+                "gpat_correct_a": "2"
         }
    ] 
 }
