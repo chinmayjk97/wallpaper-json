@@ -2192,6 +2192,14 @@ ions",
                 "gpat_a3": "Non-selectivity",
                 "gpat_a4": "Inactivity",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In plastic system, below yield value, the apparent viscosity is",
+                "gpat_a1": "Higher",
+                "gpat_a2": "Infinite",
+                "gpat_a3": "Fixed ",
+                "gpat_a4": "Normal",
+                "gpat_correct_a": "2"
         }
    ] 
 }
