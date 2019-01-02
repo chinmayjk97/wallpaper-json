@@ -2208,6 +2208,14 @@ ions",
                 "gpat_a3": "17 hydroxyl functional group",
                 "gpat_a4": "3 and 17 oxygen group",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which of the following local anaesthetic raises BP instead of tending to cause a fall",
+                "gpat_a1": "Cocaine",
+                "gpat_a2": "Lidocaine",
+                "gpat_a3": "Tetracaine",
+                "gpat_a4": "Benoxinate",
+                "gpat_correct_a": "1"
         }
    ] 
 }
