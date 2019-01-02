@@ -2216,6 +2216,14 @@ ions",
                 "gpat_a3": "Tetracaine",
                 "gpat_a4": "Benoxinate",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Secretion of growth hormone is inhibited by",
+                "gpat_a1": "Somatomedin c",
+                "gpat_a2": "Somatostatin",
+                "gpat_a3": "Feedback inhibition",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "2"
         }
    ] 
 }
