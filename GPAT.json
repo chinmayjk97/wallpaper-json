@@ -2224,6 +2224,14 @@ ions",
                 "gpat_a3": "Feedback inhibition",
                 "gpat_a4": "All of the above",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Pantothenic acid is a part of",
+                "gpat_a1": "Renin",
+                "gpat_a2": "Carboxypeptidase",
+                "gpat_a3": "Co-enzyme A",
+                "gpat_a4": "NAD",
+                "gpat_correct_a": "3"
         }
    ] 
 }
