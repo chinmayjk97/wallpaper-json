@@ -2232,6 +2232,22 @@ ions",
                 "gpat_a3": "Co-enzyme A",
                 "gpat_a4": "NAD",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "INH is synthesized from",
+                "gpat_a1": "Picoline",
+                "gpat_a2": "Nicotinamide",
+                "gpat_a3": "nicotinic acid",
+                "gpat_a4": "Pyridine-3-carboxylic acid",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "A colorimeter can be used as a turbidimeter by using",
+                "gpat_a1": "Red filter",
+                "gpat_a2": "Blue filter",
+                "gpat_a3": "Violet filter",
+                "gpat_a4": "Green filter",
+                "gpat_correct_a": "2"
         }
    ] 
 }
