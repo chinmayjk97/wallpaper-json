@@ -2256,6 +2256,14 @@ ions",
                 "gpat_a3": "Complex mixture assay",
                 "gpat_a4": "Palnt biosynthesis",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "How many half lives of drug are required to obtain a steady state concentration is 90%",
+                "gpat_a1": "3.3hrs",
+                "gpat_a2": "6.6hrs",
+                "gpat_a3": "9.9hrs",
+                "gpat_a4": "5.5hrs",
+                "gpat_correct_a": "1"
         }
    ] 
 }
