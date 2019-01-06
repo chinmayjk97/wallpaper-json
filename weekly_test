@@ -34,7 +34,7 @@
                 "gpat_a2": "Preservatives",
                 "gpat_a3": "Antioxidants",
                 "gpat_a4": "Sequestering agents",
-                "gpat_correct_a": "2",
+                "gpat_correct_a": "1",
                 "reason":""
         },
         {
@@ -43,7 +43,7 @@
                 "gpat_a2": "Disintegration test apparatus",
                 "gpat_a3": "Frabilator",
                 "gpat_a4": "Screw gauge",
-                "gpat_correct_a": "1",
+                "gpat_correct_a": "3",
                 "reason":""
         },
         {
@@ -113,7 +113,7 @@
                 "gpat_q": "One of the following mills works on both the principles of attrition and impact",
                 "gpat_a1": "Cutter mill",
                 "gpat_a2": "Roller mill",
-                "gpat_a3": "Fluid energy mill",
+                "gpat_a3": "Ball mill",
                 "gpat_a4": "Hammer mill",
                 "gpat_correct_a": "3",
                 "reason":""
