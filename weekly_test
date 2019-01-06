@@ -1,369 +1,185 @@
 {
-
-        "Date" : "30/12/18", 
-
+        "Date" : "06/01/19", 
         "Weekly_Questions": [
-
         {
-
-                "gpat_q": "Which of the following alkaloids has hypotensive activity?",
-
-                "gpat_a1": "Reserpine",
-
-                "gpat_a2": "Quinine",
-
-                "gpat_a3": "Emetine",
-
-                "gpat_a4": "Papaverine",
-
+                "gpat_q": "Volatile oil from lemon peels contains d-limonene which is",
+                "gpat_a1": "Phenyl propane derivative",
+                "gpat_a2": "Bicyclic monoterpene derivative",
+                "gpat_a3": "Monocyclic monoterpene derivative",
+                "gpat_a4": "Acyclic sesquiterpene derivative",
                 "gpat_correct_a": "1",
-
                 "reason":""
-
         },
-
         {
-
-                "gpat_q": "Which one of the following is not an ex-officio member of Pharmacy Council of India?",
-
-                "gpat_a1": "The Director General of Health Services",
-
-                "gpat_a2": "The Director of Central Drugs Laboratory",
-
-                "gpat_a3": "The Drugs Controller General of India",
-
-                "gpat_a4": "The Director of Pharmacopoeia Laboratory",
-
-                "gpat_correct_a": "4",
-
-                "reason":""
-
-        },
-
-        {
-
-                "gpat_q": "ß-cyclodextrin consists of _____________ gluopyranose units.",
-
-                "gpat_a1": "6",
-
-                "gpat_a2": "7",
-
-                "gpat_a3": "8",
-
-                "gpat_a4": "9",
-
+                "gpat_q": "In case of digitalis purpurea, the cardiac activity is maxiumum with ",
+                "gpat_a1": "Oodroside-H",
+                "gpat_a2": "Digoxin",
+                "gpat_a3": "Digitoxin",
+                "gpat_a4": "Purpurea glycoside",
                 "gpat_correct_a": "2",
-
                 "reason":""
-
         },
-
         {
-
-                "gpat_q": "Following is not a method used for the characterization of polymorphs",
-
-                "gpat_a1": "HPLC",
-
-                "gpat_a2": "XRPD",
-
-                "gpat_a3": "TGA",
-
-                "gpat_a4": "Dissolution testing",
-
-                "gpat_correct_a": "1",
-
-                "reason":""
-
-        },
-
-        {
-
-                "gpat_q": "Particle size reduction will not enhance the absorption of",
-
-                "gpat_a1": "Hydrophobic compounds",
-
-                "gpat_a2": "Hydrophilic compounds",
-
-                "gpat_a3": "Weak acids",
-
-                "gpat_a4": "Weak bases",
-
-                "gpat_correct_a": "2",
-
-                "reason":":"
-
-        },
-
-        {
-
-                "gpat_q": "If drug is so coloured, coated or polished that damage its therapeutic value or it is made to appear of better or greater therapeutic value than it really is known as",
-
-                "gpat_a1": "Adulterated Drug",
-
-                "gpat_a2": "Spurious Drug",
-
-                "gpat_a3": "Misbranded Drug",
-
-                "gpat_a4": "True Drug",
-
+                "gpat_q": "Dragendorff reagent does not give a positive test with",
+                "gpat_a1": "Emetine",
+                "gpat_a2": "Morphine",
+                "gpat_a3": "Caffeine",
+                "gpat_a4": "Codeine",
                 "gpat_correct_a": "3",
-
                 "reason":""
-
         },
-
         {
-
-                "gpat_q": "Which of the following is prohibited to be imported?",
-
-                "gpat_a1": "Toilet preparations",
-
-                "gpat_a2": "Ayurvedic drugs",
-
-                "gpat_a3": "Schedule ‘C’ and ‘G’ drugs",
-
-                "gpat_a4": "Misbranded drugs",
-
-                "gpat_correct_a": "4",
-
-                "reason":""
-
-        },
-
-        {
-
-                "gpat_q": "Solvent used with water to solubilize digitalis glycoside is",
-
-                "gpat_a1": "Acetone",
-
-                "gpat_a2": "Ethanol",
-
-                "gpat_a3": "Methanol",
-
-                "gpat_a4": "Chloroform",
-
+                "gpat_q": "HLB system is used to classify",
+                "gpat_a1": "Surfactants",
+                "gpat_a2": "Preservatives",
+                "gpat_a3": "Antioxidants",
+                "gpat_a4": "Sequestering agents",
                 "gpat_correct_a": "2",
-
-                "reason":":"
-
-        },
-
-        {
-
-                "gpat_q": "India Ink method is used for",
-
-                "gpat_a1": "Flagella staining",
-
-                "gpat_a2": "Capsule staining",
-
-                "gpat_a3": "Gram staining",
-
-                "gpat_a4": "Spore staining",
-
-                "gpat_correct_a": "2",
-
-                "reason":"Microbiologists use India ink to stain a slide containing micro-organisms. The background is stained while the organisms remain clear. This is called a negative stain. India ink, along with other stains, can be used to determine if a cell has a gelatinous capsule.A common application of this procedure in the clinical microbiology laboratory is to confirm the morphology of the encapsulated yeast Cryptococcus spp. which cause cryptococcal meningitis."
-
-        },
-
-        {
-
-                "gpat_q": "Drugs in suspensions and semi-solid formulations always degrade by",
-
-                "gpat_a1": "first order kinetics",
-
-                "gpat_a2": "second order kinetics",
-
-                "gpat_a3": "non-linear kinetics",
-
-                "gpat_a4": "zero order kinetics",
-
-                "gpat_correct_a": "4",
-
                 "reason":""
-
         },
-
         {
-
-                "gpat_q": "Cytotoxic drug with maximum emetic activity is",
-
-                "gpat_a1": "Chlorambucil",
-
-                "gpat_a2": "Methotrexate ",
-
-                "gpat_a3": "Busulfan",
-
-                "gpat_a4": "Cisplatin",
-
-                "gpat_correct_a": "4",
-
-                "reason":""
-
-        },
-
-        {
-
-                "gpat_q": "One of the following is faecal softner",
-
-                "gpat_a1": "Bisacodyl",
-
-                "gpat_a2": "Docusate sodium",
-
-                "gpat_a3": "Isapghula husk",
-
-                "gpat_a4": "Cisapride",
-
-                "gpat_correct_a": "2",
-
-                "reason":""
-
-        },
-
-        {
-
-                "gpat_q": "As per Woodward-Hoffman rules for electrocyclic reaction, for 4n system under thermal condition rotation direction for bonding is :",
-
-                "gpat_a1": "Conrotation",
-
-                "gpat_a2": "Disrotation",
-
-                "gpat_a3": "Both A and B",
-
-                "gpat_a4": "None of these",
-
+                "gpat_q": "Durability of tablet to combined effects of shock and abrasion is evaluated by using ",
+                "gpat_a1": "Hardness tester",
+                "gpat_a2": "Disintegration test apparatus",
+                "gpat_a3": "Frabilator",
+                "gpat_a4": "Screw gauge",
                 "gpat_correct_a": "1",
-
                 "reason":""
-
         },
-
         {
-
-                "gpat_q": "The cyclic hemiacetal formation in D-Glucose involves bond formation between ",
-
-                "gpat_a1": "C1 and C4",
-
-                "gpat_a2": "C2 and C5",
-
-                "gpat_a3": "C1 and C5",
-
-                "gpat_a4": "C1 and C2",
-
-                "gpat_correct_a": "3",
-
-                "reason":""
-
-        },
-
-        {
-
-                "gpat_q": "Which of the following is not a prodrug",
-
-                "gpat_a1": "Proguanil",
-
-                "gpat_a2": "Sulfasalazine",
-
-                "gpat_a3": " Prontosil red",
-
-                "gpat_a4": "Trimethoprim",
-
-                "gpat_correct_a": "4",
-
-                "reason":""
-
-        },
-
-        {
-
-                "gpat_q": "Latex vessels are present in which of the following drug? ",
-
-                "gpat_a1": "Lobelia",
-
-                "gpat_a2": "Datura ",
-
-                "gpat_a3": "Sarpagandha",
-
-                "gpat_a4": "Gokhru",
-
+                "gpat_q": "The labelling instruction “To be diluted 20 times its volume with water” indicates the dispensed product is a:-",
+                "gpat_a1": "Mouthwash",
+                "gpat_a2": "Elixir",
+                "gpat_a3": "Linctus",
+                "gpat_a4": "Mixture",
                 "gpat_correct_a": "1",
-
                 "reason":""
-
         },
-
         {
-
-                "gpat_q": "Picric acid is a chemical composition of",
-
-                "gpat_a1": "Van urk's reagent",
-
-                "gpat_a2": "Mayer reagent",
-
-                "gpat_a3": "Wagner's reagent ",
-
-                "gpat_a4": "Hager's reagent ",
-
-                "gpat_correct_a": "4",
-
-                "reason":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuYiJ9SHA6WE_VtXvygS0Hpkm8Qx3aI7CAKR1imp2wv69FN3UE"
-
+                "gpat_q": "Herpesviruses are large encapsulated viruses that have double stranded DNA genome that encodes approximately 70 proteins. It causes acute infection followed by latent infection in which virus persist in noninfectious form with periodic reactivation and shedding of infectious virus. Following are the examples of such herpesvirus – except:-",
+                "gpat_a1": "Epstein-Barr Virus",
+                "gpat_a2": "Herpes simplex",
+                "gpat_a3": "Varicella Zoster",
+                "gpat_a4": "Cytomegalovirus",
+                "gpat_correct_a": "1",
+                "reason":""
         },
-
         {
-
-                "gpat_q": "Plasmodesma are present in",
-
-                "gpat_a1": "Nux-Vomica",
-
+                "gpat_q": "The WIPO is the specialized agency of the UnitedNations. It promotes protection of __________ throughout the world.",
+                "gpat_a1": "Intellectual properties",
+                "gpat_a2": "World properties",
+                "gpat_a3": "Pharmaceutical organizations",
+                "gpat_a4": "Finace companies",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following alkaloid (form) is used to treat migrane?",
+                "gpat_a1": "Coca",
                 "gpat_a2": "Ergot",
-
-                "gpat_a3": "Physostigma",
-
-                "gpat_a4": "Both a and b",
-
-                "gpat_correct_a": "1",
-
+                "gpat_a3": "Vinca",
+                "gpat_a4": "Belladonna",
+                "gpat_correct_a": "2",
                 "reason":""
-
         },
-
         {
-
-                "gpat_q": "Which statement is false about Aspirin?",
-
-                "gpat_a1": "It inhibits COX and Thromboxane A2",
-
-                "gpat_a2": "It is safer in asthmatics ",
-
-                "gpat_a3": "It is drug of choice for Reye's syndrome",
-
-                "gpat_a4": "G-6-PD deficiency may enhance aspirin toxicity",
-
+                "gpat_q": "Drugs in suspensions and semi-solid formulations always degrade by",
+                "gpat_a1": "first order kinetics",
+                "gpat_a2": "second order kinetics",
+                "gpat_a3": "non-linear kinetics",
+                "gpat_a4": "zero order kinetics",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "The major differences between the prokaryotic and eukaryotic protein synthesis mechanisms are in which part of the process?",
+                "gpat_a1": "The initiation of synthesis",
+                "gpat_a2": "The chain elongation process",
+                "gpat_a3": "The chain termination Process",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Antibiotics that inhibit cell wall synthesis include: Except",
+                "gpat_a1": "Cefuroxime",
+                "gpat_a2": "Erythromycin",
+                "gpat_a3": "Vancomycin",
+                "gpat_a4": "Benzylpenicillin",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "One of the following mills works on both the principles of attrition and impact",
+                "gpat_a1": "Cutter mill",
+                "gpat_a2": "Roller mill",
+                "gpat_a3": "Fluid energy mill",
+                "gpat_a4": "Hammer mill",
                 "gpat_correct_a": "3",
-
-                "reason":"Taking Aspirin increases the risk of Reye's syndrome. "
-
-        },
-
-        {
-
-                "gpat_q": "Nicotinic receptor is ",
-
-                "gpat_a1": "Ligand gated ion channel",
-
-                "gpat_a2": "Tyrosine kinase",
-
-                "gpat_a3": "GPCR",
-
-                "gpat_a4": "Acid type",
-
-                "gpat_correct_a": "1",
-
                 "reason":""
-
+        },
+        {
+                "gpat_q": "The most specific agent for treatment of petit mal epilepsy is",
+                "gpat_a1": "Primidone",
+                "gpat_a2": "Phenytoin",
+                "gpat_a3": "Gabapentin",
+                "gpat_a4": "Ethosuximide",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "When the angle of contact between a solid and a liquid is 90°, then",
+                "gpat_a1": "Cohesive force > Adhesive force",
+                "gpat_a2": "Cohesive force < Adhesive force",
+                "gpat_a3": "Cohesive force = Adhesive force",
+                "gpat_a4": "Cohesive force >> Adhesive force",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "All statements are correct for E-2 reaction, except",
+                "gpat_a1": "Follows first-order kinetic",
+                "gpat_a2": "Reactivity order is 3° > 2° > 1°",
+                "gpat_a3": "Always ß-hydrogen abstracted",
+                "gpat_a4": "Single-step reaction",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Glass transition temperature is detected through",
+                "gpat_a1": "Differential scanning calorimetery",
+                "gpat_a2": "Thermogravimetric analysis",
+                "gpat_a3": "X-Ray diffractometery",
+                "gpat_a4": "Solution calorimetery",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Klystron is used as radiation source in",
+                "gpat_a1": "X-ray diffraction",
+                "gpat_a2": "Electron spin resonance",
+                "gpat_a3": "Mass spectrometry",
+                "gpat_a4": "None of above",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "In polarography apparatus ________________ is generated.",
+                "gpat_a1": "Polarogram",
+                "gpat_a2": "Polarograph",
+                "gpat_a3": "Polarometer",
+                "gpat_a4": "Polaroscope",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Bayer’s reagent is?",
+                "gpat_a1": "KMnO4",
+                "gpat_a2": "K2Cr2O7",
+                "gpat_a3": "NaNO2 + HCl",
+                "gpat_a4": "HNO3 15: 2Cr2O7",
+                "gpat_correct_a": "1",
+                "reason":""
         }
-
 ] 
-
 }
