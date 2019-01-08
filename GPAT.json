@@ -2272,6 +2272,14 @@ ions",
                 "gpat_a3": "aldehyde dehydrogenase ",
                 "gpat_a4": "Both A and C",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Tropane system is fusion of ___",
+                "gpat_a1": "Pyrrolidine and pipyridine",
+                "gpat_a2": "Pyrrolidine and pyrimidine",
+                "gpat_a3": "Pyrrole and pyrazine",
+                "gpat_a4": "Thiophene and piperidine",
+                "gpat_correct_a": "1"
         }
    ] 
 }
