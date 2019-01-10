@@ -2288,6 +2288,14 @@ ions",
                 "gpat_a3": "Threonine",
                 "gpat_a4": "Valine",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The following is not used as a detector in GC ",
+                "gpat_a1": "Katharometer",
+                "gpat_a2": "flame thermo couple detector",
+                "gpat_a3": "bolometer",
+                "gpat_a4": "electron capture detector",
+                "gpat_correct_a": "3"
         }
    ] 
 }
