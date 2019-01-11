@@ -2296,6 +2296,14 @@ ions",
                 "gpat_a3": "bolometer",
                 "gpat_a4": "electron capture detector",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "LCMS is widely used in",
+                "gpat_a1": "Multielectrolyte assay",
+                "gpat_a2": "Drug metabolite study",
+                "gpat_a3": "Complex mixture assay",
+                "gpat_a4": "Plant biosynthesis",
+                "gpat_correct_a": "2"
         }
    ] 
 }
