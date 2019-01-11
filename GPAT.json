@@ -2304,6 +2304,14 @@ ions",
                 "gpat_a3": "Complex mixture assay",
                 "gpat_a4": "Plant biosynthesis",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "drug disposition include",
+                "gpat_a1": "drug absorption and distribution",
+                "gpat_a2": "drug absorption and metabolism",
+                "gpat_a3": "drug distribution, metabolism and excretion",
+                "gpat_a4": "drug metabolism and excretion",
+                "gpat_correct_a": "3"
         }
    ] 
 }
