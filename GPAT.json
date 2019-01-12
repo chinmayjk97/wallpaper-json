@@ -2312,6 +2312,14 @@ ions",
                 "gpat_a3": "drug distribution, metabolism and excretion",
                 "gpat_a4": "drug metabolism and excretion",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Name the antidote for Rat poison",
+                "gpat_a1": "Strychnine ",
+                "gpat_a2": "Brucine ",
+                "gpat_a3": "Both A and B ",
+                "gpat_a4": "Carbon Black",
+                "gpat_correct_a": "1"
         }
    ] 
 }
