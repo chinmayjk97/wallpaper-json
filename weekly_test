@@ -1,184 +1,184 @@
 {
-        "Date" : "06/01/19", 
+        "Date" : "13/01/19", 
         "Weekly_Questions": [
         {
-                "gpat_q": "Volatile oil from lemon peels contains d-limonene which is",
-                "gpat_a1": "Phenyl propane derivative",
-                "gpat_a2": "Bicyclic monoterpene derivative",
-                "gpat_a3": "Monocyclic monoterpene derivative",
-                "gpat_a4": "Acyclic sesquiterpene derivative",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "In case of digitalis purpurea, the cardiac activity is maxiumum with ",
-                "gpat_a1": "Oodroside-H",
-                "gpat_a2": "Digoxin",
-                "gpat_a3": "Digitoxin",
-                "gpat_a4": "Purpurea glycoside",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Dragendorff reagent does not give a positive test with",
-                "gpat_a1": "Emetine",
-                "gpat_a2": "Morphine",
-                "gpat_a3": "Caffeine",
-                "gpat_a4": "Codeine",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "HLB system is used to classify",
-                "gpat_a1": "Surfactants",
-                "gpat_a2": "Preservatives",
-                "gpat_a3": "Antioxidants",
-                "gpat_a4": "Sequestering agents",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Durability of tablet to combined effects of shock and abrasion is evaluated by using ",
-                "gpat_a1": "Hardness tester",
-                "gpat_a2": "Disintegration test apparatus",
-                "gpat_a3": "Frabilator",
-                "gpat_a4": "Screw gauge",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "The labelling instruction “To be diluted 20 times its volume with water” indicates the dispensed product is a:-",
-                "gpat_a1": "Mouthwash",
-                "gpat_a2": "Elixir",
-                "gpat_a3": "Linctus",
-                "gpat_a4": "Mixture",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Herpesviruses are large encapsulated viruses that have double stranded DNA genome that encodes approximately 70 proteins. It causes acute infection followed by latent infection in which virus persist in noninfectious form with periodic reactivation and shedding of infectious virus. Following are the examples of such herpesvirus – except:-",
-                "gpat_a1": "Epstein-Barr Virus",
-                "gpat_a2": "Herpes simplex",
-                "gpat_a3": "Varicella Zoster",
-                "gpat_a4": "Cytomegalovirus",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "The WIPO is the specialized agency of the UnitedNations. It promotes protection of __________ throughout the world.",
-                "gpat_a1": "Intellectual properties",
-                "gpat_a2": "World properties",
-                "gpat_a3": "Pharmaceutical organizations",
-                "gpat_a4": "Finace companies",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following alkaloid (form) is used to treat migrane?",
-                "gpat_a1": "Coca",
-                "gpat_a2": "Ergot",
-                "gpat_a3": "Vinca",
-                "gpat_a4": "Belladonna",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Drugs in suspensions and semi-solid formulations always degrade by",
-                "gpat_a1": "first order kinetics",
-                "gpat_a2": "second order kinetics",
-                "gpat_a3": "non-linear kinetics",
-                "gpat_a4": "zero order kinetics",
+                "gpat_q": " Thyroid gland normally secretes which of the following substance into the serum? ",
+                "gpat_a1": " thyrotropin releasing hormone",
+                "gpat_a2": " thyrotropin",
+                "gpat_a3": " diiodothyronine",
+                "gpat_a4": "thyroxine", 
                 "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "The major differences between the prokaryotic and eukaryotic protein synthesis mechanisms are in which part of the process?",
-                "gpat_a1": "The initiation of synthesis",
-                "gpat_a2": "The chain elongation process",
-                "gpat_a3": "The chain termination Process",
+                "gpat_q": " patients taking chlorpropamide should avoid products containing ",
+                "gpat_a1": " acetaminophen", 
+                "gpat_a2": " Ethanol",
+                "gpat_a3": "Vit A",
+                "gpat_a4": "Penicillins",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": " the hypoglycemic action of sulfonylureas is likely to be attenuated by concurrent use of",
+                "gpat_a1": " hydrochlorothiazide",
+                "gpat_a2": " propranolol",
+                "gpat_a3": " chloramphenicol",
+                "gpat_a4": " aspirin",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": " the wavelength region for IR spectra is",
+                "gpat_a1": " 200-400nm",
+                "gpat_a2": "400-800nm",
+                "gpat_a3": "Below 200nm",
                 "gpat_a4": "None of the above",
-                "gpat_correct_a": "1",
+                "gpat_correct_a": "4",
+                "reason":"The wavelength of IR spectra is above 800nm. IR Spectra have low energy, longer wavelength. "
+        },
+        {
+                "gpat_q": " sulpha drugs are mostly assayed by ",
+                "gpat_a1": "Non Aqueous titration ",
+                "gpat_a2": "Redox titration ",
+                "gpat_a3": "complexometric titration ",
+                "gpat_a4": "diazotization titration ",
+                "gpat_correct_a": "4",
+                "reason":":"
+        },
+        {
+                "gpat_q": " Universal spraying reagent in TLC for all organic compounds is",
+                "gpat_a1": "Ninhydrin ",
+                "gpat_a2": "Aniline oxalate",
+                "gpat_a3": "Silver nitrate",
+                "gpat_a4": "50% sulphuric acid",
+                "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "Antibiotics that inhibit cell wall synthesis include: Except",
-                "gpat_a1": "Cefuroxime",
-                "gpat_a2": "Erythromycin",
-                "gpat_a3": "Vancomycin",
-                "gpat_a4": "Benzylpenicillin",
+                "gpat_q": " chenopodium oil obtained from chenopodium ambrosioides is used as", 
+                "gpat_a1": "Antiseptic ",
+                "gpat_a2": "Anthelmintic ",
+                "gpat_a3": "Carminative ",
+                "gpat_a4": "Stomachic",
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "One of the following mills works on both the principles of attrition and impact",
-                "gpat_a1": "Cutter mill",
-                "gpat_a2": "Roller mill",
-                "gpat_a3": "Ball mill",
-                "gpat_a4": "Hammer mill",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "The most specific agent for treatment of petit mal epilepsy is",
-                "gpat_a1": "Primidone",
-                "gpat_a2": "Phenytoin",
-                "gpat_a3": "Gabapentin",
-                "gpat_a4": "Ethosuximide",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "When the angle of contact between a solid and a liquid is 90°, then",
-                "gpat_a1": "Cohesive force > Adhesive force",
-                "gpat_a2": "Cohesive force < Adhesive force",
-                "gpat_a3": "Cohesive force = Adhesive force",
-                "gpat_a4": "Cohesive force >> Adhesive force",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "All statements are correct for E-2 reaction, except",
-                "gpat_a1": "Follows first-order kinetic",
-                "gpat_a2": "Reactivity order is 3° > 2° > 1°",
-                "gpat_a3": "Always ß-hydrogen abstracted",
-                "gpat_a4": "Single-step reaction",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Glass transition temperature is detected through",
-                "gpat_a1": "Differential scanning calorimetery",
-                "gpat_a2": "Thermogravimetric analysis",
-                "gpat_a3": "X-Ray diffractometery",
-                "gpat_a4": "Solution calorimetery",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Klystron is used as radiation source in",
-                "gpat_a1": "X-ray diffraction",
-                "gpat_a2": "Electron spin resonance",
-                "gpat_a3": "Mass spectrometry",
-                "gpat_a4": "None of above",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "In polarography apparatus ________________ is generated.",
-                "gpat_a1": "Polarogram",
-                "gpat_a2": "Polarograph",
-                "gpat_a3": "Polarometer",
-                "gpat_a4": "Polaroscope",
+                "gpat_q": "About 80% world supply of Colophony is produced by",
+                "gpat_a1": "Spain",
+                "gpat_a2": "USA",
+                "gpat_a3": "India",
+                "gpat_a4": "China",
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "Bayer’s reagent is?",
-                "gpat_a1": "KMnO4",
-                "gpat_a2": "K2Cr2O7",
-                "gpat_a3": "NaNO2 + HCl",
-                "gpat_a4": "HNO3 15: 2Cr2O7",
+                "gpat_q": " An example of saturated fatty acid is",
+                "gpat_a1": "Palmitic acid",
+                "gpat_a2": "Oleic Acid",
+                "gpat_a3": "Linoleic acid ",
+                "gpat_a4": "Erucic acid",
                 "gpat_correct_a": "1",
+                "reason":"linoleic acid contains 2 double bonds while oleic and erucic acid contains 1 double bond... Only Palmitic acid is the saturated acid in the above list. "
+        },
+        {
+                "gpat_q": " in amylopectin the intervals of glucose units of each branch is",
+                "gpat_a1": "10-20",
+                "gpat_a2": "24-30",
+                "gpat_a3": "30-40",
+                "gpat_a4": "40-50",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": " conversion of testosterone to oestrogen requires the enzyme", 
+                "gpat_a1": "Aromatase",
+                "gpat_a2": "dehydrogenase ",
+                "gpat_a3": "lyase",
+                "gpat_a4": "isomerase",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": " BMR is lowered in",
+                "gpat_a1": "Leukemia ",
+                "gpat_a2": "Cardiac failure ",
+                "gpat_a3": "Hypothyroidism ",
+                "gpat_a4": "Hyperthyroidism ",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": " substituted pyrimidine base of pharmacological value is",
+                "gpat_a1": " 5-Iododeoxyuridine",
+                "gpat_a2": "Cystisine arabinoside",
+                "gpat_a3": "5-Fluorouracil",
+                "gpat_a4": "All of the above ",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": " in Lineweaver-Burk plot, y intercept represents",
+                "gpat_a1": "Vmax",
+                "gpat_a2": "Km",
+                "gpat_a3": "Vmax/Km",
+                "gpat_a4": "1/Km",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": " acridine dyes are most effective against",
+                "gpat_a1": "Gram positive",
+                "gpat_a2": " Gram Negative",
+                "gpat_a3": " Ricke Hsia",
+                "gpat_a4": "Mycoplasma",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": " lysosomes is effective against",
+                "gpat_a1": " Gram Positive Bacteria",
+                "gpat_a2": " Gram Negative bacteria" ,
+                "gpat_a3": " protozoa",
+                "gpat_a4": "helminthes", 
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": " rotosort is an equipment used",
+                "gpat_a1": " to separate improper tablets",
+                "gpat_a2": "  to separate the unfilled capsules",
+                "gpat_a3": " to fix the cap in the body of the capsule after filling",
+                "gpat_a4": " to adjust the required compression for the tablets",
+                "gpat_correct_a": "2",
+              "reason":""
+        },
+        {
+                "gpat_q": " the diameter of mesh Apparatus in the IP disintegration test apparatus is given below. choose the correct size",
+                "gpat_a1": "2.00 mm",
+                "gpat_a2": "4.00 mm",
+                "gpat_a3": "1.00 mm",
+                "gpat_a4": "1.50 mm",
+                "gpat_correct_a": "3",
+                "reason":"https://www.pharmaguideline.com/2011/06/disintegration-test-and-apparatus.html?m=1"
+        },
+        {
+                "gpat_q": " the drug Regime useful in the treatment of both induction and extra intestinal symptoms of amoebiasis orally is",
+                "gpat_a1": " Diloxanide and iodoquinol",
+                "gpat_a2": " paromomycin and mefloquine", 
+                "gpat_a3": " metronidazole and Diloxanide",
+                "gpat_a4": " chloroquine alone",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": " the risk of digitalis toxicity is significantly increased by co administration of", 
+                "gpat_a1": " Triampterene",
+                "gpat_a2": "Lidocaine ",
+                "gpat_a3": "Captopril",
+                "gpat_a4": "Hydrochlorthiazide",
+                "gpat_correct_a": "4",
                 "reason":""
         }
 ] 
