@@ -2320,6 +2320,15 @@ ions",
                 "gpat_a3": "Both A and B ",
                 "gpat_a4": "Carbon Black",
                 "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "In new product development process, after analysis of 
+business next step to be taken is __________.",
+                "gpat_a1": "Test marketing",
+                "gpat_a2": " Penetration marketing",
+                "gpat_a3": "Brand marketing",
+                "gpat_a4": "Individual marketing",
+                "gpat_correct_a": "1"
         }
    ] 
 }
