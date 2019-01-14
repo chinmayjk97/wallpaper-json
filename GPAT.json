@@ -2329,6 +2329,14 @@ business next step to be taken is __________.",
                 "gpat_a3": "Brand marketing",
                 "gpat_a4": "Individual marketing",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In the bioassay of digitalis, use of _______ is made",
+                "gpat_a1": "pigeon",
+                "gpat_a2": "guinea pig",
+                "gpat_a3": "a and b",
+                "gpat_a4": "none",
+                "gpat_correct_a": "3"
         }
    ] 
 }
