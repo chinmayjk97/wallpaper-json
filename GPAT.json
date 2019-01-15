@@ -2337,6 +2337,14 @@ business next step to be taken is __________.",
                 "gpat_a3": "a and b",
                 "gpat_a4": "none",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Hoeppler viscometer is a type of:",
+                "gpat_a1": "Falling sphere viscometer",
+                "gpat_a2": "Capillary viscometer",
+                "gpat_a3": "Cup and Bob viscometer",
+                "gpat_a4": "Cone and plate viscometer",
+                "gpat_correct_a": "1"
         }
    ] 
 }
