@@ -2345,6 +2345,14 @@ business next step to be taken is __________.",
                 "gpat_a3": "Cup and Bob viscometer",
                 "gpat_a4": "Cone and plate viscometer",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which of the following test is specific for ketohexoses?",
+                "gpat_a1": "Molisch's test",
+                "gpat_a2": "Benedict's test",
+                "gpat_a3": "Barfoed's test",
+                "gpat_a4": "Seliwanoff's test",
+                "gpat_correct_a": "4"
         }
    ] 
 }
