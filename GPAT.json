@@ -2353,6 +2353,15 @@ business next step to be taken is __________.",
                 "gpat_a3": "Barfoed's test",
                 "gpat_a4": "Seliwanoff's test",
                 "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "A steroidal phyto constituent lowering blood sugar is 
+obtained from :",
+                "gpat_a1": "Momordica charantia",
+                "gpat_a2": "Glycrrhiza glabra",
+                "gpat_a3": "Dioscorea deltoidea",
+                "gpat_a4": "Rosa alba",
+                "gpat_correct_a": "1"
         }
    ] 
 }
