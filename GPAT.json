@@ -2362,6 +2362,14 @@ obtained from :",
                 "gpat_a3": "Dioscorea deltoidea",
                 "gpat_a4": "Rosa alba",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In column chromatography, the coloured components can be detected by",
+                "gpat_a1": "UV light",
+                "gpat_a2": "Visually ",
+                "gpat_a3": "Flame ionisation Technique ",
+                "gpat_a4": "TLC",
+                "gpat_correct_a": "2"
         }
    ] 
 }
