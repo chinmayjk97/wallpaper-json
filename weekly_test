@@ -1,184 +1,184 @@
 {
-        "Date" : "13/01/19", 
+        "Date" : "20/01/19", 
         "Weekly_Questions": [
         {
-                "gpat_q": " Thyroid gland normally secretes which of the following substance into the serum? ",
-                "gpat_a1": " thyrotropin releasing hormone",
-                "gpat_a2": " thyrotropin",
-                "gpat_a3": " diiodothyronine",
-                "gpat_a4": "thyroxine", 
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": " patients taking chlorpropamide should avoid products containing ",
-                "gpat_a1": " acetaminophen", 
-                "gpat_a2": " Ethanol",
-                "gpat_a3": "Vit A",
-                "gpat_a4": "Penicillins",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": " the hypoglycemic action of sulfonylureas is likely to be attenuated by concurrent use of",
-                "gpat_a1": " hydrochlorothiazide",
-                "gpat_a2": " propranolol",
-                "gpat_a3": " chloramphenicol",
-                "gpat_a4": " aspirin",
+				"gpat_q": "In tRNA molecule D arm is named for the presence of the base",
+                "gpat_a1": "Uridine",
+                "gpat_a2": "Pseudouridine",
+                "gpat_a3": "Dihydrouridine",
+                "gpat_a4": "Thymidine",
                 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": " the wavelength region for IR spectra is",
-                "gpat_a1": " 200-400nm",
-                "gpat_a2": "400-800nm",
-                "gpat_a3": "Below 200nm",
+                "gpat_q": "Along the alpha-helix each amino acid residue advances in nm by",
+                "gpat_a1": "0.15",
+                "gpat_a2": "0.10",
+                "gpat_a3": "0.12",
+                "gpat_a4": "0.20",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "The half life of a first order reaction is 4 months. What is its t90% in months?",
+                "gpat_a1": "3",
+                "gpat_a2": "4",
+                "gpat_a3": "8",
+                "gpat_a4": "12",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "The storage direction on a parenteral solution specify 'Store in a cool place'. This may be stored in",
+                "gpat_a1": "An air-conditioned area a 10 degrees",
+                "gpat_a2": "A refrigerator at 15 degrees",
+                "gpat_a3": "A place whose temperature is set at 5 degrees",
+                "gpat_a4": "Room temperature, at 25 degrees",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "The HLB value of lauryl sulphate is",
+                "gpat_a1": "6.5",
+                "gpat_a2": "13.8",
+                "gpat_a3": "25.0",
+                "gpat_a4": "40.0",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "________ is a morpholino ethyl ether of morphine",
+                "gpat_a1": "Nalorphine",
+                "gpat_a2": "Apomorphine",
+                "gpat_a3": "Pholcodine",
+                "gpat_a4": "Hydrocodone",
+                "gpat_correct_a": "3",
+                "reason":"https://pubchem.ncbi.nlm.nih.gov/compound/pholcodine"
+        },
+        {
+                "gpat_q": "Papaverine possess __________ methoxy groups",
+                "gpat_a1": "2",
+                "gpat_a2": "4",
+                "gpat_a3": "3",
+                "gpat_a4": "6",
+                "gpat_correct_a": "2",
+                "reason":"https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=4680&t=l"
+        },
+        {
+                "gpat_q": "Caffeine is not acidic because of",
+                "gpat_a1": "Absence of hydrogen on imide groups",
+                "gpat_a2": "Presence of keto groups",
+                "gpat_a3": "Presence of methyl groups",
+                "gpat_a4": "Presence of symmetrical triketo groups",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "The trans form of Citral is called ________",
+                "gpat_a1": "Neral",
+                "gpat_a2": "Nerol",
+                "gpat_a3": "Beta Ionone",
+                "gpat_a4": "Geranial",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Cephalosporin C on hydrolysis will ot give",
+                "gpat_a1": "6 APA",
+                "gpat_a2": "Acetic acid",
+                "gpat_a3": "Penicillamine",
+                "gpat_a4": "Dipeptide",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following diuretic would be most useful in patient with cerebral edema?",
+                "gpat_a1": "Acetazolamide",
+                "gpat_a2": "Amiloride",
+                "gpat_a3": "Mannitol",
+                "gpat_a4": "Furosemide",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which solution is used as an astringent?",
+                "gpat_a1": "Strong iodine solution USP",
+                "gpat_a2": "Acetic acid NE",
+                "gpat_a3": "Aromatic ammonia spirit USP",
+                "gpat_a4": "Aluminum acetate topical solution USP",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Apart from its in tuberculosis and leprosy, Rifampin is a first line drug from the following infective disease",
+                "gpat_a1": "Toxoplasmosis",
+                "gpat_a2": "Brucellosis",
+                "gpat_a3": "Donovanosis",
+                "gpat_a4": "Leishmaniasis",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "The following contains a Auxochrome",
+                "gpat_a1": "Ethylene",
+                "gpat_a2": "Ethane",
+                "gpat_a3": "Both a and b",
                 "gpat_a4": "None of the above",
                 "gpat_correct_a": "4",
-                "reason":"The wavelength of IR spectra is above 800nm. IR Spectra have low energy, longer wavelength. "
+                "reason":"An auxochrome is a functional group of atoms with one or more lone pairs of electrons when attached to a chromophore, alters both the wavelength and intensity of absorption. \n\nHere Ethylene and Ethane both doesn't fulfill the conditions to be called as auxochrome."
         },
         {
-                "gpat_q": " sulpha drugs are mostly assayed by ",
-                "gpat_a1": "Non Aqueous titration ",
-                "gpat_a2": "Redox titration ",
-                "gpat_a3": "complexometric titration ",
-                "gpat_a4": "diazotization titration ",
+                "gpat_q": "The wavelenth of light transmitted is ____ the wavelength of the incident light, in Nephlometry",
+                "gpat_a1": "The same as that of",
+                "gpat_a2": "Greater than",
+                "gpat_a3": "Lesser than",
+                "gpat_a4": "Different from",
+                "gpat_correct_a": "1",
+                "reason":"In Nephlometry, the incident light rays just gets scattered due to particles and hence wavelenth of scattered light is same as that of the incident light."
+        },
+        {
+                "gpat_q": "Androgens are produced by",
+                "gpat_a1": "Cells of sertoli",
+                "gpat_a2": "Leydig cells",
+                "gpat_a3": "Rete testis",
+                "gpat_a4": "Efferent ductules",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "One gram of carbohydrates on complete oxidation in body yields about",
+                "gpat_a1": "1 Kcal",
+                "gpat_a2": "4 Kcal",
+                "gpat_a3": "6 Kcal",
+                "gpat_a4": "9 Kcal",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "FAD is coenzyme for",
+                "gpat_a1": "Succinate dehydrogenase",
+                "gpat_a2": "Glycerol-3-phosphate dehydrogenase",
+                "gpat_a3": "Sphingosine reductase",
+                "gpat_a4": "All of the above",
                 "gpat_correct_a": "4",
-                "reason":":"
-        },
-        {
-                "gpat_q": " Universal spraying reagent in TLC for all organic compounds is",
-                "gpat_a1": "Ninhydrin ",
-                "gpat_a2": "Aniline oxalate",
-                "gpat_a3": "Silver nitrate",
-                "gpat_a4": "50% sulphuric acid",
-                "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": " chenopodium oil obtained from chenopodium ambrosioides is used as", 
-                "gpat_a1": "Antiseptic ",
-                "gpat_a2": "Anthelmintic ",
-                "gpat_a3": "Carminative ",
-                "gpat_a4": "Stomachic",
+                "gpat_q": "Anti hypertensive drug inhibits the renin angiotensin system is",
+                "gpat_a1": "Reserpine",
+                "gpat_a2": "Captopril",
+                "gpat_a3": "Methyl dopa",
+                "gpat_a4": "Propranalol",
                 "gpat_correct_a": "2",
-                "reason":""
+                "reason":"Reserpine's mechanism of action is through inhibition of the ATP/Mg2+ pump responsible for the sequestering of neurotransmitters into storage vesicles located in the presynaptic neuron. \n\nCaptopril is a potent, competitive inhibitor of angiotensin-converting enzyme (ACE), the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). \n\nα-Methylnorepinephrine is an agonist of presynaptic central nervous system α2 adrenergic receptors. Activation of these receptors in the brainstem appears to inhibit sympathetic nervous system output and lower blood pressure.\n\nPropranolol is a non-selective beta blocker; that is, it blocks the action of epinephrine (adrenaline) and norepinephrine (noradrenaline) at both β1- and β2-adrenergic receptors "
         },
         {
-                "gpat_q": "About 80% world supply of Colophony is produced by",
-                "gpat_a1": "Spain",
-                "gpat_a2": "USA",
-                "gpat_a3": "India",
-                "gpat_a4": "China",
+                "gpat_q": "Progesterone injection BP is a sterile solution in ",
+                "gpat_a1": "Water",
+                "gpat_a2": "Ethyl oleate",
+                "gpat_a3": "Propylene glycol",
+                "gpat_a4": "Glycerol",
                 "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": " An example of saturated fatty acid is",
-                "gpat_a1": "Palmitic acid",
-                "gpat_a2": "Oleic Acid",
-                "gpat_a3": "Linoleic acid ",
-                "gpat_a4": "Erucic acid",
-                "gpat_correct_a": "1",
-                "reason":"linoleic acid contains 2 double bonds while oleic and erucic acid contains 1 double bond... Only Palmitic acid is the saturated acid in the above list. "
-        },
-        {
-                "gpat_q": " in amylopectin the intervals of glucose units of each branch is",
-                "gpat_a1": "10-20",
-                "gpat_a2": "24-30",
-                "gpat_a3": "30-40",
-                "gpat_a4": "40-50",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": " conversion of testosterone to oestrogen requires the enzyme", 
-                "gpat_a1": "Aromatase",
-                "gpat_a2": "dehydrogenase ",
-                "gpat_a3": "lyase",
-                "gpat_a4": "isomerase",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": " BMR is lowered in",
-                "gpat_a1": "Leukemia ",
-                "gpat_a2": "Cardiac failure ",
-                "gpat_a3": "Hypothyroidism ",
-                "gpat_a4": "Hyperthyroidism ",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": " substituted pyrimidine base of pharmacological value is",
-                "gpat_a1": " 5-Iododeoxyuridine",
-                "gpat_a2": "Cystisine arabinoside",
-                "gpat_a3": "5-Fluorouracil",
-                "gpat_a4": "All of the above ",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": " in Lineweaver-Burk plot, y intercept represents",
-                "gpat_a1": "Vmax",
-                "gpat_a2": "Km",
-                "gpat_a3": "Vmax/Km",
-                "gpat_a4": "1/Km",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": " acridine dyes are most effective against",
-                "gpat_a1": "Gram positive",
-                "gpat_a2": " Gram Negative",
-                "gpat_a3": " Ricke Hsia",
-                "gpat_a4": "Mycoplasma",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": " lysosomes is effective against",
-                "gpat_a1": " Gram Positive Bacteria",
-                "gpat_a2": " Gram Negative bacteria" ,
-                "gpat_a3": " protozoa",
-                "gpat_a4": "helminthes", 
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": " rotosort is an equipment used",
-                "gpat_a1": " to separate improper tablets",
-                "gpat_a2": "  to separate the unfilled capsules",
-                "gpat_a3": " to fix the cap in the body of the capsule after filling",
-                "gpat_a4": " to adjust the required compression for the tablets",
-                "gpat_correct_a": "2",
-              "reason":""
-        },
-        {
-                "gpat_q": " the diameter of mesh Apparatus in the IP disintegration test apparatus is given below. choose the correct size",
-                "gpat_a1": "2.00 mm",
-                "gpat_a2": "4.00 mm",
-                "gpat_a3": "1.00 mm",
-                "gpat_a4": "1.50 mm",
-                "gpat_correct_a": "1",
-                "reason":"https://www.pharmaguideline.com/2011/06/disintegration-test-and-apparatus.html?m=1"
-        },
-        {
-                "gpat_q": " the drug Regime useful in the treatment of both induction and extra intestinal symptoms of amoebiasis orally is",
-                "gpat_a1": " Diloxanide and iodoquinol",
-                "gpat_a2": " paromomycin and mefloquine", 
-                "gpat_a3": " metronidazole and Diloxanide",
-                "gpat_a4": " chloroquine alone",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": " the risk of digitalis toxicity is significantly increased by co administration of", 
-                "gpat_a1": " Triampterene",
-                "gpat_a2": "Lidocaine ",
-                "gpat_a3": "Captopril",
-                "gpat_a4": "Hydrochlorthiazide",
-                "gpat_correct_a": "4",
                 "reason":""
         }
 ] 
