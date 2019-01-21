@@ -2370,6 +2370,14 @@ obtained from :",
                 "gpat_a3": "Flame ionisation Technique ",
                 "gpat_a4": "TLC",
                 "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Most common Phase-II reaction is",
+                "gpat_a1": "Sulfate conjugation",
+                "gpat_a2": "Glucuronide conjugation",
+                "gpat_a3": "α amino acid conjugation",
+                "gpat_a4": "Methylation",
+                "gpat_correct_a": "2"
         }
    ] 
 }
