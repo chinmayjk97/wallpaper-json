@@ -2378,6 +2378,14 @@ obtained from :",
                 "gpat_a3": "α amino acid conjugation",
                 "gpat_a4": "Methylation",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Fluoride inhibits which enzyme",
+                "gpat_a1": "Pyruvate dehydrogenase ",
+                "gpat_a2": "Enolase",
+                "gpat_a3": "Aconitase",
+                "gpat_a4": "Malate dehydrogenase ",
+                "gpat_correct_a": "2"
         }
    ] 
 }
