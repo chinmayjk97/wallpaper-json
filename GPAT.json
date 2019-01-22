@@ -2386,6 +2386,14 @@ obtained from :",
                 "gpat_a3": "Aconitase",
                 "gpat_a4": "Malate dehydrogenase ",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Ashby's method is used for ____ staining ",
+                "gpat_a1": "Cell wall",
+                "gpat_a2": "Cell membrane ",
+                "gpat_a3": "Spore ",
+                "gpat_a4": "Flagella ",
+                "gpat_correct_a": "3"
         }
    ] 
 }
