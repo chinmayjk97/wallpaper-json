@@ -2394,6 +2394,15 @@ obtained from :",
                 "gpat_a3": "Spore ",
                 "gpat_a4": "Flagella ",
                 "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The compound 2 - (Diethylamino) ethyl [bicyclohex-
+yl] - 1-carboxylate hydrochloride is:",
+                "gpat_a1": "Dicycloverine",
+                "gpat_a2": "Diphenhydramine",
+                "gpat_a3": "Both nicotinic and specific antispasmodic",
+                "gpat_a4": "Diagonistic agent for diagnosis of thyroid gland",
+                "gpat_correct_a": "1"
         }
    ] 
 }
