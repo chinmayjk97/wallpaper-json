@@ -2410,6 +2410,14 @@ obtained from :",
                 "gpat_a3": "Katal",
                 "gpat_a4": "All of the above ",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Haptens are",
+                "gpat_a1": "Immunogenic and antigenic ",
+                "gpat_a2": "Non-immunogenic and antigenic ",
+                "gpat_a3": "Immunogenic and non-antigenic ",
+                "gpat_a4": "Non-immunogenic and non-antigenic ",
+                "gpat_correct_a": "2"
         }
    ] 
 }
