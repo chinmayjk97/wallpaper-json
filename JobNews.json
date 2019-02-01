@@ -1,21 +1,26 @@
 [
 {
+  "title":"TITLE 1 GOES HERE.....",
 "desc":"1)In this step we create a CustomAdapter class and extends RecyclerView.Adapter class with ViewHolder in it. After that we implement the overrided methods and create a constructor for getting the data from Activity, In this custom Adapter two methods are more important first is onCreateViewHolder in which we inflate the layout item xml and pass it to View Holder and other is onBindViewHolder in which we set the data in the view’s with the help of ViewHolder.",
 "url":"https://stackoverflow.com/questions/2734270/how-do-i-make-links-in-a-textview-clickable"
 },
 {
+  "title":"TITLE 2 GOES HERE.....",
 "desc":"2)In this step we create a CustomAdapter class and extends RecyclerView.Adapter class with ViewHolder in it. After that we implement the overrided methods and create a constructor for getting the data from Activity, In this custom Adapter two methods are more important first is onCreateViewHolder in which we inflate the layout item xml and pass it to View Holder and other is onBindViewHolder in which we set the data in the view’s with the help of ViewHolder.",
 "url":"https://stackoverflow.com/questions/2734270/how-do-i-make-links-in-a-textview-clickable"
 },
 {
+  "title":"TITLE 3 GOES HERE.....",
 "desc":"3)In this step we create a CustomAdapter class and extends RecyclerView.Adapter class with ViewHolder in it. After that we implement the overrided methods and create a constructor for getting the data from Activity, In this custom Adapter two methods are more important first is onCreateViewHolder in which we inflate the layout item xml and pass it to View Holder and other is onBindViewHolder in which we set the data in the view’s with the help of ViewHolder.",
 "url":"https://stackoverflow.com/questions/2734270/how-do-i-make-links-in-a-textview-clickable"
 },
 {
+  "title":"TITLE 4 GOES HERE.....",
 "desc":"4)In this step we create a CustomAdapter class and extends RecyclerView.Adapter class with ViewHolder in it. After that we implement the overrided methods and create a constructor for getting the data from Activity, In this custom Adapter two methods are more important first is onCreateViewHolder in which we inflate the layout item xml and pass it to View Holder and other is onBindViewHolder in which we set the data in the view’s with the help of ViewHolder.",
 "url":"https://stackoverflow.com/questions/2734270/how-do-i-make-links-in-a-textview-clickable"
 },
 {
+  "title":"TITLE 5 GOES HERE.....",
 "desc":"5)In this step we create a CustomAdapter class and extends RecyclerView.Adapter class with ViewHolder in it. After that we implement the overrided methods and create a constructor for getting the data from Activity, In this custom Adapter two methods are more important first is onCreateViewHolder in which we inflate the layout item xml and pass it to View Holder and other is onBindViewHolder in which we set the data in the view’s with the help of ViewHolder.",
 "url":"https://stackoverflow.com/questions/2734270/how-do-i-make-links-in-a-textview-clickable"
 }
