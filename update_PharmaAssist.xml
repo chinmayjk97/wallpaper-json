@@ -1,12 +1,10 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.7</latestVersion>
+    <latestVersion>3.0</latestVersion>
     <url>https://chinmayjk97.github.io/PharmaAssist/download</url>
     <releaseNotes>
-- New! Changed the Design of HomePage. You can still revert to old layout from settings.
-- New! Added New GPAT Mock Test Section.
-- New! Added Chemical Structure Elucidation from IUPAC and General Name.
-- Added New eBooks.
+- New! First Playstore Release.
+- New! Added New Pharma Jobs Section.
 - Bugs Fixed.
 </releaseNotes>  
 </update>
