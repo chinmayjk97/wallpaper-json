@@ -125,7 +125,35 @@
 	    "url" : "https://youtu.be/tjs2WKZLUWc",
             "video_length": "Video length: 9:53",
 	    "thumbnail":"https://i.ytimg.com/vi/tjs2WKZLUWc/maxresdefault.jpg"
-        }
+        },
+	{
+        "title": "Sulphonamides",
+	    "url" : "https://youtu.be/Sy0NrksrRQI",
+        "video_length": "Video length: 5:03",
+	    "thumbnail":"https://i.ytimg.com/vi/Sy0NrksrRQI/maxresdefault.jpg"
+},
+{
+        "title": "Quinolones",
+	    "url" : "https://youtu.be/EjHV_X5GLxk",
+        "video_length": "Video length: 3:39",
+	    "thumbnail":"https://i.ytimg.com/vi/EjHV_X5GLxk/maxresdefault.jpg"
+},{
+        "title": "Tetracycline",
+	    "url" : "https://youtu.be/L-w3jDcqub8",
+        "video_length": "Video length: 3:53",
+	    "thumbnail":"https://i.ytimg.com/vi/L-w3jDcqub8/maxresdefault.jpg"
+},
+{
+        "title": "Histamines and Antihistamines",
+	    "url" : "https://youtu.be/-q4lTTOKv8I",
+        "video_length": "Video length: 6:03",
+	    "thumbnail":"https://i.ytimg.com/vi/-q4lTTOKv8I/maxresdefault.jpg"
+},{
+        "title": "Hypoglycemics",
+	    "url" : "https://youtu.be/avi-nHYdPno",
+        "video_length": "Video length: 9:51",
+	    "thumbnail":"https://i.ytimg.com/vi/avi-nHYdPno/maxresdefault.jpg"
+}
          ],
         "Biochem" : [
         {
@@ -227,6 +255,34 @@
 	    "thumbnail":"https://i.ytimg.com/vi/lZQyeECft3w/maxresdefault.jpg"
         },
 	{
+        "title": "Aerosol",
+	    "url" : "https://youtu.be/P4CwS25JfF4",
+        "video_length": "Video length: 9:33",
+	    "thumbnail":"https://i.ytimg.com/vi/P4CwS25JfF4/maxresdefault.jpg"
+	},{
+        "title": "Tablets - Introduction and Preformulations",
+	    "url" : "https://youtu.be/oiON0Q9s3RA",
+        "video_length": "Video length: 6:31",
+	    "thumbnail":"https://i.ytimg.com/vi/oiON0Q9s3RA/maxresdefault.jpg"
+},
+{
+        "title": "Tablets - Large Scale Manufacturing",
+	    "url" : "https://youtu.be/yvXZCdJzmeM",
+        "video_length": "Video length: 9:38",
+	    "thumbnail":"https://i.ytimg.com/vi/yvXZCdJzmeM/maxresdefault.jpg"
+},
+{
+        "title": "Tablets - Compression & QC's",
+	    "url" : "https://youtu.be/s6l8ZZupm6w",
+        "video_length": "Video length: 5:20",
+	    "thumbnail":"https://i.ytimg.com/vi/s6l8ZZupm6w/maxresdefault.jpg"
+},{
+        "title": "Types of tablets",
+	    "url" : "https://youtu.be/SVRcXRyx8XI",
+        "video_length": "Video length: 4:49",
+	    "thumbnail":"https://i.ytimg.com/vi/SVRcXRyx8XI/maxresdefault.jpg"
+},
+	{
             "title": "Blood Products ",
 	    "url" : "https://youtu.be/jJ7WPrT7s-I",
             "video_length": "Video length: 10:48",
@@ -261,7 +317,13 @@
 	    "url" : "https://youtu.be/KilQrUubOj4",
             "video_length": "Video length: 7:02",
 	    "thumbnail":"https://i.ytimg.com/vi/KilQrUubOj4/maxresdefault.jpg"
-        }
+        },
+	{
+        "title": "Mucoadhesive Drug Delivery System",
+	    "url" : "https://youtu.be/KzSFC72qNek",
+        "video_length": "Video length: 7:44",
+	    "thumbnail":"https://i.ytimg.com/vi/KzSFC72qNek/maxresdefault.jpg"
+}
         ],
         "APP":[
         {
@@ -391,7 +453,12 @@
 	    "url" : "https://youtu.be/-7Scp7gnSMg",
             "video_length": "Video length: 6:21",
 	    "thumbnail":"https://i.ytimg.com/vi/-7Scp7gnSMg/maxresdefault.jpg"
-        },
+        },{
+        "title": "Drug Store Management",
+	    "url" : "https://youtu.be/ZI8tCErIk08",
+        "video_length": "Video length: 6:56",
+	    "thumbnail":"https://i.ytimg.com/vi/ZI8tCErIk08/maxresdefault.jpg"
+},
         {
             "title": "Coming Soon...",
 	    "url" : "https://www.youtube.com/c/PharmaKnowledge",
@@ -478,6 +545,23 @@
             "video_length": "Video length: 3:46",
 	    "thumbnail":"https://i.ytimg.com/vi/UNtEb1SWvts/maxresdefault.jpg"
         },
+	{
+        "title": "X Ray Diffraction Technique",
+	    "url" : "https://youtu.be/egWiv6tCaUY",
+        "video_length": "Video length: 8:14",
+	    "thumbnail":"https://i.ytimg.com/vi/egWiv6tCaUY/maxresdefault.jpg"
+},
+{
+        "title": "Radiopharmaceutics",
+	    "url" : "https://youtu.be/IJmaOWS0mMk",
+        "video_length": "Video length: 7:07",
+	    "thumbnail":"https://i.ytimg.com/vi/IJmaOWS0mMk/maxresdefault.jpg"
+},{
+        "title": "Raman Spectroscopy",
+	    "url" : "https://youtu.be/hPTrz7dj2ps",
+        "video_length": "Video length: 4:15",
+	    "thumbnail":"https://i.ytimg.com/vi/hPTrz7dj2ps/maxresdefault.jpg"
+}
         ],
         "PP":[
         {
@@ -488,6 +572,28 @@
         }
         ],
         "Pharmacognosy":[
+	{
+        "title": "Extraction of Phytoconstituents",
+	    "url" : "https://youtu.be/_7RHYEZ5x9c",
+        "video_length": "Video length: 13:30",
+	    "thumbnail":"https://i.ytimg.com/vi/_7RHYEZ5x9c/maxresdefault.jpg"
+},{
+        "title": "Glycosides",
+	    "url" : "https://youtu.be/JT5Yp4t9hCw",
+        "video_length": "Video length: 10:06",
+	    "thumbnail":"https://i.ytimg.com/vi/JT5Yp4t9hCw/maxresdefault.jpg"
+},
+{
+        "title": "Neutraceuticals",
+	    "url" : "https://youtu.be/fHKycKS_3l8",
+        "video_length": "Video length: 6:51",
+	    "thumbnail":"https://i.ytimg.com/vi/fHKycKS_3l8/maxresdefault.jpg"
+},{
+        "title": "FLAVONOIDS",
+	    "url" : "https://youtu.be/ufG3UUUHr0M",
+        "video_length": "Video length: 5:12",
+	    "thumbnail":"https://i.ytimg.com/vi/ufG3UUUHr0M/maxresdefault.jpg"
+},
         {
             "title": "Coming Soon...",
 	    "url" : "https://www.youtube.com/c/PharmaKnowledge",
@@ -531,6 +637,60 @@
 	    "url" : "https://youtu.be/8HDbpKk2pmM",
             "video_length": "Video length: 4:45",
 	    "thumbnail":"https://i.ytimg.com/vi/8HDbpKk2pmM/maxresdefault.jpg"
-        }
+        },{
+        "title": "RISK MANAGEMENT AND FRAUDS IN RETAIL PRICE",
+	    "url" : "https://youtu.be/88w563AC9lE",
+        "video_length": "Video length: 3:34",
+	    "thumbnail":"https://i.ytimg.com/vi/88w563AC9lE/maxresdefault.jpg"
+},
+{
+        "title": "Purchasing and inventory control in retail trade",
+	    "url" : "https://youtu.be/R_0aZi5bXHY",
+        "video_length": "Video length: 3:40",
+	    "thumbnail":"https://i.ytimg.com/vi/R_0aZi5bXHY/maxresdefault.jpg"
+},
+{
+        "title": "Channels of distribution and Forms of Business Organization",
+	    "url" : "https://youtu.be/habc7uhPsUo",
+        "video_length": "Video length: 13:49",
+	    "thumbnail":"https://i.ytimg.com/vi/habc7uhPsUo/maxresdefault.jpg"
+},
+{
+        "title": "Safe use of medicine",
+	    "url" : "https://youtu.be/B85XcyXEZmA",
+        "video_length": "Video length: 3:43",
+	    "thumbnail":"https://i.ytimg.com/vi/B85XcyXEZmA/maxresdefault.jpg"
+},{
+        "title": "Drug Store Management",
+	    "url" : "https://youtu.be/ZI8tCErIk08",
+        "video_length": "Video length: 6:56",
+	    "thumbnail":"https://i.ytimg.com/vi/ZI8tCErIk08/maxresdefault.jpg"
+},{
+        "title": "INDIAN PATENT ACT 2005",
+	    "url" : "https://youtu.be/6T1udn2vkIM",
+        "video_length": "Video length: 10:01",
+	    "thumbnail":"https://i.ytimg.com/vi/6T1udn2vkIM/maxresdefault.jpg"
+},{
+        "title": "The Pharmacy Act 1948",
+	    "url" : "https://youtu.be/xVBtNyD2bQU",
+        "video_length": "Video length: 6:03",
+	    "thumbnail":"https://i.ytimg.com/vi/xVBtNyD2bQU/maxresdefault.jpg"
+},{
+        "title": "INDIAN PENAL CODE AND CODE OF CRIMINAL PROCEDURES",
+	    "url" : "https://youtu.be/BrQ8aoJisxk",
+        "video_length": "Video length: 2:54",
+	    "thumbnail":"https://i.ytimg.com/vi/BrQ8aoJisxk/maxresdefault.jpg"
+},{
+        "title": "BOMBAY SHOPS AND ESTABLISHMENTS ACT",
+	    "url" : "https://youtu.be/HLDmhhJ-8o0",
+        "video_length": "Video length: 3:07",
+	    "thumbnail":"https://i.ytimg.com/vi/HLDmhhJ-8o0/maxresdefault.jpg"
+},
+{
+        "title": "Factory Act",
+	    "url" : "https://youtu.be/Qja5GK0oTCY",
+        "video_length": "Video length: 3:51",
+	    "thumbnail":"https://i.ytimg.com/vi/Qja5GK0oTCY/maxresdefault.jpg"
+}
         ]
 }
