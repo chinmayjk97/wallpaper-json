@@ -1,10 +1,40 @@
 {
         "Chemistry": [
+	{
+            "subject": "General Chemistry",
+            "month_year": "Dec 18 (CBCS) ",
+	    "url" : "https://drive.google.com/file/d/1oG0G_fZPjp0ZdN7L2AJwllh0hYtpSHZO/",
+            "size": "436 KB"
+        },
+{
+            "subject": "General Chemistry",
+            "month_year": "April 18 (CBCS) ",
+	    "url" : "https://drive.google.com/file/d/1_8rDrXutt5wbiSSdiWE8C5UJrK0TFZfY/",
+            "size": "311 KB"
+        },
 {
             "subject": "General Chemistry",
             "month_year": "Dec 17 & April 18 (CBCS) ",
 	    "url" : "https://drive.google.com/file/d/1uWQRLx-kvnHAN5eNHaHPPrQ5KZG2bTxO/",
             "size": "1.4 MB"
+        },
+	{
+            "subject": "POC",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/file/d/1njDrTEFxJI5oRvPkuTZeDdJy6SBnZK4i/",
+            "size": "366 KB"
+        },
+		{
+            "subject": "POC",
+            "month_year": "April 18",
+	    "url" : "https://drive.google.com/file/d/15amoN0XzA8Htz94SgE_H8wLa16Huyvk6/",
+            "size": "284 KB"
+        },
+		{
+            "subject": "POC",
+            "month_year": "Dec 17",
+	    "url" : "https://drive.google.com/file/d/1v1_di-L6yCOQOME3UCQ645BPd33Km4Vw/",
+            "size": "280 KB"
         },
          {
             "subject": "POC",
@@ -151,6 +181,12 @@
             "size": "2 MB "
         },
 	{
+            "subject": "Pharm Chem-1 (CBCS)",
+            "month_year": "Dec 17 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1xXZmhkQKJvAzVnkTLzjXNHyVgdi1WcWZ",
+            "size": "Folder"
+        },
+	{
             "subject": "Pharm Chem-1",
             "month_year": "May 15",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjXzVCWi1uM2s5T0U",
@@ -236,6 +272,19 @@
         }
          ],
         "Biochem" : [
+	{
+            "subject": "Biochem-1  (CBCS)",
+            "month_year": "Dec 17 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1o51hZA3vSltI0vda0T4oTFRQxwI1oNt5",
+            "size": "Folder"
+        },
+		
+		{
+            "subject": "Biochem-1",
+            "month_year": "Dec 17 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1-cgVwbHSu5Z4nLskIw56wMTMv6zaLPt3",
+            "size": "Folder"
+        },
 {
             "subject": "Biochem - 1",
             "month_year": "April & Nov - 17 & 18 (CBCS) ",
@@ -382,6 +431,12 @@
         }
         ],
         "Pharmaceutics":[
+	{
+            "subject": "Pharmaceutics-1",
+            "month_year": "Dec 17 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1Dk65jwmXnMg9L8SBdxJRzyufTxPFVxIu",
+            "size": "Folder"
+        },	
         {
             "subject": "Pharmaceutics-1",
             "month_year": "May 15",
@@ -507,7 +562,25 @@
             "month_year": "Dec 16, April & Nov 17 (CBCS)",
 	    "url" : "https://drive.google.com/file/d/1uNTwrWTwqvi6pZmEkl0BXfOUyR7GI9Rv/",
             "size": "1.5 MB"
-        },              
+        },  
+	{
+            "subject": "DPCP",
+            "month_year": "Apr 18 -  CBCS",
+	    "url" : "https://drive.google.com/file/d/1JhzdrrGgV8hZCfAbB2FSju7EGMfHYeUD/",
+            "size": "259 KB"
+        },
+		{
+            "subject": "DPCP",
+            "month_year": "Dec 17 -  CBCS",
+	    "url" : "https://drive.google.com/file/d/1PvHgWTvcPkMICu2MNRdRdH5yinFu5r40/",
+            "size": "262 KB"
+        },
+		{
+            "subject": "DPCP",
+            "month_year": "Dec 17 -  CBCS",
+	    "url" : "https://drive.google.com/file/d/1-QSzwgQDC75JTCOay8TXtk1RG4n_h7w_/",
+            "size": "316 KB"
+        },
 	{
             "subject": "DP",
             "month_year": "Apr 16",
@@ -582,11 +655,47 @@
         }
         ],
         "APP":[
+	{
+            "subject": "APP-1",
+            "month_year": "Dec 18 -  CBCS",
+	    "url" : "https://drive.google.com/file/d/1otLDtiYX3UCQhqInI01_08xdSgwfnZPl/",
+            "size": "121 KB"
+        },
+		{
+            "subject": "APP-1",
+            "month_year": "April 18 -  CBCS",
+	    "url" : "https://drive.google.com/file/d/1wufZnQiW4vciYgMm4vfLVMeMSqt48AS3/",
+            "size": "256 KB"
+        },
+		{
+            "subject": "APP-1",
+            "month_year": "Dec 17 -  CBCS",
+	    "url" : "https://drive.google.com/file/d/1S9YcDdOa6xN_KG3d-HPVLTNNByVT0WAp/",
+            "size": "256 KB"
+        },
 {
             "subject": "APP - 1",
             "month_year": "Nov 16, April & Nov 17 (CBCS) ",
 	    "url" : "https://drive.google.com/file/d/1lbeHtZ7kKqvdxpzR_nHDQorw1QdL0_sh/",
             "size": "2.5 MB"
+        },
+{
+            "subject": "APP-1",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/file/d/18k09RAByCIqSoXO6IZ7T0hyOtGRHse-T/",
+            "size": "207 KB"
+        },
+{
+            "subject": "APP-1",
+            "month_year": "April 18",
+	    "url" : "https://drive.google.com/file/d/16LYd_twrSwzZoWDacrQNnKcMDfhP4KKz/",
+            "size": "251 KB"
+        },
+{
+            "subject": "APP-1",
+            "month_year": "Dec 17",
+	    "url" : "https://drive.google.com/file/d/1ZAf8aC1Jz_FLtTXoyAr3aMOB_Ei0JRRU/",
+            "size": "252 KB"
         },
         {
             "subject": "APP-1",
@@ -623,6 +732,29 @@
             "month_year": "Dec 12",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjbFM2QVByMkJ2VTQ/",
             "size": "776 KB"
+        },
+	{
+            "subject": "APP-2",
+            "month_year": "Dec 18 - CBCS ",
+	    "url" : "https://drive.google.com/file/d/1qe2CuQScozIz1lAyN8bmwc-hkcKx4fDY/",
+            "size": "198 KB"
+        },
+		{
+            "subject": "APP-2",
+            "month_year": "April 18 - CBCS ",
+	    "url" : "https://drive.google.com/file/d/18QKK53jiOnuIuu2IDIJ8rxhNP4hoGBXy/",
+            "size": "292 KB"
+        },
+	{	    "subject": "APP-2",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/file/d/1MPk4FsacIdz4kX6XdLFAnOmQUWcamzmd/",
+            "size": "196 KB"
+        },
+		{
+            "subject": "APP-2",
+            "month_year": "April 18",
+	    "url" : "https://drive.google.com/file/d/1-7WWhU_Xz4MzuSqVdsxsRsPDDDKaavQT/",
+            "size": "321 KB"
         },
 	{
             "subject": "APP-2",
@@ -782,6 +914,12 @@
         }
         ],
         "HPDSM":[
+	{
+            "subject": "HPDSM (CBCS)",
+            "month_year": "Dec 17 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1-r3Ol4orYSZv2poOrOelxaWrUBE8SJrT",
+            "size": "Folder"
+        },
         {
             "subject": "HPDSM ",
             "month_year": "March 2017",
@@ -912,6 +1050,24 @@
         }
         ],
         "PP":[
+	{
+            "subject": "PP-1",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/file/d/1roseJn54JBCKSCIlKOAZafqPw-onrTIT/",
+            "size": "583 KB"
+        },
+		{
+            "subject": "PP-1",
+            "month_year": "April 18",
+	    "url" : "https://drive.google.com/file/d/1wZGP8N5C2OFmmCuvnlI2xMBG81AUUFUz/",
+            "size": "268 KB"
+        },
+		{
+            "subject": "PP-1",
+            "month_year": "Dec 17",
+	    "url" : "https://drive.google.com/file/d/1uHJXKN8pROqUFVgeC5MCtnIdAsv28reo/",
+            "size": "289 KB"
+        },
         {
             "subject": "PP-1",
             "month_year": "March 15",
@@ -947,6 +1103,18 @@
             "month_year": "Dec 12",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSkVkMllEUEowSms/",
             "size": "760 KB"
+        },
+	{
+            "subject": "PP-2",
+            "month_year": "Apr 18",
+	    "url" : "https://drive.google.com/file/d/1WfT7qEJM64ZvLfjepg1bnU2Mshy33387/",
+            "size": "310 KB"
+        },
+		{
+            "subject": "PP-2",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/file/d/1pCpokLl-H8i_h1PUYm7Mpl9cx0GrDuMv/",
+            "size": "217 KB"
         },
 	{
             "subject": "PP-2",
@@ -1010,6 +1178,12 @@
         }
         ],
         "Pharmacognosy":[
+	{
+            "subject": "Pharmacognosy-1 (CBCS)",
+            "month_year": "Dec 17 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1wiNJ3Orf47rs_l0IOe9k_1jGJBSAPzc7",
+            "size": "Folder"
+        },
         {
             "subject": "Pharmacognosy & Phytochemistry-I ",
             "month_year": "March 2017",
@@ -1072,6 +1246,36 @@
         }
         ],
         "Others":[
+	{
+            "subject": "EVS",
+            "month_year": "Dec 18 - CBCS",
+	    "url" : "https://drive.google.com/file/d/18wuYj6TlEI_rspMxPlwNeTwzziNXQG3f/",
+            "size": "232 KB"
+        },
+		{
+            "subject": "EVS",
+            "month_year": "Apr 18 - CBCS",
+	    "url" : "https://drive.google.com/file/d/148o69dM1CGLO6IpoxAuSORpDrwNK3Mej/",
+            "size": "231 KB"
+        },
+		{
+            "subject": "EVS",
+            "month_year": "Apr 18",
+	    "url" : "https://drive.google.com/file/d/1_1fBhKips7a9pF-i1k53I0L4Pmxn5nnt/",
+            "size": "263 KB"
+        },
+		{
+            "subject": "EVS",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/file/d/190jxuI0a8TYJ1yxM_UibOcoNSkijybp8/",
+            "size": "309 KB"
+        },
+		{
+            "subject": "EVS",
+            "month_year": "Dec 17",
+	    "url" : "https://drive.google.com/file/d/1w7hXp1kYIgBn8jpQEDQBtaGaztMPBQwN/",
+            "size": "323 KB"
+        },
         {
             "subject": "EVS",
             "month_year": "Apr 15",
