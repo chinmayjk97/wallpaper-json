@@ -1,5 +1,11 @@
 {
     "QPprs": [
+	{
+            "subject": "Pharmaceutical Chemistry - III ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1KIlFxktWfoNFj4Et-lyZMoeskYf6aU-Q",
+            "size": "Folder"
+        },
    	 {
             "subject": "Pharmaceutical Chemistry - III ",
             "month_year": "Nov 2017",
@@ -17,6 +23,12 @@
             "month_year": "March & Nov 2016",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjN3VKbW5xSVB2VTQ",
             "size": "1 MB"
+        },
+		{
+            "subject": "Pharmaceutical Analysis- III ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1zDpqoWa1a6EZ1FZluIL2Kruu6HXxEwaL",
+            "size": "Folder"
         },
 	{
             "subject": "Pharmaceutical Analysis- III ",
@@ -36,6 +48,12 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjNWpDemstR1I4MDQ",
             "size": "1 MB "
         },
+		{
+            "subject": "Pharmacology-III ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1ISkTz_uQAIYs057Zhq0ZwHKqPnA0JSHU",
+            "size": "Folder"
+        },
 	{
             "subject": "Pharmacology-III ",
             "month_year": "Nov 2017 ",
@@ -53,6 +71,12 @@
             "month_year": "March & Nov 2016 ",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHja2xtRGRsTnk2bDA",
             "size": "751 KB "
+        },
+	{
+            "subject": "Pharmaceutics - IV ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1nZIbddQ1aHMzh2QbXnQL0khcxUI5OYPJ",
+            "size": "Folder"
         },
 	{
             "subject": "Pharmaceutics - IV ",
@@ -78,6 +102,12 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRG1qV2s5eXFQOWM",
             "size": "663 KB "
         },
+		{
+            "subject": "Pharmacognosy & Phytochemistry -II",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1vXOzQbUYX80fvKMwvVhWn4__g2CAjPTp",
+            "size": "Folder"
+        },
 	{
             "subject": "Pharmacognosy & Phytochemistry -II ",
             "month_year": "Nov 2017 ",
@@ -95,6 +125,12 @@
             "month_year": "March & Nov 2016 ",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjX084bGw2MHRfZEE",
             "size": "761 KB "
+        },
+		{
+            "subject": "Pharmaceutical Jurisprudence ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1lCrDz93QUXI-nwZQqTbY5mne0D5SQuvm",
+            "size": "Folder"
         },
 	{
             "subject": "Pharmaceutical Jurisprudence ",
@@ -114,6 +150,12 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjMkR5ZTVNT0FpRFU",
             "size": "777 KB "
         },
+		{
+            "subject": "Pharmaceutical Chemistry - IV ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1D8euhwl_ulXPBp2gKinKHYo9fD1Qri80",
+            "size": "Folder"
+        },
 	 {
             "subject": "Pharmaceutical Chemistry-IV ",
             "month_year": " - ",
@@ -131,6 +173,12 @@
             "month_year": " - ",
 	    "url" : "https://drive.google.com/open?id=1Zmn3ErOf5m7WIHWnXo2r1vxQryU-M0Kd",
             "size": "2 MB "
+        },
+		{
+            "subject": "Pharmaceutics - V ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1tsR27vZLK09f55Z82RhrdwyBL785fPjv",
+            "size": "Folder"
         },
  	{
             "subject": "Pharmaceutics-V ",
@@ -150,6 +198,12 @@
 	    "url" : "https://drive.google.com/open?id=1rf2JEaftGnYW4WicbA50Ix-Z2DiUtT0M",
             "size": " 2 MB "
         },
+		{
+            "subject": "Biopharmaceutics & Pharmacokinetics ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1Bv_F3zFP-rKrmX4noDDKl8qE7UCDPqRB",
+            "size": "Folder"
+        },
 	 {
             "subject": "Biopharmaceutics & Pharmacokinetics ",
             "month_year": "April 2016 ",
@@ -168,6 +222,12 @@
 	    "url" : "https://drive.google.com/open?id=1zpazU1vD7pIiXndOVyd9Uq-Tl0KulPgV",
             "size": " 2 MB "
         },
+		{
+            "subject": "Pharmacognosy & Phytochemistry -III",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1ffiz5xqsXFGExxBrnyVN3adTrij7AOea",
+            "size": "Folder"
+        },
 	 {
             "subject": "Pharmacognosy & Phytochemistry-III ",
             "month_year": "April 2016 ",
@@ -185,6 +245,12 @@
             "month_year": " - ",
 	    "url" : "https://drive.google.com/open?id=1kYSidJs8DGhHOMiUlXCS892Ei6mH6_lF",
             "size": " 1 MB "
+        },
+		{
+            "subject": "Clinical Pharmacy ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/100IroZHWZqobzqdzHstJE1SF9MNFRZCO",
+            "size": "Folder"
         },
 	{
             "subject": "Clinical Pharmacy ",
