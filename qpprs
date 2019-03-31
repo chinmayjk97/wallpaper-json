@@ -163,6 +163,18 @@
             "size": "1 MB"
 		},
 		{
+            "subject": "OC - 3 (CBCS)",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1tmn_FXNSFMIeeklCoZwyVFTnBHsH8iez",
+            "size": "Folder "
+        },
+		{
+            "subject": "OC - 3 ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1sGiTUEK9HsKIV-Gh6O9nZ2afEq8NvOzU",
+            "size": "Folder "
+        },
+		{
             "subject": "OC - 3",
             "month_year": "March 2017",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSkRxN01lRmhCNWc",
@@ -242,6 +254,12 @@
         },
 	{
             "subject": "Pharm Chem 2 ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1ApE_KkPVTZKHqZEG6Kl260gRldRh0k8m",
+            "size": "Folder "
+        },
+	{
+            "subject": "Pharm Chem 2 ",
             "month_year": "March 2017",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjaVBxeTF2MTRGOVE",
             "size": "417 KB "
@@ -293,6 +311,12 @@
             "month_year": "March & Nov 2016",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjN3VKbW5xSVB2VTQ",
             "size": "1 MB"
+        },
+	{
+            "subject": "Synthon Approch (CBCS) ",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1pts7uDChdlzwGjQMVUJYicDrXngbNGtX",
+            "size": "Folder "
         }
          ],
         "Biochem" : [
@@ -388,6 +412,12 @@
             "size": "443 KB"
         },
 	{
+            "subject": "Biochem 3 (CBCS) ",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1QXr6bIFFkmx5AfnX549ptVNRg8_IAk2Z",
+            "size": "Folder "
+        },
+	{
             "subject": "MicroBiology (CBCS)",
             "month_year": "April 18 - Dec 18",
 			"url" : "https://drive.google.com/drive/folders/1kFeOcfVf9FXQg9mXi8i0FtqYPoMBgKer",
@@ -429,6 +459,18 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSHhqbUQ2ZmVFek0",
             "size": "644 KB"
 		},
+		{
+            "subject": "Biotech (CBCS)",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1WpmrhMSoMb6nEYLcsd-yu9eKYwmHXvnk",
+            "size": "Folder "
+        },
+		{
+            "subject": "Biotech ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1xDE6CK9LyPFFg2UGkH0_fsSmMv5183nB",
+            "size": "Folder "
+        },
 {
             "subject": "Biotech",
             "month_year": "March 17",
@@ -470,6 +512,12 @@
             "month_year": "2014-2016 Regular & KT",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjRzhrbWY3Nms3SjQ",
             "size": "1 MB "
+        },
+	{
+            "subject": "Microbial Genetics (CBCS) ",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/15UftUswcGICmifMsZw1f07XLBbcYGgYH",
+            "size": "Folder "
         }
         ],
         "Pharmaceutics":[
@@ -515,6 +563,12 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWWUxUEQ0TVQtNDQ",
             "size": "777 KB"
         },
+	{
+            "subject": "Pharmaceutics 2 (CBCS) ",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1ZIRwYS3CPJHfKWTY9WGnjcd1E_qcXk-b",
+            "size": "Folder "
+        },
 		{ 
 			"subject": "Pharmaceutics - 2",
             "month_year": "Dec 17 - Dec 18",
@@ -545,6 +599,12 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjWDVYMnl2TGN4akU",
             "size": "486 KB"
 		},
+		{
+            "subject": "Pharmaceutics - 3 ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1QQru3owvdV9Eg0DKjHi7HTqJB6z1sFYg",
+            "size": "Folder "
+        },
 		{
             "subject": "Pharmaceutics - 3 ",
             "month_year": "March 2017",
@@ -676,6 +736,24 @@
             "month_year": "Dec 13",
 		"url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQ2RDRjgzOF9MaUk/",
             "size": "829 KB"
+        },
+	{
+            "subject": "Packaging of Pharmaceuticals (CBCS) ",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1WgRrSOM7hw5S_Ncg_jfTVEoLBqBKXC3U",
+            "size": "Folder "
+        },
+	{
+            "subject": "Cosmeticology (CBCS)",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1Rw6J11hLCV4jxpqjJt4hSBTEMGwKR5my",
+            "size": "Folder "
+        },
+		{
+            "subject": "Cosmeticology ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1BnYpMv-GVHmBFuzGEq8DDGJ_1z1ZNwqC",
+            "size": "Folder "
         },
 	{
             "subject": "Cosmeticology",
@@ -931,6 +1009,18 @@
             "size": "868 KB"
 		},
 		{
+            "subject": "Pharmacology - 2 (CBCS)",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1ylWAIAeeLfCS0gLk3-Cz2X88IEUOwCTK",
+            "size": "Folder "
+        },
+		{
+            "subject": "Pharmacology - 2 ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1FPsxoXS_noVF-mAlRcxUALe3-RW8UIKi",
+            "size": "Folder "
+        },
+		{
             "subject": "Pharmacology - 2 ",
             "month_year": "April 2017 ",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjVy1CaUVsSGRPV1U",
@@ -1003,6 +1093,12 @@
             "month_year": "Dec 17 - Dec 18",
 	    "url" : "https://drive.google.com/drive/folders/1-r3Ol4orYSZv2poOrOelxaWrUBE8SJrT",
             "size": "Folder"
+        },
+	{
+            "subject": "HPDSM ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1WTRl-nRvrJVp6zalZ7Okm_5ICbaIx_LZ",
+            "size": "Folder "
         },
         {
             "subject": "HPDSM ",
@@ -1090,6 +1186,12 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjYWoxOFgyYUIxMkk",
             "size": "768 KB"
 		},
+		{
+            "subject": "Pharma Analysis - 2 ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1dWruFxTj5fRUOvinW6-et57SML-MR4Wb",
+            "size": "Folder "
+        },
 		{
             "subject": "Pharma Analysis - 2 ",
             "month_year": "March 2017",
@@ -1304,6 +1406,12 @@
 	    "url" : "https://drive.google.com/drive/folders/1wiNJ3Orf47rs_l0IOe9k_1jGJBSAPzc7",
             "size": "Folder"
         },
+	{
+            "subject": "Pharmacognosy & Phytochemistry-I ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1GvLff0J9xjX35j2588-RUGIjMbVClkOZ",
+            "size": "Folder "
+        },
         {
             "subject": "Pharmacognosy & Phytochemistry-I ",
             "month_year": "March 2017",
@@ -1363,6 +1471,12 @@
             "month_year": "April 2016 ",
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjQW42ckdfa1dtNE0",
             "size": "267 KB "
+        },
+	{
+            "subject": "Neutraceuticals (CBCS) ",
+            "month_year": "Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1AzUDB1gPbfzKCqUsPgl59tygDDS0U0UJ",
+            "size": "Folder "
         }
         ],
         "Others":[
@@ -1498,6 +1612,12 @@
 	    "url" : "https://drive.google.com/file/d/0B6z9_azvPvHjSWx1Z1ZROV9JRlE",
             "size": "2 MB"
 		},
+		{
+            "subject": "Pharm Management ",
+            "month_year": "April 18 - Dec 18",
+	    "url" : "https://drive.google.com/drive/folders/1NuO2NGJO_wDTMnqcSMiz01GxEeMOZbPr",
+            "size": "Folder "
+        },
 		{
             "subject": "Pharm Management",
             "month_year": "2014-2016 Regular & KT",
