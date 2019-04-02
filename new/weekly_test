@@ -1,0 +1,185 @@
+{
+        "Date" : "20/01/19", 
+        "Weekly_Questions": [
+        {
+				"gpat_q": "In tRNA molecule D arm is named for the presence of the base",
+                "gpat_a1": "Uridine",
+                "gpat_a2": "Pseudouridine",
+                "gpat_a3": "Dihydrouridine",
+                "gpat_a4": "Thymidine",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Along the alpha-helix each amino acid residue advances in nm by",
+                "gpat_a1": "0.15",
+                "gpat_a2": "0.10",
+                "gpat_a3": "0.12",
+                "gpat_a4": "0.20",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "The half life of a first order reaction is 4 months. What is its t90% in months?",
+                "gpat_a1": "3",
+                "gpat_a2": "4",
+                "gpat_a3": "8",
+                "gpat_a4": "12",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "The storage direction on a parenteral solution specify 'Store in a cool place'. This may be stored in",
+                "gpat_a1": "An air-conditioned area a 10 degrees",
+                "gpat_a2": "A refrigerator at 15 degrees",
+                "gpat_a3": "A place whose temperature is set at 5 degrees",
+                "gpat_a4": "Room temperature, at 25 degrees",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "The HLB value of lauryl sulphate is",
+                "gpat_a1": "6.5",
+                "gpat_a2": "13.8",
+                "gpat_a3": "25.0",
+                "gpat_a4": "40.0",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "________ is a morpholino ethyl ether of morphine",
+                "gpat_a1": "Nalorphine",
+                "gpat_a2": "Apomorphine",
+                "gpat_a3": "Pholcodine",
+                "gpat_a4": "Hydrocodone",
+                "gpat_correct_a": "3",
+                "reason":"https://pubchem.ncbi.nlm.nih.gov/compound/pholcodine"
+        },
+        {
+                "gpat_q": "Papaverine possess __________ methoxy groups",
+                "gpat_a1": "2",
+                "gpat_a2": "4",
+                "gpat_a3": "3",
+                "gpat_a4": "6",
+                "gpat_correct_a": "2",
+                "reason":"https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=4680&t=l"
+        },
+        {
+                "gpat_q": "Caffeine is not acidic because of",
+                "gpat_a1": "Absence of hydrogen on imide groups",
+                "gpat_a2": "Presence of keto groups",
+                "gpat_a3": "Presence of methyl groups",
+                "gpat_a4": "Presence of symmetrical triketo groups",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "The trans form of Citral is called ________",
+                "gpat_a1": "Neral",
+                "gpat_a2": "Nerol",
+                "gpat_a3": "Beta Ionone",
+                "gpat_a4": "Geranial",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Cephalosporin C on hydrolysis will ot give",
+                "gpat_a1": "6 APA",
+                "gpat_a2": "Acetic acid",
+                "gpat_a3": "Penicillamine",
+                "gpat_a4": "Dipeptide",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following diuretic would be most useful in patient with cerebral edema?",
+                "gpat_a1": "Acetazolamide",
+                "gpat_a2": "Amiloride",
+                "gpat_a3": "Mannitol",
+                "gpat_a4": "Furosemide",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which solution is used as an astringent?",
+                "gpat_a1": "Strong iodine solution USP",
+                "gpat_a2": "Acetic acid NE",
+                "gpat_a3": "Aromatic ammonia spirit USP",
+                "gpat_a4": "Aluminum acetate topical solution USP",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Apart from its in tuberculosis and leprosy, Rifampin is a first line drug from the following infective disease",
+                "gpat_a1": "Toxoplasmosis",
+                "gpat_a2": "Brucellosis",
+                "gpat_a3": "Donovanosis",
+                "gpat_a4": "Leishmaniasis",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "The following contains a Auxochrome",
+                "gpat_a1": "Ethylene",
+                "gpat_a2": "Ethane",
+                "gpat_a3": "Both a and b",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "4",
+                "reason":"An auxochrome is a functional group of atoms with one or more lone pairs of electrons when attached to a chromophore, alters both the wavelength and intensity of absorption. \n\nHere Ethylene and Ethane both doesn't fulfill the conditions to be called as auxochrome."
+        },
+        {
+                "gpat_q": "The wavelenth of light transmitted is ____ the wavelength of the incident light, in Nephlometry",
+                "gpat_a1": "The same as that of",
+                "gpat_a2": "Greater than",
+                "gpat_a3": "Lesser than",
+                "gpat_a4": "Different from",
+                "gpat_correct_a": "1",
+                "reason":"In Nephlometry, the incident light rays just gets scattered due to particles and hence wavelenth of scattered light is same as that of the incident light."
+        },
+        {
+                "gpat_q": "Androgens are produced by",
+                "gpat_a1": "Cells of sertoli",
+                "gpat_a2": "Leydig cells",
+                "gpat_a3": "Rete testis",
+                "gpat_a4": "Efferent ductules",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "One gram of carbohydrates on complete oxidation in body yields about",
+                "gpat_a1": "1 Kcal",
+                "gpat_a2": "4 Kcal",
+                "gpat_a3": "6 Kcal",
+                "gpat_a4": "9 Kcal",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "FAD is coenzyme for",
+                "gpat_a1": "Succinate dehydrogenase",
+                "gpat_a2": "Glycerol-3-phosphate dehydrogenase",
+                "gpat_a3": "Sphingosine reductase",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Anti hypertensive drug inhibits the renin angiotensin system is",
+                "gpat_a1": "Reserpine",
+                "gpat_a2": "Captopril",
+                "gpat_a3": "Methyl dopa",
+                "gpat_a4": "Propranalol",
+                "gpat_correct_a": "2",
+                "reason":"Reserpine's mechanism of action is through inhibition of the ATP/Mg2+ pump responsible for the sequestering of neurotransmitters into storage vesicles located in the presynaptic neuron. \n\nCaptopril is a potent, competitive inhibitor of angiotensin-converting enzyme (ACE), the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). \n\nα-Methylnorepinephrine is an agonist of presynaptic central nervous system α2 adrenergic receptors. Activation of these receptors in the brainstem appears to inhibit sympathetic nervous system output and lower blood pressure.\n\nPropranolol is a non-selective beta blocker; that is, it blocks the action of epinephrine (adrenaline) and norepinephrine (noradrenaline) at both β1- and β2-adrenergic receptors "
+        },
+        {
+                "gpat_q": "Progesterone injection BP is a sterile solution in ",
+                "gpat_a1": "Water",
+                "gpat_a2": "Ethyl oleate",
+                "gpat_a3": "Propylene glycol",
+                "gpat_a4": "Glycerol",
+                "gpat_correct_a": "2",
+                "reason":""
+        }
+] 
+}
