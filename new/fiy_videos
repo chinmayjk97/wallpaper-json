@@ -1,0 +1,20 @@
+{
+    "Videos": [
+        {
+        "title": "FLAVONOIDS",
+	    "url" : "https://youtu.be/ufG3UUUHr0M",
+        "video_length": "Video length: 5:12",
+	    "thumbnail":"https://i.ytimg.com/vi/ufG3UUUHr0M/maxresdefault.jpg"
+},{
+        "title": "Mucoadhesive Drug Delivery System",
+	    "url" : "https://youtu.be/KzSFC72qNek",
+        "video_length": "Video length: 7:44",
+	    "thumbnail":"https://i.ytimg.com/vi/KzSFC72qNek/maxresdefault.jpg"
+},{
+            "title": "Coming Soon...",
+	    "url" : "https://www.youtube.com/c/PharmaKnowledge",
+            "video_length": "Not Available",
+	    "thumbnail":"https://lh3.googleusercontent.com/mhbzzCH5hRkl7ytBrX9USZ81s0wA1cwD48jC4HDwyitrKaylXbAEVTqdo-790ry91MkWRt33AM6_6Blokf-7voWcyDqsRYAEqzapzhoaIMqq2K0tzqolIRQbFmtzxcKZntG2o8E4cLy7NvKdAsmJFP4YflmKMnKHF9NicOxFV2Dk-yvt74W1hWGALmYUAbVZzp1sj4ZdY1_ygsMr-zFmb_aAp57JqipgS1MciE3yUeMLfpQ3mmuHT6NrwWADiR-soYXgzkXiatL_UV03Wvr-f6EvnZF-1LiWR6gtQcBiCG6Wuzb1OnX9G8PjGJXQ2REty2yBYMkgXu92oT2kWvKylWPIo4j_2OnmbpN8tbv_BEUAXV7nOzp0c_wGs_pmdN8OEKPhdga0t3H5xeJh89lC65eXQWeGOhWC6oTr3oNlEV4U1Bpx3Ae1sb0Hgb5lvu-A3nlaVBboBP7pxEamekrkRTPbg-8WQbvUSSZobz_mmkP8dvIDbwTN192akK4hRI0aiZRHUT2qcnyU3FjJo1OLwViz-x3l-YtpmCqpxdLg5WBzbfw4aGVxz49igD1c9-1IOqNTnF2LDuwaJYivQ-3BbkwbULy-6_K5AW6by5xpru529uXCkac=w1135-h638-no"
+        }
+    ]
+}
