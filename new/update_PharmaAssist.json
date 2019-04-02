@@ -1,11 +1,11 @@
 {
-  "latestVersion": "3.0",
-  "latestVersionCode": 35,
+  "latestVersion": "3.1",
+  "latestVersionCode": 36,
   "url": "https://chinmayjk97.github.io/PharmaAssist/download",
-  "directdownloadurl":"https://github.com/chinmayjk97/wallpaper-json/releases/download/3.0/PharmaAssist.apk",
+  "directdownloadurl":"https://github.com/chinmayjk97/wallpaper-json/releases/download/3.1/PharmaAssist.apk",
   "releaseNotes": [
-    "	- New! First Playstore Release.",
-    "	- New! Added New Pharma Jobs Section.",
+    "	- Optimized Jobs Section.",
+    "	- Updated All Question Papers along with CBCS Papers!",
     "	- Bugs Fixed."
   ]
 }
