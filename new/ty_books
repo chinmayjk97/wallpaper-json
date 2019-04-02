@@ -1,0 +1,273 @@
+{
+    "Books": [
+        {
+                "book_name": "Organic Chemistry - Finar - Organic Chemistry - Vol 2",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjanZ4WWlrT1B5WjQ",
+                "book_edition": "3rd Edition",
+                "book_size": "23 MB"
+        },
+        {
+                "book_name": "[ Morrison & Boyd ] [6th Edition] Organic Chemistry",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjc2VKVkd6Qi11MGM",
+                "book_edition": "6th Edition",
+                "book_size": "88 MB"
+        },
+        {
+                "book_name": "Organic Chemistry [2nd Edition ] by Jonathan Clayden , Nick Greeves and Stuart Warren",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjb1VjQ3ExVTY1X0U",
+                "book_edition": "2nd Edition",
+                "book_size": "15 MB"
+        },
+        {
+                "book_name": "Organic Synthesis the Disconnection Approach 2nd Edition by Stuart Warren",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjUy00ckEzT2FZa1E",
+                "book_edition": "2nd Edition",
+                "book_size": "7 MB"
+        },
+        {
+                "book_name": "Logic of Chemical Synthesis by Corey and Chelg",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjT0RMd09TMy1kSHc",
+                "book_edition": "1989 Edition",
+                "book_size": "11 MB"
+        },
+        {
+                "book_name": "[ Peter Sykes ] A Guidebook to Mechanism in Organic Chemistry ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjUmNmQ3BqOC1IYW8",
+                "book_edition": "6th Edition",
+                "book_size": "6 MB"
+        },
+        {
+                "book_name": "[ Lange ] Lange's Handbook of Chemistry",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjdU81dW9ZaWJxQVU",
+                "book_edition": "15th Edition",
+                "book_size": "6 MB"
+        },
+        {
+                "book_name": "Wilson and Gisvolds - Textbook of Organic",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjTlljOWd2UG5WTDA",
+                "book_edition": "12th Edition",
+                "book_size": "30 MB"
+        },
+        {
+                "book_name": "Thomas Lemke David A. Williams - Foye's Principles of Medicinal Chemistry - Lippincott Williams & Wilkins",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeE9pTUVvM0FSU2s",
+                "book_edition": "7th Edition (2012)",
+                "book_size": "21 MB "
+        },
+        {
+                "book_name": "David A Williams PhD - Essentials of Foye's Principle",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNVpwX1VpNlpJUDA",
+                "book_edition": "2013 Edition",
+                "book_size": "38 MB"
+        },
+        {
+                "book_name": "An Introduction to Medicinal Chemistry , Graham L. Patrick",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjYVN4OGpBMHZIWUE",
+                "book_edition": "5th Edition",
+                "book_size": "18 MB"
+        },
+        {
+                "book_name": "Fundamentals of Medicinal Chemistry , Gareth Thomas , Wiley",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjc3AzSVhRY2xma2c",
+                "book_edition": "1st Edition",
+                "book_size": "4 MB"
+        },
+        {
+                "book_name": "Medicinal Chemistry, Ashutosh Kar",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjQThWVmNOcm5kVk0",
+                "book_edition": "4th Edition",
+                "book_size": "35 MB "
+        },
+        {
+                "book_name": "Introduction to Medicinal Chemistry , Alex Gringauz , Wiley - How Drugs Act and Why",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjQlAtVm1qS3VPSTA",
+                "book_edition": "1996 Edition",
+                "book_size": "36 MB "
+        },
+        {
+                "book_name": "Synthesis of Essential Drugs , Ruben Vardanyan and Victor Hruby",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjakc5M0VOMU1BOGM",
+                "book_edition": "2006 Edition",
+                "book_size": "4 MB "
+        },
+        {
+                "book_name": "Reiger , Martin M. Eds. Harry's Cosmeticology, Volumes I-II ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjMHhkQWkzdUMwUFU",
+                "book_edition": "8th Edition",
+                "book_size": "46 MB"
+        },
+        {
+                "book_name": "Poucher’s Perfumes, cosmetics & Soaps, Editor- Hilda Butler , Klewer Academic Publishers ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjcVBMamV0VmFudFk",
+                "book_edition": "10th Edition",
+                "book_size": "10 MB"
+        },
+        {
+                "book_name": "Andre Barel , Howard I. Maibach , Andre O. Barel Handbook of Cosmetic Science and Technology ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjV3dESllwckx6d2s",
+                "book_edition": "3rd Edition",
+                "book_size": "10 MB"
+        },
+        {
+                "book_name": "[ E. D. Aulton ] Pharmaceutics : the Science of Dosageform",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjTEQ4cndkZ1J6Qnc",
+                "book_edition": "2nd Edition",
+                "book_size": "69 MB"
+                
+        },
+        {
+                "book_name": "Lachman and Lieberman",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjTkFRZmpYR1FlSjQ",
+                "book_edition": "3rd Edition",
+                "book_size": "78 MB"
+                
+        },
+        {
+                "book_name": "Remington - The Science and Practice of Pharmacy (20th Edition) - Volume 1",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjU0FHWUhWOEhfdVU",
+                "book_edition": "20th Edition",
+                "book_size": "136 MB"
+                
+        },
+        {
+                "book_name": "Remington - The Science and Practice of Pharmacy (20th Edition) - Volume 2",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeEhzUzdtcTMzdU0",
+                "book_edition": "20th Edition",
+                "book_size": "139 MB"
+                
+        },
+         {
+                "book_name": "Text book of microbiology by Ananthanarayan ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjc29RSDdNVVExUHc",
+                "book_edition": "7th Edition",
+                "book_size": "34 MB"
+        },
+        {
+                "book_name": "Joseph Sambrook , David W. Russel Molecular Cloning A Laboratory Manual - Vol I,II,III Combined ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjcDJWRW5qV056UVE",
+                "book_edition": "3rd Edition",
+                "book_size": "123 MB"
+        },
+        {
+                "book_name": "Microbiology - Hugo, Russell - Pharmaceutical Microbiology ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHja1J6NnlkV3Jrem8",
+                "book_edition": "7th Edition",
+                "book_size": "4 MB"
+        },
+        {
+                "book_name": "Pharmaceutical Biotechnology by K. Sambamurhy & Ashutosh Kar ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNDBPS2tkX3hkTGc",
+                "book_edition": "2009 Edition",
+                "book_size": "4 MB"
+        },
+        {
+                "book_name": "Ashutosh Kar - Pharmacognosy and Pharmaco- biotechnology ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeUNkSVAyVWtaRVk",
+                "book_edition": "2nd Edition",
+                "book_size": "7 MB"
+        },
+        {
+                "book_name": "Pharmacognosy by Dr. C. K. Kokate",
+                "book_url": "https://chinmayjk97.github.io/wp-content/kokate",
+                "book_edition": "Online Edition",
+                "book_size": "Online-view only"
+        },
+        {
+                "book_name": "Trease D. & Evans W.C.: Text Book of Pharmacognosy : W.B. Saunders",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHja0w2MFh0ejhSb2c",
+                "book_edition": "16th Edition",
+                "book_size": "16 MB"
+        },
+        {
+                "book_name": "Biren Shah, Avinash Seth-Textbook of Pharmacognosy and Phytochemistry-Elsevier India (2012)",
+                "book_url": "https://drive.google.com/file/d/1UOLpkeTVz8D4P6miW3CK3XBLf-aTWppn",
+                "book_edition": "1st Edition",
+                "book_size": "14 MB"
+        },
+        {
+                "book_name": "[ Quick Review ] Phamacognosy at glance by Krishna B. Bhansali",
+                "book_url": "https://drive.google.com/file/d/1IS2XTw4N95BUUOKyzg2qGjPMLevIffBQ",
+                "book_edition": "1st Edition",
+                "book_size": "3 MB"
+        },
+        {
+                "book_name": "Lehninger Principles of Biochemistry",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjYnZIZkVld0RENWc",
+                "book_edition": "6th Edition",
+                "book_size": "80 MB"
+                
+        },
+        {
+                "book_name": "Pharmacology - Goodman & Gilman - Manual of Pharmacology and Therapeutics",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjX0h3SHdIMkkyN1U",
+                "book_edition": "12th Edition",
+                "book_size": "58 MB"
+        },
+        {
+                "book_name": "[ Rang & Dale ] Humphrey P. Rang , James M. Ritter, Rod J. Flower, Graeme Henderson Rang & Dales Pharmacology",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjZVVOc2NKMjZJbGM",
+                "book_edition": "8th Edition",
+                "book_size": "100 MB"
+        },
+        {
+                "book_name": "[ Katzung ]Bertram Katzung, Anthony Trevor Basic and Clinical Pharmacology ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjeWlXRk1tVEdORkU",
+                "book_edition": "13th Edition",
+                "book_size": "49 MB"
+        },
+       {
+                "book_name": "[ Lippincott ]Karen Whalen ed. Pharmacology ",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjRGFpZXRsWFZ2d0E",
+                "book_edition": "6th Edition",
+                "book_size": "107 MB"
+        },
+        {
+                "book_name": "Textbook of Pharmaceutical Analysis by Kenneth A. Connors",
+                "book_url": "https://drive.google.com/file/d/17BXdF6XuZSMDXUulAiRAYOpmCY5hKo_6",
+                "book_edition": "3rd Edition",
+                "book_size": "16 MB"
+        },
+        {
+                "book_name": "D. A. Skoog, F. J. Holler and S. R. Crouch, Principles of Instrumental Analysis",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjZWZ0VDNzUm9uY2c",
+                "book_edition": "6th Edition",
+                "book_size": "52 MB "
+        },
+{
+                "book_name": "L. R. Snyder , J. J. Kirkland, J. L. Glajch , Practical HPLC Method Development",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjaGhwcFpESkcwNWs",
+                "book_edition": "2nd Edition",
+                "book_size": "22 MB "
+        },
+        {
+                "book_name": "S. Ahuja and M. W. Dong , Handbook of Pharmaceutical Analysis by HPLC",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjUEZFQ0duVzdLZjQ",
+                "book_edition": "Volume 6",
+                "book_size": "35 MB "
+        },
+        {
+                "book_name": "Ashutosh. Kar, Pharmaceutical Drug Analysis",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjQThWVmNOcm5kVk0",
+                "book_edition": "4th Edition",
+                "book_size": "35 MB "
+        },
+        {
+                "book_name": "Analytical Chemistry - Beckette, Stanlake - Practical Pharmaceutical Chemistry Part II",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjME1qTUc2amNGNG8",
+                "book_edition": "4th Edition",
+                "book_size": "38 MB"
+        },
+        {
+                "book_name": "Analytical Chemistry - Watson - Pharmaceutical Analysis",
+                "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjSkg2bVh6UzFnTjQ",
+                "book_edition": "2000 Reprint Edition",
+                "book_size": "17 MB"
+        },
+         {
+                "book_name": "Textbook of Pharmaceutical Analysis by Kenneth A. Connors",
+                "book_url": "https://drive.google.com/file/d/17BXdF6XuZSMDXUulAiRAYOpmCY5hKo_6",
+                "book_edition": "3rd Edition",
+                "book_size": "16 MB"
+        }        
+    ]
+}
