@@ -1,0 +1,216 @@
+{
+    "Videos": [
+        {
+            "title": "Acids ",
+	    "url" : "https://youtu.be/XZNtsGJ8K34",
+            "video_length": "Video length: 2:41",
+	    "thumbnail":"https://i.ytimg.com/vi/XZNtsGJ8K34/maxresdefault.jpg"
+        },
+        {
+            "title": "Acid and Base : Buffers and Waters ",
+	    "url" : "https://youtu.be/k-PbcEg3xIw",
+            "video_length": "Video length: 8:10",
+	    "thumbnail":"https://i.ytimg.com/vi/k-PbcEg3xIw/hqdefault.jpg"
+        },   
+	{
+            "title": "Complexometric Titrations ",
+	    "url" : "https://youtu.be/J_3iji3MIGw",
+            "video_length": "Video length: 6:17",
+	    "thumbnail":"https://i.ytimg.com/vi/J_3iji3MIGw/maxresdefault.jpg"
+        },
+	{
+            "title": "Non - Aqueous Titrations ",
+	    "url" : "https://youtu.be/KCVc7AlVls8",
+            "video_length": "Video length: 3:06",
+	    "thumbnail":"https://i.ytimg.com/vi/KCVc7AlVls8/maxresdefault.jpg"
+        },
+	{
+            "title": "Redox Titration ",
+	    "url" : "https://youtu.be/nVoSvpf4hXY",
+            "video_length": "Video length: 6:03",
+	    "thumbnail":"https://i.ytimg.com/vi/nVoSvpf4hXY/maxresdefault.jpg"
+        },
+	{
+            "title": "Precipitation Titration ",
+	    "url" : "https://youtu.be/0dudK49febQ",
+            "video_length": "Video length: 4:18",
+	    "thumbnail":"https://i.ytimg.com/vi/0dudK49febQ/maxresdefault.jpg"
+        },
+	{
+            "title": "Polarography ",
+	    "url" : "https://youtu.be/CO7l4cGJ_MY",
+            "video_length": "Video length: 5:26",
+	    "thumbnail":"https://i.ytimg.com/vi/CO7l4cGJ_MY/maxresdefault.jpg"
+        },
+	{
+            "title": "Amperometry ",
+	    "url" : "https://youtu.be/xw3QfrPnKIg",
+            "video_length": "Video length: 6:02",
+	    "thumbnail":"https://i.ytimg.com/vi/xw3QfrPnKIg/maxresdefault.jpg"
+        },
+	{
+            "title": "Coulometry ",
+	    "url" : "https://youtu.be/Rr0gA6wlGes",
+            "video_length": "Video length: 7:04",
+	    "thumbnail":"https://i.ytimg.com/vi/Rr0gA6wlGes/maxresdefault.jpg"
+        },
+	{
+            "title": "Electrogravimetry ",
+	    "url" : "https://youtu.be/TDmAgfGaw6c",
+            "video_length": "Video length: 4:12",
+	    "thumbnail":"https://i.ytimg.com/vi/TDmAgfGaw6c/maxresdefault.jpg"
+        },
+	{
+            "title": "Liquid - Liquid Extraction ",
+	    "url" : "https://youtu.be/WUucjNF2cpo",
+            "video_length": "Video length: 7:48",
+	    "thumbnail":"https://i.ytimg.com/vi/WUucjNF2cpo/maxresdefault.jpg"
+        },
+	{
+            "title": "Basic Concepts Of Organic Chemistry - Part I ",
+	    "url" : "https://youtu.be/yjKalpe1WUo",
+            "video_length": "Video length: 8:40",
+	    "thumbnail":"https://i.ytimg.com/vi/yjKalpe1WUo/maxresdefault.jpg"
+	},
+	{
+            "title": "Basic Concepts Of Organic Chemistry - Part II ",
+	    "url" : "https://youtu.be/IKL7G_6ZrZE",
+            "video_length": "Video length: 6:25",
+	    "thumbnail":"https://i.ytimg.com/vi/IKL7G_6ZrZE/maxresdefault.jpg"
+	},
+	{
+            "title": "Functional Group - Amines ",
+	    "url" : "https://youtu.be/zXw3raXps9E",
+            "video_length": "Video length: 6:33",
+	    "thumbnail":"https://i.ytimg.com/vi/zXw3raXps9E/maxresdefault.jpg"
+	},
+	{
+            "title": "Functional Group - Aldehydes and Ketones ",
+	    "url" : "https://youtu.be/YjSwzKJfD5o",
+            "video_length": "Video length: 14:55",
+	    "thumbnail":"https://i.ytimg.com/vi/YjSwzKJfD5o/hqdefault.jpg"
+        },
+	{
+            "title": "Polyclic Aromatic Compounds ",
+	    "url" : "https://youtu.be/NfsksDf7zG0",
+            "video_length": "Video length: 2:55",
+	    "thumbnail":"https://i.ytimg.com/vi/NfsksDf7zG0/maxresdefault.jpg"
+        },
+	{
+            "title": "Stereochemistry ",
+	    "url" : "https://youtu.be/XKqETtPNKbI",
+            "video_length": "Video length: 9:25",
+	    "thumbnail":"https://i.ytimg.com/vi/XKqETtPNKbI/sddefault.jpg"
+        },
+	{
+            "title": "Routes of administration ",
+	    "url" : "https://youtu.be/Iy_CpCIe4Ko",
+            "video_length": "Video length: 3:50",
+	    "thumbnail":"https://i.ytimg.com/vi/Iy_CpCIe4Ko/maxresdefault.jpg"
+        },
+	{
+            "title": "PharmacoDynamics ",
+	    "url" : "https://youtu.be/x8QjeafCKGU",
+            "video_length": "Video length: 8:05",
+	    "thumbnail":"https://i.ytimg.com/vi/x8QjeafCKGU/maxresdefault.jpg"
+        },
+	{
+            "title": "Enzyme Induction || Factors affecting Drug MOA ",
+	    "url" : "https://youtu.be/7qiBMpU_Xik",
+            "video_length": "Video length: 4:33",
+	    "thumbnail":"https://i.ytimg.com/vi/7qiBMpU_Xik/maxresdefault.jpg"
+        },
+	{
+            "title": "Drugs Acting on ANS ",
+	    "url" : "https://youtu.be/_jQGimFFs4A",
+            "video_length": "Video length: 16:16",
+	    "thumbnail":"https://i.ytimg.com/vi/_jQGimFFs4A/sddefault.jpg"
+        },
+	{
+            "title": "Drug Response Curve (DRC) of Acetylcholine ",
+	    "url" : "https://youtu.be/UMeOR9PO5cw",
+            "video_length": "Video length: 8:34",
+	    "thumbnail":"https://i.ytimg.com/vi/UMeOR9PO5cw/hqdefault.jpg"
+        },
+	{
+            "title": "Diuretics ",
+	    "url" : "https://youtu.be/xZp2xQDoEPc",
+            "video_length": "Video length: 9:58",
+	    "thumbnail":"https://i.ytimg.com/vi/xZp2xQDoEPc/maxresdefault.jpg"
+        },
+	{
+            "title": "Sterilisation ",
+	    "url" : "https://youtu.be/NQapGpO71q0",
+            "video_length": "Video length: 8:33",
+	    "thumbnail":"https://i.ytimg.com/vi/NQapGpO71q0/maxresdefault.jpg"
+	},
+	{
+            "title": "Culture Media ",
+	    "url" : "https://youtu.be/_HDPGs4HLgQ",
+            "video_length": "Video length: 8:01",
+	    "thumbnail":"https://i.ytimg.com/vi/_HDPGs4HLgQ/maxresdefault.jpg"
+	},
+	{
+            "title": "Staining ",
+	    "url" : "https://youtu.be/FneHZTypyTE",
+            "video_length": "Video length: 9:19",
+	    "thumbnail":"https://i.ytimg.com/vi/FneHZTypyTE/maxresdefault.jpg"
+	},
+	{
+            "title": "Growth and Reproduction in Bacteria ",
+	    "url" : "https://youtu.be/6cRKV0lyHTo",
+            "video_length": "Video length: 10:48",
+	    "thumbnail":"https://i.ytimg.com/vi/6cRKV0lyHTo/maxresdefault.jpg"
+	},
+	{
+            "title": "Eukaryotic MicroOrganism - Fungi ",
+	    "url" : "https://youtu.be/oXcJhNVTbsI",
+            "video_length": "Video length: 6:57",
+	    "thumbnail":"https://i.ytimg.com/vi/oXcJhNVTbsI/hqdefault.jpg"
+	},
+	{
+            "title": "Viruses ",
+	    "url" : "https://youtu.be/RPWMHJm2xwI",
+            "video_length": "Video length: 11:57",
+	    "thumbnail":"https://i.ytimg.com/vi/RPWMHJm2xwI/maxresdefault.jpg"
+	},
+	{
+            "title": "Suspensions ",
+	    "url" : "https://youtu.be/p9aQYKpH9u0",
+            "video_length": "Video length: 9:26",
+	    "thumbnail":"https://i.ytimg.com/vi/p9aQYKpH9u0/maxresdefault.jpg"
+	},
+	{
+            "title": "Emulsions ",
+	    "url" : "https://youtu.be/aNzZ8T9eomU",
+            "video_length": "Video length: 8:55",
+	    "thumbnail":"https://i.ytimg.com/vi/aNzZ8T9eomU/maxresdefault.jpg"
+	},
+	{
+            "title": "Ointments ",
+	    "url" : "https://youtu.be/RWtjUAtT2gI",
+            "video_length": "Video length: 5:37",
+	    "thumbnail":"https://i.ytimg.com/vi/RWtjUAtT2gI/maxresdefault.jpg"
+	},
+	{
+            "title": "Suppositories ",
+	    "url" : "https://youtu.be/x80vmKnB260",
+            "video_length": "Video length: 9:17",
+	    "thumbnail":"https://i.ytimg.com/vi/x80vmKnB260/maxresdefault.jpg"
+	},
+	{
+            "title": "Blood Products ",
+	    "url" : "https://youtu.be/jJ7WPrT7s-I",
+            "video_length": "Video length: 10:48",
+	    "thumbnail":"https://i.ytimg.com/vi/jJ7WPrT7s-I/maxresdefault.jpg"
+	},
+	{
+            "title": "Sutures and Ligatures ",
+	    "url" : "https://youtu.be/dFmCxTLPIp4",
+            "video_length": "Video length: 5:23",
+	    "thumbnail":"https://i.ytimg.com/vi/dFmCxTLPIp4/maxresdefault.jpg"
+	}
+	
+	
+	]
+}
