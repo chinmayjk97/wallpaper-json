@@ -1,0 +1,375 @@
+{
+    "Videos": [
+    	{
+            "title": "Five Membered Heterocycles with one Hetero Atom - Introduction",
+	    "url" : "https://youtu.be/J95IdafweTc",
+            "video_length": "Video length: 4:12",
+	    "thumbnail":"https://i.ytimg.com/vi/J95IdafweTc/maxresdefault.jpg"
+        },
+	{
+            "title": "Five Membered Heterocycles with Oxygen - Furan",
+	    "url" : "https://youtu.be/o8bG3n5YyoA",
+            "video_length": "Video length: 5:23",
+	    "thumbnail":"https://i.ytimg.com/vi/o8bG3n5YyoA/maxresdefault.jpg"
+        },
+	{
+            "title": "Five Membered Heterocycles with Nitrogen - PYRROLE",
+	    "url" : "https://youtu.be/IuuVEFpq9pY",
+            "video_length": "Video length: 4:04",
+	    "thumbnail":"https://i.ytimg.com/vi/IuuVEFpq9pY/maxresdefault.jpg"
+        },
+	{
+            "title": "Five Membered Heterocycles with Sulphur - THIOPHENE",
+	    "url" : "https://youtu.be/erq0QmllHT8",
+            "video_length": "Video length: 4:30",
+	    "thumbnail":"https://i.ytimg.com/vi/erq0QmllHT8/maxresdefault.jpg"
+        },
+	{
+            "title": "Pyridine - Synthesis & Reactions",
+	    "url" : "https://youtu.be/35xVmtSHz-4",
+            "video_length": "Video length: 4:56",
+	    "thumbnail":"https://i.ytimg.com/vi/35xVmtSHz-4/maxresdefault.jpg"
+        },
+	{
+            "title": "Pyrimidine - Synthesis & Reactions",
+	    "url" : "https://youtu.be/sBvClAuFVSw",
+            "video_length": "Video length: 3:11",
+	    "thumbnail":"https://i.ytimg.com/vi/sBvClAuFVSw/maxresdefault.jpg"
+        },
+	{
+            "title": "Indole - Synthesis & Reactions",
+	    "url" : "https://youtu.be/b3sfWQ5jw4E",
+            "video_length": "Video length: 3:02",
+	    "thumbnail":"https://i.ytimg.com/vi/b3sfWQ5jw4E/maxresdefault.jpg"
+        },
+	{
+            "title": "Imidazole - Synthesis & Reactions",
+	    "url" : "https://youtu.be/3Y6-nCC5BeM",
+            "video_length": "Video length: 3:13",
+	    "thumbnail":"https://i.ytimg.com/vi/3Y6-nCC5BeM/maxresdefault.jpg"
+        },
+	{
+            "title": "Benzopyridines - Quinolines And Isoquinolines",
+	    "url" : "https://youtu.be/WoV45Y0Iv9k",
+            "video_length": "Video length: 5:54",
+	    "thumbnail":"https://i.ytimg.com/vi/WoV45Y0Iv9k/maxresdefault.jpg"
+        },
+	{
+            "title": "Steroids - Structure & Reactions",
+	    "url" : "https://youtu.be/IECwB7xr3W4",
+            "video_length": "Video length: 7:14",
+	    "thumbnail":"https://i.ytimg.com/vi/IECwB7xr3W4/maxresdefault.jpg"
+        },
+	{
+            "title": "Application of catalysis in organic Chemistry",
+	    "url" : "https://youtu.be/np3WbS8Ya4k",
+            "video_length": "Video length: 8:35",
+	    "thumbnail":"https://i.ytimg.com/vi/np3WbS8Ya4k/maxresdefault.jpg"
+        },
+	{
+            "title": "Pericyclic reactions",
+	    "url" : "https://youtu.be/tjs2WKZLUWc",
+            "video_length": "Video length: 9:53",
+	    "thumbnail":"https://i.ytimg.com/vi/tjs2WKZLUWc/maxresdefault.jpg"
+        },
+	{
+        "title": "Sulphonamides",
+	    "url" : "https://youtu.be/Sy0NrksrRQI",
+        "video_length": "Video length: 5:03",
+	    "thumbnail":"https://i.ytimg.com/vi/Sy0NrksrRQI/maxresdefault.jpg"
+},
+{
+        "title": "Quinolones",
+	    "url" : "https://youtu.be/EjHV_X5GLxk",
+        "video_length": "Video length: 3:39",
+	    "thumbnail":"https://i.ytimg.com/vi/EjHV_X5GLxk/maxresdefault.jpg"
+},
+{
+        "title": "Tetracycline",
+	    "url" : "https://youtu.be/L-w3jDcqub8",
+        "video_length": "Video length: 3:53",
+	    "thumbnail":"https://i.ytimg.com/vi/L-w3jDcqub8/maxresdefault.jpg"
+},
+{
+        "title": "Histamines and Antihistamines",
+	    "url" : "https://youtu.be/-q4lTTOKv8I",
+        "video_length": "Video length: 6:03",
+	    "thumbnail":"https://i.ytimg.com/vi/-q4lTTOKv8I/maxresdefault.jpg"
+},{
+        "title": "Hypoglycemics",
+	    "url" : "https://youtu.be/avi-nHYdPno",
+        "video_length": "Video length: 9:51",
+	    "thumbnail":"https://i.ytimg.com/vi/avi-nHYdPno/maxresdefault.jpg"
+},
+	{
+            "title": "Introduction to Cosmeticology",
+	    "url" : "https://youtu.be/WT359xUl838",
+            "video_length": "Video length: 6:12",
+	    "thumbnail":"https://i.ytimg.com/vi/WT359xUl838/sddefault.jpg"
+        },
+	{
+            "title": "Lipsticks",
+	    "url" : "https://youtu.be/b9gti6WQjV8",
+            "video_length": "Video length: 10:13",
+	    "thumbnail":"https://i.ytimg.com/vi/b9gti6WQjV8/maxresdefault.jpg"
+        },
+	{
+            "title": "Shampoo",
+	    "url" : "https://youtu.be/4_BgJcYXsPs",
+            "video_length": "Video length: 7:39",
+	    "thumbnail":"https://i.ytimg.com/vi/4_BgJcYXsPs/maxresdefault.jpg"
+        },
+	{
+            "title": "Hair Cycle & Hair Grooming Products",
+	    "url" : "https://youtu.be/KilQrUubOj4",
+            "video_length": "Video length: 7:02",
+	    "thumbnail":"https://i.ytimg.com/vi/KilQrUubOj4/maxresdefault.jpg"
+        },
+	{
+            "title": "Capsules ",
+	    "url" : "https://youtu.be/KI4n_-12nZs",
+            "video_length": "Video length: 13:40",
+	    "thumbnail":"https://i.ytimg.com/vi/KI4n_-12nZs/maxresdefault.jpg"
+        },
+	{
+            "title": "Tablet Coating",
+	    "url" : "https://youtu.be/lZQyeECft3w",
+            "video_length": "Video length: 10:07",
+	    "thumbnail":"https://i.ytimg.com/vi/lZQyeECft3w/maxresdefault.jpg"
+        },
+	{
+        "title": "Aerosol",
+	    "url" : "https://youtu.be/P4CwS25JfF4",
+        "video_length": "Video length: 9:33",
+	    "thumbnail":"https://i.ytimg.com/vi/P4CwS25JfF4/maxresdefault.jpg"
+},
+{
+        "title": "Tablets - Introduction and Preformulations",
+	    "url" : "https://youtu.be/oiON0Q9s3RA",
+        "video_length": "Video length: 6:31",
+	    "thumbnail":"https://i.ytimg.com/vi/oiON0Q9s3RA/maxresdefault.jpg"
+},
+{
+        "title": "Tablets - Large Scale Manufacturing",
+	    "url" : "https://youtu.be/yvXZCdJzmeM",
+        "video_length": "Video length: 9:38",
+	    "thumbnail":"https://i.ytimg.com/vi/yvXZCdJzmeM/maxresdefault.jpg"
+},
+{
+        "title": "Tablets - Compression & QC's",
+	    "url" : "https://youtu.be/s6l8ZZupm6w",
+        "video_length": "Video length: 5:20",
+	    "thumbnail":"https://i.ytimg.com/vi/s6l8ZZupm6w/maxresdefault.jpg"
+},{
+        "title": "Types of tablets",
+	    "url" : "https://youtu.be/SVRcXRyx8XI",
+        "video_length": "Video length: 4:49",
+	    "thumbnail":"https://i.ytimg.com/vi/SVRcXRyx8XI/maxresdefault.jpg"
+},
+	{
+            "title": "ENZYME & CELL IMMOBILIZATION",
+	    "url" : "https://youtu.be/E3jiAuJfqpQ",
+            "video_length": "Video length: 5:42",
+	    "thumbnail":"https://i.ytimg.com/vi/E3jiAuJfqpQ/maxresdefault.jpg"
+        },
+	{
+            "title": "Immunology Part - I",
+	    "url" : "https://youtu.be/LkYUaSM-rKk",
+            "video_length": "Video length: 6:42",
+	    "thumbnail":"https://i.ytimg.com/vi/LkYUaSM-rKk/maxresdefault.jpg"
+        },
+	{
+            "title": "Immunology Part - II",
+	    "url" : "https://youtu.be/2hT8Q-l34sk",
+            "video_length": "Video length: 9:52",
+	    "thumbnail":"https://i.ytimg.com/vi/2hT8Q-l34sk/maxresdefault.jpg"
+        },
+	{
+            "title": "Vaccines & Sera",
+	    "url" : "https://youtu.be/mBFQ9f21IhQ",
+            "video_length": "Video length: 7:34",
+	    "thumbnail":"https://i.ytimg.com/vi/mBFQ9f21IhQ/maxresdefault.jpg"
+        },
+	{
+            "title": "Drugs Affecting Bone Mineral Homeostasis",
+	    "url" : "https://youtu.be/OLzbeBGnznc",
+            "video_length": "Video length: 6:29",
+	    "thumbnail":"https://i.ytimg.com/vi/OLzbeBGnznc/maxresdefault.jpg"
+        },
+	{
+            "title": "Drugs in Haematological Disorders",
+	    "url" : "https://youtu.be/Yx9O-m_0Dy0",
+            "video_length": "Video length: 7:28",
+	    "thumbnail":"https://i.ytimg.com/vi/Yx9O-m_0Dy0/maxresdefault.jpg"
+        },
+	{
+            "title": "SWOT Analysis - Basics",
+	    "url" : "https://youtu.be/4xmSTE6fxt8",
+            "video_length": "Video length: 3:25",
+	    "thumbnail":"https://i.ytimg.com/vi/4xmSTE6fxt8/maxresdefault.jpg"
+        },
+	{
+            "title": "Marketing Models",
+	    "url" : "https://youtu.be/-cc6uBnpr0Q",
+            "video_length": "Video length: 6:29",
+	    "thumbnail":"https://i.ytimg.com/vi/-cc6uBnpr0Q/maxresdefault.jpg"
+        },
+	{
+            "title": "Product Life Cycle",
+	    "url" : "https://youtu.be/VWI9HcQ0L1g",
+            "video_length": "Video length: 5:03",
+	    "thumbnail":"https://i.ytimg.com/vi/VWI9HcQ0L1g/sddefault.jpg"
+        },
+	{
+            "title": "Financial Management",
+	    "url" : "https://youtu.be/usMJ2Kt2ct4",
+            "video_length": "Video length: 7:14",
+	    "thumbnail":"https://i.ytimg.com/vi/usMJ2Kt2ct4/maxresdefault.jpg"
+        },
+	{
+            "title": "Brand Plan",
+	    "url" : "https://youtu.be/Gsu4O2Lc3ZY",
+            "video_length": "Video length: 9:42",
+	    "thumbnail":"https://i.ytimg.com/vi/Gsu4O2Lc3ZY/maxresdefault.jpg"
+        },
+	{
+            "title": "Six Sigma",
+	    "url" : "https://youtu.be/8HDbpKk2pmM",
+            "video_length": "Video length: 4:45",
+	    "thumbnail":"https://i.ytimg.com/vi/8HDbpKk2pmM/maxresdefault.jpg"
+        },
+	{
+        "title": "RISK MANAGEMENT AND FRAUDS IN RETAIL PRICE",
+	    "url" : "https://youtu.be/88w563AC9lE",
+        "video_length": "Video length: 3:34",
+	    "thumbnail":"https://i.ytimg.com/vi/88w563AC9lE/maxresdefault.jpg"
+},
+{
+        "title": "Purchasing and inventory control in retail trade",
+	    "url" : "https://youtu.be/R_0aZi5bXHY",
+        "video_length": "Video length: 3:40",
+	    "thumbnail":"https://i.ytimg.com/vi/R_0aZi5bXHY/maxresdefault.jpg"
+},
+{
+        "title": "Channels of distribution and Forms of Business Organization",
+	    "url" : "https://youtu.be/habc7uhPsUo",
+        "video_length": "Video length: 13:49",
+	    "thumbnail":"https://i.ytimg.com/vi/habc7uhPsUo/maxresdefault.jpg"
+},
+{
+        "title": "Safe use of medicine",
+	    "url" : "https://youtu.be/B85XcyXEZmA",
+        "video_length": "Video length: 3:43",
+	    "thumbnail":"https://i.ytimg.com/vi/B85XcyXEZmA/maxresdefault.jpg"
+},{
+        "title": "Drug Store Management",
+	    "url" : "https://youtu.be/ZI8tCErIk08",
+        "video_length": "Video length: 6:56",
+	    "thumbnail":"https://i.ytimg.com/vi/ZI8tCErIk08/maxresdefault.jpg"
+},{
+        "title": "INDIAN PATENT ACT 2005",
+	    "url" : "https://youtu.be/6T1udn2vkIM",
+        "video_length": "Video length: 10:01",
+	    "thumbnail":"https://i.ytimg.com/vi/6T1udn2vkIM/maxresdefault.jpg"
+},{
+        "title": "The Pharmacy Act 1948",
+	    "url" : "https://youtu.be/xVBtNyD2bQU",
+        "video_length": "Video length: 6:03",
+	    "thumbnail":"https://i.ytimg.com/vi/xVBtNyD2bQU/maxresdefault.jpg"
+},{
+        "title": "INDIAN PENAL CODE AND CODE OF CRIMINAL PROCEDURES",
+	    "url" : "https://youtu.be/BrQ8aoJisxk",
+        "video_length": "Video length: 2:54",
+	    "thumbnail":"https://i.ytimg.com/vi/BrQ8aoJisxk/maxresdefault.jpg"
+},{
+        "title": "BOMBAY SHOPS AND ESTABLISHMENTS ACT",
+	    "url" : "https://youtu.be/HLDmhhJ-8o0",
+        "video_length": "Video length: 3:07",
+	    "thumbnail":"https://i.ytimg.com/vi/HLDmhhJ-8o0/maxresdefault.jpg"
+},
+{
+        "title": "Factory Act",
+	    "url" : "https://youtu.be/Qja5GK0oTCY",
+        "video_length": "Video length: 3:51",
+	    "thumbnail":"https://i.ytimg.com/vi/Qja5GK0oTCY/maxresdefault.jpg"
+},
+	{
+            "title": "Introduction to Hospitals and Hospital Pharmacy",
+	    "url" : "https://youtu.be/Cy6_UHTIJvM",
+            "video_length": "Video length: 5:26",
+	    "thumbnail":"https://i.ytimg.com/vi/Cy6_UHTIJvM/maxresdefault.jpg"
+        },
+	{
+            "title": "Pharmacy and Therapeutics Committee",
+	    "url" : "https://youtu.be/qJVKFYSLmK4",
+            "video_length": "Video length: 5:53",
+	    "thumbnail":"https://i.ytimg.com/vi/qJVKFYSLmK4/maxresdefault.jpg"
+        },
+	{
+            "title": "Drug Distribution Systems in Hospitals",
+	    "url" : "https://youtu.be/3ahUxZ23Zy4",
+            "video_length": "Video length: 7:11",
+	    "thumbnail":"https://i.ytimg.com/vi/3ahUxZ23Zy4/maxresdefault.jpg"
+        },
+	{
+            "title": "Central Sterile Supply Services",
+	    "url" : "https://youtu.be/VnNBZrdImJs",
+            "video_length": "Video length: 8:58",
+	    "thumbnail":"https://i.ytimg.com/vi/VnNBZrdImJs/maxresdefault.jpg"
+        },
+	{
+            "title": "Introduction to Pharmacy Practice",
+	    "url" : "https://youtu.be/-7Scp7gnSMg",
+            "video_length": "Video length: 6:21",
+	    "thumbnail":"https://i.ytimg.com/vi/-7Scp7gnSMg/maxresdefault.jpg"
+        },
+	
+	{
+            "title": "Infrared Spectroscopy",
+	    "url" : "https://youtu.be/q-JV_w1Q-WI",
+            "video_length": "Video length: 7:58",
+	    "thumbnail":"https://i.ytimg.com/vi/q-JV_w1Q-WI/maxresdefault.jpg"
+        },
+	{
+            "title": "Thermal Analysis",
+	    "url" : "https://youtu.be/UNtEb1SWvts",
+            "video_length": "Video length: 3:46",
+	    "thumbnail":"https://i.ytimg.com/vi/UNtEb1SWvts/maxresdefault.jpg"
+        },
+	{
+        "title": "X Ray Diffraction Technique",
+	    "url" : "https://youtu.be/egWiv6tCaUY",
+        "video_length": "Video length: 8:14",
+	    "thumbnail":"https://i.ytimg.com/vi/egWiv6tCaUY/maxresdefault.jpg"
+},
+{
+        "title": "Radiopharmaceutics",
+	    "url" : "https://youtu.be/IJmaOWS0mMk",
+        "video_length": "Video length: 7:07",
+	    "thumbnail":"https://i.ytimg.com/vi/IJmaOWS0mMk/maxresdefault.jpg"
+},
+{
+        "title": "Raman Spectroscopy",
+	    "url" : "https://youtu.be/hPTrz7dj2ps",
+        "video_length": "Video length: 4:15",
+	    "thumbnail":"https://i.ytimg.com/vi/hPTrz7dj2ps/maxresdefault.jpg"
+},{
+        "title": "Extraction of Phytoconstituents",
+	    "url" : "https://youtu.be/_7RHYEZ5x9c",
+        "video_length": "Video length: 13:30",
+	    "thumbnail":"https://i.ytimg.com/vi/_7RHYEZ5x9c/maxresdefault.jpg"
+},
+{
+        "title": "Glycosides",
+	    "url" : "https://youtu.be/JT5Yp4t9hCw",
+        "video_length": "Video length: 10:06",
+	    "thumbnail":"https://i.ytimg.com/vi/JT5Yp4t9hCw/maxresdefault.jpg"
+},
+{
+        "title": "Neutraceuticals",
+	    "url" : "https://youtu.be/fHKycKS_3l8",
+        "video_length": "Video length: 6:51",
+	    "thumbnail":"https://i.ytimg.com/vi/fHKycKS_3l8/maxresdefault.jpg"
+}
+    ]
+}
