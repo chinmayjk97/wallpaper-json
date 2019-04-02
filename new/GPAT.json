@@ -1,0 +1,2423 @@
+{
+        "GPAT": [
+        {
+                "gpat_q": "Followings are some drug derivatives used to increase/decrease the water solubility of the \r\nparent drugs:\r\n[P] : Rolitetracycline\r\n[Q] : Erythromycin lactobionate \r\n[R] : Chloramphenicol succinate \r\n[S] : Erythromycin stearate\r\nChoose the correct combination of statements.",
+                "gpat_a1": "Q and R are used to increase water solubility while P and S are used to decrease it",
+                "gpat_a2": "P, Q and R are used to increase water solubility while S is used to decrease it",
+                "gpat_a3": "Q, S and R are used to increase water solubility while P is used to decrease it",
+                "gpat_a4": "Q and S are used to increase water solubility while P and Q are used to decrease it",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Iodine-131 as sodium iodide solution is used as a radiopharmaceutical for diagnostic and \r\ntherapeutic purposes. Its usage is dependent on the release of the following emissions:\r\n[P] Alpha particles [Q] Positrons [R] Beta emission [S] Gamma radiation\r\nChoose the correct combination of statements?",
+                "gpat_a1": "R \u0026 S",
+                "gpat_a2": "Q \u0026 S",
+                "gpat_a3": "P \u0026 R",
+                "gpat_a4": "P \u0026 S",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Petit mal epilepsy is treated by",
+                "gpat_a1": "phenoberbitone",
+                "gpat_a2": "ethosuximide",
+                "gpat_a3": "phenytoin",
+                "gpat_a4": "diazepam",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Which one of the following drugs has positive inotropic and negative chronotropic action?",
+                "gpat_a1": "Dopamine",
+                "gpat_a2": "Epinephrine",
+                "gpat_a3": "Digoxin", 
+                "gpat_a4": "Isoprenaline",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which one of the following therapeutic classes has been proved clinically as a first line therapy for heart failure and has shown decreased hospitalization, improved symptoms and delayed disease progression?",
+                "gpat_a1": "Cardiac glycosides",
+                "gpat_a2": "ACE Inhibitors (ACEIs)",
+                "gpat_a3": "Renin Antagonists",
+                "gpat_a4": "Nitrites",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Which one of the following anti-arrhythmic drugs acts by inhibiting potassium, sodium and calcium channels?",
+                "gpat_a1": "Quinidine",
+                "gpat_a2": "Lignocaine",
+                "gpat_a3": "Amiodarone",
+                "gpat_a4": "Flecainide",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which one of the following drugs produces significant relaxation of both venules and arterioles?",
+                "gpat_a1": "Hydralazine",
+                "gpat_a2": "Minoxidil",
+                "gpat_a3": "Diazoxide",
+                "gpat_a4": "Sodium nitroprusside",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "All of the given four drugs are neuromuscular blocking agents.
+[P] : Gallamine [Q]: Succinylcholine
+[R] : Vecuronium [S] : d-Tubocurarine
+Choose the correct statement about them.",
+                "gpat_a1": "P and Q are competitive neuromuscular blocking agents",
+                "gpat_a2": "Q and R are competitive neuromuscular blocking agents",
+                "gpat_a3": "R and S are non-competitive neuromuscular blocking agents",
+                "gpat_a4": "P and S are competitive neuromuscular blocking agents",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Metformin causes the following actions EXCEPT for the one. Identify that.",
+                "gpat_a1": "Reduces hepatic neoglucogenesis",
+                "gpat_a2": "Increases glucose uptake in skeletal muscles",
+                "gpat_a3": "Enhances sensitivity to insulin",
+                "gpat_a4": "Increases HbA1c by 1% to 2%",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Histologically the barks of Cinnamomum cassia and Cinnamomum zeylanicum differ in one of the following features. Identify that.",
+                "gpat_a1": "Sclerieds",
+                "gpat_a2": "Phloem Fibers",
+                "gpat_a3": "Pericyclic Fibres",
+                "gpat_a4": "Cortex",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Atracurium besylate, a neuromuscular blocking agent, is metabolized through one of the following reactions. Identify that.",
+                "gpat_a1": "Hoffman elimination",
+                "gpat_a2": "Hoffman rearrangement",
+                "gpat_a3": "Michael addition",
+                "gpat_a4": "Claisen condensation",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Choose the most basic heterocyclic compound among the followings.",
+                "gpat_a1": "Pyridine",
+                "gpat_a2": "Imidazole",
+                "gpat_a3": "Pyrrole",
+                "gpat_a4": "Pyrrolidine",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Which one of the following amino acids is the most effective contributor of protein buffer?",
+                "gpat_a1": "Alanine",
+                "gpat_a2": "Glycine",
+                "gpat_a3": "Histidine",
+                "gpat_a4": "Arginine",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which one of the following colours is NOT permitted to be used in drugs by the Drugs and Cosmetics Act, 1940?",
+                "gpat_a1": "Chlorophyll",
+                "gpat_a2": "Riboflavin",
+                "gpat_a3": "Tartrazine",
+                "gpat_a4": "Amaranth",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Read the following statements:
+[P] : At temperature below Kraft point, micelles will, not form
+[Q]: At Kraft point, solubility of surfactant equals CMC
+[R] : Kraft point increases with increasing chain length of hydrocarbon
+[S] : Kraft point is normally exhibited by non-ionic surfactants
+Choose the correct combination of answers.",
+                "gpat_a1": "P is correct but Q, R & S are wrong",
+                "gpat_a2": "R & S are correct but P & Q are wrong",
+                "gpat_a3": "P, Q & R are correct but S is wrong",
+                "gpat_a4": "P, Q, R & S all are correct",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which of the following alkaloids is derived from tyrosine?",
+                "gpat_a1": "Quinine",
+                "gpat_a2": "Morphine",
+                "gpat_a3": "Atropine",
+                "gpat_a4": "Ephedrine",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Quinoline alkaloids are biosynthesized via which one of the following pathways?",
+                "gpat_a1": "Shikimic acid - tyrosine",
+                "gpat_a2": "Shikimic acid - tryptophan",
+                "gpat_a3": "Shikimic acid - cathinone",
+                "gpat_a4": "Shikimic acid - phenylalanine",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Which of the following beta blockers has been shown clinically to reduce mortality in patients of symptomatic heart failure?",
+                "gpat_a1": "Atenolol",
+                "gpat_a2": "Carvedilol",
+                "gpat_a3": "Propranolol",
+                "gpat_a4": "Esmolol",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Diels-Alder reaction can be carried out in which of the following heterocyclic compounds most readily?",
+                "gpat_a1": "Pyrrole",
+                "gpat_a2": "Thiophene",
+                "gpat_a3": "Furan",
+                "gpat_a4": "Pyridine",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Tissue Plasminogen activator that disperses blood clot, is beneficial if given within",
+                "gpat_a1": "3 days",
+                "gpat_a2": "9 hours",
+                "gpat_a3": "3 hours",
+                "gpat_a4": "24 hours",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Exotoxin producing bacteria :",
+                "gpat_a1": "Salmonella typi",
+                "gpat_a2": "Vibrio cholera",
+                "gpat_a3": "Clostridium tetani",
+                "gpat_a4": "Pasteurella pestis",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Petimal seizure is also known as :",
+                "gpat_a1": "Grandmal seizure ",
+                "gpat_a2": "Generalised tonic-clonic seizure ",
+                "gpat_a3": "Absence seizure ",
+                "gpat_a4": "None",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Sweet taste of Glycyrrhiza is due to the presence of",
+                "gpat_a1": "Na and k salt of glycyrrhic acid",
+                "gpat_a2": "Mg and Ca salt of glycyrrhic acid",
+                "gpat_a3": "K and Ca salt of glycyrrhic acid",
+                "gpat_a4": "Isoliquirtin",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Parkinsonism is a common neurological movement disorder. Signs include rigid skeletal muscle, akinesia, tremors at rest. Both L-Dopa and Carbidopa are used..
+ Carbidopa is used because :",
+                "gpat_a1": "It crosses blood brain barrier.",
+                "gpat_a2": "It inhibits aromatic L-aminoacid decarboxylase",
+                "gpat_a3": "It inhibits MAO type A",
+                "gpat_a4": "It inhibits MAO type B",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "An isosteric replacement for carboxylic acid group is",
+                "gpat_a1": "Pyrrole",
+                "gpat_a2": "Phenol",
+                "gpat_a3": "Isoxazole",
+                "gpat_a4": "Tetrazole",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Derivatization is done in GC for :",
+                "gpat_a1": "To convert less polar compound to more polar compound",
+                "gpat_a2": "To make compound less volatile",
+                "gpat_a3": "To convert more polar compound to less polar compound",
+                "gpat_a4": "To liquify solid",
+                "gpat_correct_a": "3"
+        },
+
+        {
+                "gpat_q": "Dioctyl Phthalate Test or Smoke test is used For ______ ?",
+                "gpat_a1": "HEPA filter integrity",
+                "gpat_a2": "Filter validation",
+                "gpat_a3": "Filter leak testing",
+                "gpat_a4": "Filter Compatibility testing",
+                "gpat_correct_a": "1"
+        },
+                
+        {
+                "gpat_q": "which one of the following drugs has positive inotropic and negative chronotropic action ?",
+                "gpat_a1": "Dopamine",
+                "gpat_a2": "Epinephrine",
+                "gpat_a3": "Digoxin",
+                "gpat_a4": "Isoprenaline",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Select the equation which gives the rate of dissolution of tablet ",
+                "gpat_a1": "Fick's Law",
+                "gpat_a2": "Handerson Hasselbatch equation ",
+                "gpat_a3": "Noyes Whitney equation ",
+                "gpat_a4": "Michelis Menten equation ",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Glucose is the only source of energy for one of the followings. Identify that.",
+                "gpat_a1": "Cardiac cells",
+                "gpat_a2": "nephrons",
+                "gpat_a3": "RBCs",
+                "gpat_a4": "Thrombocytes",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Precise control of flow is obtained by which one of followings ?",
+                "gpat_a1": "Needle Valve",
+                "gpat_a2": "Butterfly Valve",
+                "gpat_a3": "Gate Valve",
+                "gpat_a4": "Globe Valve",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "For the equation PV=nRT to hold true for a gas, all of the following conditions are necessary Except for ONE. Identify that.",
+                "gpat_a1": "The molecules of gas must be of negligible volume",
+                "gpat_a2": "collisions between molecules must be perfectly elastic",
+                "gpat_a3": "The velocities of all molecules must be equal",
+                "gpat_a4": "The gas must not be decomposing",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Among the followings which one is not only a reducing sugar but also does not exhibit mutarotation ?",
+                "gpat_a1": "Glucose",
+                "gpat_a2": "Maltose",
+                "gpat_a3": "Lactose",
+                "gpat_a4": "Sucrose",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "If the Carr's index of the powder is 10% then the type of powder flow is :",
+                "gpat_a1": "Poor",
+                "gpat_a2": "Excellent ",
+                "gpat_a3": "Very Poor",
+                "gpat_a4": "Good",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which of the following constituents is reported to have anti-hepatotoxic activity ?",
+                "gpat_a1": "Podophyllotoxin",
+                "gpat_a2": "Linalool",
+                "gpat_a3": "Andrographoloid",
+                "gpat_a4": "Safranal",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "The process of exuding of fluid from surface of gel is called :",
+                "gpat_a1": "Syneresis",
+                "gpat_a2": "Hysteresis ",
+                "gpat_a3": "Diapedesis",
+                "gpat_a4": "imbibition",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "What is co-trimoxazole? ",
+                "gpat_a1": "Sulfamethoxazole + Trimethoprim in 3:1 ratio ",
+                "gpat_a2": "Sulfadoxine + Pyrimethamine ",
+                "gpat_a3": "Sulfamethoxazole + Trimethoprim in 5:1 ratio ",
+                "gpat_a4": "sulfacetamide + sulfathiazole + sulfabenzamide",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "The main film-forming agent in the nail polish is",
+                "gpat_a1": "Nitrocellulose",
+                "gpat_a2": "Sulphonamide-formaldehyde",
+                "gpat_a3": "Ethyl lactate",
+                "gpat_a4": " n-butyl acetate",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Calibration of cell constant of a conductance cell is carried out using a solution of ",
+                "gpat_a1": "0.1M NaCl",
+                "gpat_a2": "0.1M KCl",
+                "gpat_a3": "0.1M AlCl3",
+                "gpat_a4": "0.1M CaCl2",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "In sugar coating of tablets sub-coating is done :",
+                "gpat_a1": "To prevent moisture absorption",
+                "gpat_a2": "To round edges and build tablet size",
+                "gpat_a3": "To smoothen the surface",
+                "gpat_a4": "To prevent the tablet from breaking due to vibration",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "The R-W Coefficient test is used to Evaluate :",
+                "gpat_a1": "Antibiotic activity",
+                "gpat_a2": "Sterility of packaging material",
+                "gpat_a3": "Nature of organism in bacterial infection",
+                "gpat_a4": "Bactericidal action",
+                "gpat_correct_a": "4"
+        }, 
+{
+                "gpat_q": "The maximum pressure to be filled in plastic aerosol container is ______?",
+                "gpat_a1": "25 psi",
+                "gpat_a2": "50 psi",
+                "gpat_a3": "10 psi",
+                "gpat_a4": "15 psi",
+                "gpat_correct_a": "1"
+        }, 
+{
+                "gpat_q": "Carbowax is a type of ______?",
+                "gpat_a1": "Absorption base",
+                "gpat_a2": "Modern ointment",
+                "gpat_a3": "Water soluble bases",
+                "gpat_a4": "oleaginous and hydrocarbon",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which of the following is required for
+crystallization and storage of the
+hormone insulin?",
+                "gpat_a1": "Mn++",
+                "gpat_a2": "Zn++",
+                "gpat_a3": "Ca++",
+                "gpat_a4": "Mg++",
+                "gpat_correct_a": "2"
+        }, 
+{
+                "gpat_q": "The pH of blood is 7.4 when the ratio
+between H2CO3 and NaHCO3 is _____?",
+                "gpat_a1": "1:10",
+                "gpat_a2": "1:20",
+                "gpat_a3": "1:25",
+                "gpat_a4": "1:15",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "ALL are true EXCEPT :",
+                "gpat_a1": "Soft soaps give emulsions with Ph in the basic range",
+                "gpat_a2": "Hard soaps form water in oil emulsion",
+                "gpat_a3": "Water-soluble Polymers favour the formation of water in oil emulsion",
+                "gpat_a4": "On the HLB system, lower numbers are assigned to lipophilic compounds while higher numbers are assigned to hydrophilic compounds",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Colligative properties depend upon _______",
+                "gpat_a1": "Structural arrangement of atoms within the molecules of solute and solvent. ",
+                "gpat_a2": "The number of solute particles in solution",
+                "gpat_a3": "The physical properties of the solute particles dissolved in solution",
+                "gpat_a4": "Sum of the corresponding properties of individual items are functional groups within the molecule",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "5-Flurouracil is _______?",
+                "gpat_a1": "Pyrimidine Antagonist",
+                "gpat_a2": "Pyrimidine Analogue",
+                "gpat_a3": "Purine Analogue",
+                "gpat_a4": "Purine Antagonist",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "About 95% of transdermal drug enter the skin through which pathway?",
+                "gpat_a1": "Intercellular",
+                "gpat_a2": "Transcellular",
+                "gpat_a3": "Follicular",
+                "gpat_a4": "Eccrine",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which of the following chemical mediators of asthma is NOT a target for antiasthmatic drugs in clinical use? ",
+                "gpat_a1": "Anticholinergics",
+                "gpat_a2": "Antihistaminic",
+                "gpat_a3": "Platelet activating factors",
+                "gpat_a4": "Cytokines inhibitors",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which of the following is called as suicide substrate?",
+                "gpat_a1": "Clavulanic acid",
+                "gpat_a2": "Palcitaxel",
+                "gpat_a3": "Integrins",
+                "gpat_a4": "Statins",
+                "gpat_correct_a": "1"
+        }, 
+{
+                "gpat_q": "A 49 year old woman is suffering from symptoms of weight gain, cold intolerance, constipation, bradycardia constipation, puffy face, lethargy and dry skin disease.Symptoms are suggestive of which of the followings? ",
+                "gpat_a1": "Overuse of corticosteroids",
+                "gpat_a2": "Estrogen deficiency",
+                "gpat_a3": "Overuse of thyroxine sodium",
+                "gpat_a4": "Hypothyroidism",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which of the antibody has the longest serum half-life? ",
+                "gpat_a1": "IgA",
+                "gpat_a2": "IgE",
+                "gpat_a3": "IgG",
+                "gpat_a4": "IgM",
+                "gpat_correct_a": "3"
+        }, 
+{
+                "gpat_q": "A mixture of Oxygen and nitrous oxide 50:50 can safely be used for relief of pain in ",
+                "gpat_a1": "Toothache",
+                "gpat_a2": "Child Birth",
+                "gpat_a3": "Third degree burns",
+                "gpat_a4": "Ear",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Testing for antibiotic sensitivity is done by ",
+                "gpat_a1": "Kirby Bauer Method",
+                "gpat_a2": "Stokes method",
+                "gpat_a3": "Mueller-hinton Agar Method",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Due to lack of ____ enzyme, albinism occurs. ",
+                "gpat_a1": "tyrosinase",
+                "gpat_a2": "xanthine oxidase",
+                "gpat_a3": "catalyse",
+                "gpat_a4": "fructokinase  ",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Find the process by which the conversion of sulfasalazine to sulfapyridine and 5-aminosalicylic acid takes place in colon? ",
+                "gpat_a1": "Hydrolysis",
+                "gpat_a2": "Deamination",
+                "gpat_a3": "Acetylation",
+                "gpat_a4": "Azoreduction",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Select the incorrect statement regarding the effect of the following on vibrational frequency in IR spectra",
+                "gpat_a1": "Mesomeric effect lower the absorption of frequency of chemical bond",
+                "gpat_a2": "+I effect lowest absorption frequency of chemical bond",
+                "gpat_a3": "-I effect increases the absorption frequency of chemical bond",
+                "gpat_a4": "Field effect lowers the absorption frequency of chemical bond",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "If propranolol is given to a patient who is already administering oral hypoglycemic agents for the diabetes.It may cause",
+                "gpat_a1": "Fatal hypoglycemia",
+                "gpat_a2": "Liver toxicity",
+                "gpat_a3": " Severe constipation",
+                "gpat_a4": "Tachycardia",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Which of the following increases the risk of digoxin induced 
+arrhythmias?",
+                "gpat_a1": "Hypercalcemia",
+                "gpat_a2": "Hyperkalaemia",
+                "gpat_a3": "Hypermagnesaemia",
+                "gpat_a4": "Hypernatraemia",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "at a triple point _______",
+                "gpat_a1": "both the temperature and pressure are fixed",
+                "gpat_a2": "only temperature is fixed",
+                "gpat_a3": "only pressure is fixed ",
+                "gpat_a4": "sometimes temperature and sometime pressure are fixed",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "The controlled substance means",
+                "gpat_a1": "Banned drugs",
+                "gpat_a2": "Drugs included in price control list",
+                "gpat_a3": "Drugs prescribed by RMP only",
+                "gpat_a4": "Drugs notified in central government gazette",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "What does the symbol P represent in QSAR Equation? ",
+                "gpat_a1": "Partition coefficient",
+                "gpat_a2": "Prodrug",
+                "gpat_a3": "Ph",
+                "gpat_a4": "Plasma concentration",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "carr's compressibility index gives an idea about ",
+                "gpat_a1": "Flow property of powders",
+                "gpat_a2": "cohesiveness of powders",
+                "gpat_a3": "both",
+                "gpat_a4": "none",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Atovastatin should be taken at night after dinner. Why? ",
+                "gpat_a1": "It induce sleep. ",
+                "gpat_a2": "Synthesis of cholesterol is maximum during night. ",
+                "gpat_a3": "The patient would be affected by sunlight taken during daytime. ",
+                "gpat_a4": "Because of better absorption. ",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Rantidine contains which heterocyclic ring :",
+                "gpat_a1": "Imidazole",
+                "gpat_a2": "Thiazole",
+                "gpat_a3": "Furan",
+                "gpat_a4": "Pyridine",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "The purple colour formed in limit test of iron due to :",
+                "gpat_a1": "Ferric thioglycolate",
+                "gpat_a2": "Ferrous thioglycolate",
+                "gpat_a3": "Ferrous glycolate",
+                "gpat_a4": "Ferric glycolate",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Tolerance refers to genetically determine sensitivity to a drug called as ______?",
+                "gpat_a1": "Innate Tolerance",
+                "gpat_a2": "Learned Tolerance",
+                "gpat_a3": "Acute Tolerance",
+                "gpat_a4": "Dispositional Tolerance",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which of the following organism is NOT involved in urinary tract infection? ",
+                "gpat_a1": "Escherichia coli",
+                "gpat_a2": "Klebshiella pneumonia ",
+                "gpat_a3": "Bacteriodes fragilis",
+                "gpat_a4": "Proteus mirabilis",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The drug having hydroxy or carboxylic acid group are easily conjugated with _______?",
+                "gpat_a1": "Sulphate",
+                "gpat_a2": "Acetyl Co-enzyme A",
+                "gpat_a3": "Glycin",
+                "gpat_a4": "Glucoronic Acid",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "For identifing W/O emulsions with CoCl2 it gives colour change",
+                "gpat_a1": "Pink to blue ",
+                "gpat_a2": "Blue to pink",
+                "gpat_a3": "Violet to yellow ",
+                "gpat_a4": "No change",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Vitamin B12 can be estimated and determined by using organism ______?",
+                "gpat_a1": "Lactobacillus Sps",
+                "gpat_a2": "Lactobacillus Leichmanni",
+                "gpat_a3": "Bacillus subtilis",
+                "gpat_a4": "E.coli",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Major adverse effect of clonidine is",
+                "gpat_a1": "Bradycardia",
+                "gpat_a2": "Tachycardia",
+                "gpat_a3": "Sexual dysfunction",
+                "gpat_a4": "Dry mouth ",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "What would be the allowed weight variation, if the tablet weight is 300mg?",
+                "gpat_a1": "10 %",
+                "gpat_a2": "5 %",
+                "gpat_a3": "2.5 %",
+                "gpat_a4": "7.5 %",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which of the following is used as live-attenuated vaccine? ",
+                "gpat_a1": "BCG",
+                "gpat_a2": "Sabin Vaccine",
+                "gpat_a3": "Both A and B ",
+                "gpat_a4": "Salk Vaccine",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Rate limiting step in biosynthesis of catecholamine is _______?",
+                "gpat_a1": "Formation of Dopamine",
+                "gpat_a2": "Formations of dopa",
+                "gpat_a3": "Transport of tyrosine",
+                "gpat_a4": "Function of noradrenaline",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Methanolic extract of crude drug powder when treated with magnesium turnings and conc. hydrochloric acid turned the solution magenta colour. The test is termed as",
+                "gpat_a1": "Shinoda Test",
+                "gpat_a2": "Van Urk's Test",
+                "gpat_a3": "Keller Killiani Test",
+                "gpat_a4": "Vitali Morin Test",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Equipment recommend for manufacturing of powder comes under ___?",
+                "gpat_a1": "Schedule H",
+                "gpat_a2": "Schedule N",
+                "gpat_a3": "Scheduleb X",
+                "gpat_a4": "Schedule M",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "The role of glutathione in tissues includes all EXCEPT :-",
+                "gpat_a1": "Participate in activation of methionine",
+                "gpat_a2": "Participate in decomposition of hydrogen peroxide",
+                "gpat_a3": "Participate in detoxification reactions",
+                "gpat_a4": "Biologically active in oxidized form",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "As per Factories Act 1948, in CHAPTER VI dealing with working hours of adults, no adult worker
+shall be required or allowed to work in a factory for more than _______________ hours in a week.",
+                "gpat_a1": "30",
+                "gpat_a2": "40",
+                "gpat_a3": "48",
+                "gpat_a4": "56",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": " Which of the following is a 3,3-sigmatropic reaction which converts a 1,5-diene to an isomeric
+ 1,5 diene?",
+                "gpat_a1": "Cope rearrangement",
+                "gpat_a2": "Claisen rearrangement",
+                "gpat_a3": "Photochemical [2+2] reaction",
+                "gpat_a4": "Diels-Alder reaction",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Hepatitis-B virus , except ",
+                "gpat_a1": "is a DNA virus",
+                "gpat_a2": "The presence of antigen indicates increased infectivity",
+                "gpat_a3": "Antibody to surface antigen usually appears within 2 weeks of infection",
+                "gpat_a4": "Is a recognized cause of  liver cancer",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Starch-iodide paste/paper is used as an external indicator in one of the following titrations.	Identify that.
+",
+                "gpat_a1": "Iodometric titration of copper sulphate using sodium thiosulphate as titrant
+",
+                "gpat_a2": "Iodimetric titration of ascorbic acid using iodine solution as titrant
+",
+                "gpat_a3": "Diazotisation titration of sulphadiazine using sodium nitrite as titrant
+",
+                "gpat_a4": "Potassium dichromate titration using sodium thiosulphate as titrant",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The vitamin essential in tissue culture medium is ________?",
+                "gpat_a1": "Pyridoxine",
+                "gpat_a2": "Thiamine",
+                "gpat_a3": "Nicotinic acid",
+                "gpat_a4": "Inositol",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": " Dipole - induced dipoles are also known as:",
+                "gpat_a1": "London forces",
+                "gpat_a2": "Keesom forces ",
+                "gpat_a3": "Debye forces",
+                "gpat_a4": "Hydrogen bonding",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Who is Father Of Cognosy _______?",
+                "gpat_a1": "Galen",
+                "gpat_a2": "Hippocrates",
+                "gpat_a3": "Dioscoride",
+                "gpat_a4": "Shushrutha",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which of the following side effect of ACE inhibitors result from inhibition of bradykinin breakdown?",
+                "gpat_a1": "Analgesia",
+                "gpat_a2": "Hyperglycaemia",
+                "gpat_a3": "Productive cough",
+                "gpat_a4": "Dry cough",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "What is administered in case of chronic asthma?",
+                "gpat_a1": "β1 antagonist",
+                "gpat_a2": "β1 agonist + steroids",
+                "gpat_a3": "β2 agonist + steroids",
+                "gpat_a4": "β2 antagonist",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "During autoclaving of dextrose solution, a straw colour is observed. It is due to the presence of substance called ",
+                "gpat_a1": "Furfural",
+                "gpat_a2": "5-hydroxymethylfurfural",
+                "gpat_a3": "5-hydroxyfurfural",
+                "gpat_a4": "5-methylfurfural",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Verapamil is used as a ________?",
+                "gpat_a1": "Anti-anginal drug",
+                "gpat_a2": "Anti-arrhythmic Drug",
+                "gpat_a3": "Ca+2 channel blocker",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "The following are used to detect antibodies EXCEPT ",
+                "gpat_a1": "Compliment fixation ",
+                "gpat_a2": "Haematoglutination inhibition ",
+                "gpat_a3": "Coagulase test",
+                "gpat_a4": "Indirect Immunofluorescence ",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Most of the emergency contraceptives have which one 
+of the following active ingredients?
+",
+                "gpat_a1": "Misoprostol",
+                "gpat_a2": "Levonorgesterel",
+                "gpat_a3": "Norethindron",
+                "gpat_a4": "Estradiol",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Hopkins cole reaction is used for the presence of ____?",
+                "gpat_a1": "Indole ring",
+                "gpat_a2": "Two peptide linkage",
+                "gpat_a3": "p-amino acid",
+                "gpat_a4": "Phenolic group",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Causative agent of syphilis is ______?",
+                "gpat_a1": "Clostridium titanium",
+                "gpat_a2": "Bacillus pertussis",
+                "gpat_a3": "Treponema palladium",
+                "gpat_a4": "Vibrio cholera",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Sodium nitroprusside is one of the most potent blood pressure lowering drugs. Its uses limited because of ____",
+                "gpat_a1": "Its short duration of action",
+                "gpat_a2": "Very long duration of action",
+                "gpat_a3": "Ineffective in oral route",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "which of the following adverse effects is caused by thioridazine ?",
+                "gpat_a1": "Tardive dyskinesia",
+                "gpat_a2": "Constpation",
+                "gpat_a3": "Orthostatic hypotension",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "D-Fructose on simple reduction gives :",
+                "gpat_a1": "Only Mannitol ",
+                "gpat_a2": "Only Sorbitol ",
+                "gpat_a3": "L-Fructose",
+                "gpat_a4": "Mixture of Mannitol and Sorbitol ",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Which one of the following anti-arryhythmic drugs act by inhibiting potassium-sodium and calcium channels ?",
+                "gpat_a1": "Qunidine",
+                "gpat_a2": "Lignocaine",
+                "gpat_a3": "Amiodarone",
+                "gpat_a4": "Flecainide",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "1 Fajan's method        Chromate \n2 Mohr's method       Fluoroscein \n3 Volhard's method    Ferric salt   \n\nThe method and indicator matches correctly are ___",
+                "gpat_a1": "1 and 2 only ",
+                "gpat_a2": "2 and 3 only ",
+                "gpat_a3": "3 only ",
+                "gpat_a4": "2 only",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "which one of the following modes of HIV transmission carries highest relative risk of infection with single exposure ?",
+                "gpat_a1": "Transfusion of blood and blood products",
+                "gpat_a2": "Perinatal from mother to child",
+                "gpat_a3": "Sexual contacts with infected partners",
+                "gpat_a4": "Syringe sharing with drug addicts",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "which of the following drug is not from family solanaceae ?",
+                "gpat_a1": "Ephedra",
+                "gpat_a2": "Datura",
+                "gpat_a3": "Belladonna",
+                "gpat_a4": "Pepper",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "E coli is used in assay of    ",
+                "gpat_a1": "Carbencillin",
+                "gpat_a2": "Chloramphenicol",
+                "gpat_a3": "Gentamycin",
+                "gpat_a4": "Nystatin",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "The principle light- trapping pigment molecule in plants, Algae, and cyanobacteria is ",
+                "gpat_a1": "Chlorophyll a",
+                "gpat_a2": "chlorophyll b",
+                "gpat_a3": "Rhodapsin",
+                "gpat_a4": "Porphyrin",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In polarography ____ is used for quantitative analysis.",
+                "gpat_a1": "Halfwave potential 	",
+                "gpat_a2": "Migration current",
+                "gpat_a3": "Diffusion current",
+                "gpat_a4": "Limiting current
+",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Schedule “K” states
+",
+                "gpat_a1": "Minimum equipment required for running pharmacy
+",
+                "gpat_a2": "Drugs exempted from certain provision relating to manufacture of drugs",
+                "gpat_a3": "Disease or ailment which a drug may not purport to
+prevent or cure
+",
+                "gpat_a4": "List of drugs exempted from the provision of import
+",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "The technique of using very small metal particles coated with desired DNA in the gene transfer is called ",
+                "gpat_a1": "Microinjection",
+                "gpat_a2": "Biolistic",
+                "gpat_a3": "Liposome mediated",
+                "gpat_a4": "Electroporation",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Parachor and Molar refraction can be categorized under one of the following properties. Identify that.",
+                "gpat_a1": "Additive properties",
+                "gpat_a2": "Constitutive properties",
+                "gpat_a3": "Colligative properties
+",
+                "gpat_a4": "Additive and constitutive property
+",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "The aromatic ring present in beta blocker propranolol is",
+                "gpat_a1": "Benzene",
+                "gpat_a2": "Napthalene",
+                "gpat_a3": "Anthracene",
+                "gpat_a4": "Phenanthrene",
+                "gpat_correct_a": "2"
+        },
+ {
+                "gpat_q": "Which is following is not a prodrug
+? ",
+                "gpat_a1": "Progunil",
+                "gpat_a2": "Sulfasalazine",
+                "gpat_a3": "Prontosil red ",
+                "gpat_a4": "Trimethoprim",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Geiger Muller counter is filled with
+ ______",
+                "gpat_a1": "Hydrogen",
+                "gpat_a2": "Argon",
+                "gpat_a3": "Krypton	",
+                "gpat_a4": "Xenon",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "'Moon Face' is a characteristic effect seen in _____",
+                "gpat_a1": "Oral hypoglycemics",
+                "gpat_a2": "Corticosteroids ",
+                "gpat_a3": "Diuretics ",
+                "gpat_a4": "ACE Inhibitors ",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Plasmodial resistance of CHLOROQUINE is due to
+",
+                "gpat_a1": "Induction of inactivating enzymes
+",
+                "gpat_a2": "Change in receptor structure
+",
+                "gpat_a3": "Increase in the activity of DNA repair mechanism     
+",
+                "gpat_a4": "Decreased carrier-mediated drug transport
+",
+                "gpat_correct_a": "4"
+        },       
+        {
+                "gpat_q": "Which of the following is not a pharmacological effect of Morphine ?",
+                "gpat_a1": "Constriction of the pupil",
+                "gpat_a2": "C.N.S. depression",
+                "gpat_a3": "Diarrhoea",
+                "gpat_a4": "Respiratory",
+                "gpat_correct_a": "3"
+        },  
+        {
+                "gpat_q": "Choose the right combination:
+",
+                "gpat_a1": "Quinine, antimalarial, isoquinoline alkaloid
+",
+                "gpat_a2": "Reserpine, antihypertensive, indole alkaloid
+",
+                "gpat_a3": "Quantitative microscopy, stomatal number, myrrh",
+                "gpat_a4": "Palmitic acid, salicylic acid, fatty acids",
+                "gpat_correct_a": "2"
+        },  
+        {
+                "gpat_q": "Papaverine is an alkaloid which is used for",
+                "gpat_a1": "Cough suppression",
+                "gpat_a2": "Analgesia",
+                "gpat_a3": "Skeletal muscle contraction",
+                "gpat_a4": "Vasodilation",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which one of the following drugs does not act through G-Protein coupled receptors?
+",
+                "gpat_a1": "Epinephrine",
+                "gpat_a2": "Dopamine",
+                "gpat_a3": "Insulin",
+                "gpat_a4": "TSH",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "In acidic pH the oxygen load of haemoglobin is lowered. This observation is termed as :",
+                "gpat_a1": "Bohr effect",
+                "gpat_a2": "Dalton's law",
+                "gpat_a3": "Boyle's law",
+                "gpat_a4": "Haldane effect",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Formic acid is an example of ",
+                "gpat_a1": "Protogenic solvent",
+                "gpat_a2": "Protophillic solvent",
+                "gpat_a3": "Amphiprotic solvent",
+                "gpat_a4": "Aprotic Solvent",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Regarding blood brain barrier identify which statement is Wrong :",
+                "gpat_a1": "Capillary endothelial cells of brain have tight junctions. ",
+                "gpat_a2": "Only lipid soluble drugs in the brain. ",
+                "gpat_a3": "Inflammation of meninges further limits entry of drugs into brain. ",
+                "gpat_a4": "Blood brain barrier is deficient at CTZ and interior Hypothalamus. ",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "All of the following enzymes are used in ELISA except ",
+                "gpat_a1": "Glucose oxidase",
+                "gpat_a2": "Alkaline phosphatase",
+                "gpat_a3": "Coagulase",
+                "gpat_a4": "Beta-Galactosidase",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which of the following AT2 receptor antagonist does not possess tetrazole moiety in its structure? ",
+                "gpat_a1": "Losartan",
+                "gpat_a2": "Irbesartan",
+                "gpat_a3": "Telmisartan",
+                "gpat_a4": "Valsartan",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Florentine receiver is used to separate the liquids based on
+",
+                "gpat_a1": "Molecular weight",
+                "gpat_a2": "Sedimentation rate",
+                "gpat_a3": "Density",
+                "gpat_a4": "Freezing point",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Following drugs have volume of distribution more than 200:
+[P]	Warfarin	[Q]	Amitryptyline
+[R]	Digoxin	[S]	Alcohol
+",
+                "gpat_a1": "P and Q	",
+                "gpat_a2": "Q and R
+",
+                "gpat_a3": "Q and S	",
+                "gpat_a4": "P and S
+",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": " A b-lactamase inhibitor which contains an 1-oxopenam structure is ",
+                "gpat_a1": "Tazobactum sodium",
+                "gpat_a2": "Clavulanate potassium",
+                "gpat_a3": "Sublactum sodium",
+                "gpat_a4": "Thienamycin",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Small pox vaccine contain
+ :",
+                "gpat_a1": "Inactivated or killed virus
+",
+                "gpat_a2": "Living virus of vaccine
+",
+                "gpat_a3": "Sterile preparation of killed or fixed virus of rabies
+in only dried form",
+                "gpat_a4": "Sterile suspension of killed typhoid bacilli
+",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "A material which is insoluble and inert and used in matrix tablet formulation is ",
+                "gpat_a1": "Polyethylene",
+                "gpat_a2": "Stearyl alcohol",
+                "gpat_a3": "Polyethylene glycol",
+                "gpat_a4": "Triglycerides",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which category of drug is evaluated for dissolution? ",
+                "gpat_a1": "Highly diffusible ",
+                "gpat_a2": "Diffusion",
+                "gpat_a3": "Poorly water soluble",
+                "gpat_a4": "Water soluble ",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The isoelectric point of type A Gelatin is ",
+                "gpat_a1": "pH 5.6",
+                "gpat_a2": "pH 4.7",
+                "gpat_a3": "pH 9",
+                "gpat_a4": "pH 10.2",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Florentine receiver works on the principle of separation of component liquids of a mixture based on
+",
+                "gpat_a1": "Molecular weight difference
+",
+                "gpat_a2": "Density difference
+",
+                "gpat_a3": "Volume difference",
+                "gpat_a4": "All",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "As per Factories Act, 1948, in chapter VI dealing with working hours of adults, no adult worker shall be required or allowed to work in a factory for more than ____ hours in a week.",
+                "gpat_a1": "30",
+                "gpat_a2": "40",
+                "gpat_a3": "52",
+                "gpat_a4": "48",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Acid-fast organisms are seen in sputum of a 48 year old alcoholic Man. A test to confirm whether he needs a long-term multidrug treatment for tuberculosis is :",
+                "gpat_a1": "Chest X Ray",
+                "gpat_a2": "Ziehl neelsen stain of sputum",
+                "gpat_a3": "Sputum cytology",
+                "gpat_a4": "Mycobacterial cultures of sputum",
+                "gpat_correct_a": "1"
+        },
+
+        {
+                "gpat_q": "Standards of ophthalmic preparations are included in the schedule content",
+                "gpat_a1": "V",
+                "gpat_a2": "C",
+                "gpat_a3": "FF",
+                "gpat_a4": "U",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "A liquid who show increased viscosity on supplying stress is ",
+                "gpat_a1": "Dilatant",
+                "gpat_a2": "Pseudo Plastic",
+                "gpat_a3": "Plastic",
+                "gpat_a4": "Thixotropic",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Two of the official standards for uncoated tablet as per IP are :
+P)Shape Q) Friability 
+R)Disintegration time S)Uniformity of weight",
+                "gpat_a1": "P, Q",
+                "gpat_a2": "P, S",
+                "gpat_a3": "Q, R",
+                "gpat_a4": "R, S",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Which functional group is crucial for Antimalarial activity of Artimisinin",
+                "gpat_a1": "Aldehyde",
+                "gpat_a2": "Ethylene bridge",
+                "gpat_a3": "Ketonic functional group",
+                "gpat_a4": "Peroxide bridge",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which of the following drugs are often found in both prescription and over the counter nasal decongestant? ",
+                "gpat_a1": "Alpha 2 agonist",
+                "gpat_a2": "Alpha 1 agonist",
+                "gpat_a3": "Alpha 1 antagonist",
+                "gpat_a4": "Beta 2 agonist",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Anthracene is isomeric with",
+                "gpat_a1": "Phenanthrene",
+                "gpat_a2": "Naphthalene",
+                "gpat_a3": "Azulene",
+                "gpat_a4": "Benzene",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In HPLC analysis what type of column would you prefer? ",
+                "gpat_a1": "A column with high HETP and high number of plates",
+                "gpat_a2": "A column with low HETP and low number of plates",
+                "gpat_a3": "A column with high HETP and low number of plates",
+                "gpat_a4": "A column with low HETP and high number of plates",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Digitalis belongs to Schedule",
+                "gpat_a1": "E",
+                "gpat_a2": "X",
+                "gpat_a3": "G",
+                "gpat_a4": "H",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "One of the following is used as dental cement
+",
+                "gpat_a1": "ZnCl2",
+                "gpat_a2": "NaCl",
+                "gpat_a3": "KMnO4",
+                "gpat_a4": "ZnO",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "In which of the following techniques sample is kept below triple point ?",
+                "gpat_a1": "Lyophilisation",
+                "gpat_a2": "Spray drying",
+                "gpat_a3": "Spray congealing",
+                "gpat_a4": "Centrifugation",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "The active metabolite of anticancer cyclophosphamide is
+",
+                "gpat_a1": "N-hydroxy cyclophosphamide 
+",
+                "gpat_a2": "N-methyl cyclophosphamide 
+",
+                "gpat_a3": "N-acetyl cyclophosphamide
+",
+                "gpat_a4": "N-propyl cyclophosphide
+",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "The Vitamin administered with isoniazid to minimize adverse reactions is",
+                "gpat_a1": "Vitamin A",
+                "gpat_a2": "Pyridoxine",
+                "gpat_a3": "Biotin",
+                "gpat_a4": "Pantothenic acid",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "The order of dissolution of different dosage forms of drugs is ____ ",
+                "gpat_a1": "Metastable > stable > amorphous",
+                "gpat_a2": "Stable > amorphous > metastable",
+                "gpat_a3": "Amorphous > metastable > stable",
+                "gpat_a4": "Amorphous > stable > metastable",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Finger print region for IR is ______ 
+",
+                "gpat_a1": "1400-4000 cm-1
+",
+                "gpat_a2": "4000-8000cm-1
+",
+                "gpat_a3": "400-1400cm-1
+",
+                "gpat_a4": "None of the above
+",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Arrange the following spectroscopic technique in the 
+ascending order of their energies: NMR, IR, UV 
+",
+                "gpat_a1": "NMR>IR>UV",
+                "gpat_a2": "UV<IR<NMR	",
+                "gpat_a3": "NMR<IR<UV	
+",
+                "gpat_a4": "UV>IR>NMR
+",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "DLVO therapy is associated with ________
+",
+                "gpat_a1": "Granulation",
+                "gpat_a2": "Compression",
+                "gpat_a3": "Suspension",
+                "gpat_a4": "Emulsion",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which method is used for the Limit test for arsenic ?",
+                "gpat_a1": "Gutzeit Method",
+                "gpat_a2": "Oswald method",
+                "gpat_a3": "Arrhenius method",
+                "gpat_a4": "Karl-Fischer method",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In Ziehl Neelson staining, Acid fast bacteria are stained : ",
+                "gpat_a1": "Violet ",
+                "gpat_a2": "Purple",
+                "gpat_a3": "Red",
+                "gpat_a4": "Blue",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The oral oligosaccharide hypoglycemic agent, which is administered  at the start of the meal is",
+                "gpat_a1": "Pioglitazone",
+                "gpat_a2": "Miglitol",
+                "gpat_a3": "Acarbose",
+                "gpat_a4": "Glimepride",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Simethicone is a component of several antacid formulations. chemically it is",
+                "gpat_a1": "Wax",
+                "gpat_a2": "Aldehyde",
+                "gpat_a3": "Silicon",
+                "gpat_a4": "Fat",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "A person taking organic nitrates has to avoid one of the following drug as it can cause severe hypotension",
+                "gpat_a1": "Aspirin ",
+                "gpat_a2": "Cholestyramine ",
+                "gpat_a3": "Warfarin",
+                "gpat_a4": "Sildenafil",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Chemically Kaolin is _________
+",
+                "gpat_a1": "Hydrated magnesium slicate",
+                "gpat_a2": "Hydrated aluminium silicate 
+",
+                "gpat_a3": "Calcium Carbonate",
+                "gpat_a4": "None",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Mark-Houwink equation is used to determine molecular weight of colloids from
+",
+                "gpat_a1": "Electronic charge",
+                "gpat_a2": "Diffusion",
+                "gpat_a3": "Viscosity	",
+                "gpat_a4": "None
+",
+                "gpat_correct_a": "3"
+        }, 
+{
+                "gpat_q": "The constituent of cochineal is",
+                "gpat_a1": "Cantharidin",
+                "gpat_a2": "Hirudin",
+                "gpat_a3": "Tannic acid",
+                "gpat_a4": "Carminic acid",
+                "gpat_correct_a": "4"
+        }, 
+{
+                "gpat_q": "Dangerous Drugs Act and Rules relates to the year",
+                "gpat_a1": "1948",
+                "gpat_a2": "1955",
+                "gpat_a3": "1930",
+                "gpat_a4": "1940",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Northern blot is used for the separation of
+",
+                "gpat_a1": "mRNA",
+                "gpat_a2": "DNA",
+                "gpat_a3": "Protein",
+                "gpat_a4": "Protein DNA interaction
+",
+                "gpat_correct_a": "1"
+        }, 
+{
+                "gpat_q": "which one of the following is not a biotechnological interferon product? ",
+                "gpat_a1": "Alfa - n3",
+                "gpat_a2": "Alfa - 2b",
+                "gpat_a3": "Gamma - 1b",
+                "gpat_a4": "AlfaG - CSF",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Gossypol, a compound that has received major attention as male contraceptive (a)	Is a hydroxylated binaphthalene derivative found
+in cotton seed oil 
+(b)Is an aorizanol ester found in rice bran oil (c)Exhibits toxicity such as hypokalemic-induced
+paralysis (d)Acts as an androgen antagonist.
+",
+                "gpat_a1": " b, c",
+                "gpat_a2": "a, d
+",
+                "gpat_a3": "b, c ",
+                "gpat_a4": " a, c
+",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Synonym of rutin is",
+                "gpat_a1": "Vitamin H	",
+                "gpat_a2": "Vitamin D	",
+                "gpat_a3": "Vitamin A
+",
+                "gpat_a4": "Vitamin P
+",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "The blood bank license is issued in the form number",
+                "gpat_a1": "28A",
+                "gpat_a2": "28",
+                "gpat_a3": "28B",
+                "gpat_a4": "28C",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Gokhru is used as ________________
+",
+                "gpat_a1": "Hypoglycemic agent
+",
+                "gpat_a2": "Expectorant agent",
+                "gpat_a3": "Diuretic agent",
+                "gpat_a4": "Cardiotonic agent",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Uremia occurs in ",
+                "gpat_a1": "Inflammation of liver",
+                "gpat_a2": "Nephritis",
+                "gpat_a3": "Diabetes mellitus",
+                "gpat_a4": "Coronary thrombosis",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "As per IP, 1 gram of shark liver oil should contain not less than ",
+                "gpat_a1": "1000 IU of vitamin A 
+",
+                "gpat_a2": "3000 IU of vitamin A",
+                "gpat_a3": "6000 IU of vitamin A ",
+                "gpat_a4": "4000 IU of vitamin A",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Use of Dextrose Monohydrate is avoided in the Sodium Chloride and Dextrose injection because of ______?",
+                "gpat_a1": "Chances of Degradation during sterilisation",
+                "gpat_a2": "It changes colour of product on sterlisation",
+                "gpat_a3": "Both a and b",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "What is the primary mechanism of General anesthestics ?",
+                "gpat_a1": "Activation of ligand gated potassium channels",
+                "gpat_a2": "Activation of ligand gated sodium channels",
+                "gpat_a3": "Blockade of ligand gated sodium channels",
+                "gpat_a4": "Blokade of GABA gated chloride channels",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Halphen’s test is used for
+",
+                "gpat_a1": "Detection of cotton seed oil as an adulterant
+",
+                "gpat_a2": "Detection of artificial invert sugar
+",
+                "gpat_a3": "Saponins",
+                "gpat_a4": "Tannins",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Drug of first choice in supraventricular arrhythmias is",
+                "gpat_a1": "Cinchonidine",
+                "gpat_a2": "Procainamide",
+                "gpat_a3": "Verapamil",
+                "gpat_a4": "Lidocaine",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Larger dose of digoxin requirement to infants as compared to young age patient is due to :",
+                "gpat_a1": "Greater protein binding of drug",
+                "gpat_a2": "Large renal clearance of drug",
+                "gpat_a3": "Both a and b",
+                "gpat_a4": "None of above",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "flax seeds is the synonym of",
+                "gpat_a1": "Cotton seed",
+                "gpat_a2": "Castor seed",
+                "gpat_a3": "Rape seed",
+                "gpat_a4": "Linseed",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "State Pharmacy Council should have the following no. of elected members",
+                "gpat_a1": "Six",
+                "gpat_a2": "Nine",
+                "gpat_a3": "Five",
+                "gpat_a4": "Seven",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "The optimum temperature for activating a silica gel TLC plate is",
+                "gpat_a1": "90-100°C",
+                "gpat_a2": "100-120°C",
+                "gpat_a3": "150-160°C",
+                "gpat_a4": "200-210°C",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Olive oil gives fluorescence of colour",
+                "gpat_a1": "Red white",
+                "gpat_a2": "Golden yellow",
+                "gpat_a3": "Crimson red",
+                "gpat_a4": "Whitish blue",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Which one of the following receptors is not a ligand-gated ion channel receptor ?",
+                "gpat_a1": "Nicotinic Receptor",
+                "gpat_a2": "5HT3 - Receptor",
+                "gpat_a3": "GABA-A Receptor",
+                "gpat_a4": "H2 - Receptor",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which is the molecular target for the vinca alkaloids as anti-cancer agent?
+",
+                "gpat_a1": "Ribosomes",
+                "gpat_a2": "DNA",
+                "gpat_a3": "Tubulin",
+                "gpat_a4": "Tyrosine kinase	",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Volatile oil should not be less than ",
+                "gpat_a1": "0.05%",
+                "gpat_a2": "0.20%",
+                "gpat_a3": "0.50%",
+                "gpat_a4": "1.00%",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Choose the correct formula for the calculation of the retail price of a formulation, given by the Government of India.
+",
+                "gpat_a1": "	R.P. = (M.C. + E.D. + P.M. + P.C.) × (1 + MAPE/100) + C.C.
+",
+                "gpat_a2": "	R.P. = (M.C. + C.C. + P.M. + P.C.) × (1 + MAPE/100) + E.D.
+",
+                "gpat_a3": "R.P. = (M.C. + C.C. + E.D. + P.C.) × (1 + MAPE/100) + P.M.
+",
+                "gpat_a4": "R.P. = (M.C, + C.C. + P.M.+ E.D.) × (1 + MAPE/100) + P.C,
+",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Find the process by which the conversion of sulphasalazine to sulphapyridine and 5 amino salicylic acid takes place in colon  ?",
+                "gpat_a1": "Hydrolysis",
+                "gpat_a2": "Deamination",
+                "gpat_a3": "Acetylation",
+                "gpat_a4": "Azoreduction",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "In which of the following technique sample is kept below triple point ?",
+                "gpat_a1": "Lyophilization",
+                "gpat_a2": "Spray Drying",
+                "gpat_a3": "Spray Congealing",
+                "gpat_a4": "Centrifugation",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which one of the following therapeutic classes has been proved clinically as a first line therapy for heart failure and has shown decreased hospitalization, improved symptoms and delayed disease progression?
+",
+                "gpat_a1": "Cardiac glycosides
+",
+                "gpat_a2": "ACE inhibitors",
+                "gpat_a3": "Renin antagonists",
+                "gpat_a4": "Nitrites",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Codeine differs in structure from morphine by
+",
+                "gpat_a1": "N-methyl group	",
+                "gpat_a2": "Acetyl group at C1 and C6",
+                "gpat_a3": "–OCH3 group",
+                "gpat_a4": "–OC2H5 group",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "A prodrug of terbutaline is ",
+                "gpat_a1": "Zafirlukast",
+                "gpat_a2": "Salmeterol",
+                "gpat_a3": "Bambuterol",
+                "gpat_a4": "Nedocromil sodium",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Hard gelatin capsule of size 3 will accommodate approximately ________ volume in ml.
+",
+                "gpat_a1": "0.1	",
+                "gpat_a2": "0.2
+",
+                "gpat_a3": "0.3	",
+                "gpat_a4": "0.75
+",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Following is not a part of liver function test ",
+                "gpat_a1": "Transaminase",
+                "gpat_a2": "Electrolytes",
+                "gpat_a3": "Alkaline phosphatase
+",
+                "gpat_a4": "Prothrombine time ",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which of the following causes Hyperpyrexia?
+",
+                "gpat_a1": "Suxamethonium",
+                "gpat_a2": "Drug interaction of MAO inhibitor with pethidine",
+                "gpat_a3": "Halothane",
+                "gpat_a4": "All of the above ",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "The isosteric replacement of carboxylic acid is",
+                "gpat_a1": "pyrrole",
+                "gpat_a2": "isoxazole",
+                "gpat_a3": "phenol",
+                "gpat_a4": "tertazole",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Mannitol is an excellent choice for chewable tablets because it has ______",
+                "gpat_a1": "Positive heat of solution
+",
+                "gpat_a2": "Negative heat of solution
+",
+                "gpat_a3": "Zero heat of solution
+",
+                "gpat_a4": "None",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Listed below are the chemical tests used to identify some groups of phytoconstituents. Identify test for the detection of purine alkaloids.",
+                "gpat_a1": "Keller-Killani test",
+                "gpat_a2": "Murexide test",
+                "gpat_a3": "Shinoda test",
+                "gpat_a4": "Vitali-Morin test",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Term pharmacognosy was coined by ________
+",
+                "gpat_a1": "Hypocratus",
+                "gpat_a2": "Syndler",
+                "gpat_a3": "Gallon",
+                "gpat_a4": "Pasture",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "The total area required for the manufacture of cosmetic aerosol as per schedule M II of Drug and Cosmetic Act is",
+                "gpat_a1": "15 Sq. m.",
+                "gpat_a2": "25 Sq. m",
+                "gpat_a3": "35 Sq. m",
+                "gpat_a4": "30 Sq. m",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Cyclophosphamide is ",
+                "gpat_a1": "alkylating agent",
+                "gpat_a2": "antitumoral agent",
+                "gpat_a3": "Monoclonal antibody",
+                "gpat_a4": "antimetabolite",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Northern blot is used for the separation of
+",
+                "gpat_a1": "mRNA",
+                "gpat_a2": "DNA",
+                "gpat_a3": "Protein",
+                "gpat_a4": "Protein DNA interaction",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "How many Nitrogens are present in Metformin structure ?",
+                "gpat_a1": "3",
+                "gpat_a2": "5",
+                "gpat_a3": "6",
+                "gpat_a4": "4",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "“Open-collateral” vascular bundles are the characteristics of",
+                "gpat_a1": "Dicotyldenous plant
+",
+                "gpat_a2": "Monocotyldenous plant",
+                "gpat_a3": "Weeds
+",
+                "gpat_a4": "None of the above 
+",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Which of the following is not a use of formaldehyde?",
+                "gpat_a1": "In silver mirror test",
+                "gpat_a2": "In making medicine urotropine",
+                "gpat_a3": "In making throat lozenges",
+                "gpat_a4": "In making acetic acid",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which of following is Lugol’s solution?",
+                "gpat_a1": "Weak iodine solution 
+",
+                "gpat_a2": "Aqueous iodine",
+                "gpat_a3": "Povidone-iodine",
+                "gpat_a4": "Alcoholic iodine",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "The main film-forming agent in the nail polish is",
+                "gpat_a1": "Nitro-cellulose",
+                "gpat_a2": "Sulfonamide-Formaldehyde",
+                "gpat_a3": "Ethyl acetate",
+                "gpat_a4": "n-butyl acetate",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which stain paper is used in limit test of arsenic?",
+                "gpat_a1": "pH paper ",
+                "gpat_a2": "Cobalt chloride paper",
+                "gpat_a3": "Mercuric chloride paper",
+                "gpat_a4": "None of above
+",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The following drug acts by inhibiting cell wall synthesis of the microorganisms ",
+                "gpat_a1": "Cefuroxime",
+                "gpat_a2": "Gentamicin",
+                "gpat_a3": "Erythromycin",
+                "gpat_a4": "Amphotericin b",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Theophylline chemically is a ",
+                "gpat_a1": "1,3,7-Trimethyl xanthine
+",
+                "gpat_a2": "1,3,7-Triethyl xanthine
+",
+                "gpat_a3": "1,3-Dimethyl xanthine
+",
+                "gpat_a4": "3,7-Dimethyl xanthine",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which isomer of ibuprofen is more active?
+",
+                "gpat_a1": "S (–) isomer",
+                "gpat_a2": "R (–) isomer",
+                "gpat_a3": "S (+) isomer",
+                "gpat_a4": "R (+) isomer",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which of the following reactions may be associated with aldehyde and ketone?",
+                "gpat_a1": "Nucleophile Addition",
+                "gpat_a2": "Polymerisation",
+                "gpat_a3": "Oxidation",
+                "gpat_a4": "All Of the above",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "The utility of thiol group in ACE inhibitor is
+",
+                "gpat_a1": "To increase binding to caboxylate group of ACE",
+                "gpat_a2": "To form hydrophobic interaction with peptide linkage",
+                "gpat_a3": "To increase binding to zinc (co-factor) ion of ACE
+",
+                "gpat_a4": "None of this.",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which of the following will have the highest boiling point?",
+                "gpat_a1": "Methanal",
+                "gpat_a2": "Ethanal",
+                "gpat_a3": "Prolanal",
+                "gpat_a4": "Hexanone",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which of the following vitamin act as a respiratory catalyst?
+",
+                "gpat_a1": "Riboflavin",
+                "gpat_a2": "Niacin",
+                "gpat_a3": "Pyridoxine",
+                "gpat_a4": "Vitamin E
+",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which vitamin is responsible for neuroprotective action? ",
+                "gpat_a1": "Vitamin A",
+                "gpat_a2": "Vitamin B",
+                "gpat_a3": "Vitamin D",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Durability of a tablet to combined effect of shock and abrasion is evaluated by using ",
+                "gpat_a1": "Hardness tester",
+                "gpat_a2": "Disintegration test appratus",
+                "gpat_a3": "Friabilator",
+                "gpat_a4": "Screw Gauge",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Identify the odd drug with respect to Drug Monitoring. ",
+                "gpat_a1": "Phenytoin",
+                "gpat_a2": "Digoxin",
+                "gpat_a3": "Lithium",
+                "gpat_a4": "Ketanserine",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "A partial agonist can antagonise the effects of a full
+agonist because it has:",
+                "gpat_a1": "High affinity but low intrinsic activity",
+                "gpat_a2": "Low affinity but high intrinsic activity",
+                "gpat_a3": "No affinity and low intrinsic activity",
+                "gpat_a4": "High affinity but no intrinsic activity",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Cori cycle is
+",
+                "gpat_a1": "Reuse of glucose",
+                "gpat_a2": "Synthesis of glucose",
+                "gpat_a3": "Uptake of glucose",
+                "gpat_a4": "Both (a) and (b)
+",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Following is most widely used for extraction of vola- tile oils",
+                "gpat_a1": "Destructive Distillation",
+                "gpat_a2": "Azeotropic Distillation",
+                "gpat_a3": "Molecular Distillation",
+                "gpat_a4": "Steam Distillation",
+                "gpat_correct_a": "1"
+        },
+                
+        {
+                "gpat_q": "Study of drug-receptor interaction has now shown that:",
+                "gpat_a1": "Maximal response occurs only when all receptors are occupied by the drug",
+                "gpat_a2": "Drugs exert an ‘all or none’ action on a receptor",
+                "gpat_a3": "Receptor and drugs acting on it have rigid
+complementary ‘lock and key’ structural features",
+                "gpat_a4": "Properties of ‘affinity’ and ‘intrinsic activity’ are
+independently variable",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which of following detectors has the most sensitivity?",
+                "gpat_a1": "Flame ionization detector
+",
+                "gpat_a2": "Argon ionization detector",
+                "gpat_a3": "Electron capture detector",
+                "gpat_a4": "Kathetormeter",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Carr’s compressibility index gives an idea about ",
+                "gpat_a1": "Flow properties of powders",
+                "gpat_a2": "Cohesiveness of powders",
+                "gpat_a3": "Both",
+                "gpat_a4": "None",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Principle of paper chromatography is",
+                "gpat_a1": "Adsorption",
+                "gpat_a2": "Partition",
+                "gpat_a3": "Ion exchange	",
+                "gpat_a4": "Affinity",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "DOP or smoke test (dioctyl phthalate test) is usually used for ",
+                "gpat_a1": "HEPA filter integrity",
+                "gpat_a2": "Filter Validation",
+                "gpat_a3": "Filter Leak Testing",
+                "gpat_a4": "Filter Compatibility Test",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In Limit of Quantitation (LOQ), signal to noise ratio is",
+                "gpat_a1": "2:1	",
+                "gpat_a2": "3:1
+",
+                "gpat_a3": "8:1	",
+                "gpat_a4": "10:1
+",
+                "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Rifampicin is used not only in TB but in ____ also",
+                "gpat_a1": "Steven Jonson syndrome
+",
+                "gpat_a2": "Leishmaniasis",
+                "gpat_a3": "Whopping cough",
+                "gpat_a4": "Leprosy",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Out of this which drug is not used In Hypercholesterolemia",
+                "gpat_a1": "Gymnema",
+                "gpat_a2": "Momordica",
+                "gpat_a3": "Fenugreek",
+                "gpat_a4": "Garlic",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Persistent raspy cough is the side effect of ______
+",
+                "gpat_a1": "ACE inhibitors
+",
+                "gpat_a2": "Renin inhibitors",
+                "gpat_a3": "Ramon antagonists",
+                "gpat_a4": "Aldosterone antagonist",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Chromatography is a physical method that is used to separate and analyse __________",
+                "gpat_a1": "Simple Mixtures",
+                "gpat_a2": "Viscous Mixtures",
+                "gpat_a3": "Complex Mixtures",
+                "gpat_a4": "Crude metal mixtures",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Following statements are true except",
+                "gpat_a1": "Prolactin is a milk synthesizing hormone",
+                "gpat_a2": "Oxytocin is a milk ejecting hormone",
+                "gpat_a3": "ACTH inhibits steroidgenesis in adrenal cortex",
+                "gpat_a4": "Growth hormone secretion decreases and gigantism occur",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Which gum is isolated from endosperm",
+                "gpat_a1": "Sterculia Gum",
+                "gpat_a2": "Tragacanth and Acacia",
+                "gpat_a3": "Guar Gum",
+                "gpat_a4": "Xanthan and Gellan",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "A crude drug powder is heated with ferric chloride, water and conc HCl followed by extraction with Chloroform. The chloroform layer was treated with Ammonia and Ammonical layer turned pink. The test indicates presence of which phytochemical? ",
+                "gpat_a1": "Anthraquinone C-glycosides",
+                "gpat_a2": "Flavanones",
+                "gpat_a3": "Cardiac Glycoside",
+                "gpat_a4": "Saponin Glycosides",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Name a mood elevator which is an amphetamine analog",
+                "gpat_a1": "MDMA",
+                "gpat_a2": "Phenelizine",
+                "gpat_a3": "Tranylcypromine",
+                "gpat_a4": "LSD",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Components which have small value of K have affinity for ",
+                "gpat_a1": "Stationary Phase",
+                "gpat_a2": "Mobile Phase",
+                "gpat_a3": "No phase ",
+                "gpat_a4": "Solution",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Which of the following is an OTC Drug",
+                "gpat_a1": "Naloxone",
+                "gpat_a2": "Methadone",
+                "gpat_a3": "Loperamide",
+                "gpat_a4": "Fentanyl",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Coumarin is ______",
+                "gpat_a1": "2-phenylchromen-4-one",
+                "gpat_a2": "3-phenylchromen-4-one",
+                "gpat_a3": "2H-chromen-2-one",
+                "gpat_a4": "4-Phenylcoumarine",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Bredt's rule is applicable for ______",
+                "gpat_a1": "Aliphatic system",
+                "gpat_a2": "Heterocyclic system",
+                "gpat_a3": "Bridgehead bicyclic system ",
+                "gpat_a4": "Spirocyclic system ",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "The oral oligosaccharide hypoglycemic agent, which is administered at the start of the meal is",
+                "gpat_a1": "Pioglitazone",
+                "gpat_a2": "Miglitol",
+                "gpat_a3": "Acarbose",
+                "gpat_a4": "Glimepiride",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Leaves of Digitalis purpurea gives which of the following test positive ?",
+                "gpat_a1": "Borntrager's Test",
+                "gpat_a2": "Murexide test",
+                "gpat_a3": "Legal's test",
+                "gpat_a4": "Thalleoquin test",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "A/An ________ is the detector of choice for GC Separations of halogenated compounds",
+                "gpat_a1": "Electron Capture detector",
+                "gpat_a2": "Flame Ionisation detector",
+                "gpat_a3": "Thermal Conductivity detector",
+                "gpat_a4": "Universal detector",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Increased serum levels of which one of the following may be associated with decrease the risk of atherosclerosis?",
+                "gpat_a1": "VLDL",
+                "gpat_a2": "LDL",
+                "gpat_a3": "HDL",
+                "gpat_a4": "Total cholesterol",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which among the following describe the characteristic 
+features of Tetracyline ?",
+                "gpat_a1": "Undergoes epimerization in solutions having inter-
+mediate pH range",
+                "gpat_a2": "Forms Anhydroustetracycline in presence of acidic",
+                "gpat_a3": "Forms Minocycline in basic medium",
+                "gpat_a4": "Forms stable chelate complexes with potassium 
+ions",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Keller Kiliani reaction is used to convert ",
+                "gpat_a1": "Aldopentose to Aldohexose",
+                "gpat_a2": "Aldohexose to Aldopentose",
+                "gpat_a3": "Both pentose and hexose to tetrose",
+                "gpat_a4": "None of these",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "A sample of Aloe was dissolved in water and 2ml of solution is treated with 2ml bromine water. A pale yellow precipitate with violet supernatant liquid is seen. Hence the sample is of",
+                "gpat_a1": "Aloe capensis",
+                "gpat_a2": "Aloe barbadensis",
+                "gpat_a3": "Glycyrrhiza glabra",
+                "gpat_a4": "Panax ginseng",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Correct order of lipoprotein molecules from lowest to greatest density is",
+                "gpat_a1": "LDL, IDL, VLDL, Chylomicron",
+                "gpat_a2": "Chlyomicron, VLDL, IDL, LDL",
+                "gpat_a3": "VLDL, IDL, LDL, Chlyomicron ",
+                "gpat_a4": "LDL, VLDL, IDL, Chlyomicron ",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "In biosynthesis of protein the chain terminating codons are",
+                "gpat_a1": "UAA, UAG and UGA",
+                "gpat_a2": "UGG, UGU and AGU",
+                "gpat_a3": "AAU, AAG and GAU",
+                "gpat_a4": "GCG, GCA and GCU",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Ethyl-acetoacetate is prepared from ethyl acetate by the _________ ",
+                "gpat_a1": "Benzoin condensation",
+                "gpat_a2": "Aldol condensation",
+                "gpat_a3": "Claisen condensation",
+                "gpat_a4": "Dieckmann condensation ",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which one is a phenol glycoside?",
+                "gpat_a1": "Arbutin",
+                "gpat_a2": "Salicin",
+                "gpat_a3": "Vanillin",
+                "gpat_a4": "Digoxin",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Following drugs potentiate the activity of warfarin:
+[P] Barbiturates [Q]Carmazepine
+[R] Ciprofloxacin [S] Chloramphenicol",
+                "gpat_a1": "P and R",
+                "gpat_a2": "Q and R",
+                "gpat_a3": "P and S",
+                "gpat_a4": "R and S",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Fiducial limit is a term used in",
+                "gpat_a1": "Microbiological Assay",
+                "gpat_a2": "Biological Assay",
+                "gpat_a3": "Chemical Assay",
+                "gpat_a4": "Instrumental Method of Assay",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "In spectrocolorimeters, the wavelength accuracy is normally",
+                "gpat_a1": "±10nm",
+                "gpat_a2": "±5nm",
+                "gpat_a3": "±15nm",
+                "gpat_a4": "±20nm",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "All drugs belong to Labiatae family except",
+                "gpat_a1": "Tulsi",
+                "gpat_a2": "Spearmint",
+                "gpat_a3": "Nutmeg",
+                "gpat_a4": "Peppermint oil ",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The IUPAC name of glutethimide is ",
+                "gpat_a1": "3-ethyl, 3’phenyl-2, 6-piperidine dione",
+                "gpat_a2": "p-sulfonamido-chloroimido benzoic acid",
+                "gpat_a3": " 3-(5-nitrofurfurylideneamino) oxazolidin-2-one",
+                "gpat_a4": "2-(2-fluorobiphenyl-4-yl) propionic acid",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "The forces between two permanent dipoles is known as",
+                "gpat_a1": "Debye Forces",
+                "gpat_a2": "London Forces ",
+                "gpat_a3": "Keesom Forces",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Which of following drugs causes lithium and digoxin toxicity?",
+                "gpat_a1": "Nimesulide",
+                "gpat_a2": "Diclofenac",
+                "gpat_a3": "Indomethacin",
+                "gpat_a4": "Rofecoxib",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Which statement regarding Huckel's rule is FALSE?",
+                "gpat_a1": "There must be (4n + 2) pie electrons",
+                "gpat_a2": "The molecule must be planar",
+                "gpat_a3": "The molecule must be cyclic",
+                "gpat_a4": "Each of the pi electrons must be associated with a conjugated double bond",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Paracetamol undergoes metabolism by",
+                "gpat_a1": "N-Hydroxylation",
+                "gpat_a2": "Deamination",
+                "gpat_a3": "O-Dealkylation",
+                "gpat_a4": "Oxidative deamination",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Standard reference materials used in calibration of WAVELENGTH in UV/Visible instrument",
+                "gpat_a1": "Polystyrene Film",
+                "gpat_a2": "Potassium iodide",
+                "gpat_a3": "Toluene in Hexane",
+                "gpat_a4": " Holomium Oxide
+ ",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "The following is a selective alpha-2- adreno receptor antagonist",
+                "gpat_a1": "Prazosin ",
+                "gpat_a2": "Phentolamine",
+                "gpat_a3": "Yohimbine",
+                "gpat_a4": "Clonidine",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Atropine does not antagonize the following feature of anticholinesterase Poisoning :",
+                "gpat_a1": "Hypotension",
+                "gpat_a2": "Central excitation",
+                "gpat_a3": "Muscle paralysis",
+                "gpat_a4": "Bronchoconstriction",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "A patient receiving digoxin for CCF is found to have an elevated serum cholesterol. Which hypolipidemic agent should not be prescribed? ",
+                "gpat_a1": "Clorfibrate",
+                "gpat_a2": "Cholestyramine",
+                "gpat_a3": "Lovastatin",
+                "gpat_a4": "Niacin",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "A common organism that causes meningitis belongs to the genus",
+                "gpat_a1": "Candida",
+                "gpat_a2": "Neisseria",
+                "gpat_a3": "Pseudomonas",
+                "gpat_a4": "Clostridium",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Optic neuritis is a chief adverse effect of",
+                "gpat_a1": "INH",
+                "gpat_a2": "Pyrazinamide",
+                "gpat_a3": "Rifampicin ",
+                "gpat_a4": "Ethambutol",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "Methyl substitution at β-position from quaternary N in cholinergic drugs imparts: ",
+                "gpat_a1": "Muscarinic selectivity",
+                "gpat_a2": "Nicotinic selectivity",
+                "gpat_a3": "Non-selectivity",
+                "gpat_a4": "Inactivity",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In plastic system, below yield value, the apparent viscosity is",
+                "gpat_a1": "Higher",
+                "gpat_a2": "Infinite",
+                "gpat_a3": "Fixed ",
+                "gpat_a4": "Normal",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "In the steroidal sex hormonal series, one of the following group is not essential for the activity",
+                "gpat_a1": "3 hydroxyl functional group",
+                "gpat_a2": "19 methyl group",
+                "gpat_a3": "17 hydroxyl functional group",
+                "gpat_a4": "3 and 17 oxygen group",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which of the following local anaesthetic raises BP instead of tending to cause a fall",
+                "gpat_a1": "Cocaine",
+                "gpat_a2": "Lidocaine",
+                "gpat_a3": "Tetracaine",
+                "gpat_a4": "Benoxinate",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Secretion of growth hormone is inhibited by",
+                "gpat_a1": "Somatomedin c",
+                "gpat_a2": "Somatostatin",
+                "gpat_a3": "Feedback inhibition",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Pantothenic acid is a part of",
+                "gpat_a1": "Renin",
+                "gpat_a2": "Carboxypeptidase",
+                "gpat_a3": "Co-enzyme A",
+                "gpat_a4": "NAD",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "INH is synthesized from",
+                "gpat_a1": "Picoline",
+                "gpat_a2": "Nicotinamide",
+                "gpat_a3": "nicotinic acid",
+                "gpat_a4": "Pyridine-3-carboxylic acid",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "A colorimeter can be used as a turbidimeter by using",
+                "gpat_a1": "Red filter",
+                "gpat_a2": "Blue filter",
+                "gpat_a3": "Violet filter",
+                "gpat_a4": "Green filter",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "LCMS is widely used in",
+                "gpat_a1": "Multielectrolyte assay",
+                "gpat_a2": "Drug metabolite study",
+                "gpat_a3": "Complex mixture assay",
+                "gpat_a4": "Palnt biosynthesis",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "How many half lives of drug are required to obtain a steady state concentration is 90%",
+                "gpat_a1": "3.3hrs",
+                "gpat_a2": "6.6hrs",
+                "gpat_a3": "9.9hrs",
+                "gpat_a4": "5.5hrs",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Disulfiram inhibits the following enzyme",
+                "gpat_a1": "alcohol dehydrogenase ",
+                "gpat_a2": "aldehyde decarboxylase",
+                "gpat_a3": "aldehyde dehydrogenase ",
+                "gpat_a4": "Both A and C",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Tropane system is fusion of ___",
+                "gpat_a1": "Pyrrolidine and pipyridine",
+                "gpat_a2": "Pyrrolidine and pyrimidine",
+                "gpat_a3": "Pyrrole and pyrazine",
+                "gpat_a4": "Thiophene and piperidine",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "Which of the following is a hydroxy-alpha-amino acid",
+                "gpat_a1": "Alanine",
+                "gpat_a2": "Proline",
+                "gpat_a3": "Threonine",
+                "gpat_a4": "Valine",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The following is not used as a detector in GC ",
+                "gpat_a1": "Katharometer",
+                "gpat_a2": "flame thermo couple detector",
+                "gpat_a3": "bolometer",
+                "gpat_a4": "electron capture detector",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "LCMS is widely used in",
+                "gpat_a1": "Multielectrolyte assay",
+                "gpat_a2": "Drug metabolite study",
+                "gpat_a3": "Complex mixture assay",
+                "gpat_a4": "Plant biosynthesis",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "drug disposition include",
+                "gpat_a1": "drug absorption and distribution",
+                "gpat_a2": "drug absorption and metabolism",
+                "gpat_a3": "drug distribution, metabolism and excretion",
+                "gpat_a4": "drug metabolism and excretion",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Name the antidote for Rat poison",
+                "gpat_a1": "Strychnine ",
+                "gpat_a2": "Brucine ",
+                "gpat_a3": "Both A and B ",
+                "gpat_a4": "Carbon Black",
+                "gpat_correct_a": "1"
+        },
+        {
+                "gpat_q": "In new product development process, after analysis of 
+business next step to be taken is __________.",
+                "gpat_a1": "Test marketing",
+                "gpat_a2": " Penetration marketing",
+                "gpat_a3": "Brand marketing",
+                "gpat_a4": "Individual marketing",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In the bioassay of digitalis, use of _______ is made",
+                "gpat_a1": "pigeon",
+                "gpat_a2": "guinea pig",
+                "gpat_a3": "a and b",
+                "gpat_a4": "none",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "Hoeppler viscometer is a type of:",
+                "gpat_a1": "Falling sphere viscometer",
+                "gpat_a2": "Capillary viscometer",
+                "gpat_a3": "Cup and Bob viscometer",
+                "gpat_a4": "Cone and plate viscometer",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Which of the following test is specific for ketohexoses?",
+                "gpat_a1": "Molisch's test",
+                "gpat_a2": "Benedict's test",
+                "gpat_a3": "Barfoed's test",
+                "gpat_a4": "Seliwanoff's test",
+                "gpat_correct_a": "4"
+        },
+        {
+                "gpat_q": "A steroidal phyto constituent lowering blood sugar is 
+obtained from :",
+                "gpat_a1": "Momordica charantia",
+                "gpat_a2": "Glycrrhiza glabra",
+                "gpat_a3": "Dioscorea deltoidea",
+                "gpat_a4": "Rosa alba",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "In column chromatography, the coloured components can be detected by",
+                "gpat_a1": "UV light",
+                "gpat_a2": "Visually ",
+                "gpat_a3": "Flame ionisation Technique ",
+                "gpat_a4": "TLC",
+                "gpat_correct_a": "2"
+        },
+        {
+                "gpat_q": "Most common Phase-II reaction is",
+                "gpat_a1": "Sulfate conjugation",
+                "gpat_a2": "Glucuronide conjugation",
+                "gpat_a3": "α amino acid conjugation",
+                "gpat_a4": "Methylation",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Fluoride inhibits which enzyme",
+                "gpat_a1": "Pyruvate dehydrogenase ",
+                "gpat_a2": "Enolase",
+                "gpat_a3": "Aconitase",
+                "gpat_a4": "Malate dehydrogenase ",
+                "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Ashby's method is used for ____ staining ",
+                "gpat_a1": "Cell wall",
+                "gpat_a2": "Cell membrane ",
+                "gpat_a3": "Spore ",
+                "gpat_a4": "Flagella ",
+                "gpat_correct_a": "3"
+        },
+        {
+                "gpat_q": "The compound 2 - (Diethylamino) ethyl [bicyclohex-yl] - 1-carboxylate hydrochloride is:",
+                "gpat_a1": "Dicycloverine",
+                "gpat_a2": "Diphenhydramine",
+                "gpat_a3": "Both nicotinic and specific antispasmodic",
+                "gpat_a4": "Diagonistic agent for diagnosis of thyroid gland",
+                "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "The international unit for enzyme activity is",
+                "gpat_a1": "m/sec",
+                "gpat_a2": "Km",
+                "gpat_a3": "Katal",
+                "gpat_a4": "All of the above ",
+                "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "Haptens are",
+                "gpat_a1": "Immunogenic and antigenic ",
+                "gpat_a2": "Non-immunogenic and antigenic ",
+                "gpat_a3": "Immunogenic and non-antigenic ",
+                "gpat_a4": "Non-immunogenic and non-antigenic ",
+                "gpat_correct_a": "2"
+        }
+   ] 
+}
