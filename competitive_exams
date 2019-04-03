@@ -1,22 +1,22 @@
 {
     "Competitive": [
         {
-                "book_name": "Please Update to new Version v3.1",
-                "book_url": "https://tinyurl.com/PharmaAssist",
-                "book_edition": "v3.1 - Google Drive ",
-                "book_size": "5 MB"
+                "title": "Please Update to new Version v3.1",
+                "url": "https://tinyurl.com/PharmaAssist",
+                "extras": "v3.1 - Google Drive ",
+                "size": "5 MB"
         },
         {
-                "book_name": "Please Update to new Version v3.1",
-                "book_url": "https://github.com/chinmayjk97/wallpaper-json/releases/download/3.1/PharmaAssist.apk",
-                "book_edition": "v3.1 - Direct Link ",
-                "book_size": "5 MB"
+                "title": "Please Update to new Version v3.1",
+                "url": "https://github.com/chinmayjk97/wallpaper-json/releases/download/3.1/PharmaAssist.apk",
+                "extras": "v3.1 - Direct Link ",
+                "size": "5 MB"
         },
         {
-                "book_name": "Please Update to new Version v3.1",
-                "book_url": "https://chinmayjk97.github.io/PharmaAssist/download",
-                "book_edition": "v3.1 - Webpage ",
-                "book_size": "5 MB"
+                "title": "Please Update to new Version v3.1",
+                "url": "https://chinmayjk97.github.io/PharmaAssist/download",
+                "extras": "v3.1 - Webpage ",
+                "size": "5 MB"
         }
 		]
 }
