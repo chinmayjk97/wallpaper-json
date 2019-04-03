@@ -1,52 +1,22 @@
 {
     "Syllabus": [
         {
-                "syllabus_yr": "[New Syllabus] First Year",
-                "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjelI3SWpCcW1ueFE",
-                "syllabus_updated": "Updated on 06/07/17",
-                "syllabus_size": "279 KB"
-        },
-         {
-                "syllabus_yr": "First Year",
-                "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjdlp2V1V3b3BLbkU",
-                "syllabus_updated": "Updated on 06/07/17",
-                "syllabus_size": "107 KB"
+                "syllabus_yr": "Please Update to new Version v3.1",
+                "syllabus_url": "https://tinyurl.com/PharmaAssist",
+                "syllabus_updated": "v3.1 - Google Drive ",
+                "syllabus_size": "5 MB"
         },
         {
-                "syllabus_yr": "[New Syllabus] Second Year",
-                "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjRHcyclA3V3B6WWc",
-                "syllabus_updated": "Updated on 06/07/17",
-                "syllabus_size": "1.65 MB"
+                "syllabus_yr": "Please Update to new Version v3.1",
+                "syllabus_url": "https://github.com/chinmayjk97/wallpaper-json/releases/download/3.1/PharmaAssist.apk",
+                "syllabus_updated": "v3.1 - Direct Link ",
+                "syllabus_size": "5 MB"
         },
         {
-                "syllabus_yr": "Second Year",
-                "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjOHBCNHhUc3dpZTQ",
-                "syllabus_updated": "Updated on 06/07/17",
-                "syllabus_size": "218 KB"
-        },
-        {
-                "syllabus_yr": "[New Syllabus] Third Year",
-                "syllabus_url": "https://drive.google.com/file/d/127e-wmEAlw4jcZ5vaH2PbydRRY4-mcjc",
-                "syllabus_updated": "Updated on 30/06/18",
-                "syllabus_size": "584 KB"
-        },
-        {
-                "syllabus_yr": "Third Year",
-                "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNWF6eVJMNGstSWM",
-               "syllabus_updated": "Updated on 20/02/17",
-                "syllabus_size": "249 KB"
-        },
-        {
-                "syllabus_yr": "[New Syllabus] Final Year",
-                "syllabus_url": "https://drive.google.com/file/d/1fM4CVIwmC3VwqonTx2ZUmPFNu1BzRZoL",
-                "syllabus_updated": "Updated on 30/06/18",
-                "syllabus_size": "531 KB"
-        },
-        {
-                "syllabus_yr": "Final Year",
-                "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjaGVxcFUySktHQWM",
-                "syllabus_updated": "Updated on 04/03/17",
-                "syllabus_size": "375 KB"
+                "syllabus_yr": "Please Update to new Version v3.1",
+                "syllabus_url": "https://chinmayjk97.github.io/PharmaAssist/download",
+                "syllabus_updated": "v3.1 - Webpage ",
+                "syllabus_size": "5 MB"
         }
     ]
 }
