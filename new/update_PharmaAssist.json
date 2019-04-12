@@ -1,11 +1,11 @@
 {
-  "latestVersion": "3.1",
+  "latestVersion": "3.1.1",
   "latestVersionCode": 38,
   "url": "https://chinmayjk97.github.io/PharmaAssist/download",
-  "directdownloadurl":"https://github.com/chinmayjk97/wallpaper-json/releases/download/3.1/PharmaAssist.apk",
+  "directdownloadurl":"https://github.com/chinmayjk97/wallpaper-json/releases/download/3.1.1/PharmaAssist.apk",
   "releaseNotes": [
     "	- Optimized Jobs Section.",
-    "	- Updated All Question Papers along with CBCS Papers!",
+    "	- Fixed Crashes on Kitkat Devices.",
     "	- Bugs Fixed."
   ]
 }
