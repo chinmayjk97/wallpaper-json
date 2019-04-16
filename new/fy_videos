@@ -47,13 +47,7 @@
 	    "url" : "https://youtu.be/fZOqGenUpao",
             "video_length": "Video length: 4:14",
 	    "thumbnail":"https://i.ytimg.com/vi/fZOqGenUpao/maxresdefault.jpg"
-        },
-	{
-            "title": "Topical Applications & Agents ",
-	    "url" : "https://youtu.be/Nu-qorX-oZU",
-            "video_length": "Video length: 8:15",
-	    "thumbnail":"https://i.ytimg.com/vi/Nu-qorX-oZU/maxresdefault.jpg"
-	}
-	
+        }
+		
 	]
 }
