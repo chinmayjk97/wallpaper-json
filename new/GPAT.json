@@ -2418,6 +2418,14 @@ obtained from :",
                 "gpat_a3": "Immunogenic and non-antigenic ",
                 "gpat_a4": "Non-immunogenic and non-antigenic ",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "All anesthetic agents depress respiratory system except ",
+                "gpat_a1": "Nitrous oxide ",
+                "gpat_a2": "Halothane",
+                "gpat_a3": "Sevoflurene",
+                "gpat_a4": "Desflurene",
+                "gpat_correct_a": "1"
         }
    ] 
 }
