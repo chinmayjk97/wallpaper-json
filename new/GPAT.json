@@ -2426,6 +2426,14 @@ obtained from :",
                 "gpat_a3": "Sevoflurene",
                 "gpat_a4": "Desflurene",
                 "gpat_correct_a": "1"
+        }, 
+        {
+                "gpat_q": "Mollier chart is related to",
+                "gpat_a1": "Enthalpy and Entropy ",
+                "gpat_a2": "Dry and Wet bulb Temperature ",
+                "gpat_a3": "Compression force and Brittleness",
+                "gpat_a4": "Both A and B",
+                "gpat_correct_a": "4"
         }
    ] 
 }
