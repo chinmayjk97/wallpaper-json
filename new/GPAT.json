@@ -2434,6 +2434,14 @@ obtained from :",
                 "gpat_a3": "Compression force and Brittleness",
                 "gpat_a4": "Both A and B",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Vancomycin is associated with _____ syndrome",
+                "gpat_a1": "Gray baby",
+                "gpat_a2": "Red man ",
+                "gpat_a3": "Fanconi",
+                "gpat_a4": "Sjogren's",
+                "gpat_correct_a": "2"
         }
    ] 
 }
