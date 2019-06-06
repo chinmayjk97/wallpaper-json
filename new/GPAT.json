@@ -2442,6 +2442,14 @@ obtained from :",
                 "gpat_a3": "Fanconi",
                 "gpat_a4": "Sjogren's",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Which drug is NOT metabolised by acetylation? ",
+                "gpat_a1": "Isoniazid",
+                "gpat_a2": "Dapsone",
+                "gpat_a3": "Hydralazine",
+                "gpat_a4": "Metoclopramide",
+                "gpat_correct_a": "4"
         }
    ] 
 }
