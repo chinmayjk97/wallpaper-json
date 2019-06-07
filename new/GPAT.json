@@ -2450,6 +2450,14 @@ obtained from :",
                 "gpat_a3": "Hydralazine",
                 "gpat_a4": "Metoclopramide",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which medication may result in a 'disulfiram-like reaction' when taken with alcohol? ",
+                "gpat_a1": "Tetracycline",
+                "gpat_a2": "Metronidazole",
+                "gpat_a3": "Amoxicillin",
+                "gpat_a4": "Clindamycin",
+                "gpat_correct_a": "2"
         }
    ] 
 }
