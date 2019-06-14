@@ -2474,6 +2474,14 @@ obtained from :",
                 "gpat_a3": "Compressibility",
                 "gpat_a4": "Ratio of two polymorphs in API",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "The healing agent used in hand cream is ",
+                "gpat_a1": "Soft paraffin",
+                "gpat_a2": "Urea",
+                "gpat_a3": "Bees wax",
+                "gpat_a4": "Stearyl alcohol",
+                "gpat_correct_a": "2"
         }
    ] 
 }
