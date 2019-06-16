@@ -1,184 +1,184 @@
 {
-        "Date" : "20/01/19", 
+        "Date" : "16/06/19", 
         "Weekly_Questions": [
         {
-				"gpat_q": "In tRNA molecule D arm is named for the presence of the base",
-                "gpat_a1": "Uridine",
-                "gpat_a2": "Pseudouridine",
-                "gpat_a3": "Dihydrouridine",
-                "gpat_a4": "Thymidine",
+				"gpat_q": "Drug combination of WARFARIN & VITAMIN K results in a specific interaction.Identify",
+                "gpat_a1": "Antagonistic",
+                "gpat_a2": "Increased sedation",
+                "gpat_a3": "No known interaction",
+                "gpat_a4": "Harmful only in the presence of oxidizing agent",
                 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "Along the alpha-helix each amino acid residue advances in nm by",
-                "gpat_a1": "0.15",
-                "gpat_a2": "0.10",
-                "gpat_a3": "0.12",
-                "gpat_a4": "0.20",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "The half life of a first order reaction is 4 months. What is its t90% in months?",
-                "gpat_a1": "3",
-                "gpat_a2": "4",
-                "gpat_a3": "8",
-                "gpat_a4": "12",
+                "gpat_q": "The drug NALOXONE ",
+                "gpat_a1": "Produces morphine like activity",
+                "gpat_a2": "Produces respiratory depression",
+                "gpat_a3": "Induces constipation",
+                "gpat_a4": "Precipitates withdrawal symptoms in morphine addicts",
                 "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "The storage direction on a parenteral solution specify 'Store in a cool place'. This may be stored in",
-                "gpat_a1": "An air-conditioned area a 10 degrees",
-                "gpat_a2": "A refrigerator at 15 degrees",
-                "gpat_a3": "A place whose temperature is set at 5 degrees",
-                "gpat_a4": "Room temperature, at 25 degrees",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "The HLB value of lauryl sulphate is",
-                "gpat_a1": "6.5",
-                "gpat_a2": "13.8",
-                "gpat_a3": "25.0",
-                "gpat_a4": "40.0",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "________ is a morpholino ethyl ether of morphine",
-                "gpat_a1": "Nalorphine",
-                "gpat_a2": "Apomorphine",
-                "gpat_a3": "Pholcodine",
-                "gpat_a4": "Hydrocodone",
-                "gpat_correct_a": "3",
-                "reason":"https://pubchem.ncbi.nlm.nih.gov/compound/pholcodine"
-        },
-        {
-                "gpat_q": "Papaverine possess __________ methoxy groups",
-                "gpat_a1": "2",
-                "gpat_a2": "4",
-                "gpat_a3": "3",
-                "gpat_a4": "6",
-                "gpat_correct_a": "2",
-                "reason":"https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=4680&t=l"
-        },
-        {
-                "gpat_q": "Caffeine is not acidic because of",
-                "gpat_a1": "Absence of hydrogen on imide groups",
-                "gpat_a2": "Presence of keto groups",
-                "gpat_a3": "Presence of methyl groups",
-                "gpat_a4": "Presence of symmetrical triketo groups",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "The trans form of Citral is called ________",
-                "gpat_a1": "Neral",
-                "gpat_a2": "Nerol",
-                "gpat_a3": "Beta Ionone",
-                "gpat_a4": "Geranial",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Cephalosporin C on hydrolysis will ot give",
-                "gpat_a1": "6 APA",
-                "gpat_a2": "Acetic acid",
-                "gpat_a3": "Penicillamine",
-                "gpat_a4": "Dipeptide",
+                "gpat_q": "The duration of action of a sublingual nitroglycerin tablet is ___",
+                "gpat_a1": "8-10 hrs",
+                "gpat_a2": "4-8 hrs",
+                "gpat_a3": "10-30 mins",
+                "gpat_a4": "3-5 mins",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Which of the following diuretic would be most useful in patient with cerebral edema?",
+                "gpat_q": "To avoid lithium toxicity, a patient using lithium carbonate for mood disorders should not be prescribed __________",
                 "gpat_a1": "Acetazolamide",
-                "gpat_a2": "Amiloride",
+                "gpat_a2": "Hydrochlorthiazide",
                 "gpat_a3": "Mannitol",
-                "gpat_a4": "Furosemide",
+                "gpat_a4": "Propranolol",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Chemical name of Amoxicillin",
+                "gpat_a1": "(2S,5R,6R)- 6-{[(2R)-2-amino- 2-(4-hydroxyphenyl)- acetyl]amino}- 3-methyl- 7-oxo- 4-thia- 1-azabicyclo[3.2.0]heptane- 3-carboxylic acid",
+                "gpat_a2": "(2S,5R,6R)- 6-{[(2R)-2-amino- 2-(4-hydroxyphenyl)- acetyl]amino}- 3,3-dimethyl- 2-oxo- 4-thia- 1-azabicyclo[3.2.0]heptane- 4-carboxylic acid",
+                "gpat_a3": "(2S,5R,6R)- 6-{[(2R)-2-amino- 2-(4-hydroxyphenyl)- acetyl]amino}- 3,3-dimethyl- 4-thia- 1-azabicyclo[3.2.0]heptane- 5-carboxylic acid",
+                "gpat_a4": "(2S,5R,6R)- 6-{[(2R)-2-amino- 2-(4-hydroxyphenyl)- acetyl]amino}- 3,3-dimethyl- 7-oxo- 4-thia- 1-azabicyclo[3.2.0]heptane- 2-carboxylic acid",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Sulpha drugs can be conveniently estimated using the reagent ____ ",
+                "gpat_a1": "4,4- Dithiobis-(2-nirobenzoic acid)",
+                "gpat_a2": "Tris-(hydroxy methyl) amino methane sodium nitrate",
+                "gpat_a3": "N-(1-napthyl) ethylenediamine",
+                "gpat_a4": "N-ethylmalcimide",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Which solution is used as an astringent?",
-                "gpat_a1": "Strong iodine solution USP",
-                "gpat_a2": "Acetic acid NE",
-                "gpat_a3": "Aromatic ammonia spirit USP",
-                "gpat_a4": "Aluminum acetate topical solution USP",
-                "gpat_correct_a": "4",
+                "gpat_q": "An antineoplastic agent acting by folate antagonism and having pteridine ring is_____",
+                "gpat_a1": "Trimethoprim",
+                "gpat_a2": "Mercaptopurine",
+                "gpat_a3": "Methotrexate",
+                "gpat_a4": "Folic Acid",
+                "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Apart from its in tuberculosis and leprosy, Rifampin is a first line drug from the following infective disease",
-                "gpat_a1": "Toxoplasmosis",
-                "gpat_a2": "Brucellosis",
-                "gpat_a3": "Donovanosis",
-                "gpat_a4": "Leishmaniasis",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "The following contains a Auxochrome",
-                "gpat_a1": "Ethylene",
-                "gpat_a2": "Ethane",
-                "gpat_a3": "Both a and b",
+                "gpat_q": "Change in the refractive index causes",
+                "gpat_a1": "Instrumental deviation",
+                "gpat_a2": "Chemical deviation",
+                "gpat_a3": "Real deviation",
                 "gpat_a4": "None of the above",
-                "gpat_correct_a": "4",
-                "reason":"An auxochrome is a functional group of atoms with one or more lone pairs of electrons when attached to a chromophore, alters both the wavelength and intensity of absorption. \n\nHere Ethylene and Ethane both doesn't fulfill the conditions to be called as auxochrome."
+                "gpat_correct_a": "3",
+                "reason":""
         },
         {
-                "gpat_q": "The wavelenth of light transmitted is ____ the wavelength of the incident light, in Nephlometry",
-                "gpat_a1": "The same as that of",
-                "gpat_a2": "Greater than",
-                "gpat_a3": "Lesser than",
-                "gpat_a4": "Different from",
+                "gpat_q": "How many grams of drug is required to produce 500ml of 1:2500 solution?",
+                "gpat_a1": "0.2",
+                "gpat_a2": "1.25",
+                "gpat_a3": "0.4",
+                "gpat_a4": "0.02",
                 "gpat_correct_a": "1",
-                "reason":"In Nephlometry, the incident light rays just gets scattered due to particles and hence wavelenth of scattered light is same as that of the incident light."
-        },
-        {
-                "gpat_q": "Androgens are produced by",
-                "gpat_a1": "Cells of sertoli",
-                "gpat_a2": "Leydig cells",
-                "gpat_a3": "Rete testis",
-                "gpat_a4": "Efferent ductules",
-                "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "One gram of carbohydrates on complete oxidation in body yields about",
-                "gpat_a1": "1 Kcal",
-                "gpat_a2": "4 Kcal",
-                "gpat_a3": "6 Kcal",
-                "gpat_a4": "9 Kcal",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "FAD is coenzyme for",
-                "gpat_a1": "Succinate dehydrogenase",
-                "gpat_a2": "Glycerol-3-phosphate dehydrogenase",
-                "gpat_a3": "Sphingosine reductase",
-                "gpat_a4": "All of the above",
+                "gpat_q": "Two of the following are official standards for uncoated tablets as per IP: [P] Shape.  [Q]Friability.  [R] Disintegraation time.  [S]Uniformity of weight.",
+                "gpat_a1": "P, Q",
+                "gpat_a2": "P, S",
+                "gpat_a3": "Q, R",
+                "gpat_a4": "R, S",
                 "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "Anti hypertensive drug inhibits the renin angiotensin system is",
-                "gpat_a1": "Reserpine",
-                "gpat_a2": "Captopril",
-                "gpat_a3": "Methyl dopa",
-                "gpat_a4": "Propranalol",
+                "gpat_q": "How many 1H NMR signals will be given by isopropylalcohol?",
+                "gpat_a1": "Two",
+                "gpat_a2": "Three",
+                "gpat_a3": "Six",
+                "gpat_a4": "Eight",
                 "gpat_correct_a": "2",
-                "reason":"Reserpine's mechanism of action is through inhibition of the ATP/Mg2+ pump responsible for the sequestering of neurotransmitters into storage vesicles located in the presynaptic neuron. \n\nCaptopril is a potent, competitive inhibitor of angiotensin-converting enzyme (ACE), the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). \n\nα-Methylnorepinephrine is an agonist of presynaptic central nervous system α2 adrenergic receptors. Activation of these receptors in the brainstem appears to inhibit sympathetic nervous system output and lower blood pressure.\n\nPropranolol is a non-selective beta blocker; that is, it blocks the action of epinephrine (adrenaline) and norepinephrine (noradrenaline) at both β1- and β2-adrenergic receptors "
+                "reason":""
         },
         {
-                "gpat_q": "Progesterone injection BP is a sterile solution in ",
-                "gpat_a1": "Water",
-                "gpat_a2": "Ethyl oleate",
-                "gpat_a3": "Propylene glycol",
-                "gpat_a4": "Glycerol",
+                "gpat_q": "Aconite belongs to which of the following group of alkaloids?",
+                "gpat_a1": "Indole",
+                "gpat_a2": "Steroids",
+                "gpat_a3": "Quinoline",
+                "gpat_a4": "Terpenoids",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "In the assay of alkaloids, the final residue is treated with little ___ before it is finally dissolved in acid and titrated ",
+                "gpat_a1": "Base",
+                "gpat_a2": "Ether",
+                "gpat_a3": "Alcohol",
+                "gpat_a4": "Water",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "R. W. C. is used to identify the strength of ",
+                "gpat_a1": "Antibiotic",
+                "gpat_a2": "Antipyretic",
+                "gpat_a3": "Antiseptic",
+                "gpat_a4": "Anti-inflammatory",
+                "gpat_correct_a": "3",
+                "reason":"https://en.wikipedia.org/wiki/Rideal%E2%80%93Walker_coefficient"
+        },
+        {
+                "gpat_q": "What is "Sham Test"?",
+                "gpat_a1": "Pyrogen testing",
+                "gpat_a2": "Suitability testing of animals for pyrogen testing",
+                "gpat_a3": "Both",
+                "gpat_a4": "None of the above",
                 "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following sweetner is carcinogenic?",
+                "gpat_a1": "Sucrose",
+                "gpat_a2": "Saccharin",
+                "gpat_a3": "Mannitol",
+                "gpat_a4": "Cyclamate",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Erythrosine is used in liquid oral formulation for",
+                "gpat_a1": "Flavoring Agent",
+                "gpat_a2": "Preservative",
+                "gpat_a3": "Anti-oxidant",
+                "gpat_a4": "Coloring agent",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "The shape of cells in cork tissue is ",
+                "gpat_a1": "Isodimeric",
+                "gpat_a2": "Wavy",
+                "gpat_a3": "Oval",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Salicylates and benzoates are incompatible with:",
+                "gpat_a1": "Potassium Permangnate",
+                "gpat_a2": "Milk",
+                "gpat_a3": "Iodides",
+                "gpat_a4": "Chlorides",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Line spectrum is obtained by  ",
+                "gpat_a1": "Molecule in solid state",
+                "gpat_a2": "Molecules in liquid State",
+                "gpat_a3": "Elementary particles like atoms in gaseous state",
+                "gpat_a4": "Any of the above",
+                "gpat_correct_a": "4",
                 "reason":""
         }
 ] 
