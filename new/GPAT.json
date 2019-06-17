@@ -2482,6 +2482,15 @@ obtained from :",
                 "gpat_a3": "Bees wax",
                 "gpat_a4": "Stearyl alcohol",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Hemicholium acts by ________",
+                "gpat_a1": "Interference with synthesis of transmitter",
+                "gpat_a2": "Blockade of transport system at nerve-terminal
+membrane",
+                "gpat_a3": "Inhibition of enzymatic breakdown of transmitter",
+                "gpat_a4": "Blockade of transport system of storage vesicles",
+                "gpat_correct_a": "2"
         }
    ] 
 }
