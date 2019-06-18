@@ -2491,6 +2491,14 @@ membrane",
                 "gpat_a3": "Inhibition of enzymatic breakdown of transmitter",
                 "gpat_a4": "Blockade of transport system of storage vesicles",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Crystalluria is the side effect associated with",
+                "gpat_a1": "Quinolones",
+                "gpat_a2": "Azoles",
+                "gpat_a3": "Taxol",
+                "gpat_a4": "Sulphonamides",
+                "gpat_correct_a": "4"
         }
    ] 
 }
