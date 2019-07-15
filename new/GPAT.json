@@ -2499,6 +2499,15 @@ membrane",
                 "gpat_a3": "Taxol",
                 "gpat_a4": "Sulphonamides",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Which equation is used to predict the stability of a drug product at room temperature from experiment at
+accelerated temperature?",
+                "gpat_a1": "The stokes equation",
+                "gpat_a2": "The Arrhenius equation",
+                "gpat_a3": "The mickaelis-menten equation",
+                "gpat_a4": "The Hixson-Crowell equation",
+                "gpat_correct_a": "2"
         }
    ] 
 }
