@@ -2508,6 +2508,13 @@ accelerated temperature?",
                 "gpat_a3": "The mickaelis-menten equation",
                 "gpat_a4": "The Hixson-Crowell equation",
                 "gpat_correct_a": "2"
+        }, {
+                "gpat_q": "Currently Barbiturates are primarily used as:",
+                "gpat_a1": "Hypnotic",
+                "gpat_a2": "Sedative",
+                "gpat_a3": "Antiepileptic",
+                "gpat_a4": "Preanaesthetic medicant ",
+                "gpat_correct_a": "3"
         }
    ] 
 }
