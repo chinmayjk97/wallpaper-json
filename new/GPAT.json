@@ -2515,6 +2515,13 @@ accelerated temperature?",
                 "gpat_a3": "Antiepileptic",
                 "gpat_a4": "Preanaesthetic medicant ",
                 "gpat_correct_a": "3"
+        }, {
+                "gpat_q": "Dissolution apparatus 7 indicates",
+                "gpat_a1": "Reciprocating cylinder",
+                "gpat_a2": "Reciprocating disc",
+                "gpat_a3": "Flow through cell",
+                "gpat_a4": "Paddle over disc",
+                "gpat_correct_a": "2"
         }
    ] 
 }
