@@ -2522,6 +2522,13 @@ accelerated temperature?",
                 "gpat_a3": "Flow through cell",
                 "gpat_a4": "Paddle over disc",
                 "gpat_correct_a": "2"
+        }, {
+                "gpat_q": "The minimal alveolar concentration of an inhalational anaesthetic is measure of its:",
+                "gpat_a1": "Potency",
+                "gpat_a2": "Therapeutic index",
+                "gpat_a3": "Diffusibility",
+                "gpat_a4": "Oil:Water partion coefficient",
+                "gpat_correct_a": "1"
         }
    ] 
 }
