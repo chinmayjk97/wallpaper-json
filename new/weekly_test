@@ -1,184 +1,139 @@
 {
-        "Date" : "16/06/19", 
+        "Date" : "28/067/19", 
         "Weekly_Questions": [
         {
-				"gpat_q": "Drug combination of WARFARIN & VITAMIN K results in a specific interaction.Identify",
-                "gpat_a1": "Antagonistic",
-                "gpat_a2": "Increased sedation",
-                "gpat_a3": "No known interaction",
-                "gpat_a4": "Harmful only in the presence of oxidizing agent",
+				"gpat_q": "Which of the following is not a penetration enhancer?",
+                "gpat_a1": "DMSO",
+                "gpat_a2": "Sodium oleate",
+                "gpat_a3": "Taurocholate",
+                "gpat_a4": "Chondroitin sulphate",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following is a soft ionisation source in Mass spectrometer? ",
+                "gpat_a1": "Chemical ionisation",
+                "gpat_a2": "Electrostatic spray ionisation",
+                "gpat_a3": "MALDI",
+                "gpat_a4": "All of the above ",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Alpha and beta form of cyclic glucose are known as:",
+                "gpat_a1": "Epimer",
+                "gpat_a2": "Anomer",
+                "gpat_a3": "Enantiomer",
+                "gpat_a4": "Diasterioisomer",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Shortening of the carbon chain of aldoses is known",
+                "gpat_a1": "Ruff degradation",
+                "gpat_a2": "Killank Fischer synthesis",
+                "gpat_a3": "Oxidative degradation",
+                "gpat_a4": "Arndt eistert synthesis",
                 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "The drug NALOXONE ",
-                "gpat_a1": "Produces morphine like activity",
-                "gpat_a2": "Produces respiratory depression",
-                "gpat_a3": "Induces constipation",
-                "gpat_a4": "Precipitates withdrawal symptoms in morphine addicts",
+                "gpat_q": "Ethyl acetate gives __ peaks in HNMR",
+                "gpat_a1": "2",
+                "gpat_a2": "4",
+                "gpat_a3": "3",
+                "gpat_a4": "5",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Q is a symbol for which amino acid",
+                "gpat_a1": "Glutamic acid",
+                "gpat_a2": "Glutamine",
+                "gpat_a3": "Aspartic acid",
+                "gpat_a4": "Aspargine",
                 "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "The duration of action of a sublingual nitroglycerin tablet is ___",
-                "gpat_a1": "8-10 hrs",
-                "gpat_a2": "4-8 hrs",
-                "gpat_a3": "10-30 mins",
-                "gpat_a4": "3-5 mins",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "To avoid lithium toxicity, a patient using lithium carbonate for mood disorders should not be prescribed __________",
-                "gpat_a1": "Acetazolamide",
-                "gpat_a2": "Hydrochlorthiazide",
-                "gpat_a3": "Mannitol",
-                "gpat_a4": "Propranolol",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Chemical name of Amoxicillin",
-                "gpat_a1": "(2S,5R,6R)- 6-{[(2R)-2-amino- 2-(4-hydroxyphenyl)- acetyl]amino}- 3-methyl- 7-oxo- 4-thia- 1-azabicyclo[3.2.0]heptane- 3-carboxylic acid",
-                "gpat_a2": "(2S,5R,6R)- 6-{[(2R)-2-amino- 2-(4-hydroxyphenyl)- acetyl]amino}- 3,3-dimethyl- 2-oxo- 4-thia- 1-azabicyclo[3.2.0]heptane- 4-carboxylic acid",
-                "gpat_a3": "(2S,5R,6R)- 6-{[(2R)-2-amino- 2-(4-hydroxyphenyl)- acetyl]amino}- 3,3-dimethyl- 4-thia- 1-azabicyclo[3.2.0]heptane- 5-carboxylic acid",
-                "gpat_a4": "(2S,5R,6R)- 6-{[(2R)-2-amino- 2-(4-hydroxyphenyl)- acetyl]amino}- 3,3-dimethyl- 7-oxo- 4-thia- 1-azabicyclo[3.2.0]heptane- 2-carboxylic acid",
+                "gpat_q": "Proteomics is a study of ",
+                "gpat_a1": "DNA",
+                "gpat_a2": "RNA",
+                "gpat_a3": "Genomics",
+                "gpat_a4": "Proteins",
                 "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "Sulpha drugs can be conveniently estimated using the reagent ____ ",
-                "gpat_a1": "4,4- Dithiobis-(2-nirobenzoic acid)",
-                "gpat_a2": "Tris-(hydroxy methyl) amino methane sodium nitrate",
-                "gpat_a3": "N-(1-napthyl) ethylenediamine",
-                "gpat_a4": "N-ethylmalcimide",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "An antineoplastic agent acting by folate antagonism and having pteridine ring is_____",
-                "gpat_a1": "Trimethoprim",
-                "gpat_a2": "Mercaptopurine",
-                "gpat_a3": "Methotrexate",
-                "gpat_a4": "Folic Acid",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "Change in the refractive index causes",
-                "gpat_a1": "Instrumental deviation",
-                "gpat_a2": "Chemical deviation",
-                "gpat_a3": "Real deviation",
-                "gpat_a4": "None of the above",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "How many grams of drug is required to produce 500ml of 1:2500 solution?",
-                "gpat_a1": "0.2",
-                "gpat_a2": "1.25",
-                "gpat_a3": "0.4",
-                "gpat_a4": "0.02",
+                "gpat_q": "Tonifier is the important agent in",
+                "gpat_a1": "Parenteral",
+                "gpat_a2": "Vaginal",
+                "gpat_a3": "Buccal",
+                "gpat_a4": "Transdermal",
                 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "Two of the following are official standards for uncoated tablets as per IP: [P] Shape.  [Q]Friability.  [R] Disintegraation time.  [S]Uniformity of weight.",
-                "gpat_a1": "P, Q",
-                "gpat_a2": "P, S",
-                "gpat_a3": "Q, R",
-                "gpat_a4": "R, S",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "How many 1H NMR signals will be given by isopropylalcohol?",
-                "gpat_a1": "Two",
-                "gpat_a2": "Three",
-                "gpat_a3": "Six",
-                "gpat_a4": "Eight",
+                "gpat_q": "Which of the following is a directly compressible polymer?",
+                "gpat_a1": "PVP",
+                "gpat_a2": "Avicel",
+                "gpat_a3": "Di tab",
+                "gpat_a4": "HPMC",
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "Aconite belongs to which of the following group of alkaloids?",
-                "gpat_a1": "Indole",
-                "gpat_a2": "Steroids",
-                "gpat_a3": "Quinoline",
-                "gpat_a4": "Terpenoids",
-                "gpat_correct_a": "4",
+                "gpat_q": "Senna contains which type of stomata",
+                "gpat_a1": "Paracytic",
+                "gpat_a2": "Diacytic",
+                "gpat_a3": "Anisocytic",
+                "gpat_a4": "Anomocytic",
+                "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "In the assay of alkaloids, the final residue is treated with little ___ before it is finally dissolved in acid and titrated ",
-                "gpat_a1": "Base",
-                "gpat_a2": "Ether",
-                "gpat_a3": "Alcohol",
-                "gpat_a4": "Water",
+                "gpat_q": "Nitrogen is estimated by",
+                "gpat_a1": "Liebigs method",
+                "gpat_a2": "Kjeldhals method",
+                "gpat_a3": "Carius method",
+                "gpat_a4": "Dumas method",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+        {
+                "gpat_q": "Urea cylce occurs in",
+                "gpat_a1": "Mitochondria",
+                "gpat_a2": "Cytoplasm",
+                "gpat_a3": "Mitochondria and cytosol",
+                "gpat_a4": "Kidney cells",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "R. W. C. is used to identify the strength of ",
-                "gpat_a1": "Antibiotic",
-                "gpat_a2": "Antipyretic",
-                "gpat_a3": "Antiseptic",
-                "gpat_a4": "Anti-inflammatory",
+                "gpat_q": "Guduchi is a common name for",
+                "gpat_a1": "Chrysopogon zizanioides",
+                "gpat_a2": "Desmodium gangeticum",
+                "gpat_a3": "Centella Asiatica",
+                "gpat_a4": "Tinospora cordifolia",
                 "gpat_correct_a": "3",
-                "reason":"https://en.wikipedia.org/wiki/Rideal%E2%80%93Walker_coefficient"
+                "reason":""
         },
         {
-                "gpat_q": "What is Sham Test?",
-                "gpat_a1": "Pyrogen testing",
-                "gpat_a2": "Suitability testing of animals for pyrogen testing",
-                "gpat_a3": "Both",
+                "gpat_q": "C glycosides are resistant to hydrolysis ",
+                "gpat_a1": "True",
+                "gpat_a2": "False",
+                "gpat_a3": "Can't say",
                 "gpat_a4": "None of the above",
-                "gpat_correct_a": "2",
+                "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "Which of the following sweetner is carcinogenic?",
-                "gpat_a1": "Sucrose",
-                "gpat_a2": "Saccharin",
-                "gpat_a3": "Mannitol",
-                "gpat_a4": "Cyclamate",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Erythrosine is used in liquid oral formulation for",
-                "gpat_a1": "Flavoring Agent",
-                "gpat_a2": "Preservative",
-                "gpat_a3": "Anti-oxidant",
-                "gpat_a4": "Coloring agent",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "The shape of cells in cork tissue is ",
-                "gpat_a1": "Isodimeric",
-                "gpat_a2": "Wavy",
-                "gpat_a3": "Oval",
-                "gpat_a4": "None of the above",
+                "gpat_q": "Bromhexine produces effect by",
+                "gpat_a1": "Blocking cough center",
+                "gpat_a2": "increases bronchial secretions",
+                "gpat_a3": "Depolymerization of mucopolysaccharide",
+                "gpat_a4": "Desensitizing the lungs stretch receptors",
                 "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "Salicylates and benzoates are incompatible with:",
-                "gpat_a1": "Potassium Permangnate",
-                "gpat_a2": "Milk",
-                "gpat_a3": "Iodides",
-                "gpat_a4": "Chlorides",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Line spectrum is obtained by  ",
-                "gpat_a1": "Molecule in solid state",
-                "gpat_a2": "Molecules in liquid State",
-                "gpat_a3": "Elementary particles like atoms in gaseous state",
-                "gpat_a4": "Any of the above",
-                "gpat_correct_a": "4",
                 "reason":""
         }
 ] 
