@@ -2529,6 +2529,63 @@ accelerated temperature?",
                 "gpat_a3": "Diffusibility",
                 "gpat_a4": "Oil:Water partion coefficient",
                 "gpat_correct_a": "1"
+        }, {
+                "gpat_q": "Reasons for capping in a tablet formulation are all except ",
+                "gpat_a1": "Excessive force of compression",
+                "gpat_a2": "Insufficient binder",
+                "gpat_a3": "Entrapment of air during processing",
+                "gpat_a4": "Excessive Lubricant",
+                "gpat_correct_a": "4"
+        }, {
+                "gpat_q": "Capillary rise method is based on",
+                "gpat_a1": "Young Laplace equation ",
+                "gpat_a2": "Langmuir equation",
+                "gpat_a3": "BET equation",
+                "gpat_a4": "Freundlich equation",
+                "gpat_correct_a": "1"
+        }, {
+                "gpat_q": "The site of oxidation in an electrochemical cell is",
+                "gpat_a1": "Anode",
+                "gpat_a2": "Cathode",
+                "gpat_a3": "Electrode",
+                "gpat_a4": "Salt bridge",
+                "gpat_correct_a": "1"
+        }, {
+                "gpat_q": "The drug NALOXONE produces
+",
+                "gpat_a1": "Morphine like activity",
+                "gpat_a2": "Respiratory depression",
+                "gpat_a3": "Constipation",
+                "gpat_a4": "Precipitates withdrawal symptoms in morphine addicts",
+                "gpat_correct_a": "4"
+        }, {
+                "gpat_q": "Which of the following is used to measure Ph",
+                "gpat_a1": "A glass electrode",
+                "gpat_a2": "A concentration cell",
+                "gpat_a3": "A hydrogen electrode",
+                "gpat_a4": "All of the above ",
+                "gpat_correct_a": "4"
+        }, {
+                "gpat_q": "The relationship between pressure and solubility of a gas in a particular solvent was investigated by",
+                "gpat_a1": "Henry's law",
+                "gpat_a2": "Roults law",
+                "gpat_a3": "Faradys law",
+                "gpat_a4": "Dalton's law",
+                "gpat_correct_a": "1"
+        }, {
+                "gpat_q": "The cleaning action of soap and detergent is due to:",
+                "gpat_a1": "Internal friction",
+                "gpat_a2": "High Hydrogen bonding",
+                "gpat_a3": "Surface tension",
+                "gpat_a4": "Viscosity",
+                "gpat_correct_a": "3"
+        }, {
+                "gpat_q": "Small droplets are spherical in shape,It is due to:",
+                "gpat_a1": "High Viscosity",
+                "gpat_a2": "Their tendency to acquire minimum surface area",
+                "gpat_a3": "Their tendency to acquire maximum surface area",
+                "gpat_a4": "Less viscosity",
+                "gpat_correct_a": "2"
         }
    ] 
 }
