@@ -1,139 +1,184 @@
 {
-        "Date" : "28/067/19", 
+        "Date" : "08/09/19", 
         "Weekly_Questions": [
         {
-				"gpat_q": "Which of the following is not a penetration enhancer?",
-                "gpat_a1": "DMSO",
-                "gpat_a2": "Sodium oleate",
-                "gpat_a3": "Taurocholate",
-                "gpat_a4": "Chondroitin sulphate",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following is a soft ionisation source in Mass spectrometer? ",
-                "gpat_a1": "Chemical ionisation",
-                "gpat_a2": "Electrostatic spray ionisation",
-                "gpat_a3": "MALDI",
-                "gpat_a4": "All of the above ",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Alpha and beta form of cyclic glucose are known as:",
-                "gpat_a1": "Epimer",
-                "gpat_a2": "Anomer",
-                "gpat_a3": "Enantiomer",
-                "gpat_a4": "Diasterioisomer",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Shortening of the carbon chain of aldoses is known",
-                "gpat_a1": "Ruff degradation",
-                "gpat_a2": "Killank Fischer synthesis",
-                "gpat_a3": "Oxidative degradation",
-                "gpat_a4": "Arndt eistert synthesis",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Ethyl acetate gives __ peaks in HNMR",
-                "gpat_a1": "2",
-                "gpat_a2": "4",
-                "gpat_a3": "3",
-                "gpat_a4": "5",
+				"gpat_q": "Which of the following description is CORRECT about Gyrase? ",
+                "gpat_a1": "Gyrase is a type 1 topoisomerase",
+                "gpat_a2": "Gyrase requires ATP for it's catalysis",
+                "gpat_a3": "Gyrase only relaxes supercoiled DNA",
+                "gpat_a4": "Gyrase is well conserved from bacteria to human",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Q is a symbol for which amino acid",
-                "gpat_a1": "Glutamic acid",
-                "gpat_a2": "Glutamine",
-                "gpat_a3": "Aspartic acid",
-                "gpat_a4": "Aspargine",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Proteomics is a study of ",
-                "gpat_a1": "DNA",
-                "gpat_a2": "RNA",
-                "gpat_a3": "Genomics",
-                "gpat_a4": "Proteins",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Tonifier is the important agent in",
-                "gpat_a1": "Parenteral",
-                "gpat_a2": "Vaginal",
-                "gpat_a3": "Buccal",
-                "gpat_a4": "Transdermal",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following is a directly compressible polymer?",
-                "gpat_a1": "PVP",
-                "gpat_a2": "Avicel",
-                "gpat_a3": "Di tab",
-                "gpat_a4": "HPMC",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Senna contains which type of stomata",
-                "gpat_a1": "Paracytic",
-                "gpat_a2": "Diacytic",
-                "gpat_a3": "Anisocytic",
-                "gpat_a4": "Anomocytic",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-        {
-                "gpat_q": "Nitrogen is estimated by",
-                "gpat_a1": "Liebigs method",
-                "gpat_a2": "Kjeldhals method",
-                "gpat_a3": "Carius method",
-                "gpat_a4": "Dumas method",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Urea cylce occurs in",
-                "gpat_a1": "Mitochondria",
-                "gpat_a2": "Cytoplasm",
-                "gpat_a3": "Mitochondria and cytosol",
-                "gpat_a4": "Kidney cells",
+                "gpat_q": "Which of the following drugs interact selectively with a specific subtype of the BDZ receptor and is used to treat insomnia? ",
+                "gpat_a1": "Alprazolam",
+                "gpat_a2": "Fumazenil",
+                "gpat_a3": "Zolpidem",
+                "gpat_a4": "Chlordiazepoxide",
                 "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Guduchi is a common name for",
-                "gpat_a1": "Chrysopogon zizanioides",
-                "gpat_a2": "Desmodium gangeticum",
-                "gpat_a3": "Centella Asiatica",
-                "gpat_a4": "Tinospora cordifolia",
-                "gpat_correct_a": "4",
+                "gpat_q": "Twenty different amino acids found in protein are normally coded by",
+                "gpat_a1": "60 codons",
+                "gpat_a2": "61 codons",
+                "gpat_a3": "64 codons",
+                "gpat_a4": "20 codons",
+                "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "C glycosides are resistant to hydrolysis ",
-                "gpat_a1": "True",
-                "gpat_a2": "False",
-                "gpat_a3": "Can't say",
-                "gpat_a4": "None of the above",
+                "gpat_q": "Which of the following is a second generation anti histaminic",
+                "gpat_a1": "Cetrizine",
+                "gpat_a2": "Cinnarizine",
+                "gpat_a3": "Pheneramine",
+                "gpat_a4": "Promethazine",
                 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "Bromhexine produces effect by",
-                "gpat_a1": "Blocking cough center",
-                "gpat_a2": "increases bronchial secretions",
-                "gpat_a3": "Depolymerization of mucopolysaccharide",
-                "gpat_a4": "Desensitizing the lungs stretch receptors",
+                "gpat_q": "The units for clearance is",
+                "gpat_a1": "conc/time",
+                "gpat_a2": "dose/volume",
+                "gpat_a3": "half life/dose",
+                "gpat_a4": "volume/time",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Cinnamon does not contain",
+                "gpat_a1": "Tannins",
+                "gpat_a2": "Benzaldehyde",
+                "gpat_a3": "Coumarins",
+                "gpat_a4": "Cinnamaldehyde",
                 "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Which of the following is a potassium channel opener?",
+                "gpat_a1": "Nicorandil",
+                "gpat_a2": "Hydralazine",
+                "gpat_a3": "Amiloride",
+                "gpat_a4": "Glibenclamide",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "In alternative medicine a which of the following can be used for heart failure?",
+                "gpat_a1": "Gingko biloba",
+                "gpat_a2": "Neem extract",
+                "gpat_a3": "T. Arjuna",
+                "gpat_a4": "St.johns wart",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "A very common interference for glass ph electrode is",
+                "gpat_a1": "F",
+                "gpat_a2": "Si",
+                "gpat_a3": "Br",
+                "gpat_a4": "Na",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Immunogenic reduction in the nicotinic receptors lead to",
+                "gpat_a1": "Myasthenia gravis",
+                "gpat_a2": "Addison's disease",
+                "gpat_a3": "Graves disease",
+                "gpat_a4": "Crohn's disease",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Gastro retentive systems are",
+                "gpat_a1": "Hydrodynamically balanced systems",
+                "gpat_a2": "High density systems",
+                "gpat_a3": "Bioadhesive systems",
+                "gpat_a4": "All",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "Western blotting is used for",
+                "gpat_a1": "RNA",
+                "gpat_a2": "DNA",
+                "gpat_a3": "Proteins",
+                "gpat_a4": "Carbohydrates",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Crystallization is a ",
+                "gpat_a1": "Exothermic",
+                "gpat_a2": "Endothermic",
+                "gpat_a3": "Mesothermic ",
+                "gpat_a4": "Prothermic",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+        {
+                "gpat_q": "Apoptosis is triggered by",
+                "gpat_a1": "Nitric oxide",
+                "gpat_a2": "Superoxide dismutase",
+                "gpat_a3": "BCL2",
+                "gpat_a4": "p53",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+        {
+                "gpat_q": "The Tata box is a",
+                "gpat_a1": "Sequence common to promoter region of many genes",
+                "gpat_a2": "Square shaped sequence ",
+                "gpat_a3": "Enhancer consensus sequence",
+                "gpat_a4": "Activator sequence necessary for proper translation",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+	{
+                "gpat_q": "Choose the most basic heterocyclic compound among the followings.",
+                "gpat_a1": "Pyridine",
+                "gpat_a2": "Imidazole",
+                "gpat_a3": "Pyrrole",
+                "gpat_a4": "Pyrrolidine",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+	 {
+                "gpat_q": "Sweet taste of Glycyrrhiza is due to the presence of",
+                "gpat_a1": "Na and k salt of glycyrrhic acid",
+                "gpat_a2": "Mg and Ca salt of glycyrrhic acid",
+                "gpat_a3": "K and Ca salt of glycyrrhic acid",
+                "gpat_a4": "Isoliquirtin",
+                "gpat_correct_a": "3",
+                "reason":""
+        }, 
+	{
+                "gpat_q": "which one of the following drugs has positive inotropic and negative chronotropic action ?",
+                "gpat_a1": "Dopamine",
+                "gpat_a2": "Epinephrine",
+                "gpat_a3": "Digoxin",
+                "gpat_a4": "Isoprenaline",
+                "gpat_correct_a": "3",
+                "reason":""
+        }, 
+	{
+                "gpat_q": "Atovastatin should be taken at night after dinner. Why? ",
+                "gpat_a1": "It induce sleep. ",
+                "gpat_a2": "Synthesis of cholesterol is maximum during night. ",
+                "gpat_a3": "The patient would be affected by sunlight taken during daytime. ",
+                "gpat_a4": "Because of better absorption. ",
+                "gpat_correct_a": "2",
+                "reason":""
+        }, 
+	{
+                "gpat_q": "'Moon Face' is a characteristic effect seen in _____",
+                "gpat_a1": "Oral hypoglycemics",
+                "gpat_a2": "Corticosteroids ",
+                "gpat_a3": "Diuretics ",
+                "gpat_a4": "ACE Inhibitors ",
+                "gpat_correct_a": "2",
                 "reason":""
         }
 ] 
