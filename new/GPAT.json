@@ -2586,6 +2586,14 @@ accelerated temperature?",
                 "gpat_a3": "Their tendency to acquire maximum surface area",
                 "gpat_a4": "Less viscosity",
                 "gpat_correct_a": "2"
+        }, 
+        {
+                "gpat_q": "Co administration of NSAIDS with Warfarin may often lead to",
+                "gpat_a1": "Antagonistic interaction",
+                "gpat_a2": "Interaction due to change in drug transport",
+                "gpat_a3": "Interaction due to disturbances in electrolyte balance",
+                "gpat_a4": "Additive or synergistic effect",
+                "gpat_correct_a": "4"
         }
    ] 
 }
