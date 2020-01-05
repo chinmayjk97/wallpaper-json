@@ -1,31 +1,31 @@
 {
-        "Date" : "16/06/19", 
+        "Date" : "05/01/2020", 
         "Weekly_Questions": [
         {
-				"gpat_q": "In tRNA molecule D arm is named for the presence of the base",
-                "gpat_a1": "Uridine",
-                "gpat_a2": "Pseudouridine",
-                "gpat_a3": "Dihydrouridine",
-                "gpat_a4": "Thymidine",
-                "gpat_correct_a": "1",
+				"gpat_q": "Procedure of separating enatiomers is known as",
+                "gpat_a1": "Revolution",
+                "gpat_a2": "Resolution",
+                "gpat_a3": "Racemization",
+                "gpat_a4": "None",
+                "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "Along the alpha-helix each amino acid residue advances in nm by",
-                "gpat_a1": "0.15",
-                "gpat_a2": "0.10",
-                "gpat_a3": "0.12",
-                "gpat_a4": "0.20",
-                "gpat_correct_a": "1",
+                "gpat_q": "Which one of the following statements is WRONG?",
+                "gpat_a1": "A singlet or triplet state may result when one of the electrons from the HOMO is excited to higher energy levels",
+                "gpat_a2": "In an excited singlet state, the spin of the electron in the higher energy orbital is paired with the electron in the ground state orbital",
+                "gpat_a3": "Triplet excited state is more stable than the singlet excited state",
+                "gpat_a4": "When the electron from the singlet excited state returns to ground state, the molecule always show fluorescence phenomenon ",
+                "gpat_correct_a": "3",
                 "reason":""
         },
         {
-                "gpat_q": "The half life of a first order reaction is 4 months. What is its t90% in months?",
-                "gpat_a1": "3",
-                "gpat_a2": "4",
-                "gpat_a3": "8",
-                "gpat_a4": "12",
-                "gpat_correct_a": "4",
+                "gpat_q": "In the TCA cycle, at which of the following enzyme-catalyzed steps,  incorporation of elements of water into an intermediate of the cycle takes place : ",
+                "gpat_a1": "Maleate dehydrogenase",
+                "gpat_a2": "Succinyl Co-A synthase",
+                "gpat_a3": "Citrate synthase",
+                "gpat_a4": "Aconitase",
+                "gpat_correct_a": "1",
                 "reason":""
         },
         {
@@ -38,12 +38,12 @@
                 "reason":""
         },
         {
-                "gpat_q": "The HLB value of lauryl sulphate is",
-                "gpat_a1": "6.5",
-                "gpat_a2": "13.8",
-                "gpat_a3": "25.0",
-                "gpat_a4": "40.0",
-                "gpat_correct_a": "4",
+                "gpat_q": "Humectants added in cosmetic preparations generally act by",
+                "gpat_a1": "covalent bond formation",
+                "gpat_a2": "hydrogen bond formation",
+                "gpat_a3": "complex formation",
+                "gpat_a4": "the action of London forces",
+                "gpat_correct_a": "2",
                 "reason":""
         },
         {
@@ -56,39 +56,44 @@
                 "reason":"https://pubchem.ncbi.nlm.nih.gov/compound/pholcodine"
         },
         {
-                "gpat_q": "Papaverine possess __________ methoxy groups",
-                "gpat_a1": "2",
-                "gpat_a2": "4",
-                "gpat_a3": "3",
-                "gpat_a4": "6",
-                "gpat_correct_a": "2",
-                "reason":"https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=4680&t=l"
-        },
-        {
-                "gpat_q": "Caffeine is not acidic because of",
-                "gpat_a1": "Absence of hydrogen on imide groups",
-                "gpat_a2": "Presence of keto groups",
-                "gpat_a3": "Presence of methyl groups",
-                "gpat_a4": "Presence of symmetrical triketo groups",
+                "gpat_q": "Thioglycolic acid-like compounds have applications in following type of cosmetic formulation ",
+                "gpat_a1": "Depilatory preparations",
+                "gpat_a2": "Epilatory preparations",
+                "gpat_a3": "Vanishing creams",
+                "gpat_a4": "Skin tan preparation",
                 "gpat_correct_a": "1",
                 "reason":""
         },
         {
-                "gpat_q": "The trans form of Citral is called ________",
-                "gpat_a1": "Neral",
-                "gpat_a2": "Nerol",
-                "gpat_a3": "Beta Ionone",
-                "gpat_a4": "Geranial",
+                "gpat_q": "The applicability of Noyes-Whitney equation is to describe",
+                "gpat_a1": "First order kinetics",
+                "gpat_a2": "Zero order kinetics",
+                "gpat_a3": "Mixed order kinetics",
+                "gpat_a4": "Dissolution rate",
                 "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "Cephalosporin C on hydrolysis will ot give",
-                "gpat_a1": "6 APA",
-                "gpat_a2": "Acetic acid",
-                "gpat_a3": "Penicillamine",
-                "gpat_a4": "Dipeptide",
+                "gpat_q": "Match the following antibiotics according
+to their site of action
+1. Rifamycin 2. Chloramphenicol. 3.
+Cycloserine
+a. Nuclic acid b.  Ribosomes c. Cell wall
+",
+                "gpat_a1": "1- b, 2-c, 3- a ",
+                "gpat_a2": "1-c, 2-a, 3-b",
+                "gpat_a3": "1-a, 2-b, 3-c",
+                "gpat_a4": "None of these",
                 "gpat_correct_a": "3",
+                "reason":""
+        },
+        {
+                "gpat_q": "Repacking licence can be issued in which form as per the drug and cosmetic act 1940",
+                "gpat_a1": "Form 25A",
+                "gpat_a2": "Form 25B",
+                "gpat_a3": "Form 24A",
+                "gpat_a4": "Form 24B",
+                "gpat_correct_a": "2",
                 "reason":""
         },
         {
@@ -101,40 +106,40 @@
                 "reason":""
         },
         {
-                "gpat_q": "Which solution is used as an astringent?",
-                "gpat_a1": "Strong iodine solution USP",
-                "gpat_a2": "Acetic acid NE",
-                "gpat_a3": "Aromatic ammonia spirit USP",
-                "gpat_a4": "Aluminum acetate topical solution USP",
+                "gpat_q": "A small amount of Tween 80 or Fatty acid monoglycerate are added in manufacturing of suppositories to overcome",
+                "gpat_a1": "Volume correction",
+                "gpat_a2": "Density",
+                "gpat_a3": "Viscosity",
+                "gpat_a4": "Brittleness",
                 "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "Apart from its in tuberculosis and leprosy, Rifampin is a first line drug from the following infective disease",
-                "gpat_a1": "Toxoplasmosis",
-                "gpat_a2": "Brucellosis",
-                "gpat_a3": "Donovanosis",
-                "gpat_a4": "Leishmaniasis",
+                "gpat_q": "Which one is known as Chinese ginseng?",
+                "gpat_a1": "Panax ginseng",
+                "gpat_a2": "Panax notoginseng",
+                "gpat_a3": "Panax quinquefolium",
+                "gpat_a4": "Panax trifolis",
                 "gpat_correct_a": "2",
                 "reason":""
         },
         {
-                "gpat_q": "The following contains a Auxochrome",
-                "gpat_a1": "Ethylene",
-                "gpat_a2": "Ethane",
-                "gpat_a3": "Both a and b",
-                "gpat_a4": "None of the above",
+                "gpat_q": "Which ocular toxicity is associated with Digoxin",
+                "gpat_a1": "Glaucoma",
+                "gpat_a2": "Retinal pigmentation",
+                "gpat_a3": "Visual field constrictio",
+                "gpat_a4": "Scotoma",
                 "gpat_correct_a": "4",
-                "reason":"An auxochrome is a functional group of atoms with one or more lone pairs of electrons when attached to a chromophore, alters both the wavelength and intensity of absorption. \n\nHere Ethylene and Ethane both doesn't fulfill the conditions to be called as auxochrome."
+                "reason":""
         },
         {
-                "gpat_q": "The wavelenth of light transmitted is ____ the wavelength of the incident light, in Nephlometry",
-                "gpat_a1": "The same as that of",
-                "gpat_a2": "Greater than",
-                "gpat_a3": "Lesser than",
-                "gpat_a4": "Different from",
-                "gpat_correct_a": "1",
-                "reason":"In Nephlometry, the incident light rays just gets scattered due to particles and hence wavelenth of scattered light is same as that of the incident light."
+                "gpat_q": "Rose waaler test is related with which disease",
+                "gpat_a1": "Polio",
+                "gpat_a2": "Osteoarthritis",
+                "gpat_a3": "Orthostatic hypotension",
+                "gpat_a4": "Rheumatoid arthritis",
+                "gpat_correct_a": "4",
+                "reason":""
         },
         {
                 "gpat_q": "Androgens are produced by",
@@ -146,20 +151,20 @@
                 "reason":""
         },
         {
-                "gpat_q": "One gram of carbohydrates on complete oxidation in body yields about",
-                "gpat_a1": "1 Kcal",
-                "gpat_a2": "4 Kcal",
-                "gpat_a3": "6 Kcal",
-                "gpat_a4": "9 Kcal",
-                "gpat_correct_a": "2",
+                "gpat_q": "Spurious drug is",
+                "gpat_a1": "If it is imported under the name which belongs to another drug",
+                "gpat_a2": "If it is imitation or substitute of another drug",
+                "gpat_a3": "Its claiming but to but it is not product of company",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "4",
                 "reason":""
         },
         {
-                "gpat_q": "FAD is coenzyme for",
-                "gpat_a1": "Succinate dehydrogenase",
-                "gpat_a2": "Glycerol-3-phosphate dehydrogenase",
-                "gpat_a3": "Sphingosine reductase",
-                "gpat_a4": "All of the above",
+                "gpat_q": "One of the following is used topically",
+                "gpat_a1": "Sulfamethoxazole",
+                "gpat_a2": "Sulphadimidine",
+                "gpat_a3": "Trimethoprim",
+                "gpat_a4": "Sulfadiazine",
                 "gpat_correct_a": "4",
                 "reason":""
         },
