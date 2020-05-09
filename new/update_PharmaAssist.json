@@ -1,9 +1,12 @@
 {
-  "latestVersion": "3.2",
-  "latestVersionCode": 42,
+  "latestVersion": "4.0",
+  "latestVersionCode": 60,
   "url": "https://chinmayjk97.github.io/PharmaAssist/download",
-  "directdownloadurl":"https://github.com/chinmayjk97/wallpaper-json/releases/download/3.2/PharmaAssist.apk",
+  "directdownloadurl":"https://github.com/chinmayjk97/wallpaper-json/releases/download/4.0/PharmaAssist.apk",
   "releaseNotes": [
+    "	- Added Chat feature to help each other !",
+    "	- Added Checklist Screen to keep a track of important topics for GPAT exam ;) ",
+    "	- Now you can donate us through UPI from support us section.",
     "	- Updated Internal Files.",
     "	- Bugs Fixed."
   ]
