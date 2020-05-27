@@ -2594,6 +2594,14 @@ accelerated temperature?",
                 "gpat_a3": "Interaction due to disturbances in electrolyte balance",
                 "gpat_a4": "Additive or synergistic effect",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "A fatty acid which is not synthesized inthe body and has to be supplied in thediet is:",
+                "gpat_a1": "Palmitic acid",
+                "gpat_a2": "Lauric acid",
+                "gpat_a3": "Linolenic acid",
+                "gpat_a4": "Palmitoleic acid",
+                "gpat_correct_a": "3"
         }
    ] 
 }
