@@ -2602,6 +2602,14 @@ accelerated temperature?",
                 "gpat_a3": "Linolenic acid",
                 "gpat_a4": "Palmitoleic acid",
                 "gpat_correct_a": "3"
+        }, 
+        {
+                "gpat_q": "When glucose reacts with bromine water, the main product is",
+                "gpat_a1": "Glucaric acid",
+                "gpat_a2": "Sorbitols",
+                "gpat_a3": "Glucoronic acid",
+                "gpat_a4": "Gluconic acid",
+                "gpat_correct_a": "4"
         }
    ] 
 }
