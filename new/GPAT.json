@@ -2610,6 +2610,15 @@ accelerated temperature?",
                 "gpat_a3": "Glucoronic acid",
                 "gpat_a4": "Gluconic acid",
                 "gpat_correct_a": "4"
+        }, 
+        {
+                "gpat_q": "Carr’s compressibility index gives an idea about",
+                "gpat_a1": "Flow property of powders",
+                "gpat_a2": "Cohesiveness of powders ",
+                "gpat_a3": "Both",
+                "gpat_a4": "None",
+                "gpat_correct_a": "3",
+                "reason": " "
         }
    ] 
 }
