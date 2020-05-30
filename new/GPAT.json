@@ -2619,6 +2619,15 @@ accelerated temperature?",
                 "gpat_a4": "None",
                 "gpat_correct_a": "3",
                 "reason": " "
+        }, 
+        {
+                "gpat_q": "Identify drug which is not a prodrug",
+                "gpat_a1": "Levodopa",
+                "gpat_a2": "Omeprazole",
+                "gpat_a3": "Enalapril",
+                "gpat_a4": "Indomethacin",
+                "gpat_correct_a": "4",
+                "reason": "Indomethacin is not a prodrug rest all options are converted to active group after metabolism. "
         }
    ] 
 }
