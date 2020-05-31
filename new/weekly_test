@@ -1,190 +1,186 @@
 {
-        "Date" : "05/01/2020", 
+        "Date" : "31/05/2020", 
         "Weekly_Questions": [
         {
-				"gpat_q": "Procedure of separating enatiomers is known as",
-                "gpat_a1": "Revolution",
-                "gpat_a2": "Resolution",
-                "gpat_a3": "Racemization",
-                "gpat_a4": "None",
-                "gpat_correct_a": "3",
-                "reason":""
+				"gpat_q": "Bisphosphonates are indicated in the following condition",
+                "gpat_a1": "Organophosphate poisoning",
+                "gpat_a2": "Dementia",
+                "gpat_a3": "Steven’s Johnson syndrome",
+                "gpat_a4": "Osteoporosis",
+                "gpat_correct_a": "4",
+                "reason":"It is given in different types of osteoporosis like postmenopausal or drug induced osteoporosis Paget diseases, bisphosphonates acts on bone metabolism by inhibiting the enzyme furnesyl diphosphate synthase"
         },
-        {
-                "gpat_q": "Which one of the following statements is WRONG?",
-                "gpat_a1": "A singlet or triplet state may result when one of the electrons from the HOMO is excited to higher energy levels",
-                "gpat_a2": "In an excited singlet state, the spin of the electron in the higher energy orbital is paired with the electron in the ground state orbital",
-                "gpat_a3": "Triplet excited state is more stable than the singlet excited state",
-                "gpat_a4": "When the electron from the singlet excited state returns to ground state, the molecule always show fluorescence phenomenon ",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "In the TCA cycle, at which of the following enzyme-catalyzed steps,  incorporation of elements of water into an intermediate of the cycle takes place : ",
-                "gpat_a1": "Maleate dehydrogenase",
-                "gpat_a2": "Succinyl Co-A synthase",
-                "gpat_a3": "Citrate synthase",
-                "gpat_a4": "Aconitase",
+		{
+				"gpat_q": "The following tetracycline has the potential to cause vestibular toxicity",
+                "gpat_a1": "Minocycline",
+                "gpat_a2": "Demeclocycline",
+                "gpat_a3": "Doxycycline",
+                "gpat_a4": "Tetracycline",
                 "gpat_correct_a": "1",
                 "reason":""
         },
-        {
-                "gpat_q": "The storage direction on a parenteral solution specify 'Store in a cool place'. This may be stored in",
-                "gpat_a1": "An air-conditioned area a 10 degrees",
-                "gpat_a2": "A refrigerator at 15 degrees",
-                "gpat_a3": "A place whose temperature is set at 5 degrees",
-                "gpat_a4": "Room temperature, at 25 degrees",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Humectants added in cosmetic preparations generally act by",
-                "gpat_a1": "covalent bond formation",
-                "gpat_a2": "hydrogen bond formation",
-                "gpat_a3": "complex formation",
-                "gpat_a4": "the action of London forces",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "________ is a morpholino ethyl ether of morphine",
-                "gpat_a1": "Nalorphine",
-                "gpat_a2": "Apomorphine",
-                "gpat_a3": "Pholcodine",
-                "gpat_a4": "Hydrocodone",
-                "gpat_correct_a": "3",
-                "reason":"https://pubchem.ncbi.nlm.nih.gov/compound/pholcodine"
-        },
-        {
-                "gpat_q": "Thioglycolic acid-like compounds have applications in following type of cosmetic formulation ",
-                "gpat_a1": "Depilatory preparations",
-                "gpat_a2": "Epilatory preparations",
-                "gpat_a3": "Vanishing creams",
-                "gpat_a4": "Skin tan preparation",
+		{
+				"gpat_q": "In the Drugs and Cosmetics Act and Rules, the Schedule relating to GMP is",
+                "gpat_a1": "Schedule M",
+                "gpat_a2": "Schedule C",
+                "gpat_a3": "Schedule Y",
+                "gpat_a4": "Schedule H",
                 "gpat_correct_a": "1",
-                "reason":""
+                "reason":"good manufacturing practices is given in Schedule M"
         },
-        {
-                "gpat_q": "The applicability of Noyes-Whitney equation is to describe",
-                "gpat_a1": "First order kinetics",
-                "gpat_a2": "Zero order kinetics",
-                "gpat_a3": "Mixed order kinetics",
-                "gpat_a4": "Dissolution rate",
+		{
+				"gpat_q": "Identify a rational combination which has clinical benefit",
+                "gpat_a1": "Norfloxacin – Metronidazole",
+                "gpat_a2": "Alprazolam – Paracetamol",
+                "gpat_a3": "Cisapride – Omeprazole",
+                "gpat_a4": "Amoxycillin – Clavulanic acid",
+                "gpat_correct_a": "4",
+                "reason":"clavulunic acid inactivate beta lactamase enzyme which destroys amoxicillin and protect it combination of these two increases clinical benefit due to its additive effect , as such clavulunic acid is ineffective as antimicrobial agent"
+        },
+		{
+				"gpat_q": "Tropane alkaloids are NOT present in",
+                "gpat_a1": "Datura stramonium",
+                "gpat_a2": "Erythroxylum coca",
+                "gpat_a3": "Duboisia myoporoides",
+                "gpat_a4": "Lobelia inflata",
+                "gpat_correct_a": "4",
+                "reason":"lobella contains pyridine type of alkaloids and all other options as tropane alkaloids as active constituent"
+        },
+		{
+				"gpat_q": "In the context of illicit traffic in relation to NDPS, the central Govt. has specified the “small quantity” of Ganja, means ",
+                "gpat_a1": "250 mg",
+                "gpat_a2": "5 gm",
+                "gpat_a3": "125 mg",
+                "gpat_a4": "500 gm",
+                "gpat_correct_a": "4",
+                "reason":"In the context of illicit traffic in relation to NDPS, the central Govt. has specified the “small quantity” of Ganja, means 500gm"
+        },
+		{
+				"gpat_q": "MBO is most closely associated with which theory of work motivation",
+                "gpat_a1": "Equity theory",
+                "gpat_a2": "Expectancy theory",
+                "gpat_a3": "Maslow’s need theory",
+                "gpat_a4": "Goal setting theory",
+                "gpat_correct_a": "4",
+                "reason":"https://en.wikipedia.org/wiki/Management_by_objectives"
+        },
+		{
+				"gpat_q": "What are the three basic steps of conventional PCR",
+                "gpat_a1": "Denature, anneal, & Strand displacement",
+                "gpat_a2": "Denature, anneal & extension",
+                "gpat_a3": "Strand displacement, synthesis & release",
+                "gpat_a4": "Reverse-Transcription, anneal & extend",
                 "gpat_correct_a": "4",
                 "reason":""
         },
-        {
-                "gpat_q": "Match the following antibiotics according
-to their site of action
-1. Rifamycin 2. Chloramphenicol. 3.
-Cycloserine
-a. Nuclic acid b.  Ribosomes c. Cell wall
-",
-                "gpat_a1": "1- b, 2-c, 3- a ",
-                "gpat_a2": "1-c, 2-a, 3-b",
-                "gpat_a3": "1-a, 2-b, 3-c",
-                "gpat_a4": "None of these",
+		{
+				"gpat_q": "Rabies bodies are",
+                "gpat_a1": "Negri bodies",
+                "gpat_a2": "Cowdry type B inclusion bodies",
+                "gpat_a3": "Cowdry type A inclusion bodies",
+                "gpat_a4": "Bollinge bodies",
+                "gpat_correct_a": "1",
+                "reason":"https://en.wikipedia.org/wiki/Negri_bodies"
+        },
+		{
+				"gpat_q": "On a product, the label states “protect from light”. What type of decomposition does the product undergoes?",
+                "gpat_a1": "Carboxylation",
+                "gpat_a2": "Decarboxylation",
+                "gpat_a3": "Hydrolysis",
+                "gpat_a4": "Oxidation",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "Aspirin undergoes decomposition in a formulation. It can be prevented by",
+                "gpat_a1": "Adding a chelating agent",
+                "gpat_a2": "Adding an oxidant",
+                "gpat_a3": "Protecting it from light",
+                "gpat_a4": "Suppressing its solubility",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "Which one of the following is primarily not a chemical decomposition?",
+                "gpat_a1": "Isomerization",
+                "gpat_a2": "Hydrolysis",
+                "gpat_a3": "Oxidation",
+                "gpat_a4": "Volatilization",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "Which one of the following physicochemical properties is more important for passive diffusion of drugs from the gastrointestinal tract?",
+                "gpat_a1": "Dissolution constant",
+                "gpat_a2": "Lipid solubility",
+                "gpat_a3": "Partition coefficient",
+                "gpat_a4": "pH of the gastrointestinal fluids",
                 "gpat_correct_a": "3",
                 "reason":""
         },
-        {
-                "gpat_q": "Repacking licence can be issued in which form as per the drug and cosmetic act 1940",
-                "gpat_a1": "Form 25A",
-                "gpat_a2": "Form 25B",
-                "gpat_a3": "Form 24A",
-                "gpat_a4": "Form 24B",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which of the following diuretic would be most useful in patient with cerebral edema?",
-                "gpat_a1": "Acetazolamide",
-                "gpat_a2": "Amiloride",
-                "gpat_a3": "Mannitol",
-                "gpat_a4": "Furosemide",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-        {
-                "gpat_q": "A small amount of Tween 80 or Fatty acid monoglycerate are added in manufacturing of suppositories to overcome",
-                "gpat_a1": "Volume correction",
-                "gpat_a2": "Density",
-                "gpat_a3": "Viscosity",
-                "gpat_a4": "Brittleness",
+		{
+				"gpat_q": "Half life of drug may be useful to determine",
+                "gpat_a1": "Dosage schedule of the drug",
+                "gpat_a2": "Level of absorption",
+                "gpat_a3": "Distribution in body system",
+                "gpat_a4": "Time to get the steady state",
                 "gpat_correct_a": "4",
                 "reason":""
         },
-        {
-                "gpat_q": "Which one is known as Chinese ginseng?",
-                "gpat_a1": "Panax ginseng",
-                "gpat_a2": "Panax notoginseng",
-                "gpat_a3": "Panax quinquefolium",
-                "gpat_a4": "Panax trifolis",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Which ocular toxicity is associated with Digoxin",
-                "gpat_a1": "Glaucoma",
-                "gpat_a2": "Retinal pigmentation",
-                "gpat_a3": "Visual field constrictio",
-                "gpat_a4": "Scotoma",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Rose waaler test is related with which disease",
-                "gpat_a1": "Polio",
-                "gpat_a2": "Osteoarthritis",
-                "gpat_a3": "Orthostatic hypotension",
-                "gpat_a4": "Rheumatoid arthritis",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Androgens are produced by",
-                "gpat_a1": "Cells of sertoli",
-                "gpat_a2": "Leydig cells",
-                "gpat_a3": "Rete testis",
-                "gpat_a4": "Efferent ductules",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-        {
-                "gpat_q": "Spurious drug is",
-                "gpat_a1": "If it is imported under the name which belongs to another drug",
-                "gpat_a2": "If it is imitation or substitute of another drug",
-                "gpat_a3": "Its claiming but to but it is not product of company",
-                "gpat_a4": "All of the above",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "One of the following is used topically",
-                "gpat_a1": "Sulfamethoxazole",
-                "gpat_a2": "Sulphadimidine",
-                "gpat_a3": "Trimethoprim",
-                "gpat_a4": "Sulfadiazine",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-        {
-                "gpat_q": "Anti hypertensive drug inhibits the renin angiotensin system is",
-                "gpat_a1": "Reserpine",
+		{
+				"gpat_q": "Loss of taste sensation is side effect of following antihypertensive drug",
+                "gpat_a1": "Clonidine",
                 "gpat_a2": "Captopril",
-                "gpat_a3": "Methyl dopa",
-                "gpat_a4": "Propranalol",
+                "gpat_a3": "Captopril",
+                "gpat_a4": "Prazocin",
                 "gpat_correct_a": "2",
-                "reason":"Reserpine's mechanism of action is through inhibition of the ATP/Mg2+ pump responsible for the sequestering of neurotransmitters into storage vesicles located in the presynaptic neuron. \n\nCaptopril is a potent, competitive inhibitor of angiotensin-converting enzyme (ACE), the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). \n\nα-Methylnorepinephrine is an agonist of presynaptic central nervous system α2 adrenergic receptors. Activation of these receptors in the brainstem appears to inhibit sympathetic nervous system output and lower blood pressure.\n\nPropranolol is a non-selective beta blocker; that is, it blocks the action of epinephrine (adrenaline) and norepinephrine (noradrenaline) at both β1- and β2-adrenergic receptors "
+                "reason":"Taste and smell disturbances are infrequently reported adverse effects of treatment with captopril and are even less frequently reported with other ACE inhibitors. These adverse effects have been attributed to the chemical structure of the drugs used, although this relationship is the matter of some debate."
         },
-        {
-                "gpat_q": "Progesterone injection BP is a sterile solution in ",
-                "gpat_a1": "Water",
-                "gpat_a2": "Ethyl oleate",
-                "gpat_a3": "Propylene glycol",
-                "gpat_a4": "Glycerol",
+		{
+				"gpat_q": "Which of the following is used for treatment of hemorrhagic shock",
+                "gpat_a1": "Amyl nitrite",
+                "gpat_a2": "Nimodipine",
+                "gpat_a3": "Nifedipine",
+                "gpat_a4": "Hydralazine",
                 "gpat_correct_a": "2",
+                "reason":""
+        },
+		{
+				"gpat_q": "A 16 yr old girl is found to have paroxysmal attacks of rapid heart rate. The antiarrythmic of choice is most cases of acute AV nodal tachycardia is",
+                "gpat_a1": "Adenosine",
+                "gpat_a2": "Quinidine",
+                "gpat_a3": "Lignocaine",
+                "gpat_a4": "Flecainide",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+		{
+				"gpat_q": "A child has swallowed two bottles of nasal decongestant which contain potent alpha adrenoreceptor agonist. The sign occurs due to alpha activation are",
+                "gpat_a1": "Bronchodilation",
+                "gpat_a2": "Tachycardia",
+                "gpat_a3": "Mydriasis",
+                "gpat_a4": "Vasodilation",
+                "gpat_correct_a": "3",
+                "reason":"Phenylephrine is a medication primarily used as a decongestant, to dilate the pupil, to increase blood pressure, and to relieve hemorrhoids. Phenylephrine is a selective α1-adrenergic receptor activator which results in the constriction of both arteries and veins."
+        },
+		{
+				"gpat_q": "In Isocratic elution technique",
+                "gpat_a1": "The same solvent is used",
+                "gpat_a2": "The same solvent composition is used",
+                "gpat_a3": "One solvent is used",
+                "gpat_a4": "Mixture of solvent is used",
+                "gpat_correct_a": "2",
+                "reason":"The composition of the mobile phase may be kept constant ("isocratic elution mode") or varied ("gradient elution mode") during the chromatographic analysis. Isocratic elution is typically effective in the separation of sample components that are very different in their affinity for the stationary phase."
+        },
+		{
+				"gpat_q": "Gelatin I.P. should comply with",
+                "gpat_a1": "Limit test for chloride",
+                "gpat_a2": "Limit test for sulfate",
+                "gpat_a3": "Microbial limits",
+                "gpat_a4": "Sterility test",
+                "gpat_correct_a": "3",
                 "reason":""
         }
+        
 ] 
 }
