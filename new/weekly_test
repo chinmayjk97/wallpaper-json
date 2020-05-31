@@ -47,13 +47,13 @@
                 "reason":"lobella contains pyridine type of alkaloids and all other options as tropane alkaloids as active constituent"
         },
 		{
-				"gpat_q": "In the context of illicit traffic in relation to NDPS, the central Govt. has specified the “small quantity” of Ganja, means ",
+				"gpat_q": "In the context of illicit traffic in relation to NDPS, the central Govt. has specified the small quantity of Ganja, means ",
                 "gpat_a1": "250 mg",
                 "gpat_a2": "5 gm",
                 "gpat_a3": "125 mg",
                 "gpat_a4": "500 gm",
                 "gpat_correct_a": "4",
-                "reason":"In the context of illicit traffic in relation to NDPS, the central Govt. has specified the “small quantity” of Ganja, means 500gm"
+                "reason":"In the context of illicit traffic in relation to NDPS, the central Govt. has specified the small quantity of Ganja, means 500gm"
         },
 		{
 				"gpat_q": "MBO is most closely associated with which theory of work motivation",
@@ -83,7 +83,7 @@
                 "reason":"https://en.wikipedia.org/wiki/Negri_bodies"
         },
 		{
-				"gpat_q": "On a product, the label states “protect from light”. What type of decomposition does the product undergoes?",
+				"gpat_q": "On a product, the label states protect from light. What type of decomposition does the product undergoes?",
                 "gpat_a1": "Carboxylation",
                 "gpat_a2": "Decarboxylation",
                 "gpat_a3": "Hydrolysis",
