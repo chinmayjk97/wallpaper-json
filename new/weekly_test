@@ -70,7 +70,7 @@
                 "gpat_a2": "Denature, anneal & extension",
                 "gpat_a3": "Strand displacement, synthesis & release",
                 "gpat_a4": "Reverse-Transcription, anneal & extend",
-                "gpat_correct_a": "4",
+                "gpat_correct_a": "2",
                 "reason":""
         },
 		{
