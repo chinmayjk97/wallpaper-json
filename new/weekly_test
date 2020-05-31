@@ -170,7 +170,7 @@
                 "gpat_a3": "One solvent is used",
                 "gpat_a4": "Mixture of solvent is used",
                 "gpat_correct_a": "2",
-                "reason":"The composition of the mobile phase may be kept constant ("isocratic elution mode") or varied ("gradient elution mode") during the chromatographic analysis. Isocratic elution is typically effective in the separation of sample components that are very different in their affinity for the stationary phase."
+                "reason":"The composition of the mobile phase may be kept constant (isocratic elution mode) or varied (gradient elution mode) during the chromatographic analysis. Isocratic elution is typically effective in the separation of sample components that are very different in their affinity for the stationary phase."
         },
 		{
 				"gpat_q": "Gelatin I.P. should comply with",
