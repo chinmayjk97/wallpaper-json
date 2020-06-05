@@ -2628,6 +2628,15 @@ accelerated temperature?",
                 "gpat_a4": "Indomethacin",
                 "gpat_correct_a": "4",
                 "reason": "Indomethacin is not a prodrug rest all options are converted to active group after metabolism. "
+        }, 
+        {
+                "gpat_q": "Which of the following reagent is used for diazotization?",
+                "gpat_a1": "NaNO2+ dilute HCI",
+                "gpat_a2": "KNO3 + H2SO4",
+                "gpat_a3": "NaNO2+ K2SO4",
+                "gpat_a4": "NaNO3+ Dilute HCI",
+                "gpat_correct_a": "1",
+                "reason": " "
         }
    ] 
 }
