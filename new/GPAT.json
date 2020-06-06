@@ -2637,6 +2637,15 @@ accelerated temperature?",
                 "gpat_a4": "NaNO3+ Dilute HCI",
                 "gpat_correct_a": "1",
                 "reason": " "
+        }, 
+        {
+                "gpat_q": "Karl-Fisher reagent is",
+                "gpat_a1": "Iodine in pyridine",
+                "gpat_a2": "Iodine in pyridine and ethyl alcohol",
+                "gpat_a3": "Iodine in pyridine and methyl alcohol",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "3",
+                "reason": " "
         }
    ] 
 }
