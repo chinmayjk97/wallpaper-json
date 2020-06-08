@@ -2646,6 +2646,15 @@ accelerated temperature?",
                 "gpat_a4": "None of the above",
                 "gpat_correct_a": "3",
                 "reason": " "
+        }, 
+        {
+                "gpat_q": "1-oxopenam structure and has no 6-acylamino side chain of penicillin is",
+                "gpat_a1": "Clavulanic acid",
+                "gpat_a2": "Sulbactum",
+                "gpat_a3": "Carbapenam",
+                "gpat_a4": "Impenam",
+                "gpat_correct_a": "1",
+                "reason": " "
         }
    ] 
 }
