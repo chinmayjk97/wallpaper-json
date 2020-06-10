@@ -2655,6 +2655,15 @@ accelerated temperature?",
                 "gpat_a4": "Impenam",
                 "gpat_correct_a": "1",
                 "reason": " "
+        }, 
+        {
+                "gpat_q": "Choose the FALSE statement for E2 mechanism in elimination reactions?",
+                "gpat_a1": "These reactions are accompanied by rearrangements",
+                "gpat_a2": "These reactions show a large hydrogen isotope effect.",
+                "gpat_a3": "These reactions show a large element effect",
+                "gpat_a4": "These reactions are not accompanied by hydrogen exchange",
+                "gpat_correct_a": "1",
+                "reason": " "
         }
    ] 
 }
