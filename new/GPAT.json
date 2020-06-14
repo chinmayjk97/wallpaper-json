@@ -6,7 +6,8 @@
                 "gpat_a2": "P, Q and R are used to increase water solubility while S is used to decrease it",
                 "gpat_a3": "Q, S and R are used to increase water solubility while P is used to decrease it",
                 "gpat_a4": "Q and S are used to increase water solubility while P and Q are used to decrease it",
-                "gpat_correct_a": "2"
+                "gpat_correct_a": "2",
+                "reason" : "This is a test"
         },
         {
                 "gpat_q": "Iodine-131 as sodium iodide solution is used as a radiopharmaceutical for diagnostic and \r\ntherapeutic purposes. Its usage is dependent on the release of the following emissions:\r\n[P] Alpha particles [Q] Positrons [R] Beta emission [S] Gamma radiation\r\nChoose the correct combination of statements?",
@@ -2596,7 +2597,9 @@ accelerated temperature?",
                 "gpat_correct_a": "4"
         }, 
         {
-                "gpat_q": "A fatty acid which is not synthesized inthe body and has to be supplied in thediet is:",
+                "gpat_q": "A fatty acid which is not synthesized in
+the body and has to be supplied in the
+diet is:",
                 "gpat_a1": "Palmitic acid",
                 "gpat_a2": "Lauric acid",
                 "gpat_a3": "Linolenic acid",
@@ -2631,10 +2634,14 @@ accelerated temperature?",
         }, 
         {
                 "gpat_q": "Which of the following reagent is used for diazotization?",
-                "gpat_a1": "NaNO2+ dilute HCI",
-                "gpat_a2": "KNO3 + H2SO4",
-                "gpat_a3": "NaNO2+ K2SO4",
-                "gpat_a4": "NaNO3+ Dilute HCI",
+                "gpat_a1": "NaNO2
++ dilute HCI",
+                "gpat_a2": "KNO3
+ + H2SO4",
+                "gpat_a3": "NaNO2
++ K2SO4",
+                "gpat_a4": "NaNO3
++ Dilute HCI",
                 "gpat_correct_a": "1",
                 "reason": " "
         }, 
