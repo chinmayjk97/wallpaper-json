@@ -1,7 +1,7 @@
 {
         "GPAT": [
         {
-                "gpat_q": "Followings are some drug derivatives used to increase/decrease the water solubility of the \r\nparent drugs:\r\n[P] : Rolitetracycline\r\n[Q] : Erythromycin lactobionate \r\n[R] : Chloramphenicol succinate \r\n[S] : Erythromycin stearate\r\nChoose the correct combination of statements.",
+                "gpat_q": "Followings are some drug derivatives used to increase/decrease the water solubility of the parent drugs:\r\n[P] : Rolitetracycline\r\n[Q] : Erythromycin lactobionate \r\n[R] : Chloramphenicol succinate \r\n[S] : Erythromycin stearate\r\nChoose the correct combination of statements.",
                 "gpat_a1": "Q and R are used to increase water solubility while P and S are used to decrease it",
                 "gpat_a2": "P, Q and R are used to increase water solubility while S is used to decrease it",
                 "gpat_a3": "Q, S and R are used to increase water solubility while P is used to decrease it",
