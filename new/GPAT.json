@@ -2670,6 +2670,15 @@ diet is:",
                 "gpat_a4": "These reactions are not accompanied by hydrogen exchange",
                 "gpat_correct_a": "1",
                 "reason": " "
+        }, 
+        {
+                "gpat_q": "Alkaloids in chinchona bark are detected by",
+                "gpat_a1": "Iodine test",
+                "gpat_a2": "Thalleoquine test",
+                "gpat_a3": "Liebermann-burchard test",
+                "gpat_a4": "Nessler’s test",
+                "gpat_correct_a": "2",
+                "reason": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQeoWF6KPchErVWa_sRQxd7bKLROkbYzfiftQMtQq9hKXywaLSTYP2pekSCg&s=10"
         }
    ] 
 }
