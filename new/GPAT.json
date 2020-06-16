@@ -2679,6 +2679,15 @@ diet is:",
                 "gpat_a4": "Nessler’s test",
                 "gpat_correct_a": "2",
                 "reason": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQeoWF6KPchErVWa_sRQxd7bKLROkbYzfiftQMtQq9hKXywaLSTYP2pekSCg&s=10"
+        }, 
+        {
+                "gpat_q": "Lactic acidosis is common adverse effect of the category of hypoglycemic drug",
+                "gpat_a1": "Sulfonylurea",
+                "gpat_a2": "Meglitinide",
+                "gpat_a3": "Biguanides",
+                "gpat_a4": "Thiazolidinediones",
+                "gpat_correct_a": "3",
+                "reason": "The biguanides are a class of oral hypoglycemic agents that are commonly used in the treatment of diabetes mellitus. Such agents include metformin, phenformin, and buformin. The use of phenformin was discontinued in the United States in 1976 because of probable association with lactic acidosis."
         }
    ] 
 }
