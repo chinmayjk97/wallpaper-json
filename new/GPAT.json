@@ -2688,6 +2688,19 @@ diet is:",
                 "gpat_a4": "Thiazolidinediones",
                 "gpat_correct_a": "3",
                 "reason": "The biguanides are a class of oral hypoglycemic agents that are commonly used in the treatment of diabetes mellitus. Such agents include metformin, phenformin, and buformin. The use of phenformin was discontinued in the United States in 1976 because of probable association with lactic acidosis."
+        }, 
+        {
+                "gpat_q": "Which of the following is a correct statement?",
+                "gpat_a1": "Low pKa, weaker the acid",
+                "gpat_a2": "Low pKa, stronger the base",
+                "gpat_a3": "High pKa, weaker the acid",
+                "gpat_a4": "High pKa, stronger the acid",
+                "gpat_correct_a": "3",
+                "reason": "The higher the Ka the stronger the acid. As a result, the reaction would favor a more complete dissociation of the weak acid, thus giving it a stronger ability to donate a proton (strong acid).
+
+pKa is the opposite though, the larger the pKa, the weaker the acid is. This can be shown by just calculating pKa = -log(Ka).
+
+The same relationship goes for kb and pKb. The larger the kb, the stronger the base, and the larger the pKb, the weaker the base."
         }
    ] 
 }
