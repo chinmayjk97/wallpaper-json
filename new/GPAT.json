@@ -2701,6 +2701,15 @@ diet is:",
 pKa is the opposite though, the larger the pKa, the weaker the acid is. This can be shown by just calculating pKa = -log(Ka).
 
 The same relationship goes for kb and pKb. The larger the kb, the stronger the base, and the larger the pKb, the weaker the base."
+        }, 
+        {
+                "gpat_q": "Vehicles in ophthalmic drops include all except",
+                "gpat_a1": "Ethanol ",
+                "gpat_a2": "Isotonic phosphate",
+                "gpat_a3": "Benzalkonium chloride",
+                "gpat_a4": "Boric acid",
+                "gpat_correct_a": "1",
+                "reason": " "
         }
    ] 
 }
