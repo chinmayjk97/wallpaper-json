@@ -1,185 +1,186 @@
 {
-        "Date" : "07/06/2020", 
+        "Date" : "21/06/2020", 
         "Weekly_Questions": [
         {
-				"gpat_q": "Swelling index of isabgol seeds",
-                "gpat_a1": "10-14",
-                "gpat_a2": "10-20",
-                "gpat_a3": "5-10",
-                "gpat_a4": "None of the above",
+				"gpat_q": "Chemical name for Dry Ice is",
+                "gpat_a1": "Carbon dioxide",
+                "gpat_a2": "Sodium Chloride",
+                "gpat_a3": "Zinc Sulphate",
+                "gpat_a4": "Sodium Nitrate",
+                "gpat_correct_a": "1",
+                "reason":"https://en.wikipedia.org/wiki/Dry_ice"
+        },
+		{
+				"gpat_q": "Who discovered the cell?",
+                "gpat_a1": "Robert Hook",
+                "gpat_a2": "A.G. Lowey",
+                "gpat_a3": "P. Sickewitz",
+                "gpat_a4": "Huxley",
+                "gpat_correct_a": 1"",
+                "reason":"The cell was first discovered and named by Robert Hooke in 1665. He remarked that it looked strangely similar to cellula or small rooms which monks inhabited, thus deriving the name. However what Hooke actually saw was the dead cell walls of plant cells (cork) as it appeared under the microscope."
+        },
+		{
+				"gpat_q": "Techniques involving polymerase chain reaction (PCR) can be used to identify all of the following EXCEPT",
+                "gpat_a1": "Virus types",
+                "gpat_a2": "Actual DNA sequence",
+                "gpat_a3": "Mutations",
+                "gpat_a4": "Bacterial strains",
+                "gpat_correct_a": "2",
+                "reason":"PCR is more of qualitative technique and used for making copies rather than estmating actual DNA sequence."
+        },
+		{
+				"gpat_q": "The antibacterial action of a sulphonamide, resulting from its blocking bacterial uptake of p-amino-benzoic acid (PABA) is due to the presence of",
+                "gpat_a1": "A nitrogen containing heterocyclic ring",
+                "gpat_a2": "An ionisable acidic proton",
+                "gpat_a3": "A primary aromatic amino group",
+                "gpat_a4": "A sulfonyl urea substituent",
+                "gpat_correct_a": "3",
+                "reason":"https://www.youtube.com/watch?v=Sy0NrksrRQI"
+        },
+		{
+				"gpat_q": "When dimercaprol (B.A.L.) is used to treat heavy metal poisoning, its effectiveness is due to the chelate formed being all the following EXCEPT:",
+                "gpat_a1": "Water soluble",
+                "gpat_a2": "Having a large stability constant",
+                "gpat_a3": "Readily excreted",
+                "gpat_a4": "Readily metabolised",
+                "gpat_correct_a": "4",
+                "reason":"Readily metabolising the antidote will reduce its effective action. Hence, it's the wrong option."
+        },
+		{
+				"gpat_q": "Which substance yields the largest number of joules per gram?",
+                "gpat_a1": "Carbohydrates",
+                "gpat_a2": "Proteins",
+                "gpat_a3": "Fats",
+                "gpat_a4": "All have same energy",
+                "gpat_correct_a": "3",
+                "reason":"Fats and ethanol have the greatest amount of food energy per gram, 37 and 29 kilojoules per gram (8.8 and 6.9 kcal/g), respectively. Proteins and most carbohydrates both have about 17 kJ/g (4 kcal/g)."
+        },
+		{
+				"gpat_q": "The term which describes the time required for the radioactivity of any given amount of a drug to be reduced by 50 percent is:",
+                "gpat_a1": "LD 50",
+                "gpat_a2": "Half-life",
+                "gpat_a3": "Retention time",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "2",
+                "reason":"The half-life — t1/2, is the time taken for the activity of a given amount of a radioactive substance to decay to half of its initial value"
+        },
+		{
+				"gpat_q": "One property that phenytoin, phenobarbitone and rifampicin all have in common is that they",
+                "gpat_a1": "Exhibit nonlinear pharmacokinetics",
+                "gpat_a2": "Are used for the treatment of epilepsy",
+                "gpat_a3": "Are poorly absorbed",
+                "gpat_a4": "Can induce hepatic drug metabolism",
+                "gpat_correct_a": "4",
+                "reason":"Some examples of drugs which exhibit non-linear kinetic behaviour are phenytoin, ethanol, salicylate and, in some individuals, theophylline.\nMany drugs are selective inducers of drug metabolism in humans and examples include phenobarbital, rifampicin, clotrimazole, omeprazole, phenytoin and ethanol"
+        },
+		{
+				"gpat_q": "The gamma radiation from radioactive vitamin B12 comes from the:",
+                "gpat_a1": "Iodine atoms",
+                "gpat_a2": "Hydrogen atom",
+                "gpat_a3": "Cobalt atoms",
+                "gpat_a4": "Phosphorus atoms",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+		{
+				"gpat_q": "The various penicillins that are available differ chemically",
+                "gpat_a1": "In the nature of the acyl side chain",
+                "gpat_a2": "In substituents on the fused ring nucleus",
+                "gpat_a3": "In spatial arrangements of atoms around an asymmetric carbon",
+                "gpat_a4": "Only by being different salts",
                 "gpat_correct_a": "1",
                 "reason":""
         },
 		{
-				"gpat_q": "Water soluble portion of the gum tragacanth is known as",
-                "gpat_a1": "Bassorine",
-                "gpat_a2": "Tragacathin",
-                "gpat_a3": "Both",
-                "gpat_a4": "None",
-                "gpat_correct_a": "2",
-                "reason":""
-        },
-		{
-				"gpat_q": "Stas-otto method is used for isolation of",
-                "gpat_a1": "Glycoside",
-                "gpat_a2": "Tannins",
-                "gpat_a3": "Alkaloids",
-                "gpat_a4": "Both A & C",
+				"gpat_q": "Which one of the following acids is polyunsaturated?",
+                "gpat_a1": "Oleic",
+                "gpat_a2": "Glutamic",
+                "gpat_a3": "Palmitic",
+                "gpat_a4": "Linolenic",
                 "gpat_correct_a": "4",
-                "reason":"Stas-otto method. A method of extraction of alkaloids from plants and animal bodies: the substance is digested in alcohol and tartaric acid, the fatty and resinous matters are precipitated with water, the fluid is made alkaline, and the alkaloids are extracted with ether or chloroform. \n\n The method by which glycoside are isolated is called stas-otto method. The drug containing glycoside is finely powdered and subjected to successive extraction in a soxhlet apparatus with alcohol or suitable solvent."
+                "reason":"https://www.researchgate.net/profile/Andreea_Ioan-Facsinay/publication/267741594/figure/tbl1/AS:669202054668288@1536561611154/Examples-of-saturated-monounsaturated-and-polyunsaturated-fatty-acids-that-are-most.png"
         },
 		{
-				"gpat_q": "Main constituent of honey is",
-                "gpat_a1": "Glucose",
-                "gpat_a2": "Fructose",
-                "gpat_a3": "Sucrose",
-                "gpat_a4": "Maltose",
-                "gpat_correct_a": "2",
-                "reason":"One 1980 study found that mixed floral honey from several United States regions typically contains the following: \nFructose: 38.2% \nGlucose: 31.3%\nMaltose: 7.1%\nSucrose: 1.3% \nWater: 17.2% \nHigher sugars: 1.5% \nAsh: 0.2% \nOther/undetermined: 3.2%"
-        },
-		{
-				"gpat_q": "Antidote for iodine poisoning",
-                "gpat_a1": "Sodium edetate",
-                "gpat_a2": "Penicillamine",
-                "gpat_a3": "Starch",
-                "gpat_a4": "Liquid glucose",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-		{
-				"gpat_q": "One of the following is used in open angle glaucoma",
-                "gpat_a1": "Acetylcholine",
-                "gpat_a2": "Carbacol",
-                "gpat_a3": "Pilocarpine",
-                "gpat_a4": "None",
-                "gpat_correct_a": "3",
-                "reason":""
-        },
-		{
-				"gpat_q": "Tendon disrupture or tendonitis is side effect of",
-                "gpat_a1": "Aminoglycoside",
-                "gpat_a2": "Macrolide",
-                "gpat_a3": "Cephalosporins",
-                "gpat_a4": "Floroquinones",
-                "gpat_correct_a": "4",
-                "reason":"One well-described and serious adverse event associated with fluoroquinolones is tendinitis and tendon rupture. These injuries can result in long-term sequelae, including chronic pain and mobility restrictions, and may warrant surgical intervention."
-        },
-		{
-				"gpat_q": "Penicillinase resistant penicillin antibiotic is",
-                "gpat_a1": "Cloxacillin",
-                "gpat_a2": "Methicillin",
-                "gpat_a3": "Amoxicillin",
-                "gpat_a4": "None of the above",
-                "gpat_correct_a": "2",
-                "reason":"Methicillin, oxacillin, and nafcillin are few examples of Penicillinase resistant penicillins. These are the antibiotics, which are not inactivated by the penicillinase enzyme. Some bacteria produce the enzyme penicillinase that destroys the beta-lactam ring of the antibiotic, making the penicillin ineffective. Penicillinase resistant penicillins are used to treat resistant strains of staphylococci and other infections."
-        },
-		{
-				"gpat_q": "The chemical shift (ppm) value for tetramethyl silane (TMS) is",
-                "gpat_a1": "0",
-                "gpat_a2": "1",
-                "gpat_a3": "10",
-                "gpat_a4": "100",
+				"gpat_q": "Conformation of organic molecules is MOST commonly determined by which ONE of the following analytical methods?",
+                "gpat_a1": "Nuclear magnetic resonance (NMR)",
+                "gpat_a2": "Optical rotation",
+                "gpat_a3": "pK determinations",
+                "gpat_a4": "Mass spectrometry",
                 "gpat_correct_a": "1",
-                "reason":""
+                "reason":"Conformational analysis is usually performed using NMR spectroscopy through measurement of coupling constants at room or low temperature in different solvents to determine the populations of conformers in solution. Quantum mechanical calculations are used to address the interactions responsible for conformer stability."
         },
 		{
-				"gpat_q": "A species having a tendency to accept a proton is",
-                "gpat_a1": "Acid",
-                "gpat_a2": "Base",
-                "gpat_a3": "Neutral species",
-                "gpat_a4": "None",
+				"gpat_q": "Lignocaine HCl can be infused intravenously and remain stable for long enough to have a therapeutic effect because it",
+                "gpat_a1": "Is an ester",
+                "gpat_a2": "Is an acidic drug",
+                "gpat_a3": "Is an amide",
+                "gpat_a4": "Forms an emulsion in the blood",
+                "gpat_correct_a": "3",
+                "reason":"https://www.amboss.com/us/knowledge/Local_anesthetic_agents"
+        },
+		{
+				"gpat_q": "A potential therapeutic use for 1,3-dimethylxanthine is as a(an)",
+                "gpat_a1": "Anxiolytic",
+                "gpat_a2": "Bronchodilator",
+                "gpat_a3": "Hypoglycaemic",
+                "gpat_a4": "Hypouricaemic",
                 "gpat_correct_a": "2",
-                "reason":"A Bronsted-Lowry base is a substance that accepts a proton in the form of a hydrogen (H) atom. This is why when we look at the Bronsted-Lowry acid-base reaction, the Bronsted-Lowry base is identified as the substance that gains a hydrogen atom."
+                "reason":"1,3-dimethylxanthine is Theophylline and it has a role as a vasodilator agent, a bronchodilator agent, a muscle relaxant."
         },
 		{
-				"gpat_q": "Which of the following method is useful in determining the authenticity of powdered crude drug?",
-                "gpat_a1": "Stomatal index",
-                "gpat_a2": "Vein termination number",
-                "gpat_a3": "Vein-inslet number",
-                "gpat_a4": "Lycopodium spore method",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-		{
-				"gpat_q": "Insuline Injection I.P. is assayed by",
-                "gpat_a1": "Photometric method",
-                "gpat_a2": "Tube method",
-                "gpat_a3": "Biological assay using mice rabit",
-                "gpat_a4": "Biological assay using rat/ guinea pig",
+				"gpat_q": "Glimepiride exerts its hypoglycaemic action by",
+                "gpat_a1": "Causing a direct uptake of glucose by muscle cells",
+                "gpat_a2": "Increasing the metabolism of glucose",
+                "gpat_a3": "Stimulating insulin release from the pancreas",
+                "gpat_a4": "Causing catalytic breakdown of glucose",
                 "gpat_correct_a": "3",
-                "reason":"The bioassay first used for insulin was the rabbit blood glucose method which involved measurement of the drop in blood glucose concentration in rabbits at half hourly intervals after injection of a dose"
+                "reason":"Like all sulfonylureas, glimepiride acts as an insulin secretagogue. It lowers blood sugar by stimulating the release of insulin by pancreatic beta cells and by inducing increased activity of intracellular insulin receptors."
         },
 		{
-				"gpat_q": "As per I.P the test organism recommended for microbiological assay of Gentamycin",
-                "gpat_a1": "Staphylococcus epidermides",
-                "gpat_a2": "Micrococcus luteus",
-                "gpat_a3": "Staphylococcus aureus",
-                "gpat_a4": "Escherichia coli",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-		{
-				"gpat_q": "Two drug products are considered bioequivalent if ",
-                "gpat_a1": "the rate and extent of systemic absorption is almost similar",
-                "gpat_a2": "they have been formulated in a similar manner",
-                "gpat_a3": "they are metabolized by the same route",
-                "gpat_a4": "they contain same amount of drug",
-                "gpat_correct_a": "1",
-                "reason":""
-        },
-		{
-				"gpat_q": "Water soluble ointment base consists of",
-                "gpat_a1": "parrafins",
-                "gpat_a2": "Waxes",
-                "gpat_a3": "Mixture of polyethyleneglycols (PEG)",
-                "gpat_a4": "Lanolin",
+				"gpat_q": "The therapeutic action of allopurinol in gout is due to its effect of:",
+                "gpat_a1": "Increasing uric acid excretion",
+                "gpat_a2": "Stimulating purine breakdown",
+                "gpat_a3": "Non-competitively inhibiting xanthine oxidase",
+                "gpat_a4": "Decreasing hypoxanthine levels",
                 "gpat_correct_a": "3",
-                "reason":""
+                "reason":"Allopurinol and oxypurinol both inhibit xanthine oxidase, an enzyme in the purine catabolism pathway that converts hypoxanthine to xanthine to uric acid."
         },
 		{
-				"gpat_q": "What is rectified spirit?",
-                "gpat_a1": "75% ethanol",
-                "gpat_a2": "100% ethanol",
-                "gpat_a3": "90-95% ethanol",
-                "gpat_a4": "50% etahnol",
-                "gpat_correct_a": "3",
-                "reason":"https://en.wikipedia.org/wiki/Rectified_spirit#:~:text=The%20purity%20of%20rectified%20spirit,boiling%20azeotrope%20at%20this%20concentration."
+				"gpat_q": "Atropine",
+                "gpat_a1": "Is more potent than (-)-hyoscyamine",
+                "gpat_a2": "Is an antidote for anticholinesterase drugs",
+                "gpat_a3": "Is a quaternary amine",
+                "gpat_a4": "All of these",
+                "gpat_correct_a": "2",
+                "reason":"Hyoscine is again more potent than atropine.\nAtropine is a tertiary amine.\n\nBy competitively blocking the action of acetylcholine at muscarinic receptors, atropine may act as a specific antidote. "
         },
 		{
-				"gpat_q": "In a prescription what is 'bi terne in die' ?",
-                "gpat_a1": "best taken in day time",
-                "gpat_a2": "taken at bed time",
-                "gpat_a3": "take tablet with breakfast",
-                "gpat_a4": "two or three times a day",
+				"gpat_q": "Which ONE of the following is associated with gingival hyperplasia after long-term treatment?",
+                "gpat_a1": "Irbesartan",
+                "gpat_a2": "Theophylline",
+                "gpat_a3": "Propranolol",
+                "gpat_a4": "Nifedipine",
                 "gpat_correct_a": "4",
-                "reason":""
+                "reason":"Nifedipine is one of the commonest antihypertensive drugs (calcium channel blockers) used to treat hypertension and some forms of angina. Though it has various side effects, gingival enlargement is the most attended side effect which is of great importance in dentistry."
         },
 		{
-				"gpat_q": "What is the normal cardiac output?",
-                "gpat_a1": "1 L/min",
-                "gpat_a2": "2 L/min",
-                "gpat_a3": "4 L/min",
-                "gpat_a4": "5 L/min",
+				"gpat_q": "Which ONE of the following statements is CORRECT?",
+                "gpat_a1": "Arteries have thinner smooth muscle layers than veins",
+                "gpat_a2": "Veins generally carry oxygenated blood",
+                "gpat_a3": "Capillary walls have an elastic layer",
+                "gpat_a4": "The pressure inside a vein is less than in an artery",
                 "gpat_correct_a": "4",
-                "reason":"https://www.uofmhealth.org/health-library/tx4080abc#:~:text=What%20is%20a%20normal%20cardiac,when%20a%20person%20is%20resting."
+                "reason":"https://www.healthline.com/health/artery-vs-vein"
         },
 		{
-				"gpat_q": "Blood pressure is regulated by all except",
-                "gpat_a1": "Vasomotor centre",
-                "gpat_a2": "Aortic baro receptors",
-                "gpat_a3": "Juxtaglomeruhir cells",
-                "gpat_a4": "Loop ofhenle",
-                "gpat_correct_a": "4",
-                "reason":""
-        },
-		{
-				"gpat_q": "How many drops constitute 1 ml ?",
-                "gpat_a1": "5",
-                "gpat_a2": "10",
-                "gpat_a3": "15",
-                "gpat_a4": "20",
-                "gpat_correct_a": "4",
-                "reason":"No. Of drops will depend upon the size of the drops. \nBut the average volume comes out to be 0.05ml.\nBy conducting various experiments, pharmacists concluded that 1 ml gives an average of 20 drops per ml, which is 0.05 ml per drop."
-        }        
+				"gpat_q": "All of the following statements about warfarin are correct EXCEPT for:",
+                "gpat_a1": "It resembles vitamin K in structure",
+                "gpat_a2": "It prevents the coagulation of blood in vitro",
+                "gpat_a3": "It has a delay in onset and reversal of action",
+                "gpat_a4": "It prevents synthesis of coagulation factors",
+                "gpat_correct_a": "2",
+                "reason":"Anticoagulants prevent blood clotting (both in vivo and in vitro). Anticoagulants used in vivo are often termed blood thinners and act by interacting with cascade system while in vitro act by usually physical methods.\n\n Warfarin decreases the body's ability to form blood clots by blocking the formation of vitamin K–dependent clotting factors means it acts in-vivo."
+        }
+		
 ] 
 }
