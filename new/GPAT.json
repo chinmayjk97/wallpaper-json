@@ -2702,6 +2702,186 @@ pKa is the opposite though, the larger the pKa, the weaker the acid is. This can
 
 The same relationship goes for kb and pKb. The larger the kb, the stronger the base, and the larger the pKb, the weaker the base."
         }, 
+{
+				"gpat_q": "Swelling index of isabgol seeds",
+                "gpat_a1": "10-14",
+                "gpat_a2": "10-20",
+                "gpat_a3": "5-10",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+		{
+				"gpat_q": "Water soluble portion of the gum tragacanth is known as",
+                "gpat_a1": "Bassorine",
+                "gpat_a2": "Tragacathin",
+                "gpat_a3": "Both",
+                "gpat_a4": "None",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+		{
+				"gpat_q": "Stas-otto method is used for isolation of",
+                "gpat_a1": "Glycoside",
+                "gpat_a2": "Tannins",
+                "gpat_a3": "Alkaloids",
+                "gpat_a4": "Both A & C",
+                "gpat_correct_a": "4",
+                "reason":"Stas-otto method. A method of extraction of alkaloids from plants and animal bodies: the substance is digested in alcohol and tartaric acid, the fatty and resinous matters are precipitated with water, the fluid is made alkaline, and the alkaloids are extracted with ether or chloroform. \n\n The method by which glycoside are isolated is called stas-otto method. The drug containing glycoside is finely powdered and subjected to successive extraction in a soxhlet apparatus with alcohol or suitable solvent."
+        },
+		{
+				"gpat_q": "Main constituent of honey is",
+                "gpat_a1": "Glucose",
+                "gpat_a2": "Fructose",
+                "gpat_a3": "Sucrose",
+                "gpat_a4": "Maltose",
+                "gpat_correct_a": "2",
+                "reason":"One 1980 study found that mixed floral honey from several United States regions typically contains the following: \nFructose: 38.2% \nGlucose: 31.3%\nMaltose: 7.1%\nSucrose: 1.3% \nWater: 17.2% \nHigher sugars: 1.5% \nAsh: 0.2% \nOther/undetermined: 3.2%"
+        },
+		{
+				"gpat_q": "Antidote for iodine poisoning",
+                "gpat_a1": "Sodium edetate",
+                "gpat_a2": "Penicillamine",
+                "gpat_a3": "Starch",
+                "gpat_a4": "Liquid glucose",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+		{
+				"gpat_q": "One of the following is used in open angle glaucoma",
+                "gpat_a1": "Acetylcholine",
+                "gpat_a2": "Carbacol",
+                "gpat_a3": "Pilocarpine",
+                "gpat_a4": "None",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+		{
+				"gpat_q": "Tendon disrupture or tendonitis is side effect of",
+                "gpat_a1": "Aminoglycoside",
+                "gpat_a2": "Macrolide",
+                "gpat_a3": "Cephalosporins",
+                "gpat_a4": "Floroquinones",
+                "gpat_correct_a": "4",
+                "reason":"One well-described and serious adverse event associated with fluoroquinolones is tendinitis and tendon rupture. These injuries can result in long-term sequelae, including chronic pain and mobility restrictions, and may warrant surgical intervention."
+        },
+		{
+				"gpat_q": "Penicillinase resistant penicillin antibiotic is",
+                "gpat_a1": "Cloxacillin",
+                "gpat_a2": "Methicillin",
+                "gpat_a3": "Amoxicillin",
+                "gpat_a4": "None of the above",
+                "gpat_correct_a": "2",
+                "reason":"Methicillin, oxacillin, and nafcillin are few examples of Penicillinase resistant penicillins. These are the antibiotics, which are not inactivated by the penicillinase enzyme. Some bacteria produce the enzyme penicillinase that destroys the beta-lactam ring of the antibiotic, making the penicillin ineffective. Penicillinase resistant penicillins are used to treat resistant strains of staphylococci and other infections."
+        },
+		{
+				"gpat_q": "The chemical shift (ppm) value for tetramethyl silane (TMS) is",
+                "gpat_a1": "0",
+                "gpat_a2": "1",
+                "gpat_a3": "10",
+                "gpat_a4": "100",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+		{
+				"gpat_q": "A species having a tendency to accept a proton is",
+                "gpat_a1": "Acid",
+                "gpat_a2": "Base",
+                "gpat_a3": "Neutral species",
+                "gpat_a4": "None",
+                "gpat_correct_a": "2",
+                "reason":"A Bronsted-Lowry base is a substance that accepts a proton in the form of a hydrogen (H) atom. This is why when we look at the Bronsted-Lowry acid-base reaction, the Bronsted-Lowry base is identified as the substance that gains a hydrogen atom."
+        },
+		{
+				"gpat_q": "Which of the following method is useful in determining the authenticity of powdered crude drug?",
+                "gpat_a1": "Stomatal index",
+                "gpat_a2": "Vein termination number",
+                "gpat_a3": "Vein-inslet number",
+                "gpat_a4": "Lycopodium spore method",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "Insuline Injection I.P. is assayed by",
+                "gpat_a1": "Photometric method",
+                "gpat_a2": "Tube method",
+                "gpat_a3": "Biological assay using mice rabit",
+                "gpat_a4": "Biological assay using rat/ guinea pig",
+                "gpat_correct_a": "3",
+                "reason":"The bioassay first used for insulin was the rabbit blood glucose method which involved measurement of the drop in blood glucose concentration in rabbits at half hourly intervals after injection of a dose"
+        },
+		{
+				"gpat_q": "As per I.P the test organism recommended for microbiological assay of Gentamycin",
+                "gpat_a1": "Staphylococcus epidermides",
+                "gpat_a2": "Micrococcus luteus",
+                "gpat_a3": "Staphylococcus aureus",
+                "gpat_a4": "Escherichia coli",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+		{
+				"gpat_q": "Two drug products are considered bioequivalent if ",
+                "gpat_a1": "the rate and extent of systemic absorption is almost similar",
+                "gpat_a2": "they have been formulated in a similar manner",
+                "gpat_a3": "they are metabolized by the same route",
+                "gpat_a4": "they contain same amount of drug",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+		{
+				"gpat_q": "Water soluble ointment base consists of",
+                "gpat_a1": "parrafins",
+                "gpat_a2": "Waxes",
+                "gpat_a3": "Mixture of polyethyleneglycols (PEG)",
+                "gpat_a4": "Lanolin",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+		{
+				"gpat_q": "What is rectified spirit?",
+                "gpat_a1": "75% ethanol",
+                "gpat_a2": "100% ethanol",
+                "gpat_a3": "90-95% ethanol",
+                "gpat_a4": "50% etahnol",
+                "gpat_correct_a": "3",
+                "reason":"https://en.wikipedia.org/wiki/Rectified_spirit#:~:text=The%20purity%20of%20rectified%20spirit,boiling%20azeotrope%20at%20this%20concentration."
+        },
+		{
+				"gpat_q": "In a prescription what is 'bi terne in die' ?",
+                "gpat_a1": "best taken in day time",
+                "gpat_a2": "taken at bed time",
+                "gpat_a3": "take tablet with breakfast",
+                "gpat_a4": "two or three times a day",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "What is the normal cardiac output?",
+                "gpat_a1": "1 L/min",
+                "gpat_a2": "2 L/min",
+                "gpat_a3": "4 L/min",
+                "gpat_a4": "5 L/min",
+                "gpat_correct_a": "4",
+                "reason":"https://www.uofmhealth.org/health-library/tx4080abc#:~:text=What%20is%20a%20normal%20cardiac,when%20a%20person%20is%20resting."
+        },
+		{
+				"gpat_q": "Blood pressure is regulated by all except",
+                "gpat_a1": "Vasomotor centre",
+                "gpat_a2": "Aortic baro receptors",
+                "gpat_a3": "Juxtaglomeruhir cells",
+                "gpat_a4": "Loop ofhenle",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "How many drops constitute 1 ml ?",
+                "gpat_a1": "5",
+                "gpat_a2": "10",
+                "gpat_a3": "15",
+                "gpat_a4": "20",
+                "gpat_correct_a": "4",
+                "reason":"No. Of drops will depend upon the size of the drops. \nBut the average volume comes out to be 0.05ml.\nBy conducting various experiments, pharmacists concluded that 1 ml gives an average of 20 drops per ml, which is 0.05 ml per drop."
+        },    
         {
                 "gpat_q": "Vehicles in ophthalmic drops include all except",
                 "gpat_a1": "Ethanol ",
