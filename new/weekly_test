@@ -12,11 +12,11 @@
         },
 		{
 				"gpat_q": "Who discovered the cell?",
-                "gpat_a1": "Robert Hook",
+                "gpat_a1": "Robert Hooke",
                 "gpat_a2": "A.G. Lowey",
                 "gpat_a3": "P. Sickewitz",
                 "gpat_a4": "Huxley",
-                "gpat_correct_a": 1"",
+                "gpat_correct_a": "1",
                 "reason":"The cell was first discovered and named by Robert Hooke in 1665. He remarked that it looked strangely similar to cellula or small rooms which monks inhabited, thus deriving the name. However what Hooke actually saw was the dead cell walls of plant cells (cork) as it appeared under the microscope."
         },
 		{
@@ -179,7 +179,7 @@
                 "gpat_a3": "It has a delay in onset and reversal of action",
                 "gpat_a4": "It prevents synthesis of coagulation factors",
                 "gpat_correct_a": "2",
-                "reason":"Anticoagulants prevent blood clotting (both in vivo and in vitro). Anticoagulants used in vivo are often termed blood thinners and act by interacting with cascade system while in vitro act by usually physical methods.\n\n Warfarin decreases the body's ability to form blood clots by blocking the formation of vitamin K–dependent clotting factors means it acts in-vivo."
+                "reason":"Anticoagulants prevent blood clotting (both in vivo and in vitro). Anticoagulants used in vivo are often termed blood thinners and act by interacting with cascade system while in vitro act by usually physical methods.\n\nWarfarin decreases the body's ability to form blood clots by blocking the formation of vitamin K–dependent clotting factors means it acts in-vivo."
         }
 		
 ] 
