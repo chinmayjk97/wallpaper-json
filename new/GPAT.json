@@ -2890,6 +2890,15 @@ The same relationship goes for kb and pKb. The larger the kb, the stronger the b
                 "gpat_a4": "Boric acid",
                 "gpat_correct_a": "1",
                 "reason": " "
+        }, 
+        {
+                "gpat_q": "Partial hydrolysis of starch with dilute acid will produce ",
+                "gpat_a1": "Chitin",
+                "gpat_a2": "Dextrin",
+                "gpat_a3": "Sumerin",
+                "gpat_a4": "Glucose",
+                "gpat_correct_a": "2",
+                "reason": "Dextrins are a group of low-molecular-weight carbohydrates produced by the hydrolysis of starch. "
         }
    ] 
 }
