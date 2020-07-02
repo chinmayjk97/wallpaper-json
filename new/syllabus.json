@@ -1,49 +1,103 @@
 {
     "Syllabus": [
+		{
+                "syllabus_yr": "Complete PCI Syllabus",
+                "syllabus_url": "https://drive.google.com/file/d/1iCRJiVj4lij9Jjk2jv9PRq70MfKte1TI/",
+                "syllabus_updated": "Updated on 02/07/20",
+                "syllabus_size": "2 MB"
+        },
+		{
+                "syllabus_yr": "[PCI - New Syllabus] Sem 1",
+                "syllabus_url": "https://drive.google.com/file/d/1NoqtfwmLfqWTTYZKNOgyTz5EItYk9Ty4/",
+                "syllabus_updated": "Updated on 02/07/20",
+                "syllabus_size": "430 KB"
+        },
+		{
+                "syllabus_yr": "[PCI - New Syllabus] Sem 2",
+                "syllabus_url": "https://drive.google.com/file/d/1X9J3ric7ZvKYVy8ru25bMNhN7Exa26UC/",
+                "syllabus_updated": "Updated on 02/07/20",
+                "syllabus_size": "340 KB"
+        },
+		{
+                "syllabus_yr": "[PCI - New Syllabus] Sem 3",
+                "syllabus_url": "https://drive.google.com/file/d/14epGBtarmEdM038j9wimFWIxFqCk8qkN/",
+                "syllabus_updated": "Updated on 02/07/20",
+                "syllabus_size": "370 KB"
+        },
+		{
+                "syllabus_yr": "[PCI - New Syllabus] Sem 4",
+                "syllabus_url": "https://drive.google.com/file/d/1--Nb9f6spr4c1_hPrMEuVkVbo-aSsjSC/",
+                "syllabus_updated": "Updated on 02/07/20",
+                "syllabus_size": "413 KB"
+        },
+		{
+                "syllabus_yr": "[PCI - New Syllabus] Sem 5",
+                "syllabus_url": "https://drive.google.com/file/d/1fdqzklSOgO5-61HneFuTwzea-yFoW4IB/",
+                "syllabus_updated": "Updated on 02/07/20",
+                "syllabus_size": "481 KB"
+        },
+		{
+                "syllabus_yr": "[PCI - New Syllabus] Sem 6",
+                "syllabus_url": "https://drive.google.com/file/d/1bIcnLCakfkbecV3UJQPGJpKOCdEIw0lT/",
+                "syllabus_updated": "Updated on 02/07/20",
+                "syllabus_size": "631 KB"
+        },
+		{
+                "syllabus_yr": "[PCI - New Syllabus] Sem 7",
+                "syllabus_url": "https://drive.google.com/file/d/1ppAmd26HhUOXFEhuQOtuiEqNsXs-4TNg/",
+                "syllabus_updated": "Updated on 02/07/20",
+                "syllabus_size": "376 KB"
+        },
+		{
+                "syllabus_yr": "[PCI - New Syllabus] Sem 8",
+                "syllabus_url": "https://drive.google.com/file/d/1XZz5VmnDac3LMKowM6WvaRJbR-XUYfKO/",
+                "syllabus_updated": "Updated on 02/07/20",
+                "syllabus_size": "538 KB"
+        },
         {
-                "syllabus_yr": "[New Syllabus] First Year",
+                "syllabus_yr": "[Mumbai University][CBCS] First Year",
                 "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjelI3SWpCcW1ueFE",
                 "syllabus_updated": "Updated on 06/07/17",
                 "syllabus_size": "279 KB"
         },
          {
-                "syllabus_yr": "First Year",
+                "syllabus_yr": "[Mumbai University][CBGS] First Year",
                 "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjdlp2V1V3b3BLbkU",
                 "syllabus_updated": "Updated on 06/07/17",
                 "syllabus_size": "107 KB"
         },
         {
-                "syllabus_yr": "[New Syllabus] Second Year",
+                "syllabus_yr": "[Mumbai University][CBCS] Second Year",
                 "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjRHcyclA3V3B6WWc",
                 "syllabus_updated": "Updated on 06/07/17",
                 "syllabus_size": "1.65 MB"
         },
         {
-                "syllabus_yr": "Second Year",
+                "syllabus_yr": "[Mumbai University][CBGS] Second Year",
                 "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjOHBCNHhUc3dpZTQ",
                 "syllabus_updated": "Updated on 06/07/17",
                 "syllabus_size": "218 KB"
         },
         {
-                "syllabus_yr": "[New Syllabus] Third Year",
+                "syllabus_yr": "[Mumbai University][CBCS] Third Year",
                 "syllabus_url": "https://drive.google.com/file/d/127e-wmEAlw4jcZ5vaH2PbydRRY4-mcjc",
                 "syllabus_updated": "Updated on 30/06/18",
                 "syllabus_size": "584 KB"
         },
         {
-                "syllabus_yr": "Third Year",
+                "syllabus_yr": "[Mumbai University][CBGS] Third Year",
                 "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjNWF6eVJMNGstSWM",
                "syllabus_updated": "Updated on 20/02/17",
                 "syllabus_size": "249 KB"
         },
         {
-                "syllabus_yr": "[New Syllabus] Final Year",
+                "syllabus_yr": "[Mumbai University][CBCS] Final Year",
                 "syllabus_url": "https://drive.google.com/file/d/1fM4CVIwmC3VwqonTx2ZUmPFNu1BzRZoL",
                 "syllabus_updated": "Updated on 30/06/18",
                 "syllabus_size": "531 KB"
         },
         {
-                "syllabus_yr": "Final Year",
+                "syllabus_yr": "[Mumbai University][CBGS] Final Year",
                 "syllabus_url": "https://drive.google.com/file/d/0B6z9_azvPvHjaGVxcFUySktHQWM",
                 "syllabus_updated": "Updated on 04/03/17",
                 "syllabus_size": "375 KB"
