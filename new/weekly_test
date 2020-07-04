@@ -1,186 +1,185 @@
 {
-        "Date" : "21/06/2020", 
+        "Date" : "05/07/2020", 
         "Weekly_Questions": [
         {
-				"gpat_q": "Chemical name for Dry Ice is",
-                "gpat_a1": "Carbon dioxide",
-                "gpat_a2": "Sodium Chloride",
-                "gpat_a3": "Zinc Sulphate",
-                "gpat_a4": "Sodium Nitrate",
-                "gpat_correct_a": "1",
-                "reason":"https://en.wikipedia.org/wiki/Dry_ice"
-        },
-		{
-				"gpat_q": "Who discovered the cell?",
-                "gpat_a1": "Robert Hooke",
-                "gpat_a2": "A.G. Lowey",
-                "gpat_a3": "P. Sickewitz",
-                "gpat_a4": "Huxley",
-                "gpat_correct_a": "1",
-                "reason":"The cell was first discovered and named by Robert Hooke in 1665. He remarked that it looked strangely similar to cellula or small rooms which monks inhabited, thus deriving the name. However what Hooke actually saw was the dead cell walls of plant cells (cork) as it appeared under the microscope."
-        },
-		{
-				"gpat_q": "Techniques involving polymerase chain reaction (PCR) can be used to identify all of the following EXCEPT",
-                "gpat_a1": "Virus types",
-                "gpat_a2": "Actual DNA sequence",
-                "gpat_a3": "Mutations",
-                "gpat_a4": "Bacterial strains",
-                "gpat_correct_a": "2",
-                "reason":"PCR is more of qualitative technique and used for making copies rather than estmating actual DNA sequence."
-        },
-		{
-				"gpat_q": "The antibacterial action of a sulphonamide, resulting from its blocking bacterial uptake of p-amino-benzoic acid (PABA) is due to the presence of",
-                "gpat_a1": "A nitrogen containing heterocyclic ring",
-                "gpat_a2": "An ionisable acidic proton",
-                "gpat_a3": "A primary aromatic amino group",
-                "gpat_a4": "A sulfonyl urea substituent",
-                "gpat_correct_a": "3",
-                "reason":"https://www.youtube.com/watch?v=Sy0NrksrRQI"
-        },
-		{
-				"gpat_q": "When dimercaprol (B.A.L.) is used to treat heavy metal poisoning, its effectiveness is due to the chelate formed being all the following EXCEPT:",
-                "gpat_a1": "Water soluble",
-                "gpat_a2": "Having a large stability constant",
-                "gpat_a3": "Readily excreted",
-                "gpat_a4": "Readily metabolised",
+				"gpat_q": "Enteric tablet coating material is",
+                "gpat_a1": "Sodium carboxy methyl cellulose",
+                "gpat_a2": "Hydroxypropyl methyl cellulose",
+                "gpat_a3": "Povidone",
+                "gpat_a4": "Polyvinyl phthalate acetate",
                 "gpat_correct_a": "4",
-                "reason":"Readily metabolising the antidote will reduce its effective action. Hence, it's the wrong option."
+                "reason":"Materials used for enteric coatings include CAP, CAT, PVAP and HPMCP, fatty acids, waxes, shellac, plastics and plant fibers."
         },
 		{
-				"gpat_q": "Which substance yields the largest number of joules per gram?",
-                "gpat_a1": "Carbohydrates",
-                "gpat_a2": "Proteins",
-                "gpat_a3": "Fats",
-                "gpat_a4": "All have same energy",
-                "gpat_correct_a": "3",
-                "reason":"Fats and ethanol have the greatest amount of food energy per gram, 37 and 29 kilojoules per gram (8.8 and 6.9 kcal/g), respectively. Proteins and most carbohydrates both have about 17 kJ/g (4 kcal/g)."
-        },
-		{
-				"gpat_q": "The term which describes the time required for the radioactivity of any given amount of a drug to be reduced by 50 percent is:",
-                "gpat_a1": "LD 50",
-                "gpat_a2": "Half-life",
-                "gpat_a3": "Retention time",
+				"gpat_q": "Solubility of gelatin capsule is decreased by",
+                "gpat_a1": "Fumaric acid",
+                "gpat_a2": "Formaline",
+                "gpat_a3": "Titanium oxide",
                 "gpat_a4": "All of the above",
                 "gpat_correct_a": "2",
-                "reason":"The half-life — t1/2, is the time taken for the activity of a given amount of a radioactive substance to decay to half of its initial value"
-        },
-		{
-				"gpat_q": "One property that phenytoin, phenobarbitone and rifampicin all have in common is that they",
-                "gpat_a1": "Exhibit nonlinear pharmacokinetics",
-                "gpat_a2": "Are used for the treatment of epilepsy",
-                "gpat_a3": "Are poorly absorbed",
-                "gpat_a4": "Can induce hepatic drug metabolism",
-                "gpat_correct_a": "4",
-                "reason":"Some examples of drugs which exhibit non-linear kinetic behaviour are phenytoin, ethanol, salicylate and, in some individuals, theophylline.\nMany drugs are selective inducers of drug metabolism in humans and examples include phenobarbital, rifampicin, clotrimazole, omeprazole, phenytoin and ethanol"
-        },
-		{
-				"gpat_q": "The gamma radiation from radioactive vitamin B12 comes from the:",
-                "gpat_a1": "Iodine atoms",
-                "gpat_a2": "Hydrogen atom",
-                "gpat_a3": "Cobalt atoms",
-                "gpat_a4": "Phosphorus atoms",
-                "gpat_correct_a": "3",
                 "reason":""
         },
 		{
-				"gpat_q": "The various penicillins that are available differ chemically",
-                "gpat_a1": "In the nature of the acyl side chain",
-                "gpat_a2": "In substituents on the fused ring nucleus",
-                "gpat_a3": "In spatial arrangements of atoms around an asymmetric carbon",
-                "gpat_a4": "Only by being different salts",
+				"gpat_q": "In Roche friabilator, plastic chamber revolves at",
+                "gpat_a1": "25 rpm",
+                "gpat_a2": "50 rpm",
+                "gpat_a3": "15 rpm",
+                "gpat_a4": "30 rpm",
                 "gpat_correct_a": "1",
-                "reason":""
+                "reason":"Friability Test is used to check crushing strength of tablet by this test one can check Capping &/or Lamination. USP limit is 0.5 to 1%. Rotation: - 25 rpm or 100 rotations in 4 min. "
         },
 		{
-				"gpat_q": "Which one of the following acids is polyunsaturated?",
-                "gpat_a1": "Oleic",
-                "gpat_a2": "Glutamic",
-                "gpat_a3": "Palmitic",
-                "gpat_a4": "Linolenic",
-                "gpat_correct_a": "4",
-                "reason":"https://www.researchgate.net/profile/Andreea_Ioan-Facsinay/publication/267741594/figure/tbl1/AS:669202054668288@1536561611154/Examples-of-saturated-monounsaturated-and-polyunsaturated-fatty-acids-that-are-most.png"
-        },
-		{
-				"gpat_q": "Conformation of organic molecules is MOST commonly determined by which ONE of the following analytical methods?",
-                "gpat_a1": "Nuclear magnetic resonance (NMR)",
-                "gpat_a2": "Optical rotation",
-                "gpat_a3": "pK determinations",
-                "gpat_a4": "Mass spectrometry",
-                "gpat_correct_a": "1",
-                "reason":"Conformational analysis is usually performed using NMR spectroscopy through measurement of coupling constants at room or low temperature in different solvents to determine the populations of conformers in solution. Quantum mechanical calculations are used to address the interactions responsible for conformer stability."
-        },
-		{
-				"gpat_q": "Lignocaine HCl can be infused intravenously and remain stable for long enough to have a therapeutic effect because it",
-                "gpat_a1": "Is an ester",
-                "gpat_a2": "Is an acidic drug",
-                "gpat_a3": "Is an amide",
-                "gpat_a4": "Forms an emulsion in the blood",
-                "gpat_correct_a": "3",
-                "reason":"https://www.amboss.com/us/knowledge/Local_anesthetic_agents"
-        },
-		{
-				"gpat_q": "A potential therapeutic use for 1,3-dimethylxanthine is as a(an)",
-                "gpat_a1": "Anxiolytic",
-                "gpat_a2": "Bronchodilator",
-                "gpat_a3": "Hypoglycaemic",
-                "gpat_a4": "Hypouricaemic",
-                "gpat_correct_a": "2",
-                "reason":"1,3-dimethylxanthine is Theophylline and it has a role as a vasodilator agent, a bronchodilator agent, a muscle relaxant."
-        },
-		{
-				"gpat_q": "Glimepiride exerts its hypoglycaemic action by",
-                "gpat_a1": "Causing a direct uptake of glucose by muscle cells",
-                "gpat_a2": "Increasing the metabolism of glucose",
-                "gpat_a3": "Stimulating insulin release from the pancreas",
-                "gpat_a4": "Causing catalytic breakdown of glucose",
-                "gpat_correct_a": "3",
-                "reason":"Like all sulfonylureas, glimepiride acts as an insulin secretagogue. It lowers blood sugar by stimulating the release of insulin by pancreatic beta cells and by inducing increased activity of intracellular insulin receptors."
-        },
-		{
-				"gpat_q": "The therapeutic action of allopurinol in gout is due to its effect of:",
-                "gpat_a1": "Increasing uric acid excretion",
-                "gpat_a2": "Stimulating purine breakdown",
-                "gpat_a3": "Non-competitively inhibiting xanthine oxidase",
-                "gpat_a4": "Decreasing hypoxanthine levels",
-                "gpat_correct_a": "3",
-                "reason":"Allopurinol and oxypurinol both inhibit xanthine oxidase, an enzyme in the purine catabolism pathway that converts hypoxanthine to xanthine to uric acid."
-        },
-		{
-				"gpat_q": "Atropine",
-                "gpat_a1": "Is more potent than (-)-hyoscyamine",
-                "gpat_a2": "Is an antidote for anticholinesterase drugs",
-                "gpat_a3": "Is a quaternary amine",
+				"gpat_q": "Diffusivity of a solute is affected by",
+                "gpat_a1": "Temperature",
+                "gpat_a2": "Pressure",
+                "gpat_a3": "Chemical nature",
                 "gpat_a4": "All of these",
-                "gpat_correct_a": "2",
-                "reason":"Hyoscine is again more potent than atropine.\nAtropine is a tertiary amine.\n\nBy competitively blocking the action of acetylcholine at muscarinic receptors, atropine may act as a specific antidote. "
-        },
-		{
-				"gpat_q": "Which ONE of the following is associated with gingival hyperplasia after long-term treatment?",
-                "gpat_a1": "Irbesartan",
-                "gpat_a2": "Theophylline",
-                "gpat_a3": "Propranolol",
-                "gpat_a4": "Nifedipine",
                 "gpat_correct_a": "4",
-                "reason":"Nifedipine is one of the commonest antihypertensive drugs (calcium channel blockers) used to treat hypertension and some forms of angina. Though it has various side effects, gingival enlargement is the most attended side effect which is of great importance in dentistry."
+                "reason":""
         },
 		{
-				"gpat_q": "Which ONE of the following statements is CORRECT?",
-                "gpat_a1": "Arteries have thinner smooth muscle layers than veins",
-                "gpat_a2": "Veins generally carry oxygenated blood",
-                "gpat_a3": "Capillary walls have an elastic layer",
-                "gpat_a4": "The pressure inside a vein is less than in an artery",
-                "gpat_correct_a": "4",
-                "reason":"https://www.healthline.com/health/artery-vs-vein"
-        },
-		{
-				"gpat_q": "All of the following statements about warfarin are correct EXCEPT for:",
-                "gpat_a1": "It resembles vitamin K in structure",
-                "gpat_a2": "It prevents the coagulation of blood in vitro",
-                "gpat_a3": "It has a delay in onset and reversal of action",
-                "gpat_a4": "It prevents synthesis of coagulation factors",
+				"gpat_q": "Equation of half life of a substance in zero order reaction is",
+                "gpat_a1": "0.693/k",
+                "gpat_a2": "a/2k",
+                "gpat_a3": "1/ak",
+                "gpat_a4": "3/2a2k",
                 "gpat_correct_a": "2",
-                "reason":"Anticoagulants prevent blood clotting (both in vivo and in vitro). Anticoagulants used in vivo are often termed blood thinners and act by interacting with cascade system while in vitro act by usually physical methods.\n\nWarfarin decreases the body's ability to form blood clots by blocking the formation of vitamin K–dependent clotting factors means it acts in-vivo."
+                "reason":"https://image.slideserve.com/545041/slide1-l.jpg"
+        },
+		{
+				"gpat_q": "Which of following is neutral preservative?",
+                "gpat_a1": "Chlorocresol",
+                "gpat_a2": "Chlorobutanol",
+                "gpat_a3": "Phenyl mercuric acetate",
+                "gpat_a4": "Thiomersol",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+		{
+				"gpat_q": "National Chemical Laboratory (NCL) is located at",
+                "gpat_a1": "Pune",
+                "gpat_a2": "Kasauli",
+                "gpat_a3": "Chennai",
+                "gpat_a4": "Nagpur",
+                "gpat_correct_a": "1",
+                "reason":"The National Chemical Laboratory is an Indian government laboratory based in Pune, in western India. Popularly known as NCL, a constituent member of the Council of Scientific & Industrial Research India, it was established in 1950."
+        },
+		{
+				"gpat_q": "Inadequate spreading of the coating solution before drying is called as",
+                "gpat_a1": "Hazing",
+                "gpat_a2": "Blistering",
+                "gpat_a3": "Cracking",
+                "gpat_a4": "Orange peel effect",
+                "gpat_correct_a": "4",
+                "reason":"https://www.youtube.com/watch?v=lZQyeECft3w"
+        },
+		{
+				"gpat_q": "The mesh size of USP disintegration apparatus is",
+                "gpat_a1": "2#",
+                "gpat_a2": "5#",
+                "gpat_a3": "10#",
+                "gpat_a4": "20#",
+                "gpat_correct_a": "3",
+                "reason":"The U.S.P. device to test disintegration uses 6 glass tubes that are 3 inches long; open at the top and 10 mesh screen at the bottom end."
+        },
+		{
+				"gpat_q": "The ratio of dry gelatin/dry glycerin in soft gelatin capsules is",
+                "gpat_a1": "1/0.4",
+                "gpat_a2": "1/0.6",
+                "gpat_a3": "0.8/1",
+                "gpat_a4": "1/0.8",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "The term used to describe the setting of an aggregated system & refers to the descending of the boundary between the sediment & clear supernatant above it is",
+                "gpat_a1": "Ostwald ripening",
+                "gpat_a2": "Subsidence",
+                "gpat_a3": "Sedimentation",
+                "gpat_a4": "none",
+                "gpat_correct_a": "1",
+                "reason":"Ostwald ripening is a phenomenon observed in solid solutions or liquid sols that describes the change of an inhomogeneous structure over time, i.e., small crystals or sol particles dissolve, and redeposit onto larger crystals or sol particles."
+        },
+		{
+				"gpat_q": "At critical temperature, the surface tension of liquid",
+                "gpat_a1": "increases up to some extend",
+                "gpat_a2": "does not change",
+                "gpat_a3": "becomes zero",
+                "gpat_a4": "becomes negative",
+                "gpat_correct_a": "3",
+                "reason":"The relation between surface tension and critical temperature. The surface tension of a liquid decreases with increases of temperature and becomes zero at its critical temperature. Hence, the correct answer is option C."
+        },
+		{
+				"gpat_q": "When one of a solute is soluble in nine parts of a solvent, then the solute is",
+                "gpat_a1": "very soluble",
+                "gpat_a2": "soluble",
+                "gpat_a3": "sparingly soluble",
+                "gpat_a4": "freely soluble",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "Number of significant figures in 28.0 are",
+                "gpat_a1": "4",
+                "gpat_a2": "2",
+                "gpat_a3": "1",
+                "gpat_a4": "3",
+                "gpat_correct_a": "4",
+                "reason":"https://en.wikipedia.org/wiki/Significant_figures"
+        },
+		{
+				"gpat_q": "Bloom strength of gelatin capsule is directly proportional to",
+                "gpat_a1": "molecular weight",
+                "gpat_a2": "molecular chain length",
+                "gpat_a3": "solubility of gelatin",
+                "gpat_a4": "weak forces",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+		{
+				"gpat_q": "HLB values of detergents are in the range of",
+                "gpat_a1": "13-16",
+                "gpat_a2": "8-16",
+                "gpat_a3": "7-9",
+                "gpat_a4": "3-8",
+                "gpat_correct_a": "1",
+                "reason":"https://2.bp.blogspot.com/-uRzuFxHkEUQ/UU_0PY-epYI/AAAAAAAABZY/J6ZKLuDp5cs/s1600/pharmatutor-art-1714-16.png"
+        },
+		{
+				"gpat_q": "Angle of repose for free flowing powder is",
+                "gpat_a1": "less than 30",
+                "gpat_a2": "less than 40",
+                "gpat_a3": "above 50",
+                "gpat_a4": "above 80",
+                "gpat_correct_a": "1",
+                "reason":"https://hi-static.z-dn.net/files/d1a/94b1fffefb68dabe620a011bc9632435.jpg"
+        },
+		{
+				"gpat_q": "Chemical nature of asbestos is",
+                "gpat_a1": "Silica",
+                "gpat_a2": "Cellulose",
+                "gpat_a3": "Silico tungstate",
+                "gpat_a4": "Magnesium silicate",
+                "gpat_correct_a": "1",
+                "reason":"Asbestos, any of several minerals that readily separate into long, flexible fibres. Chrysotile, the fibrous form of the mineral serpentine, is the best-known type and accounts for about 95 percent of all asbestos in commercial use. It is a hydrous magnesium silicate with the chemical composition of Mg3Si2O5(OH)4."
+        },
+		{
+				"gpat_q": "Psychrometric chart is related to",
+                "gpat_a1": "Osmotic pressure",
+                "gpat_a2": "Humidity",
+                "gpat_a3": "Solubility",
+                "gpat_a4": "Evaporation",
+                "gpat_correct_a": "2",
+                "reason":"Psychrometric charts are complex graphs that can be used to assess the physical and thermodynamic properties of gas-vapour mixtures at a constant pressure. They are often used to assess the properties of moist air or Humidity."
+        },
+		{
+				"gpat_q": "Magnesia magma is an example of",
+                "gpat_a1": "Plastic flow",
+                "gpat_a2": "Pseudo plastic flow",
+                "gpat_a3": "Dilatant flow",
+                "gpat_a4": "Newtonian flow",
+                "gpat_correct_a": "3",
+                "reason":""
         }
-		
-] 
+		] 
 }
