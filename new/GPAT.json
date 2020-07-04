@@ -2899,6 +2899,186 @@ The same relationship goes for kb and pKb. The larger the kb, the stronger the b
                 "gpat_a4": "Glucose",
                 "gpat_correct_a": "2",
                 "reason": "Dextrins are a group of low-molecular-weight carbohydrates produced by the hydrolysis of starch. "
+        },
+{
+				"gpat_q": "Chemical name for Dry Ice is",
+                "gpat_a1": "Carbon dioxide",
+                "gpat_a2": "Sodium Chloride",
+                "gpat_a3": "Zinc Sulphate",
+                "gpat_a4": "Sodium Nitrate",
+                "gpat_correct_a": "1",
+                "reason":"https://en.wikipedia.org/wiki/Dry_ice"
+        },
+		{
+				"gpat_q": "Who discovered the cell?",
+                "gpat_a1": "Robert Hooke",
+                "gpat_a2": "A.G. Lowey",
+                "gpat_a3": "P. Sickewitz",
+                "gpat_a4": "Huxley",
+                "gpat_correct_a": "1",
+                "reason":"The cell was first discovered and named by Robert Hooke in 1665. He remarked that it looked strangely similar to cellula or small rooms which monks inhabited, thus deriving the name. However what Hooke actually saw was the dead cell walls of plant cells (cork) as it appeared under the microscope."
+        },
+		{
+				"gpat_q": "Techniques involving polymerase chain reaction (PCR) can be used to identify all of the following EXCEPT",
+                "gpat_a1": "Virus types",
+                "gpat_a2": "Actual DNA sequence",
+                "gpat_a3": "Mutations",
+                "gpat_a4": "Bacterial strains",
+                "gpat_correct_a": "2",
+                "reason":"PCR is more of qualitative technique and used for making copies rather than estmating actual DNA sequence."
+        },
+		{
+				"gpat_q": "The antibacterial action of a sulphonamide, resulting from its blocking bacterial uptake of p-amino-benzoic acid (PABA) is due to the presence of",
+                "gpat_a1": "A nitrogen containing heterocyclic ring",
+                "gpat_a2": "An ionisable acidic proton",
+                "gpat_a3": "A primary aromatic amino group",
+                "gpat_a4": "A sulfonyl urea substituent",
+                "gpat_correct_a": "3",
+                "reason":"https://www.youtube.com/watch?v=Sy0NrksrRQI"
+        },
+		{
+				"gpat_q": "When dimercaprol (B.A.L.) is used to treat heavy metal poisoning, its effectiveness is due to the chelate formed being all the following EXCEPT:",
+                "gpat_a1": "Water soluble",
+                "gpat_a2": "Having a large stability constant",
+                "gpat_a3": "Readily excreted",
+                "gpat_a4": "Readily metabolised",
+                "gpat_correct_a": "4",
+                "reason":"Readily metabolising the antidote will reduce its effective action. Hence, it's the wrong option."
+        },
+		{
+				"gpat_q": "Which substance yields the largest number of joules per gram?",
+                "gpat_a1": "Carbohydrates",
+                "gpat_a2": "Proteins",
+                "gpat_a3": "Fats",
+                "gpat_a4": "All have same energy",
+                "gpat_correct_a": "3",
+                "reason":"Fats and ethanol have the greatest amount of food energy per gram, 37 and 29 kilojoules per gram (8.8 and 6.9 kcal/g), respectively. Proteins and most carbohydrates both have about 17 kJ/g (4 kcal/g)."
+        },
+		{
+				"gpat_q": "The term which describes the time required for the radioactivity of any given amount of a drug to be reduced by 50 percent is:",
+                "gpat_a1": "LD 50",
+                "gpat_a2": "Half-life",
+                "gpat_a3": "Retention time",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "2",
+                "reason":"The half-life — t1/2, is the time taken for the activity of a given amount of a radioactive substance to decay to half of its initial value"
+        },
+		{
+				"gpat_q": "One property that phenytoin, phenobarbitone and rifampicin all have in common is that they",
+                "gpat_a1": "Exhibit nonlinear pharmacokinetics",
+                "gpat_a2": "Are used for the treatment of epilepsy",
+                "gpat_a3": "Are poorly absorbed",
+                "gpat_a4": "Can induce hepatic drug metabolism",
+                "gpat_correct_a": "4",
+                "reason":"Some examples of drugs which exhibit non-linear kinetic behaviour are phenytoin, ethanol, salicylate and, in some individuals, theophylline.\nMany drugs are selective inducers of drug metabolism in humans and examples include phenobarbital, rifampicin, clotrimazole, omeprazole, phenytoin and ethanol"
+        },
+		{
+				"gpat_q": "The gamma radiation from radioactive vitamin B12 comes from the:",
+                "gpat_a1": "Iodine atoms",
+                "gpat_a2": "Hydrogen atom",
+                "gpat_a3": "Cobalt atoms",
+                "gpat_a4": "Phosphorus atoms",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+		{
+				"gpat_q": "The various penicillins that are available differ chemically",
+                "gpat_a1": "In the nature of the acyl side chain",
+                "gpat_a2": "In substituents on the fused ring nucleus",
+                "gpat_a3": "In spatial arrangements of atoms around an asymmetric carbon",
+                "gpat_a4": "Only by being different salts",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+		{
+				"gpat_q": "Which one of the following acids is polyunsaturated?",
+                "gpat_a1": "Oleic",
+                "gpat_a2": "Glutamic",
+                "gpat_a3": "Palmitic",
+                "gpat_a4": "Linolenic",
+                "gpat_correct_a": "4",
+                "reason":"https://www.researchgate.net/profile/Andreea_Ioan-Facsinay/publication/267741594/figure/tbl1/AS:669202054668288@1536561611154/Examples-of-saturated-monounsaturated-and-polyunsaturated-fatty-acids-that-are-most.png"
+        },
+		{
+				"gpat_q": "Conformation of organic molecules is MOST commonly determined by which ONE of the following analytical methods?",
+                "gpat_a1": "Nuclear magnetic resonance (NMR)",
+                "gpat_a2": "Optical rotation",
+                "gpat_a3": "pK determinations",
+                "gpat_a4": "Mass spectrometry",
+                "gpat_correct_a": "1",
+                "reason":"Conformational analysis is usually performed using NMR spectroscopy through measurement of coupling constants at room or low temperature in different solvents to determine the populations of conformers in solution. Quantum mechanical calculations are used to address the interactions responsible for conformer stability."
+        },
+		{
+				"gpat_q": "Lignocaine HCl can be infused intravenously and remain stable for long enough to have a therapeutic effect because it",
+                "gpat_a1": "Is an ester",
+                "gpat_a2": "Is an acidic drug",
+                "gpat_a3": "Is an amide",
+                "gpat_a4": "Forms an emulsion in the blood",
+                "gpat_correct_a": "3",
+                "reason":"https://www.amboss.com/us/knowledge/Local_anesthetic_agents"
+        },
+		{
+				"gpat_q": "A potential therapeutic use for 1,3-dimethylxanthine is as a(an)",
+                "gpat_a1": "Anxiolytic",
+                "gpat_a2": "Bronchodilator",
+                "gpat_a3": "Hypoglycaemic",
+                "gpat_a4": "Hypouricaemic",
+                "gpat_correct_a": "2",
+                "reason":"1,3-dimethylxanthine is Theophylline and it has a role as a vasodilator agent, a bronchodilator agent, a muscle relaxant."
+        },
+		{
+				"gpat_q": "Glimepiride exerts its hypoglycaemic action by",
+                "gpat_a1": "Causing a direct uptake of glucose by muscle cells",
+                "gpat_a2": "Increasing the metabolism of glucose",
+                "gpat_a3": "Stimulating insulin release from the pancreas",
+                "gpat_a4": "Causing catalytic breakdown of glucose",
+                "gpat_correct_a": "3",
+                "reason":"Like all sulfonylureas, glimepiride acts as an insulin secretagogue. It lowers blood sugar by stimulating the release of insulin by pancreatic beta cells and by inducing increased activity of intracellular insulin receptors."
+        },
+		{
+				"gpat_q": "The therapeutic action of allopurinol in gout is due to its effect of:",
+                "gpat_a1": "Increasing uric acid excretion",
+                "gpat_a2": "Stimulating purine breakdown",
+                "gpat_a3": "Non-competitively inhibiting xanthine oxidase",
+                "gpat_a4": "Decreasing hypoxanthine levels",
+                "gpat_correct_a": "3",
+                "reason":"Allopurinol and oxypurinol both inhibit xanthine oxidase, an enzyme in the purine catabolism pathway that converts hypoxanthine to xanthine to uric acid."
+        },
+		{
+				"gpat_q": "Atropine",
+                "gpat_a1": "Is more potent than (-)-hyoscyamine",
+                "gpat_a2": "Is an antidote for anticholinesterase drugs",
+                "gpat_a3": "Is a quaternary amine",
+                "gpat_a4": "All of these",
+                "gpat_correct_a": "2",
+                "reason":"Hyoscine is again more potent than atropine.\nAtropine is a tertiary amine.\n\nBy competitively blocking the action of acetylcholine at muscarinic receptors, atropine may act as a specific antidote. "
+        },
+		{
+				"gpat_q": "Which ONE of the following is associated with gingival hyperplasia after long-term treatment?",
+                "gpat_a1": "Irbesartan",
+                "gpat_a2": "Theophylline",
+                "gpat_a3": "Propranolol",
+                "gpat_a4": "Nifedipine",
+                "gpat_correct_a": "4",
+                "reason":"Nifedipine is one of the commonest antihypertensive drugs (calcium channel blockers) used to treat hypertension and some forms of angina. Though it has various side effects, gingival enlargement is the most attended side effect which is of great importance in dentistry."
+        },
+		{
+				"gpat_q": "Which ONE of the following statements is CORRECT?",
+                "gpat_a1": "Arteries have thinner smooth muscle layers than veins",
+                "gpat_a2": "Veins generally carry oxygenated blood",
+                "gpat_a3": "Capillary walls have an elastic layer",
+                "gpat_a4": "The pressure inside a vein is less than in an artery",
+                "gpat_correct_a": "4",
+                "reason":"https://www.healthline.com/health/artery-vs-vein"
+        },
+		{
+				"gpat_q": "All of the following statements about warfarin are correct EXCEPT for:",
+                "gpat_a1": "It resembles vitamin K in structure",
+                "gpat_a2": "It prevents the coagulation of blood in vitro",
+                "gpat_a3": "It has a delay in onset and reversal of action",
+                "gpat_a4": "It prevents synthesis of coagulation factors",
+                "gpat_correct_a": "2",
+                "reason":"Anticoagulants prevent blood clotting (both in vivo and in vitro). Anticoagulants used in vivo are often termed blood thinners and act by interacting with cascade system while in vitro act by usually physical methods.\n\nWarfarin decreases the body's ability to form blood clots by blocking the formation of vitamin K–dependent clotting factors means it acts in-vivo."
         }
    ] 
 }
