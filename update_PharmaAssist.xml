@@ -1,11 +1,14 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.1</latestVersion>
+    <latestVersion>4.2.1</latestVersion>
     <url>https://chinmayjk97.github.io/PharmaAssist/download</url>
-    <directDownloadLink>https://github.com/chinmayjk97/wallpaper-json/releases/download/3.1/PharmaAssist.apk</directDownloadLink>
+    <directDownloadLink>https://github.com/chinmayjk97/wallpaper-json/releases/download/v4.2.1/PharmaAssist.apk</directDownloadLink>
     <releaseNotes>
-- Optimized Jobs Section.
-- Updated All Question Papers along with CBCS Papers!
+- Added Chat feature to help each other !
+- Added Checklist Screen to keep a track of important topics for GPAT exam ;)
+- More Questions! Added Test option in Notification Section !
+- Now you can donate us through UPI from support us section.
+- Updated Internal Files
 - Bugs Fixed.
 </releaseNotes>  
 </update>
