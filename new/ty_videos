@@ -25,6 +25,12 @@
 	    "thumbnail":"https://i.ytimg.com/vi/erq0QmllHT8/maxresdefault.jpg"
         },
 	{
+        "title": "Set 1 - Chemistry MCQs | GPAT MCQ |  NIPER MCQ | Pharmacy",
+	    "url" : "https://youtu.be/gPTpSDCUGZc",
+        "video_length": "Video length: 3:59",
+	    "thumbnail":"https://i.ytimg.com/vi/gPTpSDCUGZc/maxresdefault.jpg"
+        },
+	{
             "title": "Pyridine - Synthesis & Reactions",
 	    "url" : "https://youtu.be/35xVmtSHz-4",
             "video_length": "Video length: 4:56",
@@ -166,6 +172,24 @@
         "video_length": "Video length: 4:49",
 	    "thumbnail":"https://i.ytimg.com/vi/SVRcXRyx8XI/maxresdefault.jpg"
 },
+{
+        "title": "Session 1 - Replication in Prokaryotes and Eukaryotes",
+	    "url" : "https://youtu.be/6x6fkstKviQ",
+        "video_length": "Video length: 1:59:43",
+	    "thumbnail":"https://i.ytimg.com/vi/6x6fkstKviQ/maxresdefault.jpg"
+        },
+		{
+        "title": "Session 2 - Transcription in Prokaryotes & Eukaryotes",
+	    "url" : "https://youtu.be/DaSKJeqTwJw",
+        "video_length": "Video length: 1:25:10",
+	    "thumbnail":"https://i.ytimg.com/vi/DaSKJeqTwJw/maxresdefault.jpg"
+        },
+		{
+        "title": "Session 3 : Biotransformation of Drugs | Drug Metabolism | Phase 1 and Phase 2 Metabolism",
+	    "url" : "https://youtu.be/7RNQXE3r5UM",
+        "video_length": "Video length: 1:46:50",
+	    "thumbnail":"https://i.ytimg.com/vi/7RNQXE3r5UM/maxresdefault.jpg"
+        },
 	{
             "title": "ENZYME & CELL IMMOBILIZATION",
 	    "url" : "https://youtu.be/E3jiAuJfqpQ",
