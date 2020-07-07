@@ -457,6 +457,12 @@
                 "book_url": "https://drive.google.com/file/d/0B6z9_azvPvHjUGg2TVduLU53Z00",
                 "book_edition": "2nd Edition",
                 "book_size": "7 MB"
+        },
+        {
+                "book_name": "eBook For Pharmaceutical Jurisprudence",
+                "book_url": "https://drive.google.com/file/d/19IdERy_Vwn2O6UjhD_DbsuCrTLOIAAPE",
+                "book_edition": "1st Edition",
+                "book_size": "4 MB"
         }
         ]
 }
