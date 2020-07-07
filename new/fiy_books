@@ -178,6 +178,12 @@
                 "book_size": "35 MB "
         },
         {
+                "book_name": "eBook For Pharmaceutical Jurisprudence",
+                "book_url": "https://drive.google.com/file/d/19IdERy_Vwn2O6UjhD_DbsuCrTLOIAAPE",
+                "book_edition": "1st Edition",
+                "book_size": "4 MB"
+        },
+        {
                 "book_name": "Coming Soon...",
                 "book_url": "https://www.youtube.com/c/PharmaKnowledge",
                 "book_edition": "Coming Soon...",
