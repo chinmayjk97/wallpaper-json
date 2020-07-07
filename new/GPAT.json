@@ -3088,6 +3088,15 @@ The same relationship goes for kb and pKb. The larger the kb, the stronger the b
                 "gpat_a4": "Creatinine Phosphate",
                 "gpat_correct_a": "3",
                 "reason": "Muscles have two major proteins actin and myosin. These are mostly contractile proteins. The energy from the hydrolysis of ATP by myosin head is directly used in the power stroke i.e., flexing of myosin head during muscular contraction. ATP is also used during muscle relaxation in the absence of ATP the myosin head will continue to bind with actin head and the muscle fibre shall remain contracted. So, the correct answer is option C."
+        }, 
+        {
+                "gpat_q": "Sodium picrate is used for identification of",
+                "gpat_a1": "Cyanogenic glycoside",
+                "gpat_a2": "Isocyanate glycoside",
+                "gpat_a3": "Flavanol",
+                "gpat_a4": "Anthracene",
+                "gpat_correct_a": "1",
+                "reason": " "
         }
    ] 
 }
