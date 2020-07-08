@@ -3097,6 +3097,15 @@ The same relationship goes for kb and pKb. The larger the kb, the stronger the b
                 "gpat_a4": "Anthracene",
                 "gpat_correct_a": "1",
                 "reason": " "
+        }, 
+        {
+                "gpat_q": "When vitamin D is dissolved in chloroform antimony trichloride solution is added to it, which colour is produced",
+                "gpat_a1": "Trancient blue",
+                "gpat_a2": "Pinkish red",
+                "gpat_a3": "Yellowish green",
+                "gpat_a4": "Greenish yellow",
+                "gpat_correct_a": "2",
+                "reason": "https://books.google.co.in/books?id=IxMwDwAAQBAJ&pg=SA4-PA15&lpg=SA4-PA15&dq=vitamin+d+in+chloroform+antimony+trichloride+solution+pinkish+red&source=bl&ots=JDWjZN3Onf&sig=ACfU3U2MfjlSMQ1u7koEq7_BOBFDUYnf1w&hl=en&sa=X&ved=2ahUKEwjTx9zR-r3qAhVnzTgGHawTCUEQ6AEwAnoECAYQAQ#v=onepage&q=vitamin%20d%20in%20chloroform%20antimony%20trichloride%20solution%20pinkish%20red&f=false"
         }
    ] 
 }
