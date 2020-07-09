@@ -3106,6 +3106,15 @@ The same relationship goes for kb and pKb. The larger the kb, the stronger the b
                 "gpat_a4": "Greenish yellow",
                 "gpat_correct_a": "2",
                 "reason": "https://books.google.co.in/books?id=IxMwDwAAQBAJ&pg=SA4-PA15&lpg=SA4-PA15&dq=vitamin+d+in+chloroform+antimony+trichloride+solution+pinkish+red&source=bl&ots=JDWjZN3Onf&sig=ACfU3U2MfjlSMQ1u7koEq7_BOBFDUYnf1w&hl=en&sa=X&ved=2ahUKEwjTx9zR-r3qAhVnzTgGHawTCUEQ6AEwAnoECAYQAQ#v=onepage&q=vitamin%20d%20in%20chloroform%20antimony%20trichloride%20solution%20pinkish%20red&f=false"
+        },
+        {
+                "gpat_q": "The nerve cell membrane :",
+                "gpat_a1": "It's highly permeable to K+ ions",
+                "gpat_a2": "Maintains a potential difference across it",
+                "gpat_a3": "Has excitability properties that vary in different conditions",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "4",
+                "reason": " "
         }
    ] 
 }
