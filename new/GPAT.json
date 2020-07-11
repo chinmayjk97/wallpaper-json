@@ -3124,6 +3124,186 @@ The same relationship goes for kb and pKb. The larger the kb, the stronger the b
                 "gpat_a4": "Distal collecting tubule ",
                 "gpat_correct_a": "4",
                 "reason": "Spironolactone is a specific pharmacologic antagonist of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule."
+        },
+		 {
+				"gpat_q": "Enteric tablet coating material is",
+                "gpat_a1": "Sodium carboxy methyl cellulose",
+                "gpat_a2": "Hydroxypropyl methyl cellulose",
+                "gpat_a3": "Povidone",
+                "gpat_a4": "Polyvinyl phthalate acetate",
+                "gpat_correct_a": "4",
+                "reason":"Materials used for enteric coatings include CAP, CAT, PVAP and HPMCP, fatty acids, waxes, shellac, plastics and plant fibers."
+        },
+		{
+				"gpat_q": "Solubility of gelatin capsule is decreased by",
+                "gpat_a1": "Fumaric acid",
+                "gpat_a2": "Formaline",
+                "gpat_a3": "Titanium oxide",
+                "gpat_a4": "All of the above",
+                "gpat_correct_a": "2",
+                "reason":""
+        },
+		{
+				"gpat_q": "In Roche friabilator, plastic chamber revolves at",
+                "gpat_a1": "25 rpm",
+                "gpat_a2": "50 rpm",
+                "gpat_a3": "15 rpm",
+                "gpat_a4": "30 rpm",
+                "gpat_correct_a": "1",
+                "reason":"Friability Test is used to check crushing strength of tablet by this test one can check Capping &/or Lamination. USP limit is 0.5 to 1%. Rotation: - 25 rpm or 100 rotations in 4 min. "
+        },
+		{
+				"gpat_q": "Diffusivity of a solute is affected by",
+                "gpat_a1": "Temperature",
+                "gpat_a2": "Pressure",
+                "gpat_a3": "Chemical nature",
+                "gpat_a4": "All of these",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "Equation of half life of a substance in zero order reaction is",
+                "gpat_a1": "0.693/k",
+                "gpat_a2": "a/2k",
+                "gpat_a3": "1/ak",
+                "gpat_a4": "3/2a2k",
+                "gpat_correct_a": "2",
+                "reason":"https://image.slideserve.com/545041/slide1-l.jpg"
+        },
+		{
+				"gpat_q": "Which of following is neutral preservative?",
+                "gpat_a1": "Chlorocresol",
+                "gpat_a2": "Chlorobutanol",
+                "gpat_a3": "Phenyl mercuric acetate",
+                "gpat_a4": "Thiomersol",
+                "gpat_correct_a": "3",
+                "reason":""
+        },
+		{
+				"gpat_q": "National Chemical Laboratory (NCL) is located at",
+                "gpat_a1": "Pune",
+                "gpat_a2": "Kasauli",
+                "gpat_a3": "Chennai",
+                "gpat_a4": "Nagpur",
+                "gpat_correct_a": "1",
+                "reason":"The National Chemical Laboratory is an Indian government laboratory based in Pune, in western India. Popularly known as NCL, a constituent member of the Council of Scientific & Industrial Research India, it was established in 1950."
+        },
+		{
+				"gpat_q": "Inadequate spreading of the coating solution before drying is called as",
+                "gpat_a1": "Hazing",
+                "gpat_a2": "Blistering",
+                "gpat_a3": "Cracking",
+                "gpat_a4": "Orange peel effect",
+                "gpat_correct_a": "4",
+                "reason":"https://www.youtube.com/watch?v=lZQyeECft3w"
+        },
+		{
+				"gpat_q": "The mesh size of USP disintegration apparatus is",
+                "gpat_a1": "2#",
+                "gpat_a2": "5#",
+                "gpat_a3": "10#",
+                "gpat_a4": "20#",
+                "gpat_correct_a": "3",
+                "reason":"The U.S.P. device to test disintegration uses 6 glass tubes that are 3 inches long; open at the top and 10 mesh screen at the bottom end."
+        },
+		{
+				"gpat_q": "The ratio of dry gelatin/dry glycerin in soft gelatin capsules is",
+                "gpat_a1": "1/0.4",
+                "gpat_a2": "1/0.6",
+                "gpat_a3": "0.8/1",
+                "gpat_a4": "1/0.8",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "The term used to describe the setting of an aggregated system & refers to the descending of the boundary between the sediment & clear supernatant above it is",
+                "gpat_a1": "Ostwald ripening",
+                "gpat_a2": "Subsidence",
+                "gpat_a3": "Sedimentation",
+                "gpat_a4": "none",
+                "gpat_correct_a": "1",
+                "reason":"Ostwald ripening is a phenomenon observed in solid solutions or liquid sols that describes the change of an inhomogeneous structure over time, i.e., small crystals or sol particles dissolve, and redeposit onto larger crystals or sol particles."
+        },
+		{
+				"gpat_q": "At critical temperature, the surface tension of liquid",
+                "gpat_a1": "increases up to some extend",
+                "gpat_a2": "does not change",
+                "gpat_a3": "becomes zero",
+                "gpat_a4": "becomes negative",
+                "gpat_correct_a": "3",
+                "reason":"The relation between surface tension and critical temperature. The surface tension of a liquid decreases with increases of temperature and becomes zero at its critical temperature. Hence, the correct answer is option C."
+        },
+		{
+				"gpat_q": "When one of a solute is soluble in nine parts of a solvent, then the solute is",
+                "gpat_a1": "very soluble",
+                "gpat_a2": "soluble",
+                "gpat_a3": "sparingly soluble",
+                "gpat_a4": "freely soluble",
+                "gpat_correct_a": "4",
+                "reason":""
+        },
+		{
+				"gpat_q": "Number of significant figures in 28.0 are",
+                "gpat_a1": "4",
+                "gpat_a2": "2",
+                "gpat_a3": "1",
+                "gpat_a4": "3",
+                "gpat_correct_a": "4",
+                "reason":"https://en.wikipedia.org/wiki/Significant_figures"
+        },
+		{
+				"gpat_q": "Bloom strength of gelatin capsule is directly proportional to",
+                "gpat_a1": "molecular weight",
+                "gpat_a2": "molecular chain length",
+                "gpat_a3": "solubility of gelatin",
+                "gpat_a4": "weak forces",
+                "gpat_correct_a": "1",
+                "reason":""
+        },
+		{
+				"gpat_q": "HLB values of detergents are in the range of",
+                "gpat_a1": "13-16",
+                "gpat_a2": "8-16",
+                "gpat_a3": "7-9",
+                "gpat_a4": "3-8",
+                "gpat_correct_a": "1",
+                "reason":"https://2.bp.blogspot.com/-uRzuFxHkEUQ/UU_0PY-epYI/AAAAAAAABZY/J6ZKLuDp5cs/s1600/pharmatutor-art-1714-16.png"
+        },
+		{
+				"gpat_q": "Angle of repose for free flowing powder is",
+                "gpat_a1": "less than 30",
+                "gpat_a2": "less than 40",
+                "gpat_a3": "above 50",
+                "gpat_a4": "above 80",
+                "gpat_correct_a": "1",
+                "reason":"https://hi-static.z-dn.net/files/d1a/94b1fffefb68dabe620a011bc9632435.jpg"
+        },
+		{
+				"gpat_q": "Chemical nature of asbestos is",
+                "gpat_a1": "Silica",
+                "gpat_a2": "Cellulose",
+                "gpat_a3": "Silico tungstate",
+                "gpat_a4": "Magnesium silicate",
+                "gpat_correct_a": "1",
+                "reason":"Asbestos, any of several minerals that readily separate into long, flexible fibres. Chrysotile, the fibrous form of the mineral serpentine, is the best-known type and accounts for about 95 percent of all asbestos in commercial use. It is a hydrous magnesium silicate with the chemical composition of Mg3Si2O5(OH)4."
+        },
+		{
+				"gpat_q": "Psychrometric chart is related to",
+                "gpat_a1": "Osmotic pressure",
+                "gpat_a2": "Humidity",
+                "gpat_a3": "Solubility",
+                "gpat_a4": "Evaporation",
+                "gpat_correct_a": "2",
+                "reason":"Psychrometric charts are complex graphs that can be used to assess the physical and thermodynamic properties of gas-vapour mixtures at a constant pressure. They are often used to assess the properties of moist air or Humidity."
+        },
+		{
+				"gpat_q": "Magnesia magma is an example of",
+                "gpat_a1": "Plastic flow",
+                "gpat_a2": "Pseudo plastic flow",
+                "gpat_a3": "Dilatant flow",
+                "gpat_a4": "Newtonian flow",
+                "gpat_correct_a": "3",
+                "reason":""
         }
    ] 
 }
