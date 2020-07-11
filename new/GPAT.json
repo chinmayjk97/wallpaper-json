@@ -3115,6 +3115,15 @@ The same relationship goes for kb and pKb. The larger the kb, the stronger the b
                 "gpat_a4": "All of the above",
                 "gpat_correct_a": "4",
                 "reason": " "
+        },
+        {
+                "gpat_q": "What is the primary site of action for spironolactone and triameterine?",
+                "gpat_a1": "Proximal tubule",
+                "gpat_a2": "Ascending loop of Henle",
+                "gpat_a3": "Descending loop of Henle",
+                "gpat_a4": "Distal collecting tubule ",
+                "gpat_correct_a": "4",
+                "reason": "Spironolactone is a specific pharmacologic antagonist of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule."
         }
    ] 
 }
