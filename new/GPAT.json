@@ -3304,6 +3304,15 @@ The same relationship goes for kb and pKb. The larger the kb, the stronger the b
                 "gpat_a4": "Newtonian flow",
                 "gpat_correct_a": "3",
                 "reason":""
+        }, 
+        {
+                "gpat_q": "Mayer's reagent is :",
+                "gpat_a1": "Potassium Bismuth Iodide",
+                "gpat_a2": "Potassium Mercuric Iodide",
+                "gpat_a3": "Potassium Iodide & Iodine",
+                "gpat_a4": "None of these",
+                "gpat_correct_a": "2",
+                "reason": "Mayer's reagent is an alkaloidal precipitating reagent used for the detection of alkaloids in natural products. Mayer's reagent is freshly prepared by dissolving a mixture of mercuric chloride and of potassium iodide in water. "
         }
    ] 
 }
