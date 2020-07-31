@@ -1,0 +1,1892 @@
+[
+ {
+   "Number": 1,
+   "name": "Acetic acid",
+   "molwt": "60.052",
+   "formula": "CH3COOH"
+ },
+ {
+   "Number": 2,
+   "name": "Hydrochloric acid",
+   "molwt": "36.458",
+   "formula": "HCl"
+ },
+ {
+   "Number": 3,
+   "name": "Sulfuric acid",
+   "molwt": "‎98.072",
+   "formula": "H2SO4"
+ },
+ {
+   "Number": 4,
+   "name": "Acetate",
+   "molwt": "59.044",
+   "formula": "CH3COO–"
+ },
+ {
+   "Number": 5,
+   "name": "Ammonia",
+   "molwt": "17.031",
+   "formula": "NH3"
+ },
+ {
+   "Number": 6,
+   "name": "Nitric acid",
+   "molwt": "63.012",
+   "formula": "HNO3"
+ },
+ {
+   "Number": 7,
+   "name": "Phosphoric acid",
+   "molwt": "97.994",
+   "formula": "H3PO4"
+ },
+ {
+   "Number": 8,
+   "name": "Sodium phosphate",
+   "molwt": "119.976",
+   "formula": "Na3PO4"
+ },
+ {
+   "Number": 9,
+   "name": "Calcium carbonate",
+   "molwt": "100.086",
+   "formula": "CaCO3"
+ },
+ {
+   "Number": 10,
+   "name": "Ammonium sulfate",
+   "molwt": "132.134",
+   "formula": "(NH4)2SO4"
+ },
+ {
+   "Number": 11,
+   "name": "Carbonic acid",
+   "molwt": "62.024",
+   "formula": "H2CO3"
+ },
+ {
+   "Number": 12,
+   "name": "Sodium bicarbonate",
+   "molwt": "84.0066",
+   "formula": "NaHCO3"
+ },
+ {
+   "Number": 13,
+   "name": "Sodium hydroxide",
+   "molwt": "39.997",
+   "formula": "NaOH"
+ },
+ {
+   "Number": 14,
+   "name": "Calcium hydroxide",
+   "molwt": "74.092",
+   "formula": "Ca(OH)2"
+ },
+ {
+   "Number": 15,
+   "name": "Ethanol",
+   "molwt": "46.069",
+   "formula": "C2H5OH"
+ },
+ {
+   "Number": 16,
+   "name": "Hydrobromic acid",
+   "molwt": "80.912",
+   "formula": "HBr"
+ },
+ {
+   "Number": 17,
+   "name": "Sulfuric acid",
+   "molwt": "98.072",
+   "formula": "H2SO4"
+ },
+ {
+   "Number": 18,
+   "name": "Nitrous acid",
+   "molwt": "‎47.013",
+   "formula": "HNO2"
+ },
+ {
+   "Number": 19,
+   "name": "Potassium hydroxide",
+   "molwt": "56.11",
+   "formula": "KOH"
+ },
+ {
+   "Number": 20,
+   "name": "Silver nitrate",
+   "molwt": "169.872",
+   "formula": "AgNO3"
+ },
+ {
+   "Number": 21,
+   "name": "Sodium carbonate",
+   "molwt": "105.988",
+   "formula": "Na2CO3"
+ },
+ {
+   "Number": 22,
+   "name": "Sodium chloride",
+   "molwt": "58.44",
+   "formula": "NaCl"
+ },
+ {
+   "Number": 23,
+   "name": "Cellulose",
+   "molwt": "162.1406",
+   "formula": "(C6H10O5)n"
+ },
+ {
+   "Number": 24,
+   "name": "Magnesium hydroxide",
+   "molwt": "58.319",
+   "formula": "Mg(OH)2"
+ },
+ {
+   "Number": 25,
+   "name": "Methane",
+   "molwt": "16.043",
+   "formula": "CH4"
+ },
+ {
+   "Number": 26,
+   "name": "Nitrogen dioxide",
+   "molwt": "30.006",
+   "formula": "NO2"
+ },
+ {
+   "Number": 27,
+   "name": "Potassium hydroxide",
+   "molwt": "56.105",
+   "formula": "KOH"
+ },
+ {
+   "Number": 28,
+   "name": "Sodium nitrate",
+   "molwt": "84.994",
+   "formula": "NaNO3"
+ },
+ {
+   "Number": 29,
+   "name": "Sulfurous acid",
+   "molwt": "82.073",
+   "formula": "H2SO3"
+ },
+ {
+   "Number": 30,
+   "name": "Aluminium sulfate",
+   "molwt": "342.15",
+   "formula": "Al2(SO4)3"
+ },
+ {
+   "Number": 31,
+   "name": "Aluminum oxide",
+   "molwt": "101.96",
+   "formula": "Al2O3"
+ },
+ {
+   "Number": 32,
+   "name": "Ammonia",
+   "molwt": "17.031",
+   "formula": "NH3"
+ },
+ {
+   "Number": 33,
+   "name": "Ammonium nitrate",
+   "molwt": "80.043",
+   "formula": "NH4NO3"
+ },
+ {
+   "Number": 34,
+   "name": "Ammonium phosphate",
+   "molwt": "132.056",
+   "formula": "(NH4)3PO4"
+ },
+ {
+   "Number": 35,
+   "name": "Barium hydroxide",
+   "molwt": "171.341",
+   "formula": "Ba(OH)2"
+ },
+ {
+   "Number": 36,
+   "name": "Carbon tetrachloride",
+   "molwt": "153.811",
+   "formula": "CCl4"
+ },
+ {
+   "Number": 37,
+   "name": "Citric acid",
+   "molwt": "192.123",
+   "formula": "C6H8O7"
+ },
+ {
+   "Number": 38,
+   "name": "Hydrocyanic acid",
+   "molwt": "‎27.026",
+   "formula": "HCN"
+ },
+ {
+   "Number": 39,
+   "name": "Salicylic Acid",
+   "molwt": "138.121",
+   "formula": "C7H6O3"
+ },
+ {
+   "Number": 40,
+   "name": "Hydroiodic acid",
+   "molwt": "127.91",
+   "formula": "HI"
+ },
+ {
+   "Number": 41,
+   "name": "Hypochlorous acid",
+   "molwt": "52.457",
+   "formula": "HClO"
+ },
+ {
+   "Number": 42,
+   "name": "Iron iii oxide",
+   "molwt": "159.687",
+   "formula": "Fe2O3"
+ },
+ {
+   "Number": 43,
+   "name": "Magnesium phosphate",
+   "molwt": "262.855",
+   "formula": "Mg3(PO4)2"
+ },
+ {
+   "Number": 44,
+   "name": "Sodium acetate",
+   "molwt": "82.0343",
+   "formula": "C2H3NaO2"
+ },
+ {
+   "Number": 45,
+   "name": "Sodium sulfate",
+   "molwt": "‎142.036",
+   "formula": "Na2SO4"
+ },
+ {
+   "Number": 46,
+   "name": "Sucrose",
+   "molwt": "342.2965",
+   "formula": "C12H22O11"
+ },
+ {
+   "Number": 47,
+   "name": "Potassium nitrate",
+   "molwt": "101.102",
+   "formula": "KNO3"
+ },
+ {
+   "Number": 48,
+   "name": "Ammonium bicarbonate",
+   "molwt": "96.086",
+   "formula": "NH4HCO3"
+ },
+ {
+   "Number": 49,
+   "name": "Ammonium chloride",
+   "molwt": "53.489",
+   "formula": "NH4Cl"
+ },
+ {
+   "Number": 50,
+   "name": "Ammonium hydroxide",
+   "molwt": "35.046",
+   "formula": "NH4OH"
+ },
+ {
+   "Number": 51,
+   "name": "Calcium nitrate",
+   "molwt": "164.088",
+   "formula": "Ca(NO3)2"
+ },
+ {
+   "Number": 52,
+   "name": "Calcium oxide",
+   "molwt": "56.0774",
+   "formula": "CaO"
+ },
+ {
+   "Number": 53,
+   "name": "Carbon monoxide",
+   "molwt": "28.01",
+   "formula": "CO"
+ },
+ {
+   "Number": 54,
+   "name": "Chlorine gas",
+   "molwt": "70.9",
+   "formula": "Cl2"
+ },
+ {
+   "Number": 55,
+   "name": "Phenol",
+   "molwt": "94.11",
+   "formula": "C6H6O"
+ },
+ {
+   "Number": 56,
+   "name": "Hydrogen peroxide",
+   "molwt": "34.0147",
+   "formula": "H2O2"
+ },
+ {
+   "Number": 57,
+   "name": "Hydroxide",
+   "molwt": "17.007",
+   "formula": "OH–"
+ },
+ {
+   "Number": 58,
+   "name": "Magnesium chloride",
+   "molwt": "95.211",
+   "formula": "MgCl2"
+ },
+ {
+   "Number": 59,
+   "name": "Magnesium hydroxide",
+   "molwt": "58.3197",
+   "formula": "Mg(OH)2"
+ },
+ {
+   "Number": 60,
+   "name": "Potassium chloride",
+   "molwt": "74.5513",
+   "formula": "KCl"
+ },
+ {
+   "Number": 61,
+   "name": "Potassium iodide",
+   "molwt": "166.0028",
+   "formula": "KI"
+ },
+ {
+   "Number": 62,
+   "name": "Sulfur dioxide",
+   "molwt": "64.066",
+   "formula": "SO2"
+ },
+ {
+   "Number": 63,
+   "name": "Glycerin",
+   "molwt": "92.09",
+   "formula": "C3H8O3"
+ },
+ {
+   "Number": 64,
+   "name": "Ammonium sulfate",
+   "molwt": "132.14",
+   "formula": "(NH4)2SO4"
+ },
+ {
+   "Number": 65,
+   "name": "Barium nitrate",
+   "molwt": "261.337",
+   "formula": "Ba(NO3)2"
+ },
+ {
+   "Number": 66,
+   "name": "Calcium acetate",
+   "molwt": "158.17",
+   "formula": "C4H6O4Ca"
+ },
+ {
+   "Number": 67,
+   "name": "Sulfurous Acid",
+   "molwt": "82.07",
+   "formula": "H2SO3"
+ },
+ {
+   "Number": 68,
+   "name": "Iron oxide",
+   "molwt": "159.69",
+   "formula": "Fe2O3"
+ },
+ {
+   "Number": 69,
+   "name": "Potassium carbonate",
+   "molwt": "138.205",
+   "formula": "K2CO3"
+ },
+ {
+   "Number": 70,
+   "name": "Silver chloride",
+   "molwt": "‎143.318",
+   "formula": "AgCl"
+ },
+ {
+   "Number": 71,
+   "name": "Sodium iodide",
+   "molwt": "149.894",
+   "formula": "NaI"
+ },
+ {
+   "Number": 72,
+   "name": "Sodium oxide",
+   "molwt": "61.9789",
+   "formula": "Na2O"
+ },
+ {
+   "Number": 73,
+   "name": "Sodium sulfide",
+   "molwt": "78.0452",
+   "formula": "Na2S"
+ },
+ {
+   "Number": 74,
+   "name": "Sucrose",
+   "molwt": "342.30",
+   "formula": "C12H22O11"
+ },
+ {
+   "Number": 75,
+   "name": "Zinc nitrate",
+   "molwt": "189.388",
+   "formula": "Zn(NO3)2"
+ },
+ {
+   "Number": 76,
+   "name": "Aluminium Sulfate",
+   "molwt": "342.15",
+   "formula": "Al2(SO4)3"
+ },
+ {
+   "Number": 77,
+   "name": "Phenolphthalein",
+   "molwt": "318.32",
+   "formula": "C20H14O4"
+ },
+ {
+   "Number": 78,
+   "name": "Magnesium nitrate",
+   "molwt": "148.313",
+   "formula": "Mg(NO3)2"
+ },
+ {
+   "Number": 79,
+   "name": "Silicon dioxide",
+   "molwt": "60.083",
+   "formula": "SiO2"
+ },
+ {
+   "Number": 80,
+   "name": "Acetone",
+   "molwt": "58.08",
+   "formula": "C3H6O"
+ },
+ {
+   "Number": 81,
+   "name": "Hydroquinone",
+   "molwt": "110.11",
+   "formula": "C6H6O2"
+ },
+ {
+   "Number": 82,
+   "name": "Pyridine",
+   "molwt": "79.1",
+   "formula": "C5H5N"
+ },
+ {
+   "Number": 83,
+   "name": "Ammonium acetate",
+   "molwt": "77.083",
+   "formula": "C2H3O2NH4"
+ },
+ {
+   "Number": 84,
+   "name": "Xylene",
+   "molwt": "106.16",
+   "formula": "C8H10"
+ },
+ {
+   "Number": 85,
+   "name": "Barium sulfate",
+   "molwt": "233.38",
+   "formula": "BaSO4"
+ },
+ {
+   "Number": 86,
+   "name": "Benzene",
+   "molwt": "78.11",
+   "formula": "C6H6"
+ },
+ {
+   "Number": 87,
+   "name": "Bicarbonate",
+   "molwt": "61.016",
+   "formula": "CHO3–"
+ },
+ {
+   "Number": 88,
+   "name": "Chromate",
+   "molwt": "15.992",
+   "formula": "CrO42-"
+ },
+ {
+   "Number": 89,
+   "name": "Methyl Ethyl Ketone",
+   "molwt": "72.107",
+   "formula": "C4H8O"
+ },
+ {
+   "Number": 90,
+   "name": "Cyanide",
+   "molwt": "26.02",
+   "formula": "CN−"
+ },
+ {
+   "Number": 91,
+   "name": "Trichloroacetic acid",
+   "molwt": "163.38",
+   "formula": "C2HCl3O2"
+ },
+ {
+   "Number": 92,
+   "name": "Magnesium sulfate",
+   "molwt": "120.361",
+   "formula": "MgSO4"
+ },
+ {
+   "Number": 93,
+   "name": "Methanol",
+   "molwt": "32.04",
+   "formula": "CH3OH"
+ },
+ {
+   "Number": 94,
+   "name": "Nitrogen dioxide",
+   "molwt": "46.0055",
+   "formula": "NO2"
+ },
+ {
+   "Number": 95,
+   "name": "Oxygen",
+   "molwt": "Atomic mass 15.999",
+   "formula": "O"
+ },
+ {
+   "Number": 96,
+   "name": "Methylene blue",
+   "molwt": "319.85",
+   "formula": "C16H18ClN3S"
+ },
+ {
+   "Number": 97,
+   "name": "Sodium sulfite",
+   "molwt": "126.043",
+   "formula": "Na2SO3"
+ },
+ {
+   "Number": 98,
+   "name": "Sulfur trioxide",
+   "molwt": "80.057",
+   "formula": "SO3"
+ },
+ {
+   "Number": 99,
+   "name": "Aluminum phosphate",
+   "molwt": "121.951",
+   "formula": "AlPO4"
+ },
+ {
+   "Number": 100,
+   "name": "Stearic acid",
+   "molwt": "284.484",
+   "formula": "C18H36O2"
+ },
+ {
+   "Number": 101,
+   "name": "Dinitrogen monoxide",
+   "molwt": "44.013",
+   "formula": "N2O"
+ },
+ {
+   "Number": 102,
+   "name": "Carbon monoxide",
+   "molwt": "28.01",
+   "formula": "CO"
+ },
+ {
+   "Number": 103,
+   "name": "Carbonic acid",
+   "molwt": "62.03",
+   "formula": "H2CO3"
+ },
+ {
+   "Number": 104,
+   "name": "Sodium carbonate",
+   "molwt": "105.9888",
+   "formula": "Na2CO3"
+ },
+ {
+   "Number": 105,
+   "name": "Titanium dioxide",
+   "molwt": "233.38",
+   "formula": "TiO2"
+ },
+ {
+   "Number": 106,
+   "name": "Acetonitrile",
+   "molwt": "41.053",
+   "formula": "C2H3N"
+ },
+ {
+   "Number": 107,
+   "name": "Oxalic acid",
+   "molwt": "90.03",
+   "formula": "H2C2O4"
+ },
+ {
+   "Number": 108,
+   "name": "Potassium dichromate",
+   "molwt": "294.185",
+   "formula": "K2Cr2O7"
+ },
+ {
+   "Number": 109,
+   "name": "Salicylic acid",
+   "molwt": "138.121",
+   "formula": "C7H6O3"
+ },
+ {
+   "Number": 110,
+   "name": "Sodium bromide",
+   "molwt": "102.894",
+   "formula": "NaBr"
+ },
+ {
+   "Number": 111,
+   "name": "Sodium hypochlorite",
+   "molwt": "74.439",
+   "formula": "NaClO"
+ },
+ {
+   "Number": 112,
+   "name": "Zinc acetate",
+   "molwt": "183.48",
+   "formula": "Zn(CH3COO)2(H2O)2"
+ },
+ {
+   "Number": 113,
+   "name": "Zinc chloride",
+   "molwt": "136.286",
+   "formula": "ZnCl2"
+ },
+ {
+   "Number": 114,
+   "name": "Zinc hydroxide",
+   "molwt": "99.424",
+   "formula": "Zn(OH)2"
+ },
+ {
+   "Number": 115,
+   "name": "Magnesium carbonate",
+   "molwt": "84.313",
+   "formula": "MgCO3"
+ },
+ {
+   "Number": 116,
+   "name": "Potassium chlorate",
+   "molwt": "122.545",
+   "formula": "KClO3"
+ },
+ {
+   "Number": 117,
+   "name": "Hydrazine",
+   "molwt": "32.0452",
+   "formula": "N2H4"
+ },
+ {
+   "Number": 118,
+   "name": "Ascorbic acid",
+   "molwt": "176.12",
+   "formula": "C6H8O6"
+ },
+ {
+   "Number": 119,
+   "name": "Benzoic acid",
+   "molwt": "122.12",
+   "formula": "C7H6O2"
+ },
+ {
+   "Number": 120,
+   "name": "Resorcinol",
+   "molwt": "110.1",
+   "formula": "C6H6O2"
+ },
+ {
+   "Number": 121,
+   "name": "Chlorine",
+   "molwt": "‎70.9",
+   "formula": "Cl2"
+ },
+ {
+   "Number": 122,
+   "name": "Ammonium nitrate",
+   "molwt": "80.043",
+   "formula": "NH4NO3"
+ },
+ {
+   "Number": 123,
+   "name": "Ammonium phosphate",
+   "molwt": "132.056",
+   "formula": "(NH4)3PO4"
+ },
+ {
+   "Number": 124,
+   "name": "Carbon tetrachloride",
+   "molwt": "153.82",
+   "formula": "CCl4"
+ },
+ {
+   "Number": 125,
+   "name": "Nitrous acid",
+   "molwt": "47.013",
+   "formula": "HNO2"
+ },
+ {
+   "Number": 126,
+   "name": "Maleic acid",
+   "molwt": "116.072",
+   "formula": "C4H4O4"
+ },
+ {
+   "Number": 129,
+   "name": "Sodium metabisulfite",
+   "molwt": "190.107",
+   "formula": "Na2S2O5"
+ },
+ {
+   "Number": 130,
+   "name": "Sodium Hypochlorite",
+   "molwt": "74.439",
+   "formula": "NaClO"
+ },
+ {
+   "Number": 131,
+   "name": "Acetamide",
+   "molwt": "59.068",
+   "formula": "C2H5NO"
+ },
+ {
+   "Number": 132,
+   "name": "Magnesium carbonate",
+   "molwt": "84.3139",
+   "formula": "MgCO3"
+ },
+ {
+   "Number": 133,
+   "name": "Sodium silicate",
+   "molwt": "122.062",
+   "formula": "(Na2O)x·SiO2"
+ },
+ {
+   "Number": 134,
+   "name": "Nitrite",
+   "molwt": "46.005",
+   "formula": "NO2−"
+ },
+ {
+   "Number": 135,
+   "name": "Hydroxide",
+   "molwt": "17.007",
+   "formula": "OH−"
+ },
+ {
+   "Number": 136,
+   "name": "Phosphate",
+   "molwt": "94.9714",
+   "formula": "PO43-"
+ },
+ {
+   "Number": 137,
+   "name": "Dichloromethane",
+   "molwt": "84.93",
+   "formula": "CH2Cl2"
+ },
+ {
+   "Number": 138,
+   "name": "Carbon Disulfide",
+   "molwt": "76.13",
+   "formula": "CS2"
+ },
+ {
+   "Number": 139,
+   "name": "Potassium chromate",
+   "molwt": "194.189",
+   "formula": "CrK2O4"
+ },
+ {
+   "Number": 140,
+   "name": "Zinc sulfate",
+   "molwt": "161.436",
+   "formula": "ZnSO4"
+ },
+ {
+   "Number": 141,
+   "name": "Iodine",
+   "molwt": "Atomic mass 126.90",
+   "formula": "I"
+ },
+ {
+   "Number": 142,
+   "name": "Tannic acid",
+   "molwt": "1701.19",
+   "formula": "C76H52O46"
+ },
+ {
+   "Number": 143,
+   "name": "Aluminum",
+   "molwt": "26.982",
+   "formula": "Al"
+ },
+ {
+   "Number": 144,
+   "name": "Perchloric acid",
+   "molwt": "100.46",
+   "formula": "HClO4"
+ },
+ {
+   "Number": 145,
+   "name": "Hypochlorite",
+   "molwt": "51.449",
+   "formula": "ClO–"
+ },
+ {
+   "Number": 146,
+   "name": "Citric acid",
+   "molwt": "192.124",
+   "formula": "C6H8O7"
+ },
+ {
+   "Number": 147,
+   "name": "Potassium Bromide",
+   "molwt": "119.002",
+   "formula": "KBr"
+ },
+ {
+   "Number": 148,
+   "name": "Chromic acid",
+   "molwt": "118.01",
+   "formula": "H2CrO4"
+ },
+ {
+   "Number": 149,
+   "name": "Dihydrogen monoxide",
+   "molwt": "18.01528",
+   "formula": "OH2"
+ },
+ {
+   "Number": 150,
+   "name": "Methyl acetate",
+   "molwt": "74.079",
+   "formula": "C3H6O2"
+ },
+ {
+   "Number": 151,
+   "name": "Dimethyl sulfoxide",
+   "molwt": "78.13",
+   "formula": "C2H6OS"
+ },
+ {
+   "Number": 152,
+   "name": "Hexane",
+   "molwt": "86.18",
+   "formula": "C6H14"
+ },
+ {
+   "Number": 153,
+   "name": "Phosphoric acid",
+   "molwt": "97.994",
+   "formula": "H3PO4"
+ },
+ {
+   "Number": 154,
+   "name": "Eugenol",
+   "molwt": "164.2",
+   "formula": "C10H12O2"
+ },
+ {
+   "Number": 155,
+   "name": "Manganese dioxide",
+   "molwt": "86.9368",
+   "formula": "MnO2"
+ },
+ {
+   "Number": 156,
+   "name": "Dimethyl sulfoxide",
+   "molwt": "78.13",
+   "formula": "C2H6OS"
+ },
+ {
+   "Number": 157,
+   "name": "Lactic acid",
+   "molwt": "90.078",
+   "formula": "C3H6O3"
+ },
+ {
+   "Number": 158,
+   "name": "Sodium potassium tartrate",
+   "molwt": "282.1",
+   "formula": "C4H4O6KNa·4H2O"
+ },
+ {
+   "Number": 159,
+   "name": "Hexamine",
+   "molwt": "140.186",
+   "formula": "C6H12N4"
+ },
+ {
+   "Number": 160,
+   "name": "Lithium hydroxide",
+   "molwt": "23.95",
+   "formula": "LiOH"
+ },
+ {
+   "Number": 161,
+   "name": "Dimethyl sulfoxide",
+   "molwt": "78.13",
+   "formula": "C2H6OS"
+ },
+ {
+   "Number": 162,
+   "name": "Phosphorus pentachloride",
+   "molwt": "208.24",
+   "formula": "PCl5"
+ },
+ {
+   "Number": 163,
+   "name": "Potassium oxide",
+   "molwt": "94.2",
+   "formula": "K2O"
+ },
+ {
+   "Number": 164,
+   "name": "Potassium phosphate",
+   "molwt": "136.084",
+   "formula": "KH2PO4"
+ },
+ {
+   "Number": 165,
+   "name": "Silver acetate",
+   "molwt": "166.91",
+   "formula": "AgC2H3O2"
+ },
+ {
+   "Number": 166,
+   "name": "Sodium citrate",
+   "molwt": "258.06",
+   "formula": "Na3C6H5O7"
+ },
+ {
+   "Number": 167,
+   "name": "Sodium fluoride",
+   "molwt": "41.98817",
+   "formula": "NaF"
+ },
+ {
+   "Number": 168,
+   "name": "Sodium nitrite",
+   "molwt": "68.9953",
+   "formula": "NaNO2"
+ },
+ {
+   "Number": 169,
+   "name": "Sulfate ion",
+   "molwt": "96.06",
+   "formula": "SO42−"
+ },
+ {
+   "Number": 170,
+   "name": "Barium carbonate",
+   "molwt": "197.34",
+   "formula": "BaCO3"
+ },
+ {
+   "Number": 171,
+   "name": "Calcium iodide",
+   "molwt": "293.887",
+   "formula": "CaI2"
+ },
+ {
+   "Number": 172,
+   "name": "Hydrogen sulfate",
+   "molwt": "97.064",
+   "formula": "HSO4–"
+ },
+ {
+   "Number": 173,
+   "name": "Lithium oxide",
+   "molwt": "29.88",
+   "formula": "Li2O"
+ },
+ {
+   "Number": 174,
+   "name": "Dimethylglyoxime",
+   "molwt": "116.12",
+   "formula": "C4H8N2O2"
+ },
+ {
+   "Number": 175,
+   "name": "Permanganate",
+   "molwt": "158.034",
+   "formula": "KMnO4"
+ },
+ {
+   "Number": 176,
+   "name": "Silver phosphate",
+   "molwt": "418.58",
+   "formula": "Ag3PO4"
+ },
+ {
+   "Number": 177,
+   "name": "Sodium carbonate",
+   "molwt": "105.9888",
+   "formula": "Na2CO3"
+ },
+ {
+   "Number": 178,
+   "name": "Ammonium bromide",
+   "molwt": "97.943",
+   "formula": "NH4Br"
+ },
+ {
+   "Number": 179,
+   "name": "Calcium phosphate",
+   "molwt": "310.18",
+   "formula": "Ca3(PO4)2"
+ },
+ {
+   "Number": 180,
+   "name": "Dichromate",
+   "molwt": "294.185",
+   "formula": "K2Cr2O7"
+ },
+ {
+   "Number": 181,
+   "name": "Aluminum sulfide",
+   "molwt": "150.158",
+   "formula": "Al2S3"
+ },
+ {
+   "Number": 182,
+   "name": "Ammonium carbonate",
+   "molwt": "96.086",
+   "formula": "(NH4)2CO3"
+ },
+ {
+   "Number": 183,
+   "name": "Barium chloride",
+   "molwt": "208.23",
+   "formula": "BaCl2"
+ },
+ {
+   "Number": 184,
+   "name": "Calcium nitrate",
+   "molwt": "164.088",
+   "formula": "Ca(NO3)2"
+ },
+ {
+   "Number": 185,
+   "name": "Hydroiodic acid",
+   "molwt": "127.91",
+   "formula": "HI"
+ },
+ {
+   "Number": 186,
+   "name": "Nitrogen monoxide",
+   "molwt": "30.006",
+   "formula": "NO"
+ },
+ {
+   "Number": 187,
+   "name": "Potassium carbonate",
+   "molwt": "138.205",
+   "formula": "K2CO3"
+ },
+ {
+   "Number": 188,
+   "name": "Potassium iodide",
+   "molwt": "166.0028",
+   "formula": "KI"
+ },
+ {
+   "Number": 189,
+   "name": "Potassium nitrate",
+   "molwt": "101.102",
+   "formula": "KNO3"
+ },
+ {
+   "Number": 190,
+   "name": "Sodium oxide",
+   "molwt": "61.9789",
+   "formula": "Na2O"
+ },
+ {
+   "Number": 191,
+   "name": "Fructose",
+   "molwt": "180.16",
+   "formula": "C6H12O6"
+ },
+ {
+   "Number": 192,
+   "name": "Magnesium iodide",
+   "molwt": "278.1139",
+   "formula": "MgI2"
+ },
+ {
+   "Number": 193,
+   "name": "Magnesium sulfide",
+   "molwt": "56.38",
+   "formula": "MgS"
+ },
+ {
+   "Number": 194,
+   "name": "Ozone",
+   "molwt": "48",
+   "formula": "O3"
+ },
+ {
+   "Number": 195,
+   "name": "Potassium cyanide",
+   "molwt": "65.12",
+   "formula": "KCN"
+ },
+ {
+   "Number": 196,
+   "name": "Silver oxide",
+   "molwt": "231.735",
+   "formula": "Ag2O"
+ },
+ {
+   "Number": 197,
+   "name": "Sodium chromate",
+   "molwt": "161.97",
+   "formula": "Na2CrO4"
+ },
+ {
+   "Number": 198,
+   "name": "Sodium peroxide",
+   "molwt": "77.98",
+   "formula": "Na2O2"
+ },
+ {
+   "Number": 199,
+   "name": "Toluene",
+   "molwt": "92.14",
+   "formula": "C7H8"
+ },
+ {
+   "Number": 200,
+   "name": "Zinc carbonate",
+   "molwt": "125.388",
+   "formula": "ZnCO3"
+ },
+ {
+   "Number": 201,
+   "name": "Zinc phosphate",
+   "molwt": "386.11",
+   "formula": "Zn3(PO4)2"
+ },
+ {
+   "Number": 202,
+   "name": "Zinc sulfide",
+   "molwt": "97.474",
+   "formula": "ZnS"
+ },
+ {
+   "Number": 203,
+   "name": "Para dichlorobenzene",
+   "molwt": "147.01",
+   "formula": "C6H4Cl2"
+ },
+ {
+   "Number": 204,
+   "name": "Boric acid",
+   "molwt": "61.83",
+   "formula": "H3BO3"
+ },
+ {
+   "Number": 206,
+   "name": "Magnesium phosphate",
+   "molwt": "262.855",
+   "formula": "Mg3(PO4)2"
+ },
+ {
+   "Number": 207,
+   "name": "Oxalate",
+   "molwt": "‎88.018",
+   "formula": "C2O42−"
+ },
+ {
+   "Number": 208,
+   "name": "Potassium bicarbonate",
+   "molwt": "100.114",
+   "formula": "KHCO3"
+ },
+ {
+   "Number": 209,
+   "name": "Potassium hypochlorite",
+   "molwt": "90.55",
+   "formula": "KClO"
+ },
+ {
+   "Number": 210,
+   "name": "Potassium nitrite",
+   "molwt": "85.103",
+   "formula": "KNO2"
+ },
+ {
+   "Number": 211,
+   "name": "Bromothymol Blue",
+   "molwt": "624.384",
+   "formula": "C27H28Br2O5S"
+ },
+ {
+   "Number": 212,
+   "name": "Ammonium iodide",
+   "molwt": "144.94",
+   "formula": "NH4I"
+ },
+ {
+   "Number": 213,
+   "name": "Ammonium nitrate",
+   "molwt": "‎80.043",
+   "formula": "(NH4)(NO3)"
+ },
+ {
+   "Number": 214,
+   "name": "Ammonium nitrite",
+   "molwt": "64.06",
+   "formula": "NH4NO2"
+ },
+ {
+   "Number": 215,
+   "name": "Ammonium oxide",
+   "molwt": "52.0763",
+   "formula": "(NH4)2O"
+ },
+ {
+   "Number": 216,
+   "name": "Argon gas",
+   "molwt": "39.948",
+   "formula": "Ar"
+ },
+ {
+   "Number": 217,
+   "name": "Barium bromide",
+   "molwt": "297.14",
+   "formula": "BaBr2"
+ },
+ {
+   "Number": 218,
+   "name": "Barium iodide",
+   "molwt": "391.136",
+   "formula": "BaI2"
+ },
+ {
+   "Number": 219,
+   "name": "Bromate",
+   "molwt": "127.901",
+   "formula": "BrO3–"
+ },
+ {
+   "Number": 220,
+   "name": "Dinitrogen trioxide",
+   "molwt": "76.01",
+   "formula": "N2O3"
+ },
+ {
+   "Number": 221,
+   "name": "Ethylene glycol",
+   "molwt": "62.07",
+   "formula": "C2H6O2"
+ },
+ {
+   "Number": 222,
+   "name": "Hypochlorous acid",
+   "molwt": "52.46",
+   "formula": "HClO"
+ },
+ {
+   "Number": 223,
+   "name": "Nickel sulfate",
+   "molwt": "154.75",
+   "formula": "NiSO4"
+ },
+ {
+   "Number": 224,
+   "name": "Helium",
+   "molwt": "atomic mass ‎4.002602 u",
+   "formula": "He"
+ },
+ {
+   "Number": 225,
+   "name": "Iodide",
+   "molwt": "253.809",
+   "formula": "I"
+ },
+ {
+   "Number": 226,
+   "name": "Lead ii acetate",
+   "molwt": "‎325.29",
+   "formula": "Pb(C2H3O2)2"
+ },
+ {
+   "Number": 227,
+   "name": "Lithium chloride",
+   "molwt": "42.394",
+   "formula": "LiCl"
+ },
+ {
+   "Number": 228,
+   "name": "Phosphate ion",
+   "molwt": "94.9714",
+   "formula": "PO43-"
+ },
+ {
+   "Number": 229,
+   "name": "Potassium fluoride",
+   "molwt": "58.0967",
+   "formula": "KF"
+ },
+ {
+   "Number": 230,
+   "name": "Potassium sulfite",
+   "molwt": "158.26",
+   "formula": "K2SO3"
+ },
+ {
+   "Number": 231,
+   "name": "Silver carbonate",
+   "molwt": "275.7453",
+   "formula": "Ag2CO3"
+ },
+ {
+   "Number": 232,
+   "name": "Sodium cyanide",
+   "molwt": "49.0072",
+   "formula": "NaCN"
+ },
+ {
+   "Number": 233,
+   "name": "Sodium nitride",
+   "molwt": "82.976",
+   "formula": "Na3N"
+ },
+ {
+   "Number": 234,
+   "name": "Strontium chloride",
+   "molwt": "158.52",
+   "formula": "SrCl2"
+ },
+ {
+   "Number": 235,
+   "name": "Strontium nitrate",
+   "molwt": "211.628",
+   "formula": "Sr(NO3)2"
+ },
+ {
+   "Number": 236,
+   "name": "Urea",
+   "molwt": "‎60.056",
+   "formula": "CH4N2O"
+ },
+ {
+   "Number": 237,
+   "name": "Bleach",
+   "molwt": "‎74.439",
+   "formula": "NaClO"
+ },
+ {
+   "Number": 238,
+   "name": "Carbonic acid",
+   "molwt": "62.03",
+   "formula": "H2CO3"
+ },
+ {
+   "Number": 239,
+   "name": "Lithium bromide",
+   "molwt": "86.844",
+   "formula": "LiBr"
+ },
+ {
+   "Number": 240,
+   "name": "Aluminum fluoride",
+   "molwt": "83.9767",
+   "formula": "AlF3"
+ },
+ {
+   "Number": 241,
+   "name": "Barium fluoride",
+   "molwt": "175.34",
+   "formula": "BaF2"
+ },
+ {
+   "Number": 242,
+   "name": "Butanoic acid",
+   "molwt": "88.11",
+   "formula": "C4H8O2"
+ },
+ {
+   "Number": 243,
+   "name": "Calcium hydride",
+   "molwt": "42.094",
+   "formula": "CaH2"
+ },
+ {
+   "Number": 245,
+   "name": "Copper ii carbonate",
+   "molwt": "123.55",
+   "formula": "CuCO3"
+ },
+ {
+   "Number": 246,
+   "name": "Ethanol",
+   "molwt": "46.07",
+   "formula": "CH3CH2OH"
+ },
+ {
+   "Number": 247,
+   "name": "Fluorine",
+   "molwt": "18.998403 u",
+   "formula": "F"
+ },
+ {
+   "Number": 248,
+   "name": "Lithium phosphate",
+   "molwt": "115.79",
+   "formula": "Li3PO4"
+ },
+ {
+   "Number": 249,
+   "name": "Glycerol",
+   "molwt": "92.09382",
+   "formula": "C3H8O3"
+ },
+ {
+   "Number": 250,
+   "name": "Hypobromous acid",
+   "molwt": "96.911",
+   "formula": "HBrO"
+ },
+ {
+   "Number": 251,
+   "name": "Hypoiodous acid",
+   "molwt": "143.89",
+   "formula": "HIO"
+ },
+ {
+   "Number": 252,
+   "name": "Lead iodide",
+   "molwt": "461.01",
+   "formula": "PbI2"
+ },
+ {
+   "Number": 253,
+   "name": "Lithium iodide",
+   "molwt": "133.844",
+   "formula": "LiI"
+ },
+ {
+   "Number": 254,
+   "name": "Magnesium oxide",
+   "molwt": "40.3044",
+   "formula": "MgO"
+ },
+ {
+   "Number": 255,
+   "name": "Urethane",
+   "molwt": "89.09",
+   "formula": "C3H7NO2"
+ },
+ {
+   "Number": 256,
+   "name": "Nickel nitrate",
+   "molwt": "182.703",
+   "formula": "Ni(NO3)2"
+ },
+ {
+   "Number": 257,
+   "name": "Potassium chloride",
+   "molwt": "74.5513",
+   "formula": "KCl"
+ },
+ {
+   "Number": 258,
+   "name": "Potassium nitrate",
+   "molwt": "101.102",
+   "formula": "KNO3"
+ },
+ {
+   "Number": 259,
+   "name": "Sodium dichromate",
+   "molwt": "261.97",
+   "formula": "Na2Cr2O7"
+ },
+ {
+   "Number": 260,
+   "name": "Sodium nitrate",
+   "molwt": "84.994",
+   "formula": "NaNO3"
+ },
+ {
+   "Number": 261,
+   "name": "Tartaric acid",
+   "molwt": "150.087",
+   "formula": "C4H6O6"
+ },
+ {
+   "Number": 262,
+   "name": "Zinc iodide",
+   "molwt": "319.22",
+   "formula": "ZnI2"
+ },
+ {
+   "Number": 263,
+   "name": "Bromine",
+   "molwt": "54.9380",
+   "formula": "Br"
+ },
+ {
+   "Number": 264,
+   "name": "Aluminum bromide",
+   "molwt": "266.69",
+   "formula": "AlBr3"
+ },
+ {
+   "Number": 265,
+   "name": "Sodium Percarbonate",
+   "molwt": "157.01",
+   "formula": "C2H6Na4O12"
+ },
+ {
+   "Number": 267,
+   "name": "Nickel acetate",
+   "molwt": "178.797",
+   "formula": "C4H8O4Ni"
+ },
+ {
+   "Number": 268,
+   "name": "Sodium Thiosulfate",
+   "molwt": "158.11",
+   "formula": "Na2S2O3"
+ },
+ {
+   "Number": 269,
+   "name": "Acetaldehyde",
+   "molwt": "44.05",
+   "formula": "C2H4O"
+ },
+ {
+   "Number": 270,
+   "name": "Copper sulfate",
+   "molwt": "159.609",
+   "formula": "CuSO4"
+ },
+ {
+   "Number": 271,
+   "name": "Mannitol",
+   "molwt": "182.172",
+   "formula": "C6H14O6"
+ },
+ {
+   "Number": 272,
+   "name": "Calcium Chloride",
+   "molwt": "110.98",
+   "formula": "CaCl2"
+ },
+ {
+   "Number": 273,
+   "name": "Hydrocyanic acid",
+   "molwt": "27.0253",
+   "formula": "HCN"
+ },
+ {
+   "Number": 274,
+   "name": "Monosodium Glutamate",
+   "molwt": "169.111",
+   "formula": "C5H8NO4Na"
+ },
+ {
+   "Number": 275,
+   "name": "Polystyrene",
+   "molwt": "104.1",
+   "formula": "(C8H8)n"
+ },
+ {
+   "Number": 276,
+   "name": "Calcium Carbide",
+   "molwt": "64.099",
+   "formula": "CaC2"
+ },
+ {
+   "Number": 277,
+   "name": "Tetrachloroethylene",
+   "molwt": "165.83",
+   "formula": "C2Cl4"
+ },
+ {
+   "Number": 278,
+   "name": "Sodium Chlorate",
+   "molwt": "106.44",
+   "formula": "NaClO3"
+ },
+ {
+   "Number": 279,
+   "name": "Potassium Iodate",
+   "molwt": "214.001",
+   "formula": "KIO3"
+ },
+ {
+   "Number": 280,
+   "name": "Sodium Percarbonate",
+   "molwt": "157.01",
+   "formula": "C2H6Na4O12"
+ },
+ {
+   "Number": 281,
+   "name": "Lead Acetate",
+   "molwt": "325.29",
+   "formula": "Pb(C2H3O2)2"
+ },
+ {
+   "Number": 282,
+   "name": "Potassium Thiocyanate",
+   "molwt": "97.181",
+   "formula": "KSCN"
+ },
+ {
+   "Number": 283,
+   "name": "Butane",
+   "molwt": "58.12",
+   "formula": "C4H10"
+ },
+ {
+   "Number": 284,
+   "name": "Maltose",
+   "molwt": "342.3",
+   "formula": "C12H22O11"
+ },
+ {
+   "Number": 285,
+   "name": "Polyurethane Foam",
+   "molwt": "548.589",
+   "formula": "C27H36N2O10"
+ },
+ {
+   "Number": 286,
+   "name": "Formaldehyde",
+   "molwt": "30.031",
+   "formula": "CH2O"
+ },
+ {
+   "Number": 287,
+   "name": "Formic Acid",
+   "molwt": "46.03",
+   "formula": "HCOOH"
+ },
+ {
+   "Number": 288,
+   "name": "Sulfur Hexafluoride",
+   "molwt": "146.06",
+   "formula": "SF6"
+ },
+ {
+   "Number": 289,
+   "name": "Phosphorus Trichloride",
+   "molwt": "137.33",
+   "formula": "PCl3"
+ },
+ {
+   "Number": 290,
+   "name": "Ethane",
+   "molwt": "30.07",
+   "formula": "C2H6"
+ },
+ {
+   "Number": 291,
+   "name": "Dinitrogen Pentoxide",
+   "molwt": "30.07",
+   "formula": "N2O5"
+ },
+ {
+   "Number": 292,
+   "name": "Phosphorous Acid",
+   "molwt": "82",
+   "formula": "H3PO3"
+ },
+ {
+   "Number": 293,
+   "name": "Potassium Ferrocyanide",
+   "molwt": "368.35",
+   "formula": "K4Fe(CN)6"
+ },
+ {
+   "Number": 294,
+   "name": "Xenon Difluoride",
+   "molwt": "169.29",
+   "formula": "XeF2"
+ },
+ {
+   "Number": 295,
+   "name": "Diatomic Bromine",
+   "molwt": "159.808",
+   "formula": "Br2"
+ },
+ {
+   "Number": 296,
+   "name": "Phenyl",
+   "molwt": "77.106",
+   "formula": "C6H5"
+ },
+ {
+   "Number": 297,
+   "name": "Phosphorus Triiodide",
+   "molwt": "411.6872",
+   "formula": "PI3"
+ },
+ {
+   "Number": 298,
+   "name": "Peroxydisulfuric Acid",
+   "molwt": "194.14",
+   "formula": "H2S2O8"
+ },
+ {
+   "Number": 299,
+   "name": "Monopotassium Phosphate",
+   "molwt": "136.086",
+   "formula": "KH2PO4"
+ },
+ {
+   "Number": 300,
+   "name": "Dipotassium Phosphate",
+   "molwt": "174.2",
+   "formula": "K2HPO4"
+ },
+ {
+   "Number": 301,
+   "name": "Aluminium hydroxide",
+   "molwt": "78.00",
+   "formula": "Al(OH)3"
+ },
+ {
+   "Number": 302,
+   "name": "Ammonium persulfate",
+   "molwt": "228.18",
+   "formula": "(NH4)2S2O8"
+ },
+ {
+   "Number": 303,
+   "name": "Sodium borate",
+   "molwt": "201.22",
+   "formula": "Na2[B4O5(OH)4]·8H2O"
+ },
+ {
+   "Number": 304,
+   "name": "Chloroacetic acid",
+   "molwt": "94.49",
+   "formula": "C2H3O2Cl"
+ },
+ {
+   "Number": 305,
+   "name": "Potassium acetate",
+   "molwt": "98.142",
+   "formula": "CH3CO2K"
+ },
+ {
+   "Number": 306,
+   "name": "Barium oxide",
+   "molwt": "153.326",
+   "formula": "BaO"
+ },
+ {
+   "Number": 307,
+   "name": "Copper(I) Oxide",
+   "molwt": "143.09",
+   "formula": "Cu2O"
+ },
+ {
+   "Number": 308,
+   "name": "Lithium Bromide",
+   "molwt": "86.845",
+   "formula": "LiBr"
+ },
+ {
+   "Number": 309,
+   "name": "Copper Hydroxide",
+   "molwt": "97.561",
+   "formula": "Cu(OH)2"
+ },
+ {
+   "Number": 310,
+   "name": "Tin Oxide",
+   "molwt": "97.561",
+   "formula": "SnO2"
+ },
+ {
+   "Number": 311,
+   "name": "Chlorine Trifluoride",
+   "molwt": "92.448",
+   "formula": "ClF3"
+ },
+ {
+   "Number": 312,
+   "name": "Ethylene",
+   "molwt": "28.054",
+   "formula": "C2H4"
+ },
+ {
+   "Number": 313,
+   "name": "Acetylene",
+   "molwt": "26.038",
+   "formula": "C2H2"
+ },
+ {
+   "Number": 314,
+   "name": "Chromic Oxide",
+   "molwt": "151.9904",
+   "formula": "Cr2O3"
+ },
+ {
+   "Number": 315,
+   "name": "Sodium bisulfate",
+   "molwt": "120.06",
+   "formula": "NaHSO4"
+ },
+ {
+   "Number": 316,
+   "name": "Copper (II) chloride",
+   "molwt": "134.45",
+   "formula": "CuCl2"
+ },
+ {
+   "Number": 317,
+   "name": "Mercuric chloride",
+   "molwt": "271.52",
+   "formula": "HgCl2"
+ },
+ {
+   "Number": 318,
+   "name": "Tin (II) chloride",
+   "molwt": "189.60",
+   "formula": "SnCl2"
+ },
+ {
+   "Number": 319,
+   "name": "Propane",
+   "molwt": "44.097",
+   "formula": "C3H8"
+ },
+ {
+   "Number": 320,
+   "name": "Lead (IV) oxide",
+   "molwt": "239.1988",
+   "formula": "PbO2"
+ }
+]
