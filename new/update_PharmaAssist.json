@@ -1,14 +1,16 @@
 {
-  "latestVersion": "4.2.1",
-  "latestVersionCode": 68,
+  "latestVersion": "5.0",
+  "latestVersionCode": 70,
   "url": "https://chinmayjk97.github.io/PharmaAssist/download",
-  "directdownloadurl":"https://github.com/chinmayjk97/wallpaper-json/releases/download/v4.2.1/PharmaAssist.apk",
+  "directdownloadurl":"https://github.com/chinmayjk97/wallpaper-json/releases/download/v5.0/PharmaAssist.apk",
   "releaseNotes": [
-    "	- Added Chat feature to help each other !",
-    "	- Added Checklist Screen to keep a track of important topics for GPAT exam ;) ",
-    "	- More Questions! Added Test option in Notification Section ! ",
-    "	- Now you can donate us through UPI from support us section.",
-    "	- Updated Internal Files.",
+    "	- New! Added Interview Section to gear you up for Placement-Drive.",
+    "	- New! Added Reaction Tools to work with NMR and IR values. Check it out ;) ",
+    "	- New! Main Screen Redesigned and Navigation Drawer accessible from on all screens. ",
+    "	- App Now Supports Both Light and Dark Themes. Apply it from settings.",
+    "	- New! App is now translated in हिन्दी and मराठी . ",
+    "	- App size reduced."
+    "	- Updated internal files."
     "	- Bugs Fixed."
   ]
 }
